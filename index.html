@@ -1,0 +1,20 @@
+---
+layout: default
+title: /dev/null
+---
+
+<div id="home">
+  	<blockquote>
+  		<p>On Software, life and everything in-between</p>
+  	</blockquote>
+
+  	<ul class="list-unstyled">
+    	{% for post in site.posts %}
+      		<li>
+      			<a href="{{ post.url }}" class="lead">{{ post.title }}</a><br>
+      			<small class="text-muted">{{ post.date | date_to_string }}</small> 
+      			{{ post.excerpt }}
+      		</li>
+    	{% endfor %}
+  	</ul>
+</div>

@@ -1,0 +1,58 @@
+@font-face 
+{
+	font-family: "AvenirNextLTW02-Regular";
+  	src: url("../fonts/7a1b7ae7-5c29-481f-83ac-652e932c5509.eot?#iefix") format("eot"), 
+  	url("../fonts/3a42a252-67ff-4186-88cf-762f56719ca1.woff") format("woff"), 
+  	url("../fonts/dbc39ae3-2636-4653-a23e-8938bce2cf51.ttf") format("truetype"), 
+  	url("../fonts/8e46b6cb-85f2-4400-a9d8-7cbd8ed30dd8.svg#8e46b6cb-85f2-4400-a9d8-7cbd8ed30dd8") format("svg");
+}
+
+body
+{
+	color: #444444;
+    font-family: 'AvenirNextLTW02-Regular';
+    width: 100%;
+    min-width:320px;
+    font-size: 15px;
+}
+h2,h3,h6,h4
+{
+    color: #666666;
+    font-family: 'AvenirNextLTW02-Regular';
+    margin: 0;
+    padding: 0;
+}
+h3
+{
+    color: #999999;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+header
+{
+	line-height: 50px;
+	min-height: 50px;
+	width: 100%;
+	background:#1E8CBE;
+	/*border-bottom:1px solid #066190;*/
+	color:#FFFFFF;
+	padding:0 10px;
+	-moz-box-sizing:border-box;
+    box-sizing:border-box;
+    margin-bottom: 30px;
+    z-index: 999999;
+	
+}
+header a,header a:hover
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.sticky
+{
+    border-right: solid 1px #CCC;
+    position: fixed;
+    width: 300px;
+}
