@@ -5,7 +5,8 @@ date:   2014-05-10 10:51:14
 categories: birthday
 ---
 So yesterday, May 9th, was my birthday and my good people at work made it really special.
-Below are some of the nerdiest messages that I got.
+Below are some of the nerdiest messages that I got. I just love my folks. They know how to make me smile.
+Enjoy.
 
 Tega
 {% highlight java %}
