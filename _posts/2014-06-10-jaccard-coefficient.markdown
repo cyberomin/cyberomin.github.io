@@ -50,6 +50,18 @@ similarity = jaccard.similarity()
 print similarity
 {% endhighlight %}
 
+<p>
+	From the class above, I decided to break down into tiny bits - functions/methods.<br><br>
+
+	We are using two sentences here for our test.<br>
+	1. We tokenize each sentence. We basically made them into sets.<br>
+	2. We calculate the intesection of these sentences.<br>
+	3. We calculate the union of the sentences.<br>
+	4. We calculate the similarity which is basically the division of the intersection of both sets by its union.<br>
+
+	Simple right? Jaccard only needs two variables, the union and intersection of both sets.
+</p>
+
 <p>Similarity ranges between 1 and 0. Anything outside that is probably wrong :-).</p>
 
 Why should you care?
