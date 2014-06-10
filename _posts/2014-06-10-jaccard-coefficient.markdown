@@ -54,10 +54,16 @@ print similarity
 
 Why should you care?
 <ul>
-	<li>Ecommerce companies uses Jaccard Similarity to recommend items and deals to customer based on the purchases made by other customers. <em>(Disclaimer - I work for an eCommerce company)</em></li>
-
-	<li>This algorithm can be used to detect plagiarism.</li>
-
-	<li>Similar comments in an online forum can be grouped together.</li>
-	<li>Search engines use this same algorithm to group and sometimes discard similar search results.</li>
+	<li>
+		Ecommerce companies uses Jaccard Similarity to recommend items and deals to customer based on the purchases made by other customers. <em>(Disclaimer - I work for an eCommerce company)</em>
+	</li>
+	<li>
+		This algorithm can be used to detect plagiarism.
+	</li>
+	<li>
+		Similar comments in an online forum can be grouped together.
+	</li>
+	<li>
+		Search engines use this same algorithm to group and sometimes discard similar search results.
+	</li>
 </ul>
