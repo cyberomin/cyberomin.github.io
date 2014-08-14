@@ -24,12 +24,10 @@ help me convert with ease from one base to the other. I have decided to start wi
 I whiped out an algorithm in Python to solve this problem -
 
 {% highlight python %}
-from __future__ import division
-
 def remainderDiv(number):
     return number // 2, number % 2
 
-def divideBy2(number):
+def binaryConvet(number):
     remStack = []
     i = number
     while i > 0:
@@ -41,3 +39,12 @@ def divideBy2(number):
     return remStack
 
 {% endhighlight %}
+
+I basically wrote two functions for abstraction sake. <code>remainderDiv</code> does two things.
+Get a number, perfom an integer division and modulus on the number. 
+
+The second function <code>binaryConvet</code> takes a number and calls <code>remainderDiv</code> iteratively
+to and it stores the remainder in a list. After the iteration is complete, I do a reversal on the list. With that,
+I have my own home grown binary converter :-).
+
+Thank you for reading.
