@@ -7,7 +7,7 @@ categories: technology startups predictions
 <p>
 So, 2014 has come and gone and the year will forever hold a special place in our hearts.
 In 2014, we saw an explosion in wearable technologies: watches, fitness tracker and motion sensor.
-Companies like FitBit and Jawbone made giant leaps in these areas with the introduction of their fitness bands. Samsung, LG, Apple and her ilks made good on smart watches. Google scooped Nest, the home themostat makes in a deal worth well over $3B. Google also solidified its position with Glass.
+Companies like FitBit and Jawbone made giant leaps in these areas with the introduction of their fitness bands. Samsung, LG, Apple and her ilks made good on smart watches. Google scooped Nest, the home thermostat maker in a deal worth well over $3B. Google also solidified its position with Glass.
 </p>
 
 
@@ -62,12 +62,12 @@ Female tech powerhouse like Sheryll Sandberg are already leading the cause.
 
 <p>In the local scene here, a lot has been seen in the consumer Internet space.
 
-ECommerce companies across different verticals seems to have had it smooth last year, from hotel booking, deal site, marketplaces, mobile money, etc.
+eCommerce companies across different verticals seems to have had it smooth last year, from hotel booking, deal site, marketplaces, mobile money, etc.
 
 With the entrants of PayPal and Uber, one can really hope for the best.
 The coming of these companies is a testament to the fact that our market is grown and a validation of what we have to offer.
 
-Konga and Jumia seems to be the breakaway success in the ecommerce space. 
+Konga and Jumia seems to be the breakaway success in the eCommerce space. 
 
 Both companies raising over $100M cumulatively and employing over 1,500 persons between them.
 
