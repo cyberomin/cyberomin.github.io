@@ -7,7 +7,7 @@ categories: technology startups predictions
 <p>
 So, 2014 has come and gone and the year will forever hold a special place in our hearts.
 In 2014, we saw an explosion in wearable technologies: watches, fitness tracker and motion sensor.
-Companies like FitBit and Jawbone made giant leaps in these areas with the introduction of their fitness bands. Samsung, LG, Apple and her ilks made good on smart watches. Google scooped Nest, the home themostat makes in a deal woth well over $3B. Google also solidified its position with Glass.
+Companies like FitBit and Jawbone made giant leaps in these areas with the introduction of their fitness bands. Samsung, LG, Apple and her ilks made good on smart watches. Google scooped Nest, the home themostat makes in a deal worth well over $3B. Google also solidified its position with Glass.
 </p>
 
 
