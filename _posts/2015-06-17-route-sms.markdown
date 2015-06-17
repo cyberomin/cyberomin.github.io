@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "RouteSMS over HTTP"
+date:   2015-06-17 05:30:00
+categories: routesms
+---
+<p>
+If you have ever worked with RouteSMS HTTP API, I am sure you probably have ran into this same issue.
+About 5 months ago, my company, <a href="http://konga.com">Konga</a> made the move to consolidate its 
+messaging needs. This move was neccessary as different project had common needs and SMS notification was part of it. SMS notification is at the core of Konga.
+</p>
+
+<p> As a member of the team that was saddled with the responsibility of building a consolidated messaging/notification system, part of my responsiblity was working on the SMS segment of the project. </p>
+
+<p>We use RouteSMS, but unfortunately, RouteSMS does not have any official library for its API.
+This became aparent after spending a couple of hours googling for a suitable library.</p>
+
+<p>I took it upon myself to write a simple library that will easy my pain of communicating with 
+their API. Today, I making this public with the hope that someone else will find this usefull
+</p>
+<p>Here is the GitHub repo for the library - <a href="https://github.com/cyberomin/RouteSMS">
+https://github.com/cyberomin/RouteSMS</a>
