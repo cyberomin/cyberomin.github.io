@@ -20,5 +20,5 @@ https://github.com/cyberomin/RouteSMS</a></p>
 
 <p>
 	PS: RouteSMS is an awesome company and I love their services. They are one of the most proactive companies I know.
-	<em>This is an advert.</em>
+	<br/><em>This is <strong>NOT</strong> an advert.</em>
 </p>

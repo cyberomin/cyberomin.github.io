@@ -1,4 +1,53 @@
-name: Celestine Omin - /dev/null
+# Build settings
 markdown: redcarpet
-pygments: true
-comments: true
+highlighter: pygments
+  
+# Site settings
+title: "Celestine Omin"
+description: > # this means to ignore newlines until "email:"
+   On Software, life and everything in-between
+
+email: celestineomin@gmail.com
+#blog logo
+logo: "/assets/images/author.jpg"
+# blog cover
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+
+name: 'Celestine Omin'
+author: 'Celestine Omin'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "http://cyberomin.github.io" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/cyberomin
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/cyberomin
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:

@@ -1,68 +1,25 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
+<!DOCTYPE html>
+<html>
 
-  	<title>Celestine Omin &mdash; {{ page.title }}</title>
-  	<meta name="description" content="Celestine Omin - Software Engineer | Tech Aficionado | Speaker">
-  	<meta name="author" content="Celestine Omin">
+  {% include head.html %}
 
-  	<link rel="stylesheet" href="/css/bootstrap.min.css">
-  	<link rel="stylesheet" href="/css/style.css">
-  	<link rel="stylesheet" href="/css/syntax.css">
+  <body>
 
-  	<!--[if lt IE 9]>
-  		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  	<![endif]-->
-</head>
+    {% include header.html %}
 
-<body>
-	<header>
-		<div class="container">
-			<a class="navbar-brand" href="/">
-	    		{{ site.name }}
-			</a>
-		</div>
-	</header>
-	<div class="container">
+    <!-- content start -->
 
-		<div class="col-md-4">
-			<div class="sticky">
-				I'm Celestine Omin.<br> I build for the web ... mobile someday.<br>
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
 
-				<br><br>
-				<h3>Around the Web</h3>
-				Twitter: <a href="http://twitter.com/cyberomin" target="_blank">@cyberomin</a><br>
-				GitHub: <a href="http://github.com/cyberomin" target="_blank">cyberomin</a><br>
-				LinkedIn: <a href="https://www.linkedin.com/profile/view?id=174791200" target="_blank">Celestine Omin</a>
+    <!-- content end -->
 
-				<br><br>
-				<h3>Opensource Projects</h3>
-				<a href="http://nsefinance.com/" target="_blank">NSEFinance</a>
+    {% include footer.html %}
+    {% include javascripts.html %}
 
-				<br><br>
-				<h3>Technologies</h3>
-				<span class="label label-info">GIT</span>
-				<span class="label label-info">Python</span>
-				<span class="label label-info">jQuery</span>
-				<span class="label label-info">Redis</span>
-				<span class="label label-info">Nginx</span>
-				<span class="label label-info">*nix</span>
-				<span class="label label-info">MySQL</span>
-				<span class="label label-info">PHP</span>
-				<span class="label label-info">RabbitMQ</span>
-				<span class="label label-info">Laravel</span>
-				<span class="label label-info">Yii</span>
+  </body>
 
-				<br><br>
-				<h3>Resume</h3>
-				<a href="https://www.dropbox.com/s/3mozqv0xp314x11/CelestineOminResume.pdf?dl=0" target="_blank">Resume</a>
-			</div>
-		</div>
-		<div class="col-md-8">
-
-			{{ content }}
-		</div>
-
-</body>
 </html>

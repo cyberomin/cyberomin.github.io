@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Redis - Memcache on Steroids!</title>
+  <meta name="description" content="On Software, life and everything in-between
+" />
+
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+  <link rel="canonical" href="http://cyberomin.github.io/redis/scaling/2014/05/05/redis-memcache-on-steroids.html">
+
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+<!--  <link rel="stylesheet" href=""> -->
+  <link rel="stylesheet" href="http://brick.a.ssl.fastly.net/Linux+Libertine:400,400i,700,700i/Open+Sans:400,400i,700,700i">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
+</head>
+
+  <body itemscope itemtype="http://schema.org/Article">
+    <!-- header start -->
+
+<a href="http://cyberomin.github.io" class="logo-readium"><span class="logo" style="background-image: url(/assets/images/author.jpg)"></span></a>
+
+<!-- header end -->
+
+    <main class="content" role="main">
+      <article class="post">
+        
+        <div class="noarticleimage">
+          <div class="post-meta">
+            <h1 class="post-title">Redis - Memcache on Steroids!</h1>
+            <div class="cf post-meta-text">
+              <div class="author-image" style="background-image: url(/assets/images/author.jpg)">Blog Logo</div>
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person"></h4>
+              on
+              <time datetime="2014-05-05T23:56:14+01:00">05 May 2014</time>
+              <!-- , tagged on <span class="post-tag-">, <a href="/tag/"></a></span> -->
+            </div>
+          </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        
+        <section class="post-content">
+          <div class="post-reading">
+            <span class="post-reading-time"></span> read
+          </div>
+          <a name="topofpage"></a>
+          <p>Redis - Redis is an open source, BSD licensed, advanced key-value store. Simple. I wouldn&#39;t bother you too much.
+Think about it as Memcached on steroids. Redis is &#39;insanely fast.&#39; - RAM is cheap these days.</p>
+
+<p>I've heard so many good things about this awesome systems, untill last two weeks I haven't done anything with it.
+I was recently assigned the task of adding a caching layer to one of our internal tools and my boss specifically asked
+I use Redis. I smiled at myself - alas, I'll play with Redis in production.</p>
+
+<p>Like I said earlier, Redis is a Key-Value store. Let's get our hands dirty.</p>
+
+<p>Setting and retrieving a value is straight forward.
+<pre>
+SET foo bar
+GET foo 
+<em>bar</em>
+</pre>
+</p>
+
+<p>It doesn&#39;t get any simpler</p>
+
+<p>If you need to delete this data, simply pass the key as an argument to DEL</p>
+
+<pre>DEL foo.</pre>
+
+<p>Redis has tons of commands. You can find all of them here - <a href='http://redis.com/commands'>http://redis.com/commands</a></p>
+
+<p>Since the bulk of the data I was going to be storing were timestamp bound it was important I work with a command
+that support ranges and a sorted set was the best option. There are tons of sorted set commands but <code>ZRANGEBYSCORE</code> was a perfect fit.</p>
+
+Task 1. Store users based on the date the registered on the site.
+
+<pre>
+ZADD <key> <date> <email>
+Retrieving is simple:
+
+ZRANGEBYSCORE <key> <min date> <max date>
+<key> - A key that uniquely identified this operation. Think of the key as a table in a RDBMS
+<min date> - Start date
+<max date> - End date
+</pre>
+
+<p>
+Live example:
+<pre>
+ZADD users 20131001 Celestine:Omin:smartone@example.com
+ZADD users 20131002 Mark:Cuban:smarttwo@example.com
+ZRANGEBYSCORE users 20131001 20131002
+<em>[Celestine:Omin:smartone@example.com, Mark:Cuban:smarttwo@example.com]</em>
+</pre>
+</p>
+
+<p>If I needed every single item in this without considering the date range, I could use</p>
+
+<pre>ZRANGEBYSCORE users -inf +inf</pre>
+
+<p>Where -inf and +inf are min and max respectively.
+<br><br>
+<em>P/S <code>ZRANGEBYSCORE</code> has a time complexity of O(log(N)+M) with N being the number of elements in the sorted set and M the number of elements being returned. If M is constant (e.g. always asking for the first 10 elements with LIMIT), you can consider it O(log(N)).</em></p>
+
+<p>Thank you.</p>
+
+
+          <p>I'll love to hear from you</p>
+  <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'cyberomin'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </div>
+  </div>
+  
+  <script src="/js/jquery.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
+
+  <script type="text/javascript">
+      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+      var disqus_shortname = 'cyberomin'; // required: replace example with your forum shortname
+
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function (){
+          var s = document.createElement('script'); s.async = true;
+          s.type = 'text/javascript';
+          s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+          (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+      }());
+    </script>
+
+        </section>
+        <footer class="post-footer">
+          <section class="share">
+            
+              
+                <a class="icon-twitter" href="http://twitter.com/share?text=Redis+-+Memcache+on+Steroids%21&amp;url=http://cyberomin.github.io/redis/scaling/2014/05/05/redis-memcache-on-steroids"
+                  onclick="window.open(this.href, 'twitter-share', 'width=550,height=255');return false;">
+                <i class="fa fa-twitter"></i><span class="hidden">twitter</span>
+                </a>
+              
+            
+              
+            
+          </section>
+        </footer>
+        <div class="bottom-teaser cf">
+          <div class="isLeft">
+            <h5 class="index-headline featured"><span>Written by</span></h5>
+            <section class="author">
+              <div class="author-image" style="background-image: url(/assets/images/author.jpg)">Blog Logo</div>
+              <h4>Celestine Omin</h4>
+              <p class="bio"></p>
+              <hr>
+              <p class="published">Published <time datetime="2014-05-05 23:56">05 May 2014</time></p>
+            </section>
+          </div>
+          
+          <div class="isRight">
+            <h5 class="index-headline featured"><span>Supported by</span></h5>
+            <footer class="site-footer">
+              <a class="subscribe" href="/feed.xml"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
+              <div class="inner">
+                <section class="copyright">&copy; 2015 All rights reserved.</section>
+              </div>
+            </footer>
+          </div>
+        </div>
+      </article>
+    </main>
+    <div class="bottom-closer">
+      <div class="background-closer-image"  style="background-image: url(/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg)">
+        Image
+      </div>
+      <div class="inner">
+        <h1 class="blog-title">Celestine Omin</h1>
+        <h2 class="blog-description">On Software, life and everything in-between
+</h2>
+        <a href="/" class="btn">Back to Overview</a>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="/assets/js/index.js"></script>
+<script type="text/javascript" src="/assets/js/readingTime.min.js"></script>
+<script>
+(function ($) {
+  "use strict";
+  $(document).ready(function(){
+
+    var $window = $(window),
+    $image = $('.post-image-image, .teaserimage-image');
+    
+      $window.on('scroll', function() {
+        var top = $window.scrollTop();
+
+        if (top < 0 || top > 1500) { return; }
+        $image
+          .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
+          .css('opacity', 1-Math.max(top/700, 0));
+      });
+      $window.trigger('scroll');
+
+      var height = $('.article-image').height();
+      $('.post-content').css('padding-top', height + 'px');
+
+      $('a[href*=#]:not([href=#])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+         && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+          if (target.length) {
+            $('html,body').animate({ scrollTop: target.offset().top }, 500);
+            return false;
+          }
+        }
+      });
+
+  });
+}(jQuery));
+</script>
+
+
+  </body>
+</html>
