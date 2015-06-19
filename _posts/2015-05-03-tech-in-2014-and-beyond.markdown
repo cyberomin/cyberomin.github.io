@@ -24,9 +24,9 @@ Even SnapChat. While some companies got a fore knowledge of what was to come, so
 In a Harvard Business Review feature article, the author had this to say <blockquote><p>"demand [for data scientists] has raced ahead of supply. Indeed, the shortage of data scientists is becoming a serious constraint in some sectors."</p> 
 <footer><cite title="Source Title">
 <a href="https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/">Harvard Business Review</a> - October, 2012.</cite></footer></blockquote>
-
-The World Economic Forum classifies data as an asset and places it in the same economic class of Gold and Crude.
 </p>
+
+<p>The World Economic Forum classifies data as an asset and places it in the same economic class of Gold and Crude.</p>
 
 <p>2014 could also pass as the year of the sharing economy, Uber,Lyft and AirBnB led the charge this year.
 
