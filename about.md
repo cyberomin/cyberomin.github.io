@@ -12,6 +12,6 @@ I speak at conferences and I am also a trainer.
 
 I am the maintainer of [NSEFinance](http://nsefinance.com), an official API for the Nigerian Stock Exchange.
 
-You can reach me via [email](mailto:celestineomin@gmailcom)
+You can reach me via [email](mailto:celestineomin@gmail.com)
 
 You can find out more about me from my [LinedIn profile](http://ng.linkedin.com/in/celestineomin)
