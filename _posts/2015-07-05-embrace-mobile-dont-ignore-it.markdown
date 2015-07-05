@@ -3,6 +3,7 @@ layout: post
 title:  "Embrace mobile. Don't ignore it."
 date:   2015-07-05 09:37:00
 categories: mobile
+description: Mobile is the future, scratch that. Mobile isn't the future, it is the primary screen. The above quote sounds all too familiar, it is now cliché. .
 ---
 <em>"Mobile is the future, scratch that. Mobile isn't the future, it is the primary screen."</em><br/>
 The above quote sounds all too familiar, it is now cliché. 
