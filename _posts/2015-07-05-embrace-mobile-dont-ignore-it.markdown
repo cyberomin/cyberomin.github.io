@@ -18,7 +18,7 @@ The above quote sounds all too familiar, it is now cliché.
 </p>
 </p>
 
-<p>I've always held this proposition close to mind but I haven't quite grappled with its scale until recently. One of the products I very much about is the Konga community. It is my baby. I popped open Google Analytics to see what was happening, I looked at every metrics and indicator available but one metric did catch my attention. Mobile. Mobile is killing it and it seems nothing can hold it back, not surprising though, but what particularly caught my attention was the fact that the mobile to desktop ratio was a staggering 63:38%. Now that's outstanding.<br/>
+<p>I've always held this proposition close to mind but I haven't quite grappled with its scale until recently. One of the products I very much about is the <a href="http://community.konga.com">Konga community</a>. It is my <em>baby</em>. I popped open Google Analytics to see what was happening, I looked at every metrics and indicator available but one metric did catch my attention. Mobile. Mobile is killing it and it seems nothing can hold it back, not surprising though, but what particularly caught my attention was the fact that the mobile to desktop ratio was a staggering 63:38%. Now that's outstanding.<br/>
 <p>
 	<center>
 	<img src="{{ site.url }}/assets/article_images/2015-07-05-embrace-mobile-dont-ignore-it/mobile_web.png"/>
