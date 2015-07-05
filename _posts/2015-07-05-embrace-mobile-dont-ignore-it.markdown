@@ -7,7 +7,7 @@ categories: mobile
 <em>"Mobile is the future, scratch that. Mobile isn't the future, it is the primary screen."</em><br/>
 The above quote sounds all too familiar, it is now cliché. 
 
-<p>In Africa, the millennial have leapfrogged the desktop paradigm straight to mobile. In a world where social media have been so woven into our social fabric, it is no surprise while these medium has become to important to be ignored. This, by no means isn't an African thing alone. It seems to be a recurring decimal in the emerging markets with countries like China, India and Brazil scoring 21%, 55% and 28% respectively in new smart phone subscription.</p>
+<p>In Africa, the millennial have leapfrogged the desktop paradigm straight to mobile. In a world where social media have been so woven into our social fabric, it is no surprise while these medium has become too important to be ignored. This, by no means, isn't an African thing alone. It seems to be a recurring decimal in the emerging markets with countries like China, India and Brazil scoring 21%, 55% and 28% respectively in new smart phone subscription.</p>
 
 <p>In May this year, Mary Meeker, a Morgan Stanley analyst turned venture capitalist at KPCB (Kleiner Perkins Caufield &amp; Byers), further underscored this phenomenon when she pointed out that Nigeria is the most Internet mobilized country in the world with a staggering 76% Internet mobility with India and China trialling behind her.
 <p>
@@ -18,7 +18,7 @@ The above quote sounds all too familiar, it is now cliché.
 </p>
 </p>
 
-<p>I've always held this proposition close to mind but I haven't quite grappled with its scale until recently. One of the products I very much about is the <a href="http://community.konga.com">Konga community</a>. It is my <em>baby</em>. I popped open Google Analytics to see what was happening, I looked at every metrics and indicator available but one metric did catch my attention. Mobile. Mobile is killing it and it seems nothing can hold it back, not surprising though, but what particularly caught my attention was the fact that the mobile to desktop ratio was a staggering 63:38%. Now that's outstanding.<br/>
+<p>I've always held this proposition close to mind but I haven't quite grappled with its scale until recently. One of the products I very much care about is the <a href="http://community.konga.com">Konga community</a>. It is my <em>baby</em>. I popped open Google Analytics to see what was happening, I looked at every metrics and indicator available but one metric did catch my attention. Mobile. Mobile is killing it and it seems nothing can hold it back, not surprising though, but what particularly caught my attention was the fact that the mobile to desktop ratio was a staggering 63:38%. Now that's outstanding.<br/>
 <p>
 	<center>
 	<img src="{{ site.url }}/assets/article_images/2015-07-05-embrace-mobile-dont-ignore-it/mobile_web.png"/>
