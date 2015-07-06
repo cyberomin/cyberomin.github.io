@@ -33,7 +33,7 @@ The above quote sounds all too familiar, it is now cliché.
 
 <p>Nigeria, according to <a href="https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users">Wikipedia</a> has well over 60M Internet users and the vast majority of these users are smart phone users. Going back to my earlier numbers with regards to the mobile to desktop ratio, it isn't any surprise while mobile reign supreme and will continue to do so.</p>
 
-<p>These numbers however, goes to show why mobile should be taken seriously. In Africa and other emerging market, mobile isn't desert. It is the main course</p>
+<p>These numbers however, goes to show why mobile should be taken seriously. In Africa and other emerging market, mobile isn't dessert. It is the main course</p>
 
 <p>
 	<h3>Consideration when building for mobile:</h3>
