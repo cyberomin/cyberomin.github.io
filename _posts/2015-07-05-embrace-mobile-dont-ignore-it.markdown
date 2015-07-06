@@ -42,7 +42,7 @@ The above quote sounds all too familiar, it is now cliché.
 
 		<li>Mobile data is still expensive. 1GB data bundle retails for about $15 with a 30 days validity. So the less graphics and videos your users will have to deal with, the better UX you will be providing.</li>
 
-		<li>Graceful degradation should be at the core of your product development. Asking users to choose a mobile view while using your your website just wouldn't cut it again. It should come naturally. Frameworks like Bootstrap and Foundation already handle the bulk of the work for you.</li>
+		<li>Graceful degradation should be at the core of your product development. Asking users to choose a mobile view while using your website just wouldn't cut it again. It should come naturally. Frameworks like Bootstrap and Foundation already handle the bulk of the work for you.</li>
 
 		<li>Keep the call to action simple. Less clicks means less frustration. On the community for instance, you only have to tap one single button in order to start a conversation.</li>
 

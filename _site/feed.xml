@@ -6,8 +6,8 @@
 </description>
     <link>http://cyberomin.github.io/</link>
     <atom:link href="http://cyberomin.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 06 Jul 2015 09:15:13 +0100</pubDate>
-    <lastBuildDate>Mon, 06 Jul 2015 09:15:13 +0100</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2015 09:20:34 +0100</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2015 09:20:34 +0100</lastBuildDate>
     <generator>Jekyll v2.0.3</generator>
     
       <item>
@@ -50,7 +50,7 @@ The above quote sounds all too familiar, it is now cliché. &lt;/p&gt;
 
         &lt;li&gt;Mobile data is still expensive. 1GB data bundle retails for about $15 with a 30 days validity. So the less graphics and videos your users will have to deal with, the better UX you will be providing.&lt;/li&gt;
 
-        &lt;li&gt;Graceful degradation should be at the core of your product development. Asking users to choose a mobile view while using your your website just wouldn't cut it again. It should come naturally. Frameworks like Bootstrap and Foundation already handle the bulk of the work for you.&lt;/li&gt;
+        &lt;li&gt;Graceful degradation should be at the core of your product development. Asking users to choose a mobile view while using your website just wouldn't cut it again. It should come naturally. Frameworks like Bootstrap and Foundation already handle the bulk of the work for you.&lt;/li&gt;
 
         &lt;li&gt;Keep the call to action simple. Less clicks means less frustration. On the community for instance, you only have to tap one single button in order to start a conversation.&lt;/li&gt;
 
