@@ -8,7 +8,7 @@ description: Mobile is the future, scratch that. Mobile isn't the future, it is 
 <em>"Mobile is the future, scratch that. Mobile isn't the future, it is the primary screen."</em><br/>
 The above quote sounds all too familiar, it is now cliché. 
 
-<p>In Africa, the millennial have leapfrogged the desktop paradigm straight to mobile. In a world where social media have been so woven into our social fabric, it is no surprise while these medium has become too important to be ignored. This, by no means, isn't an African thing alone. It seems to be a recurring decimal in the emerging markets with countries like China, India and Brazil scoring 21%, 55% and 28% respectively in new smart phone subscription.</p>
+<p>In Africa, the millennial have leapfrogged the desktop paradigm straight to mobile. In a world where social media have been so woven into our social fabric, it is no surprise why these medium has become too important to be ignored. This, by no means, isn't an African thing alone. It seems to be a recurring decimal in the emerging markets with countries like China, India and Brazil scoring 21%, 55% and 28% respectively in new smart phone subscription.</p>
 
 <p>In May this year, Mary Meeker, a Morgan Stanley analyst turned venture capitalist at KPCB (Kleiner Perkins Caufield &amp; Byers), further underscored this phenomenon when she pointed out that Nigeria is the most Internet mobilized country in the world with a staggering 76% Internet mobility with India and China trialling behind her.
 <p>
