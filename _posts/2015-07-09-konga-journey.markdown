@@ -8,13 +8,13 @@ I wouldn't forget it in a hurry. I still remember the excitement, the frenzy whi
 ---
 
 <p>Today, 3 years ago, konga.com went live. This day has been permanently etched in my memory.
-I wouldn't forget it in a hurry. I still remember the excitement, the frenzy while trying to deliver our first and probably only order for that day - July 10th, 2012. I still remember the customer's name(Kehinde LALEYE), even that of the delivery man(Moses GIMBA).</p>
+I wouldn't forget it in a hurry. I still remember the excitement, the frenzy while trying to deliver our first and probably only order for that day - July 10th, 2012. I still remember the customer's name(Kehinde LALEYE), even that of the delivery man(Moses GIMBA). The first order was a cosmetic product.</p>
 
 <p>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/6EATRiY19H0" frameborder="0" allowfullscreen></iframe>
 </p>
 
-<p>Those where the early days. No handbook to follow, no <em>"Operating eCommerce 101 in Nigeria"</em> course to take. The management just had to follow guts and instincts. We have made our own fare share of mistakes, we have also learnt from these mistakes. Back then, roles weren't that much of an issue. We all did everything. I mean everything. This, in itself isn't uncommon with startups.</p>
+<p>Those where the early days. No handbook to follow, no <em>"Operating eCommerce in Nigeria - 101"</em> course to take. The management just had to follow guts and instincts. We have made our own fare share of mistakes, we have also learnt from these mistakes. Back then, roles weren't that much of an issue. We all did everything. I mean everything. This, in itself isn't uncommon with startups.</p>
 
 <p>Having been here for 3yrs and watch this baby grow, I consider it a blessing. The feeling is surreal.
 I kind of have a sense of what fatherhood will feel like.</p>
