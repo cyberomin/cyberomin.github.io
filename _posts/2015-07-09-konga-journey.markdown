@@ -26,5 +26,5 @@ Happy birthday Konga.</p>
 
 
 <p>
-	<img src="{{ site.url }}/assets/article_images/konga-journey/konga.ng"/>
+	<img src="{{ site.url }}/assets/article_images/konga-journey/konga.png"/>
 </p>
