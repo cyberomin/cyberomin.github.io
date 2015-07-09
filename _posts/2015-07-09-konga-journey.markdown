@@ -28,3 +28,15 @@ Happy birthday Konga.</p>
 <p>
 	<img src="{{ site.url }}/assets/article_images/konga-journey/konga.png"/>
 </p>
+
+This was our coming soon page
+
+<p>
+	<img src="{{ site.url }}/assets/article_images/konga-journey/1.png"/>
+</p>
+
+This was what we launched with.
+
+<p>
+	<img src="{{ site.url }}/assets/article_images/konga-journey/2.png"/>
+</p>
