@@ -3,8 +3,8 @@ layout: post
 title:  "Konga, the journey so far"
 date:   2015-07-10 10:49:00
 categories: konga, startup
-description: Today, 3 years ago, konga.com went live. This day has been permanently etched in my memory.
-I wouldn't forget it in a hurry. I still remember the excitement, the frenzy while trying to deliver our first and probably only order for that day - July 10th, 2012. I still remember the customer's name(Kehinde LALEYE), even that of the delivery man(Moses GIMBA)..
+description: "Today, 3 years ago, konga.com went live. This day has been permanently etched in my memory.
+I wouldn't forget it in a hurry. I still remember the excitement, the frenzy while trying to deliver our first and probably only order for that day - July 10th, 2012. I still remember the customer's name(Kehinde LALEYE), even that of the delivery man(Moses GIMBA)"
 ---
 
 <p>Today, 3 years ago, konga.com went live. This day has been permanently etched in my memory.
