@@ -8,7 +8,7 @@ I wouldn't forget it in a hurry. I still remember the excitement, the frenzy whi
 ---
 
 <p>Today, 3 years ago, konga.com went live. This day has been permanently etched in my memory.
-I wouldn't forget it in a hurry. I still remember the excitement, the frenzy while trying to deliver our first and probably only order for that day - July 10th, 2012. I still remember the customer's name(Kehinde LALEYE), even that of the delivery man(Moses GIMBA). Kehinde's first order where beauty products (<em>Voluminizing Mascara -XXL Black Lash and Waterproof Ultratenue Kajal</em>) and that order came in at <strong>2:04:51 PM</strong>.</p>
+I wouldn't forget it in a hurry. I still remember the excitement, the frenzy while trying to deliver our first and probably only order for that day - July 10th, 2012. I still remember the customer's name(Kehinde LALEYE), even that of the delivery man(Moses GIMBA). Kehinde's first order were beauty products (<em>Voluminizing Mascara -XXL Black Lash and Waterproof Ultratenue Kajal</em>) and that order came in at <strong>2:04:51 PM</strong>.</p>
 
 <p>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/6EATRiY19H0" frameborder="0" allowfullscreen></iframe>
