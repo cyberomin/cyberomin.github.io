@@ -6,8 +6,8 @@
 </description>
     <link>http://cyberomin.github.io/</link>
     <atom:link href="http://cyberomin.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 22 Jul 2015 00:00:03 +0100</pubDate>
-    <lastBuildDate>Wed, 22 Jul 2015 00:00:03 +0100</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2015 00:39:09 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2015 00:39:09 +0100</lastBuildDate>
     <generator>Jekyll v2.0.3</generator>
     
       <item>
@@ -22,56 +22,56 @@ A group of people living in the same place or having a particular characteristic
 &lt;span class=&quot;text-muted&quot;&gt;&lt;em&gt;&amp;#8220;Konga has a healthy community&amp;#8221;&lt;/em&gt;&lt;/span&gt;
 &lt;/p&gt;
 
-&lt;p&gt;December last year, I took up the responsibility to build an online community forum for Konga&amp;#39;s over 12,000 merchants and customers. What really excited me about this project was that I had an opportunity to build a single channel that will consolidate all discussion needs for both our merchants and customers. I knew from the start that this was going a business redefining project.&lt;/p&gt;
+&lt;p&gt;December last year, I took up the responsibility to build an online &lt;a href=&quot;http://community.konga.com&quot; target=&quot;_blank&quot;&gt;community forum&lt;/a&gt; for Konga&amp;#39;s over 12,000 merchants and customers. What got me really excited about this project was the fact that I had an opportunity to build a seemless tool that will consolidate all discussion needs for both our merchants and customers. I knew from the start that this was going a business redefining project.&lt;/p&gt;
 
-&lt;p&gt;Community forum for marketplaces aren&amp;#39;t new &amp;mdash; &lt;a href=&quot;https://www.etsy.com/forums&quot;&gt;Etsy&lt;/a&gt;, &lt;a href=&quot;https://ecommerce.shopify.com/forums&quot;&gt;Shopify&lt;/a&gt;, &lt;a href=&quot;https://sellercentral.amazon.com/forums/index.jspa&quot;&gt;Amazon&lt;/a&gt; and &lt;a href=&quot;http://community.ebay.com/&quot;&gt;Ebay&lt;/a&gt; &amp;mdash; all run their own forum. Why is this a big deal? In this age of social media, managing communication and passing information to a large number of people in a well structured and controlled way becomes a huge challenge. While sending emails are great, responding to individual complaints based off those emails quickly becomes unwieldy. You will require an entire team to handle this task. A forum fills this void. It offers a consistent medium for sending across messages to a large number of people, both current and future users.&lt;/p&gt;
+&lt;p&gt;Community forum for marketplaces aren&amp;#39;t new &amp;mdash; &lt;a href=&quot;https://www.etsy.com/forums&quot; target=&quot;_blank&quot;&gt;Etsy&lt;/a&gt;, &lt;a href=&quot;https://ecommerce.shopify.com/forums&quot; target=&quot;_blank&quot;&gt;Shopify&lt;/a&gt;, &lt;a href=&quot;https://sellercentral.amazon.com/forums/index.jspa&quot; target=&quot;_blank&quot;&gt;Amazon&lt;/a&gt; and &lt;a href=&quot;http://community.ebay.com/&quot; target=&quot;_blank&quot;&gt;Ebay&lt;/a&gt; &amp;mdash; all run their own forum. Why is this a big deal? In this age of social media, managing communication and passing information to a large number of people in a well structured and controlled way becomes a huge challenge. While sending emails are great, responding to individual complaints based off those emails quickly becomes unwieldy. You will require an entire team to handle this task. A forum fills this void. It offers a consistent medium for sending across messages and receiving feedback from a large number of people.&lt;/p&gt;
 
-&lt;p&gt;Advantages of a community forum
-&lt;ul&gt;
-    &lt;li&gt;Moderation is a lot easier&lt;/li&gt;
-    &lt;li&gt;Consolidation of messages is easier&lt;/li&gt;
-&lt;/ul&gt;&lt;/p&gt;
+&lt;h1&gt;Advantages of a community forum&lt;/h1&gt;
+
+&lt;p&gt;Moderation is a lot easier&lt;br/&gt;
+Consolidation of messages is easier&lt;/p&gt;
 
 &lt;h1&gt;What we found out?&lt;/h1&gt;
 
 &lt;p&gt;Konga&amp;#39;s users, both merchants and customers had issues. A community forum was long overdue. The needed to be heard.
-Merchants and customers alike openly air their opinions, ask questions, find solutins to challenges faced by other merchants and customers and also profer solutions to other people&amp;#39;s problems. This platform, with almost no advertisement, took a life of its own.&lt;/p&gt;
+Merchants and customers openly air their opinions, ask questions, find solutins to challenges faced by other merchants and customers and they also profer solutions to other people&amp;#39;s problems. This platform, with almost no advertisement, took a life of its own.&lt;/p&gt;
 
 &lt;p&gt;When we launched self fulfil, one of the biggest request we got from merchants was a way to offer free delivery on an item(SKU) bases. Our initial plan and concept was to offer this feature on a store level, our assumption was wrong. The merchants quickly realized that this wasn&amp;#39;t going to work for them. They wanted a way to indicate what item was eligible for free shipping. They pushed hard for this feature. We listened to them and gave them what they wanted, 
 what happened next was rather remarkable, merchants daily orders shot up by approximately 300%.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://cyberomin.github.io/assets/article_images/communities/free-delivery.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://cyberomin.github.io/assets/article_images/communities/free-delivery.png&quot;/&gt;
+&lt;span class=&quot;text-muted&quot;&gt;&lt;em&gt;Free delivery tags on products&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;The number of inbound complaints we have had to deal with has gone down significantly as merchants and buyers willingly, out of  their own volition, profer solutions to challenges faced by other merchants and customers.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://cyberomin.github.io/assets/article_images/communities/how-do-i-ship.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://cyberomin.github.io/assets/article_images/communities/how-do-i-ship.png&quot;/&gt;
+&lt;span class=&quot;text-muted&quot;&gt;&lt;em&gt;Inbound questions from merchants&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;Request for complimentary services like content uploading, copy writing and photography services grew significantly.&lt;/p&gt;
+&lt;p&gt;Request for complimentary services like content uploading, copy writing and photography services grew significantly.
+&lt;img src=&quot;http://cyberomin.github.io/assets/article_images/communities/photo.png&quot;/&gt;
+&lt;span class=&quot;text-muted&quot;&gt;&lt;em&gt;&lt;a href=&quot;http://community.konga.com/thread/i-need-a-konga-certified-photographer-in-my-area&quot;&gt;A photography request&lt;/a&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;Where are we and the road ahead
-The community, in such a short span, has grown to become and integral tool to both the merchants and customers and Konga as a company. No doubt the ideas and suggestions offered here will go along way in shaping the product road map of the company. New business strategies and services not thought of today will emerge from this place using the age old wisdom of the crowd. &lt;/p&gt;
+&lt;h2&gt;Where are we and the road ahead&lt;/h2&gt;
 
-&lt;p&gt;Ultimately, the tips and tricks, questions and answers, dos and don&amp;#39;ts that are shared here will go on to build an invaluable resource for both new and existing customers. This essentially will become our FAQ portal for all things marketplace.&lt;/p&gt;
+&lt;p&gt;The community, in such a short span, has grown to become and integral tool to both the merchants and customers and Konga as a company. A tool that allows them express themselves. No doubt, the ideas and suggestions offered here will go along way in shaping the product road map of the company. New business strategies and services not thought of today will emerge from this place. This is the wisdom of the crowd at play here albeit we have had to deal with scathing remarks and criticism.&lt;/p&gt;
 
-&lt;p&gt;eCommerce is a nascent industry in Nigeria and Africa at large. The only way to bolster this industry is to create avenues that will encourage transparency. Online communities, amongst other things, are one of the ways to bring the much needed support to this industry.&lt;/p&gt;
+&lt;p&gt;Ultimately, the tips and tricks, questions and answers, dos and don&amp;#39;ts that are shared here will go on to build an invaluable resource for both new and existing customers and merchants alike. This, essentially will become our FAQ portal for all things marketplace.&lt;/p&gt;
 
-&lt;p&gt;eCommerce is hard and it is even harder when you are building it in an emerging market like Nigeria. There isn&amp;#39;t any blue print to follow, no manual. Nothing exist literally, without any doubt, one way we can and we will nail this is when we harness the collective knowledge of our customers, this can only be achieved when we offer them an avenue to express themselves.&lt;/p&gt;
+&lt;p&gt;eCommerce is a nascent industry in Nigeria and Africa at large. The only way to bolster this industry is to create avenues that will encourage transparency. Online communities, amongst other things, are one of the ways to bring the much needed transparency to this industry.&lt;/p&gt;
 
-&lt;p&gt;In the end, we exist to serve our customers well. That is our sole mission. Our North star.&lt;/p&gt;
+&lt;p&gt;eCommerce is hard and it is even harder when you are building it in an emerging market like Nigeria. There isn&amp;#39;t any blueprint to follow, no manual. Nothing exist literally, without any doubt, one way we can and we will nail this is when we harness the collective knowledge of our customers, this can only be achieved when we offer them a tool that can allow them share their experiences from interacting with our services. &lt;em&gt;In the end, we exist to serve our customers and merchants. This is why we come to work daily. Serving our users &amp;mdash; merchants and customers &amp;mdash; is our sole mission. Our North star.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;On the side, there are a couple of companies that can make use of community forum - Truppr, allow users to initiate conversation around fitness and health tips. Andela - Allow fellows and prospective ones to initiate conversations around technical questions and sharing their Andela experience.&lt;/p&gt;
+&lt;p&gt;On the side, there are a couple of companies that can make use of community fora; Truppr, allow users to initiate conversation around fitness and health tips. Andela - Allow fellows and prospective ones to initiate conversations around technical questions and sharing their Andela experience, Jekalo and Gomyway - Allow drivers and commuters to share their ride sharing experiences.&lt;/p&gt;
 
 &lt;p&gt;Finally, marketplaces and communities aren&amp;#39;t mutually exclusive. Socities thrive because of the healthy communities
-we have been able to cultivate of the years. This ideology hold true for institutions alike.&lt;/p&gt;
+we have been able to build and cultivate of the years. This ideology hold true for institutions alike.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 10 Jul 2015 11:49:00 +0100</pubDate>
-        <link>http://cyberomin.github.io/konga,/startup/2015/07/10/marketplace-communities.html</link>
-        <guid isPermaLink="true">http://cyberomin.github.io/konga,/startup/2015/07/10/marketplace-communities.html</guid>
+        <pubDate>Wed, 22 Jul 2015 13:18:00 +0100</pubDate>
+        <link>http://cyberomin.github.io/community/2015/07/22/marketplace-communities.html</link>
+        <guid isPermaLink="true">http://cyberomin.github.io/community/2015/07/22/marketplace-communities.html</guid>
         
         
-        <category>konga,</category>
-        
-        <category>startup</category>
+        <category>community</category>
         
       </item>
     
