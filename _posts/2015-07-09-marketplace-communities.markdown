@@ -17,13 +17,24 @@ A group of people living in the same place or having a particular characteristic
 
 December last year, I took up the responsibility to build an online community forum for Konga's over 12,000 merchants and customers. What really excited me about this project was that I had an opportunity to build a single channel that will consolidate all discussion needs for both our merchants and customers. I knew from the start that this was going a business redefining project.
 
-Community forum for marketplaces aren't new &mdash; <a href="https://www.etsy.com/forums">Etsy</a>, <a href="https://ecommerce.shopify.com/forums">Shopify</a>, <a href="https://sellercentral.amazon.com/forums/index.jspa">Amazon</a> and <a href="http://community.ebay.com/">Ebay</a> &mdash; all run their own forum. Why is this a big deal? In this age of social media, managing communication and passing information to a large number of people in a well structured and control way becomes a huge challenge. While sending emails are great, responding to individual complaints based off those emails quickly becomes an issue. This will require an entire team to handle this task. A forum fills this void. It offers a persistent way of sending across messages to a large number of people, both current and future users.
+Community forum for marketplaces aren't new &mdash; <a href="https://www.etsy.com/forums">Etsy</a>, <a href="https://ecommerce.shopify.com/forums">Shopify</a>, <a href="https://sellercentral.amazon.com/forums/index.jspa">Amazon</a> and <a href="http://community.ebay.com/">Ebay</a> &mdash; all run their own forum. Why is this a big deal? In this age of social media, managing communication and passing information to a large number of people in a well structured and controlled way becomes a huge challenge. While sending emails are great, responding to individual complaints based off those emails quickly becomes unwieldy. You will require an entire team to handle this task. A forum fills this void. It offers a consistent medium for sending across messages to a large number of people, both current and future users.
 
-Trends noticed
-We noticed that through this community, merchants can air their opinions, ask questions, find answers to challenges faced by other merchants/customers and give suggestions. When we launched self fulfil, one of the biggest request we got from merchants was a way to offer free delivery on an item(SKU) bases.
-Our initial plans and concept was to offer this feature on a store level, but when we launched the merchants quickly realized that this wasn't going to work for them. They insisted that we provide this feature on a product basis. We did...boom, we had merchants recording increase in sales in the North of 300%.
+Advantages of a community forum
+<ul>
+	<li>Moderation is a lot easier</li>
+	<li>Consolidation of messages is easier</li>
+</ul>
 
-The number of inquiries we had to deal with went down significantly as merchants and buyers willingly, on their own accord, proffered solutions to other merchants and customers.
+<h1>What we found out?</h1>
+Konga's users, both merchants and customers had issues. A community forum was long overdue. The needed to be heard.
+Merchants and customers alike openly air their opinions, ask questions, find solutins to challenges faced by other merchants and customers and also profer solutions to other people's problems. This platform, with almost no advertisement, took a life of its own.
+
+When we launched self fulfil, one of the biggest request we got from merchants was a way to offer free delivery on an item(SKU) bases. Our initial plan and concept was to offer this feature on a store level, our assumption was wrong. The merchants quickly realized that this wasn't going to work for them. They wanted a way to indicate what item was eligible for free shipping. They pushed hard for this feature. We listened to them and gave them what they wanted, 
+what happened next was rather remarkable, merchants daily orders shot up by approximately 300%.
+
+The number of inquiries we have had to deal with has gone down significantly as merchants and buyers willingly, out of  their own volition, proffer solutions to challenges faced by other merchants and customers.
+
+<img src="{{ site.url }}/assets/article_images/communities/how-do-i-ship.png"/>
 
 Request for complimentary services like content uploading, copy writing and photography services grew significantly.
 
