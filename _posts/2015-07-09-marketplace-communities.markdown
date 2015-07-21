@@ -32,7 +32,9 @@ Merchants and customers alike openly air their opinions, ask questions, find sol
 When we launched self fulfil, one of the biggest request we got from merchants was a way to offer free delivery on an item(SKU) bases. Our initial plan and concept was to offer this feature on a store level, our assumption was wrong. The merchants quickly realized that this wasn't going to work for them. They wanted a way to indicate what item was eligible for free shipping. They pushed hard for this feature. We listened to them and gave them what they wanted, 
 what happened next was rather remarkable, merchants daily orders shot up by approximately 300%.
 
-The number of inquiries we have had to deal with has gone down significantly as merchants and buyers willingly, out of  their own volition, proffer solutions to challenges faced by other merchants and customers.
+<img src="{{ site.url }}/assets/article_images/communities/free-delivery.png"/>
+
+The number of inbound complaints we have had to deal with has gone down significantly as merchants and buyers willingly, out of  their own volition, profer solutions to challenges faced by other merchants and customers.
 
 <img src="{{ site.url }}/assets/article_images/communities/how-do-i-ship.png"/>
 
