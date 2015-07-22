@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Communities, the bed rock of marketplaces"
+title:  "Communities, the bedrock of marketplaces"
 date:   2015-07-22 12:18:00
 categories: community
 description: "A group of people living in the same place or having a particular characteristic in common."
@@ -15,20 +15,26 @@ A group of people living in the same place or having a particular characteristic
 <span class="text-muted"><em>&#8220;Konga has a healthy community&#8221;</em></span>
 </p>
 
-December last year, I took up the responsibility to build an online <a href="http://community.konga.com" target="_blank">community forum</a> for Konga's over 12,000 merchants and customers. What got me really excited about this project was the fact that I had an opportunity to build a seemless tool that will consolidate all discussion needs for both our merchants and customers. I knew from the start that this was going a business redefining project.
+Before I begin, I'll like to state that communities are the bedrock of marketplaces. Simple.
 
-Community forum for marketplaces aren't new &mdash; <a href="https://www.etsy.com/forums" target="_blank">Etsy</a>, <a href="https://ecommerce.shopify.com/forums" target="_blank">Shopify</a>, <a href="https://sellercentral.amazon.com/forums/index.jspa" target="_blank">Amazon</a> and <a href="http://community.ebay.com/" target="_blank">Ebay</a> &mdash; all run their own forum. Why is this a big deal? In this age of social media, managing communication and passing information to a large number of people in a well structured and controlled way becomes a huge challenge. While sending emails are great, responding to individual complaints based off those emails quickly becomes unwieldy. You will require an entire team to handle this task. A forum fills this void. It offers a consistent medium for sending across messages and receiving feedback from a large number of people.
+December last year, I took up the responsibility to build an online <a href="http://community.konga.com" target="_blank">community forum</a> for Konga's over 12,000 merchants and thousands of customers. What got me really excited about this project was the fact that I had an opportunity to build a seemless tool that will consolidate and facilitate all discussion needs for both our merchants and customers. I knew from the start that this was going a business redefining project.
 
-<h1>Advantages of a community forum</h1>
-Moderation is a lot easier<br/>
-Consolidation of messages is easier
+Online community forums for marketplaces aren't new &mdash; <a href="https://www.etsy.com/forums" target="_blank">Etsy</a>, <a href="https://ecommerce.shopify.com/forums" target="_blank">Shopify</a>, <a href="https://sellercentral.amazon.com/forums/index.jspa" target="_blank">Amazon</a> and <a href="http://community.ebay.com/" target="_blank">Ebay</a> &mdash; all run their own forum. You may wonder, but why is this a big deal? I'll explain. In today's world, managing communication, passing information and gathering feedback from a large number of people in a well structured and controlled manner is fast becoming a huge challenge. While sending and receiving emails are great, responding to individual complaints based off those emails quickly becomes unwieldy. You will need an entire team to handle this task. This is where a forum shines. It fills this void. A forum offers you a tool that allows you tap into the minds of your consumers.
 
-<h1>What we found out?</h1>
-Konga's users, both merchants and customers had issues. A community forum was long overdue. The needed to be heard.
-Merchants and customers openly air their opinions, ask questions, find solutins to challenges faced by other merchants and customers and they also profer solutions to other people's problems. This platform, with almost no advertisement, took a life of its own.
+<img src="{{ site.url }}/assets/article_images/communities/announcement.png"/>
+<span class="text-muted"><em><a href="http://community.konga.com/thread/introducing-the-new-order-life-cycle-on-konga-mall">An announcement. Forum users can't comment. They only read.</a></em></span>
 
-When we launched self fulfil, one of the biggest request we got from merchants was a way to offer free delivery on an item(SKU) bases. Our initial plan and concept was to offer this feature on a store level, our assumption was wrong. The merchants quickly realized that this wasn't going to work for them. They wanted a way to indicate what item was eligible for free shipping. They pushed hard for this feature. We listened to them and gave them what they wanted, 
-what happened next was rather remarkable, merchants daily orders shot up by approximately 300%.
+<strong>Advantages of a community forum</strong><br/>
+1.) Moderation is a lot easier<br/>
+2.) Consolidation of messages is easier - you almost don't have to police your users across other platforms. They know where to pour out their grievances incases of gripe<br/>
+3.) You own the platform, you set the rules. 
+
+While there exist platforms that achieve the same goal like a forum, Facebook groups being a classical example, a forum presents an uncluttered medium and helps your users focus on one single goal; share their experiences. 
+
+<strong>Interesting discoveries</strong><br/>
+Konga's users, both merchants and customers had issues and legitimate ones at that. A community forum was long overdue. They needed to be heard. Merchants and customers openly air their opinions, ask questions, find solutins to challenges faced by other merchants and customers and they also profer solutions to other people's problems. This platform, with almost no advertisement, took a life of its own.
+
+When we launched self fulfil (a service that allows merchants deliver items by themselves, essentially bypassing third party logistics companies), one of the biggest request we got from merchants was a way to offer free delivery on an item(SKU) bases. Our initial plan and concept was to offer this feature on a store level, our assumption was wrong. Merchants quickly realized that this wasn't going to work for them. They wanted a way to indicate what item was eligible for free shipping. They pushed hard for this feature. We listened to them and gave them what they wanted, what happened next was rather remarkable, merchants daily orders shot up by approximately 300%.
 
 <img src="{{ site.url }}/assets/article_images/communities/free-delivery.png"/>
 <span class="text-muted"><em>Free delivery tags on products</em></span>
@@ -39,10 +45,11 @@ The number of inbound complaints we have had to deal with has gone down signific
 <span class="text-muted"><em>Inbound questions from merchants</em></span>
 
 Request for complimentary services like content uploading, copy writing and photography services grew significantly.
+
 <img src="{{ site.url }}/assets/article_images/communities/photo.png"/>
 <span class="text-muted"><em><a href="http://community.konga.com/thread/i-need-a-konga-certified-photographer-in-my-area">A photography request</a></em></span>
 
-##Where are we and the road ahead
+<strong>The Road Ahead</strong><br/>
 The community, in such a short span, has grown to become and integral tool to both the merchants and customers and Konga as a company. A tool that allows them express themselves. No doubt, the ideas and suggestions offered here will go along way in shaping the product road map of the company. New business strategies and services not thought of today will emerge from this place. This is the wisdom of the crowd at play here albeit we have had to deal with scathing remarks and criticism.
 
 Ultimately, the tips and tricks, questions and answers, dos and don'ts that are shared here will go on to build an invaluable resource for both new and existing customers and merchants alike. This, essentially will become our FAQ portal for all things marketplace.
