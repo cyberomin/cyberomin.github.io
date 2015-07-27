@@ -6,9 +6,57 @@
 </description>
     <link>http://cyberomin.github.io/</link>
     <atom:link href="http://cyberomin.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 22 Jul 2015 10:14:30 +0100</pubDate>
-    <lastBuildDate>Wed, 22 Jul 2015 10:14:30 +0100</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2015 17:12:30 +0100</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2015 17:12:30 +0100</lastBuildDate>
     <generator>Jekyll v2.0.3</generator>
+    
+      <item>
+        <title>Technical job descriptions and movie hacking scenes</title>
+        <description>&lt;blockquote&gt;
+    &lt;p&gt;&quot;Knowledge of database tools like(MySQL, PHP, Java and C#)&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;&quot;8yrs experience building iOS apps using the Swift programming language&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;How often do you see job descriptions like these? I stumble on these things like every other day.&lt;/p&gt;
+
+&lt;p&gt;What&amp;#39;s annoying about these job descriptions for technical roles is that there are most likely, if not often, written by people with almost no technical experience nor expertise.&lt;/p&gt;
+
+&lt;p&gt;One of the greatest misconceptions I have seen or hear about over time is the notion that software engineering or IT as a whole is something everybody and their mother can just pick up in a whim. This is nothing less than a big fat lie. You dont&amp;#39;t just pick up these things. You learn them, grown with them. There is a reason why people in technology are referred to as &lt;strong&gt;professionals&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Every so often, companies allow the Human Resource department to come up with job descriptions based on the business needs, while there isn&amp;#39;t anything utterly wrong with this, it is also imperative that the said HR department needs to pass this job descriptions to someone in the technology department for proper vetting and sign off. Why ask for an 8yrs experience for a technology that has been around for a little over 2yrs? Where on earth are your prospective candidates going to come with the remaining 6yrs? Why do you classify a scriptiong language as a DBMS (databse management system)? This is wrong. Just wrong.&lt;/p&gt;
+
+&lt;p&gt;There is a huge difference between programming/scripting languages and databases. Don&amp;#39;t even get me started on the different kinds of databases available today - RDBMS, NoSQL. PHP isn&amp;#39;t a DBMS. Period.&lt;/p&gt;
+
+&lt;p&gt;Theses same mistakes isn&amp;#39;t common to companies putting put job descriptions alone, movie script writers make these same mistakes alike. I once heard of these lines from a movie scene &lt;em&gt;&amp;quot;I&amp;#39;ll create a GUI interface in visual basic, I&amp;#39;ll see if I can track an IP address.&amp;quot;&lt;/em&gt; I&amp;#39;m sorry dear script writer, you missed this one by a very long mile. A long one.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hkDD03yeLnU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Every DevOps or Software Engineer that&amp;#39;s worth his or her salt knows you don&amp;#39;t need a GUI interface written in Visual Basic or any other language at that to track an IP. There&amp;#39;s a reason your OS has a terminal and that&amp;#39;s why log files exist. Explore the log with your terminal. That simple.&lt;/p&gt;
+
+&lt;p&gt;While organizations and script writers tend to come up with these things to make their organization and movies sound sophisticated and cool, they always often end up shooting themselves on the foot.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Here is my advise.&lt;/strong&gt;&lt;br/&gt;
+If you must write a technical job description, run it by someone who&amp;#39;s experienced in that field to help spot your mistakes. And refrain from looking for a generalists. They don&amp;#39;t exist, no one person is an expert in iOS and Android development, Web Application development, Server Administration, Database administration. Proficient in PHP, Python, Ruby, Java, Scala, Go, Closure, NodeJS, Coffee Script, JavaScript, CSS3. Like I said, he does not exist.At best, people have a fare working knowledge of these technologies.&lt;/p&gt;
+
+&lt;p&gt;Dear script writer, you can use the help of a real software engineer or tech professional. No point reinventing the wheel by writing your own &amp;quot;GUI terminal interface.&amp;quot; UNIX and all its contributors have done a great job for you already. Just use the tool. And those typing scenes(read as hacking)? The ones with the lonely guy in a poorly lited room? Make it more realistic, no one types that fast without even sparing a minute to catch a breath nor think.&lt;/p&gt;
+
+&lt;p&gt;Finally, technology, like every other profession has professionals and these are people that have spent years learning and perfecting their skills. It isn&amp;#39;t just about Excel, PowerPoint and Word. It is much more.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Jul 2015 05:18:00 +0100</pubDate>
+        <link>http://cyberomin.github.io/job/description/2015/07/27/job-description.html</link>
+        <guid isPermaLink="true">http://cyberomin.github.io/job/description/2015/07/27/job-description.html</guid>
+        
+        
+        <category>job</category>
+        
+        <category>description</category>
+        
+      </item>
     
       <item>
         <title>Communities, the bedrock of marketplaces</title>
@@ -595,79 +643,6 @@ I wish you very scalable birthdays with high-performance success in life.
         
         
         <category>css</category>
-        
-      </item>
-    
-      <item>
-        <title>Redis - Memcache on Steroids!</title>
-        <description>&lt;p&gt;Redis - Redis is an open source, BSD licensed, advanced key-value store. Simple. I wouldn&amp;#39;t bother you too much.
-Think about it as Memcached on steroids. Redis is &amp;#39;insanely fast.&amp;#39; - RAM is cheap these days.&lt;/p&gt;
-
-&lt;p&gt;I've heard so many good things about this awesome systems, untill last two weeks I haven't done anything with it.
-I was recently assigned the task of adding a caching layer to one of our internal tools and my boss specifically asked
-I use Redis. I smiled at myself - alas, I'll play with Redis in production.&lt;/p&gt;
-
-&lt;p&gt;Like I said earlier, Redis is a Key-Value store. Let's get our hands dirty.&lt;/p&gt;
-
-&lt;p&gt;Setting and retrieving a value is straight forward.
-&lt;pre&gt;
-SET foo bar
-GET foo 
-&lt;em&gt;bar&lt;/em&gt;
-&lt;/pre&gt;
-&lt;/p&gt;
-
-&lt;p&gt;It doesn&amp;#39;t get any simpler&lt;/p&gt;
-
-&lt;p&gt;If you need to delete this data, simply pass the key as an argument to DEL&lt;/p&gt;
-
-&lt;pre&gt;DEL foo.&lt;/pre&gt;
-
-&lt;p&gt;Redis has tons of commands. You can find all of them here - &lt;a href='http://redis.com/commands'&gt;http://redis.com/commands&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Since the bulk of the data I was going to be storing were timestamp bound it was important I work with a command
-that support ranges and a sorted set was the best option. There are tons of sorted set commands but &lt;code&gt;ZRANGEBYSCORE&lt;/code&gt; was a perfect fit.&lt;/p&gt;
-
-Task 1. Store users based on the date the registered on the site.
-
-&lt;pre&gt;
-ZADD &lt;key&gt; &lt;date&gt; &lt;email&gt;
-Retrieving is simple:
-
-ZRANGEBYSCORE &lt;key&gt; &lt;min date&gt; &lt;max date&gt;
-&lt;key&gt; - A key that uniquely identified this operation. Think of the key as a table in a RDBMS
-&lt;min date&gt; - Start date
-&lt;max date&gt; - End date
-&lt;/pre&gt;
-
-&lt;p&gt;
-Live example:
-&lt;pre&gt;
-ZADD users 20131001 Celestine:Omin:smartone@example.com
-ZADD users 20131002 Mark:Cuban:smarttwo@example.com
-ZRANGEBYSCORE users 20131001 20131002
-&lt;em&gt;[Celestine:Omin:smartone@example.com, Mark:Cuban:smarttwo@example.com]&lt;/em&gt;
-&lt;/pre&gt;
-&lt;/p&gt;
-
-&lt;p&gt;If I needed every single item in this without considering the date range, I could use&lt;/p&gt;
-
-&lt;pre&gt;ZRANGEBYSCORE users -inf +inf&lt;/pre&gt;
-
-&lt;p&gt;Where -inf and +inf are min and max respectively.
-&lt;br&gt;&lt;br&gt;
-&lt;em&gt;P/S &lt;code&gt;ZRANGEBYSCORE&lt;/code&gt; has a time complexity of O(log(N)+M) with N being the number of elements in the sorted set and M the number of elements being returned. If M is constant (e.g. always asking for the first 10 elements with LIMIT), you can consider it O(log(N)).&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Thank you.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 May 2014 23:56:14 +0100</pubDate>
-        <link>http://cyberomin.github.io/redis/scaling/2014/05/05/redis-memcache-on-steroids.html</link>
-        <guid isPermaLink="true">http://cyberomin.github.io/redis/scaling/2014/05/05/redis-memcache-on-steroids.html</guid>
-        
-        
-        <category>redis</category>
-        
-        <category>scaling</category>
         
       </item>
     
