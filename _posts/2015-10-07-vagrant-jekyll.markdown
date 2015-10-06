@@ -64,7 +64,7 @@ sudo gem install jekyll --no-rdoc --no-ri
 
 <p>
 I set up a generic bash script for provisioning. Nothing serious, I just automated the installation of Ruby, Jekyll and 
-its dependencies. I added `--no-rdoc` flag that tells the installation to skip the installation of Jekyll's documentation. 
+its dependencies. I added <code>--no-rdoc</code> flag that tells the installation to skip the installation of Jekyll's documentation. 
 </p>
 
 <p>
