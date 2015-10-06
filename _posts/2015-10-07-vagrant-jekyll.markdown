@@ -71,5 +71,5 @@ its dependencies. I added <code>--no-rdoc</code> flag that tells the installatio
 With the steps above, I now have a ready and fully functional box that I can call up and destroy at will.
 </p>
 
-The result is what we have here
-<img src="{{ site.url }}/assets/article_images/vagrant/blog.png"/ style="width:700px; height:auto;">
+The result is what we have here - 
+<p><img src="{{ site.url }}/assets/article_images/vagrant/blog.png"/ style="width:700px; height:auto;"></p>
