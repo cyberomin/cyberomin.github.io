@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vagrant and Jekyll, a match made in heaven."
-date:   2015-10-06 12:18:00
+date:   2015-10-07 00:39:00
 categories: startup
 description: "How to use Jekyll with vagrant."
 ---
