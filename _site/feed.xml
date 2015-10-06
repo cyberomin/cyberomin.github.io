@@ -6,9 +6,9 @@
 </description>
     <link>http://cyberomin.github.io/</link>
     <atom:link href="http://cyberomin.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 30 Jul 2015 15:09:07 +0100</pubDate>
-    <lastBuildDate>Thu, 30 Jul 2015 15:09:07 +0100</lastBuildDate>
-    <generator>Jekyll v2.0.3</generator>
+    <pubDate>Tue, 06 Oct 2015 11:03:12 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2015 11:03:12 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Technical job descriptions and movie hacking scenes</title>
@@ -47,7 +47,57 @@ If you must write a technical job description, run it by someone who&amp;#39;s e
 
 &lt;p&gt;Finally, technology, like every other profession has professionals and these are people that have spent years learning and perfecting their skills. It isn&amp;#39;t just about Excel, PowerPoint and Word. It is much more.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 27 Jul 2015 05:18:00 +0100</pubDate>
+        <pubDate>Mon, 27 Jul 2015 04:18:00 +0000</pubDate>
+        <link>http://cyberomin.github.io/vagrant/job/description/2015/07/27/job-description.html</link>
+        <guid isPermaLink="true">http://cyberomin.github.io/vagrant/job/description/2015/07/27/job-description.html</guid>
+        
+        
+        <category>vagrant</category>
+        
+        <category>job</category>
+        
+        <category>description</category>
+        
+      </item>
+    
+      <item>
+        <title>Technical job descriptions and movie hacking scenes</title>
+        <description>&lt;blockquote&gt;
+    &lt;p&gt;&quot;Knowledge of database tools like(MySQL, PHP, Java and C#)&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;&quot;8yrs experience building iOS apps using the Swift programming language&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;How often do you see job descriptions like these? I stumble on these things like every other day.&lt;/p&gt;
+
+&lt;p&gt;What&amp;#39;s annoying about these job descriptions for technical roles is that there are most likely, if not often, written by people with almost no technical experience nor expertise.&lt;/p&gt;
+
+&lt;p&gt;One of the greatest misconceptions I have seen or hear about over time is the notion that software engineering or IT as a whole is something everybody and their mother can just pick up in a whim. This is nothing less than a big fat lie. You dont&amp;#39;t just pick up these things. You learn them, grow with them. There is a reason why people in technology are referred to as &lt;strong&gt;professionals&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Every so often, companies allow the Human Resource department to come up with job descriptions based on the business needs, while there isn&amp;#39;t anything utterly wrong with this, it is also imperative that the said HR department needs to pass this job descriptions to someone in the technology department for proper vetting and sign off. Why ask for an 8yrs experience for a technology that has been around for a little over 2yrs? Where on earth are your prospective candidates going to come with the remaining 6yrs? Why do you classify a scripting language as a DBMS (databse management system)? This is wrong. Just wrong.&lt;/p&gt;
+
+&lt;p&gt;There is a huge difference between programming/scripting languages and databases. Don&amp;#39;t even get me started on the different kinds of databases available today - RDBMS, NoSQL. PHP isn&amp;#39;t a DBMS. Period.&lt;/p&gt;
+
+&lt;p&gt;Theses same mistakes aren&amp;#39;t common to companies putting put job descriptions alone but to movie script writers as well. I once heard of these lines from a movie scene &lt;em&gt;&amp;quot;I&amp;#39;ll create a GUI interface in visual basic, I&amp;#39;ll see if I can track an IP address.&amp;quot;&lt;/em&gt; I&amp;#39;m sorry dear script writer, you missed this one by a very long mile. A long one.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hkDD03yeLnU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Every DevOps or Software Engineer that&amp;#39;s worth his or her salt knows you don&amp;#39;t need a GUI interface written in Visual Basic or any other language at that to track an IP. There&amp;#39;s a reason your OS has a terminal and that&amp;#39;s why log files exist. Explore the log with your terminal. That simple.&lt;/p&gt;
+
+&lt;p&gt;While organizations and script writers tend to come up with these things to make their organization and movies sound sophisticated and cool, they always often end up shooting themselves on the foot.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Here is my advise.&lt;/strong&gt;&lt;br/&gt;
+If you must write a technical job description, run it by someone who&amp;#39;s experienced in that field to help spot your mistakes. And refrain from looking for a generalists. They don&amp;#39;t exist, no one person is an expert in iOS and Android development, Web Application development, Server Administration, Database administration. Proficient in PHP, Python, Ruby, Java, Scala, Go, Closure, NodeJS, Coffee Script, JavaScript, CSS3. Like I said, he does not exist.At best, people have a fare working knowledge of these technologies.&lt;/p&gt;
+
+&lt;p&gt;Dear script writer, you can use the help of a real software engineer or tech professional. No point reinventing the wheel by writing your own &amp;quot;GUI terminal interface.&amp;quot; UNIX and all its contributors have done a great job for you already. Just use the tool. And those typing scenes(read as hacking)? The ones with the lonely guy in a poorly lited room? Make it more realistic, no one types that fast without even sparing a minute to catch a breath nor think.&lt;/p&gt;
+
+&lt;p&gt;Finally, technology, like every other profession has professionals and these are people that have spent years learning and perfecting their skills. It isn&amp;#39;t just about Excel, PowerPoint and Word. It is much more.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Jul 2015 04:18:00 +0000</pubDate>
         <link>http://cyberomin.github.io/job/description/2015/07/27/job-description.html</link>
         <guid isPermaLink="true">http://cyberomin.github.io/job/description/2015/07/27/job-description.html</guid>
         
@@ -119,10 +169,82 @@ The community, in such a short span, has grown to become an integral tool to bot
 &lt;p&gt;Finally, marketplaces and communities aren&amp;#39;t mutually exclusive. Societies thrive because of the healthy communities
 we have been able to build and cultivate over the years. This ideology holds true for institutions alike.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 22 Jul 2015 13:18:00 +0100</pubDate>
+        <pubDate>Wed, 22 Jul 2015 12:18:00 +0000</pubDate>
         <link>http://cyberomin.github.io/community/2015/07/22/marketplace-communities.html</link>
         <guid isPermaLink="true">http://cyberomin.github.io/community/2015/07/22/marketplace-communities.html</guid>
         
+        
+        <category>community</category>
+        
+      </item>
+    
+      <item>
+        <title>Communities, the bedrock of marketplaces</title>
+        <description>&lt;p&gt;
+&lt;strong&gt;com·mu·ni·ty&lt;/strong&gt;&lt;br/&gt;
+/kəˈmyo͞onədē/&lt;br&gt;
+&lt;em&gt;noun&lt;/em&gt;
+noun: &lt;strong&gt;community;&lt;/strong&gt; plural noun: &lt;strong&gt;communities&lt;/strong&gt;&lt;br/&gt;
+
+A group of people living in the same place or having a particular characteristic in common.&lt;br/&gt;
+&lt;span class=&quot;text-muted&quot;&gt;&lt;em&gt;&amp;#8220;Konga has a healthy community&amp;#8221;&lt;/em&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Before I begin, I&amp;#39;ll like to state that communities are the bedrock of marketplaces. Simple.&lt;/p&gt;
+
+&lt;p&gt;December last year, I took up the responsibility to build an online &lt;a href=&quot;http://community.konga.com&quot; target=&quot;_blank&quot;&gt;community forum&lt;/a&gt; for Konga&amp;#39;s over 12,000 merchants and thousands of customers. What got me really excited about this project was the fact that I had an opportunity to build a seamless tool that will consolidate and facilitate all discussion needs for both our merchants and customers. I knew from the start that this was going to be a business redefining project.&lt;/p&gt;
+
+&lt;p&gt;Online community forums for marketplaces aren&amp;#39;t new &amp;mdash; &lt;a href=&quot;https://www.etsy.com/forums&quot; target=&quot;_blank&quot;&gt;Etsy&lt;/a&gt;, &lt;a href=&quot;https://ecommerce.shopify.com/forums&quot; target=&quot;_blank&quot;&gt;Shopify&lt;/a&gt;, &lt;a href=&quot;https://sellercentral.amazon.com/forums/index.jspa&quot; target=&quot;_blank&quot;&gt;Amazon&lt;/a&gt; and &lt;a href=&quot;http://community.ebay.com/&quot; target=&quot;_blank&quot;&gt;Ebay&lt;/a&gt; &amp;mdash; all run their own forum. You may wonder, but why is this a big deal? I&amp;#39;ll explain. In today&amp;#39;s world, managing communication, passing information and gathering feedback from a large number of people in a well structured and controlled manner is fast becoming a huge challenge. While sending and receiving emails are great, responding to individual complaints based on those emails quickly becomes unwieldy. You will need an entire team to handle this task. This is where a forum shines. It fills this void. A forum offers you a tool that allows you tap into the minds of your consumers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cyberomin.github.io/assets/article_images/communities/announcement.png&quot;/&gt;
+&lt;span class=&quot;text-muted&quot;&gt;&lt;em&gt;&lt;a href=&quot;http://community.konga.com/thread/introducing-the-new-order-life-cycle-on-konga-mall&quot;&gt;An announcement. Forum users can&amp;#39;t comment. They only read.&lt;/a&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages of a community forum&lt;/strong&gt;&lt;br/&gt;
+1.) Moderation is a lot easier&lt;br/&gt;
+2.) You can make references to solutions for problems already solved&lt;br/&gt;
+3.) Consolidation of messages is easier - you almost don&amp;#39;t have to police your users across other platforms. They know where to pour out their grievances in cases of gripe&lt;br/&gt;
+4.) You own the platform, you set the rules. &lt;/p&gt;
+
+&lt;p&gt;While there exist platforms that achieve the same goal like a forum, Facebook groups being a classical example, a forum presents an uncluttered medium and helps your users focus on one single goal; share their experiences. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Interesting discoveries&lt;/strong&gt;&lt;br/&gt;
+Konga&amp;#39;s users, both merchants and customers had issues and legitimate ones at that. A community forum was long overdue. They needed to be heard. Merchants and customers openly air their opinions, ask questions, find solutions to challenges faced by other merchants and customers and they also proffer solutions to other people&amp;#39;s problems. &lt;em&gt;This platform, with almost no advertisement, took on a life of its own.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When we launched self-fulfil (a service that allows merchants deliver items by themselves, essentially bypassing third party logistics companies), one of the biggest request we got from merchants was a way to offer free delivery on an item(SKU) level. Our initial plan and concept were to offer this feature on a store level, our assumption was wrong. Merchants quickly realized that this wasn&amp;#39;t going to work for them. They wanted a way to indicate what item was eligible for free shipping. They pushed hard for this feature. We listened to them and gave them what they wanted, what happened next was really remarkable, merchants daily orders shot up by approximately 300%.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cyberomin.github.io/assets/article_images/communities/free-delivery.png&quot;/&gt;
+&lt;span class=&quot;text-muted&quot;&gt;&lt;em&gt;Free delivery tags on products&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The number of inbound complaints we have had to deal with has gone down significantly as merchants and buyers willingly, out of  their own volition, proffer solutions to challenges faced by other merchants and customers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cyberomin.github.io/assets/article_images/communities/how-do-i-ship.png&quot;/&gt;
+&lt;span class=&quot;text-muted&quot;&gt;&lt;em&gt;Inbound questions from merchants&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Request for complimentary services like content uploading, copy writing and photography services grew significantly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cyberomin.github.io/assets/article_images/communities/photo.png&quot;/&gt;
+&lt;span class=&quot;text-muted&quot;&gt;&lt;em&gt;&lt;a href=&quot;http://community.konga.com/thread/i-need-a-konga-certified-photographer-in-my-area&quot;&gt;A photography request&lt;/a&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Road Ahead&lt;/strong&gt;&lt;br/&gt;
+The community, in such a short span, has grown to become an integral tool to both the merchants and customers and Konga as a company. A tool that allows them express themselves. No doubt, the ideas and suggestions offered here will contribute in shaping the product road map of the company. New business strategies and services not thought of today will emerge from this place. This is the wisdom of the crowd at play here albeit we have had to deal with scathing remarks and criticism.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, the tips and tricks, questions and answers, dos and don&amp;#39;ts that are shared here will go on to build an invaluable resource for both new and existing customers and merchants alike. This essentially will become our FAQ portal for all things marketplace.&lt;/p&gt;
+
+&lt;p&gt;eCommerce is a nascent industry in Nigeria and Africa at large. The only way to bolster this industry is to create avenues that will encourage transparency. Online communities, amongst other things, are one of the ways to bring the much-needed transparency to this industry.&lt;/p&gt;
+
+&lt;p&gt;eCommerce is hard and it is even harder when you are building it in an emerging market like Nigeria. There isn&amp;#39;t any blueprint to follow, no manual. Nothing exist literally. Without a doubt, one of the ways in which we will build a formidable eCommerce ecosystem is when we harness the collective knowledge of our customers, this can only be achieved when we offer them a tool that can allows them share their experiences from interacting with our services. &lt;em&gt;In the end, we exist to serve our customers and merchants. This is why we come to work daily. Serving our users &amp;mdash; merchants and customers &amp;mdash; is our sole mission. Our North star.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;On the side, there are a couple of companies that can make use of community forums; Truppr, allow users to initiate a conversation around fitness and health tips. Andela - Allow fellows and prospective ones to initiate conversations around technical questions and sharing their Andela experience, Jekalo and Gomyway - Allow drivers and commuters to share their ride sharing experiences.&lt;/p&gt;
+
+&lt;p&gt;Finally, marketplaces and communities aren&amp;#39;t mutually exclusive. Societies thrive because of the healthy communities
+we have been able to build and cultivate over the years. This ideology holds true for institutions alike.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Jul 2015 12:18:00 +0000</pubDate>
+        <link>http://cyberomin.github.io/vagrant/community/2015/07/22/marketplace-communities.html</link>
+        <guid isPermaLink="true">http://cyberomin.github.io/vagrant/community/2015/07/22/marketplace-communities.html</guid>
+        
+        
+        <category>vagrant</category>
         
         <category>community</category>
         
@@ -169,7 +291,61 @@ Happy birthday Konga.&lt;/p&gt;
     &lt;img src=&quot;http://cyberomin.github.io/assets/article_images/konga-journey/2.png&quot;/&gt;
 &lt;/p&gt;
 </description>
-        <pubDate>Fri, 10 Jul 2015 11:49:00 +0100</pubDate>
+        <pubDate>Fri, 10 Jul 2015 10:49:00 +0000</pubDate>
+        <link>http://cyberomin.github.io/vagrant/konga,/startup/2015/07/10/konga-journey.html</link>
+        <guid isPermaLink="true">http://cyberomin.github.io/vagrant/konga,/startup/2015/07/10/konga-journey.html</guid>
+        
+        
+        <category>vagrant</category>
+        
+        <category>konga,</category>
+        
+        <category>startup</category>
+        
+      </item>
+    
+      <item>
+        <title>Konga, the journey so far</title>
+        <description>&lt;p&gt;Today, 3 years ago, konga.com went live. This day has been permanently etched in my memory.
+I wouldn't forget it in a hurry. I still remember the excitement, the frenzy while trying to deliver our first and probably only order for that day - July 10th, 2012. I still remember the customer's name(Kehinde LALEYE), even that of the delivery man(Moses GIMBA). Kehinde's first order were beauty products (&lt;em&gt;Voluminizing Mascara -XXL Black Lash and Waterproof Ultratenue Kajal&lt;/em&gt;) and that order came in at &lt;strong&gt;2:04:51 PM&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6EATRiY19H0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Those where the early days. No handbook to follow, no &lt;em&gt;&quot;Operating eCommerce in Nigeria - 101&quot;&lt;/em&gt; course to take. The management just had to follow guts and instincts. We have made our own fare share of mistakes, we have also learnt from these mistakes. Back then, roles weren't that much of an issue. We all did everything. I mean everything. This, in itself isn't uncommon with startups.&lt;/p&gt;
+
+&lt;p&gt;Having been here for 3yrs and watch this baby grow, I consider it a blessing. The feeling is surreal.
+I kind of have a sense of what fatherhood will feel like.&lt;/p&gt;
+
+&lt;p&gt;From a tiny little office along Sumbo Jibowu in Lagos, 3 years later, we now have offices in Abuja, Port Harcourt, Cape Town and China and KExpress franchise all over Nigeria.&lt;/p&gt;
+
+&lt;p&gt;From 2 categories (Beauty and Personal Care, Babies, Kids and Toys) to over 20 categories today. Moving from a retailer model to a marketplace model, pioneering innovative solutions like KongaPay to having the first ever community forum that helps foster transparency between; Konga, merchants and buyers.
+This baby has indeed grown.&lt;/p&gt;
+
+&lt;p&gt;Make no mistake, the journey has only just begun. Like our CEO would say, we are on the first line of the first paragraph of the first page of an 800 page book.&lt;/p&gt;
+
+&lt;p&gt;So today, I say a big happy birthday to this baby, here's wishing you more awesome years ahead.
+Happy birthday Konga.&lt;/p&gt;
+
+
+&lt;p&gt;
+    &lt;img src=&quot;http://cyberomin.github.io/assets/article_images/konga-journey/konga.png&quot;/&gt;
+&lt;/p&gt;
+
+&lt;p&gt;This was our coming soon page&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;img src=&quot;http://cyberomin.github.io/assets/article_images/konga-journey/1.png&quot;/&gt;
+&lt;/p&gt;
+
+&lt;p&gt;This was what we launched with.&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;img src=&quot;http://cyberomin.github.io/assets/article_images/konga-journey/2.png&quot;/&gt;
+&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Jul 2015 10:49:00 +0000</pubDate>
         <link>http://cyberomin.github.io/konga,/startup/2015/07/10/konga-journey.html</link>
         <guid isPermaLink="true">http://cyberomin.github.io/konga,/startup/2015/07/10/konga-journey.html</guid>
         
@@ -238,10 +414,79 @@ The above quote sounds all too familiar, it is now cliché. &lt;/p&gt;
     Authur C. Clarke
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Sun, 05 Jul 2015 10:37:00 +0100</pubDate>
+        <pubDate>Sun, 05 Jul 2015 09:37:00 +0000</pubDate>
         <link>http://cyberomin.github.io/mobile/2015/07/05/embrace-mobile-dont-ignore-it.html</link>
         <guid isPermaLink="true">http://cyberomin.github.io/mobile/2015/07/05/embrace-mobile-dont-ignore-it.html</guid>
         
+        
+        <category>mobile</category>
+        
+      </item>
+    
+      <item>
+        <title>Embrace mobile. Don't ignore it.</title>
+        <description>&lt;p&gt;&lt;em&gt;&amp;quot;Mobile is the future, scratch that. Mobile isn&amp;#39;t the future, it is the primary screen.&amp;quot;&lt;/em&gt;&lt;br/&gt;
+The above quote sounds all too familiar, it is now cliché. &lt;/p&gt;
+
+&lt;p&gt;In Africa, the millennial have leapfrogged the desktop paradigm straight to mobile. In a world where social media have been so woven into our social fabric, it is no surprise why these medium has become too important to be ignored. This, by no means, isn't an African thing alone. It seems to be a recurring decimal in the emerging markets with countries like China, India and Brazil scoring 21%, 55% and 28% respectively in new smart phone subscription.&lt;/p&gt;
+
+&lt;p&gt;In May this year, Mary Meeker, a Morgan Stanley analyst turned venture capitalist at KPCB (Kleiner Perkins Caufield &amp;amp; Byers), further underscored this phenomenon when she pointed out that Nigeria is the most Internet mobilized country in the world with a staggering 76% Internet mobility with India and China trialling behind her.
+&lt;p&gt;
+    &lt;center&gt;
+    &lt;img src=&quot;http://cyberomin.github.io/assets/article_images/2015-07-05-embrace-mobile-dont-ignore-it/kcpb.png&quot;/&gt;
+    &lt;br/&gt;&lt;small class=&quot;text-muted&quot;&gt;Nigeria is leading.&lt;/small&gt;
+    &lt;/center&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;I've always held this proposition close to mind but I haven't quite grappled with its scale until recently. One of the products I very much care about is the &lt;a href=&quot;http://community.konga.com&quot;&gt;Konga community&lt;/a&gt;. It is my &lt;em&gt;baby&lt;/em&gt;. I popped open Google Analytics to see what was happening, I looked at every metrics and indicator available but one metric did catch my attention. Mobile. Mobile is killing it and it seems nothing can hold it back, not surprising though, but what particularly caught my attention was the fact that the mobile to desktop ratio was a staggering 63:38%. Now that's outstanding.&lt;br/&gt;
+&lt;p&gt;
+    &lt;center&gt;
+    &lt;img src=&quot;http://cyberomin.github.io/assets/article_images/2015-07-05-embrace-mobile-dont-ignore-it/mobile_web.png&quot;/&gt;
+    &lt;br/&gt;&lt;small class=&quot;text-muted&quot;&gt;Ratio of mobile to desktop users&lt;/small&gt;
+    &lt;/center&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Nigeria is a country of over 170M people with well over 140M mobile subscription, while all of these may not necessarily be smart phones, 16% of these mobile subscriptions are indeed...smart phones.&lt;/p&gt;
+
+&lt;p&gt;Nigeria, according to &lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users&quot;&gt;Wikipedia&lt;/a&gt; has well over 60M Internet users and the vast majority of these users are smart phone users. Going back to my earlier numbers with regards to the mobile to desktop ratio, it isn't any surprise while mobile reign supreme and will continue to do so.&lt;/p&gt;
+
+&lt;p&gt;These numbers however, goes to show why mobile should be taken seriously. In Africa and other emerging market, mobile isn't dessert. It is the main course&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;h3&gt;Consideration when building for mobile:&lt;/h3&gt;
+    &lt;ol&gt;
+        &lt;li&gt;The vast majority of the mobile users in Africa and Nigeria in particular are still on the 2.5G network, very few MNO(Mobile Network Operators) offer full 3G coverage nationwide. So when building  keep speed at the back of your mind.&lt;/li&gt;
+
+        &lt;li&gt;Mobile data is still expensive. 1GB data bundle retails for about $15 with a 30 days validity. So the less graphics and videos your users will have to deal with, the better UX you will be providing.&lt;/li&gt;
+
+        &lt;li&gt;Graceful degradation should be at the core of your product development. Asking users to choose a mobile view while using your website just wouldn't cut it again. It should come naturally. Frameworks like Bootstrap and Foundation already handle the bulk of the work for you.&lt;/li&gt;
+
+        &lt;li&gt;Keep the call to action simple. Less clicks means less frustration. On the community for instance, you only have to tap one single button in order to start a conversation.&lt;/li&gt;
+
+        &lt;li&gt;Make it magical. The vast majority of users that will be onboarded into this age(web and Internet) will come through messaging apps. There is a reason WhatsApp exploded, it just works. Simple.&lt;/li&gt;
+    &lt;/ol&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+    What does the future truly hold?
+    I see a future where desktops would be used only in corporate institutions. Everything will be done via mobile; shopping, banking, bills payment. Virtually everything.
+&lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;Any sufficiently advanced technology is indistinguishable from magic.&lt;/p&gt;
+    Authur C. Clarke
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 05 Jul 2015 09:37:00 +0000</pubDate>
+        <link>http://cyberomin.github.io/vagrant/mobile/2015/07/05/embrace-mobile-dont-ignore-it.html</link>
+        <guid isPermaLink="true">http://cyberomin.github.io/vagrant/mobile/2015/07/05/embrace-mobile-dont-ignore-it.html</guid>
+        
+        
+        <category>vagrant</category>
         
         <category>mobile</category>
         
@@ -268,7 +513,7 @@ https://github.com/cyberomin/RouteSMS&lt;/a&gt;&lt;/p&gt;
     &lt;br/&gt;&lt;em&gt;This is &lt;strong&gt;NOT&lt;/strong&gt; an advert.&lt;/em&gt;
 &lt;/p&gt;
 </description>
-        <pubDate>Wed, 17 Jun 2015 06:30:00 +0100</pubDate>
+        <pubDate>Wed, 17 Jun 2015 05:30:00 +0000</pubDate>
         <link>http://cyberomin.github.io/routesms/2015/06/17/route-sms.html</link>
         <guid isPermaLink="true">http://cyberomin.github.io/routesms/2015/06/17/route-sms.html</guid>
         
@@ -278,371 +523,34 @@ https://github.com/cyberomin/RouteSMS&lt;/a&gt;&lt;/p&gt;
       </item>
     
       <item>
-        <title>Tech in 2014 and Beyond</title>
+        <title>RouteSMS over HTTP</title>
         <description>&lt;p&gt;
-So, 2014 has come and gone and the year will forever hold a special place in our hearts.
-In 2014, we saw an explosion in wearable technologies: watches, fitness tracker and motion sensor.
-Companies like FitBit and Jawbone made giant leaps in these areas with the introduction of their fitness bands. Samsung, LG, Apple and her ilks made good on smart watches. Google scooped Nest, the home thermostat maker in a deal worth well over $3B. Google also solidified its position with Glass.
+If you have ever worked with RouteSMS' HTTP API, I am sure you probably have ran into this same issue. About 5 months ago, my company, &lt;a href=&quot;http://konga.com&quot; target=&quot;_blank&quot;&gt;Konga&lt;/a&gt; made the move to consolidate its messaging needs. This move was necessary as different projects had common needs and SMS notification was part of it. SMS notification is at the core of Konga.
 &lt;/p&gt;
+
+&lt;p&gt; As a member of the team that was saddled with the responsibility of building a consolidated messaging/notification system, part of my responsibility was working on the SMS segment of the project. &lt;/p&gt;
+
+&lt;p&gt;We use RouteSMS, but unfortunately, RouteSMS does not have any official library for its API. This became apparent after spending a couple of hours googling for a suitable library.&lt;/p&gt;
+
+&lt;p&gt;I took it upon myself to write a simple library that will ease my pain of communicating with their API. Today, I'm making this public with the hope that someone else will find this useful.
+&lt;/p&gt;
+
+&lt;p&gt;Here is the GitHub repo for the library - &lt;a href=&quot;https://github.com/cyberomin/RouteSMS&quot; target=&quot;_blank&quot;&gt;
+https://github.com/cyberomin/RouteSMS&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;
-While 2014 was awesome for some, it didn't quite augur well for the vast majority of others.
-Hackers and script kiddies alike dealt heavy blows on some companies, from Ebay to Target, Sony to Adobe.
-Even SnapChat. While some companies got a fore knowledge of what was to come, some got caught totally unprepared. Both Symantec and LookOut - a mobile security company predicts that these kinds of attacks will even be more widespread come 2015.
+    PS: RouteSMS is an awesome company and I love their services. They are one of the most proactive companies I know.
+    &lt;br/&gt;&lt;em&gt;This is &lt;strong&gt;NOT&lt;/strong&gt; an advert.&lt;/em&gt;
 &lt;/p&gt;
-
-&lt;p&gt;One of the major buzz in technology last year was that of Big Data, companies both large and small are beginning to see the need for Big Data and engineers who understand this turf very well are in high demand. LinkedIn, Facebook, Twitter, Amazon, etc are all investing millions of dollars into this space so as to enable them make sense of all the data we have all willingly thrown at them. The Ebola scourge was already picked weeks before it became a major epidemic. LinkedIn and Facebook are making more intelligent decision based on our network just from the data we hand to them.
-&lt;/p&gt;
-
-&lt;p&gt;
-In a Harvard Business Review feature article, the author had this to say &lt;blockquote&gt;&lt;p&gt;&quot;demand [for data scientists] has raced ahead of supply. Indeed, the shortage of data scientists is becoming a serious constraint in some sectors.&quot;&lt;/p&gt; 
-&lt;footer&gt;&lt;cite title=&quot;Source Title&quot;&gt;
-&lt;a href=&quot;https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/&quot;&gt;Harvard Business Review&lt;/a&gt; - October, 2012.&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The World Economic Forum classifies data as an asset and places it in the same economic class of Gold and Crude.&lt;/p&gt;
-
-&lt;p&gt;2014 could also pass as the year of the sharing economy, Uber,Lyft and AirBnB led the charge this year.
-
-Reminding us that we don't necessarily need to own our cars and houses in other to enjoy the luxuries that comes with them.
-
-The sharing economy is here to stay.
-&lt;/p&gt;
-
-&lt;p&gt;
-In 2014 we saw breakout successes for some companies that went public.
-Notably, the Chinese Internet behemoth, Alibaba, went public in 2014 and raised what has become the largest amount of money by any public company - $24B.
-
-Twitter also did go Public this year and so far Wall Street has been nice to her.
-
-Uber raised an insane amount of money from VCs, approximately $3B with a staggering $40B valuation.
-
-Tencent, the third member of China's oligopoly splashing $600M on Travis' baby.
-
-The company currently operates in over 100 cities around the world. Amidst the bumpy ride, Uber seems to be on a roll.
-The Samwers; Oliver, Marc and Alexander took their Rocket Internet, an infamous clone factory,  public in Berlin.
-&lt;/p&gt;
-
-&lt;p&gt;We also saw strong signals coming in from Asia, Flipkart raised almost $2B at a valuation of $11B, Masayoshi Son's SoftBank, flushed with fresh money from Alibaba's IPO is already investing in India's Ola cabs a Uber-esque service poised to give Uber a run for her money in their home turf. Snapdeal also got in on the show too.&lt;/p&gt;
-
-&lt;p&gt;Cloud computing is here to stay, though the three major players; Amazon, Google and Microsoft will continue to battle for supremacy, under dogs like Digital Ocean, Linode, Rackspace and her likes will continue to carter to the long tail.&lt;/p&gt;
-
-&lt;p&gt;There was so much charter about diversity.
-
-Different interest group spoke about the need to have a uniform or balanced diversity ratio.
-
-Female tech powerhouse like Sheryll Sandberg are already leading the cause.
-&lt;/p&gt;
-
-&lt;p&gt;In the local scene here, a lot has been seen in the consumer Internet space.
-
-eCommerce companies across different verticals seems to have had it smooth last year, from hotel booking, deal site, marketplaces, mobile money, etc.
-
-With the entrants of PayPal and Uber, one can really hope for the best.
-The coming of these companies is a testament to the fact that our market is grown and a validation of what we have to offer.
-
-Konga and Jumia seems to be the breakaway success in the eCommerce space. 
-
-Both companies raising over $100M cumulatively and employing over 1,500 persons between them.
-
-It is also good to point that both companies are barely 3yrs old.&lt;/p&gt;
-
-&lt;p&gt;Konga as a company has enjoyed tremendous success, with her recent Yakata sales, an equivalent of the world renowned Black Friday, she made sales worth N600M ($3.45m) approximately.
-
-Indeed 2014 was a great year but 2015 is going to be a lot more awesome.&lt;/p&gt;
-
-&lt;p&gt;eCommerce will continue to be on the rise with companies now having strong footholds in niche market; Fashion, babies and beauty. Ultimately what will separate the boys from the men in 2015 will be strategy not just pricing and marketing. As Peter Thiel would say, transcend not compete. Transcend…..so we watch out for those that will transcend.&lt;/p&gt;
-
-&lt;p&gt;More money will flow into the consumer Internet space with local VCs and PE firms taking part in this pie.
-
-We might see one exit/acquisition or some form of consolidation.
-
-Traditional companies will look for ways to diversify, the MTN/AIH deal has already shown us what is possible.
-
-Traditional institutions will be shaken up to the point of disruption.&lt;/p&gt;
-
-&lt;p&gt;The growth of mobile will only continue to go North, with efforts from Google (Android One) and Facebook's Internet.org, we can only expect the best.&lt;/p&gt;
-
-&lt;p&gt;While logistics and Payment is still a major factor affecting ecommerce, more companies will emerge to tackle this specific problems.&lt;/p&gt;
-
-&lt;p&gt;We will cross our fingers and hope to see what 2015 has in-store.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 03 May 2015 02:55:00 +0100</pubDate>
-        <link>http://cyberomin.github.io/technology/startups/predictions/2015/05/03/tech-in-2014-and-beyond.html</link>
-        <guid isPermaLink="true">http://cyberomin.github.io/technology/startups/predictions/2015/05/03/tech-in-2014-and-beyond.html</guid>
+        <pubDate>Wed, 17 Jun 2015 05:30:00 +0000</pubDate>
+        <link>http://cyberomin.github.io/vagrant/routesms/2015/06/17/route-sms.html</link>
+        <guid isPermaLink="true">http://cyberomin.github.io/vagrant/routesms/2015/06/17/route-sms.html</guid>
         
         
-        <category>technology</category>
+        <category>vagrant</category>
         
-        <category>startups</category>
-        
-        <category>predictions</category>
-        
-      </item>
-    
-      <item>
-        <title>Divideby2 Algorithm - Decimal to Binary converter</title>
-        <description>&lt;p&gt;Binary (1&amp;#39;s and 0&amp;#39;s), popularly called base-2 (2&lt;sup&gt;n&lt;/sup&gt;) is the core of how computers work. Without it, computers would probably not exist.&lt;/p&gt;
-
-&lt;p&gt;According to Wikipedia?
-&lt;blockquote&gt;
-    A binary number is a number expressed in the binary numeral system, or base-2 numeral system, which represents numeric values using two different symbols: typically 0 (zero) and 1 (one).
-    &lt;footer&gt;Source &lt;cite title=&quot;Source Title&quot;&gt;Wikepedia&lt;/cite&gt;&lt;/footer&gt;
-&lt;/blockquote&gt;&lt;/p&gt;
-
-&lt;p&gt;As humans we have been taught the decimal system otherwise knowmnas base-10 (10&lt;sup&gt;n&lt;/sup&gt;). This is the basis
-with which we represent numbers - 0,1,2,3...9.&lt;/p&gt;
-
-&lt;p&gt;Recently I have the taken time to go back to the fundamentals of Computer Science. Data Structures and
-Algorithm is one part that has been of particular interest. I thought about writing an algorithm that will
-help me convert with ease from one base to the other. I have decided to start with decimal to binary.&lt;/p&gt;
-
-&lt;p&gt;I whiped out an algorithm in Python to solve this problem -&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;remainderDiv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;number&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;number&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;number&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;binaryConvet&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;number&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;remStack&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;number&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;number&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rem&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;remainderDiv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;number&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;remStack&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;append&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;number&lt;/span&gt;
-
-    &lt;span class=&quot;n&quot;&gt;remStack&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;remStack&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[::&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;remStack&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;I basically wrote two functions for abstraction sake. &lt;code&gt;remainderDiv&lt;/code&gt; does two things;
-get a number, perfom an integer division and modulus on the number. &lt;/p&gt;
-
-&lt;p&gt;The second function &lt;code&gt;binaryConvet&lt;/code&gt; takes a number and calls &lt;code&gt;remainderDiv&lt;/code&gt; iteratively
-and it stores the remainder in a list. After the iteration is complete, I do a reversal on the list. With that,
-I have my own home grown binary converter :-).&lt;/p&gt;
-
-&lt;p&gt;Thank you for reading.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 14 Aug 2014 17:19:14 +0100</pubDate>
-        <link>http://cyberomin.github.io/binary/algorithms/2014/08/14/divideby2-deimal-to-binary-convereter.html</link>
-        <guid isPermaLink="true">http://cyberomin.github.io/binary/algorithms/2014/08/14/divideby2-deimal-to-binary-convereter.html</guid>
-        
-        
-        <category>binary</category>
-        
-        <category>algorithms</category>
-        
-      </item>
-    
-      <item>
-        <title>Jaccard Similarity - Clustering for the rest of us!</title>
-        <description>&lt;p&gt;Have you ever wondered how Facebook knows which post is similar to which?
-If you have 2 or more friends posting the same link to an article, Facebook will intelligently
-group these two articles into one single feed. Well, Facebook uses some sort of clustering algorithm and Jaccard is one of them.&lt;/p&gt;
-
-&lt;p&gt;What is Jaccard Coefficient or Jaccard Similarity?
-&lt;blockquote&gt;
-    The Jaccard index, also known as the Jaccard similarity coefficient (originally coined coefficient de communauté by Paul Jaccard), is a statistic used for comparing the similarity and diversity of sample sets. The Jaccard coefficient measures similarity between finite sample sets, and is defined as the size of the intersection divided by the size of the union of the sample sets: J(A,B) = |A n B|/|A uB|.
-    &lt;footer&gt;Source&lt;cite title=&quot;Source Title&quot;&gt;Wikepedia&lt;/cite&gt;&lt;/footer&gt;
-&lt;/blockquote&gt;&lt;/p&gt;
-
-&lt;p&gt;I whiped out a small Python script to illustrate this point -&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;__future__&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;division&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Jaccard&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt;  &lt;span class=&quot;nf&quot;&gt;__init__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;args_ii&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;args&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tokenize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;args_ii&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tokenize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;args_ii&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;intersect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;args&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;args_ii&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;union&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;args&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;args_ii&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;similarity&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;intersect&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;intersect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;union&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;union&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;intersect&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;union&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;intersect&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;union&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;distance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;similarity&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;tokenize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lower&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot; &amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;jaccard&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Jaccard&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;I am Sam&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;I am Sam, Sa is awesome. Sam is a genius&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;similarity&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;jaccard&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;similarity&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;similarity&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;
-    From the class above, I decided to break down into tiny bits - functions/methods.&lt;br&gt;&lt;br&gt;
-
-    We are using two sentences here for our test.&lt;br&gt;
-    1. We tokenize each sentence. We basically made them into sets.&lt;br&gt;
-    2. We calculate the intesection of these sentences.&lt;br&gt;
-    3. We calculate the union of the sentences.&lt;br&gt;
-    4. We calculate the similarity which is basically the division of the intersection of both sets by its union.&lt;br&gt;
-
-    Simple right? Jaccard only needs two variables, the union and intersection of both sets.
-&lt;/p&gt;
-
-&lt;p&gt;Similarity ranges between 1 and 0. Anything outside that is probably wrong :-).&lt;/p&gt;
-
-&lt;p&gt;Why should you care?
-&lt;ul&gt;
-    &lt;li&gt;
-        Ecommerce companies uses Jaccard Similarity to recommend items and deals to customer based on the purchases made by other customers. &lt;em&gt;(Disclaimer - I work for an eCommerce company)&lt;/em&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-        This algorithm can be used to detect plagiarism.
-    &lt;/li&gt;
-    &lt;li&gt;
-        Similar comments in an online forum can be grouped together.
-    &lt;/li&gt;
-    &lt;li&gt;
-        Search engines use this same algorithm to group and sometimes discard similar search results.
-    &lt;/li&gt;
-&lt;/ul&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 Jun 2014 17:19:14 +0100</pubDate>
-        <link>http://cyberomin.github.io/clustering/algorithms/2014/06/10/jaccard-coefficient.html</link>
-        <guid isPermaLink="true">http://cyberomin.github.io/clustering/algorithms/2014/06/10/jaccard-coefficient.html</guid>
-        
-        
-        <category>clustering</category>
-        
-        <category>algorithms</category>
-        
-      </item>
-    
-      <item>
-        <title>Nerdiest Birthday Ever</title>
-        <description>&lt;p&gt;So yesterday, May 9th, was my birthday and my good people at work made it really special.
-Below are some of the nerdiest messages that I got. I just love my folks. They know how to make me smile.
-Enjoy.&lt;/p&gt;
-
-&lt;p&gt;Tega&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;java&quot;&gt;&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mktime&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;23&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;59&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;59&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;05&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;09&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2014&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;happyBirthdayCelestine&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Oladayo Raji&lt;br&gt;
-&lt;pre&gt;Happy Birthday Bro. More Python to your brain&lt;/pre&gt;&lt;/p&gt;
-
-&lt;p&gt;Abiola Ibrahim&lt;br&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;javascript&quot;&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;().&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Unix&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1399622838&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Now&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;().&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Unix&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1399709236&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;fmt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Happy Birthday %s %s %n&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Celestine&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Omin&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;//Don&amp;#39;t ask me which Language.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Adeyemi Olaoye &lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;java&quot;&gt;&lt;span class=&quot;n&quot;&gt;BirthdayNotifier&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;shout&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Happy Birthday Celestine&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;:D&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Oluwafemi Adeosun &lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;php&quot;&gt;&lt;span class=&quot;x&quot;&gt;Edit Rule&lt;/span&gt;
-
-&lt;span class=&quot;x&quot;&gt; equals celestine&lt;/span&gt;
-
-&lt;span class=&quot;x&quot;&gt;TAG Rule 00110&lt;/span&gt;
-
-&lt;span class=&quot;x&quot;&gt;Fire Rule on&lt;/span&gt;
-
-&lt;span class=&quot;x&quot;&gt; equals /\^birthday^/\&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;b&gt;Kaine Ugwu&lt;/b&gt; &lt;small&gt;James Gosling&amp;#39;s protege&lt;/small&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;java&quot;&gt;&lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Happy Birthday [Celestine]&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;b&gt;Jacob Ayokunle&lt;/b&gt; &lt;small&gt;Who does code review again for Jacob :-)&lt;/small&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;php&quot;&gt;&lt;span class=&quot;x&quot;&gt;if(today == May 9, 2014)&lt;/span&gt;
-&lt;span class=&quot;x&quot;&gt;{&lt;/span&gt;
-&lt;span class=&quot;x&quot;&gt;     Happy Birthday Celestine;&lt;/span&gt;
-&lt;span class=&quot;x&quot;&gt;     Long Life and Prosperity&lt;/span&gt;
-&lt;span class=&quot;x&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;b&gt;Adeyemi Olaoye&lt;/b&gt; &lt;small&gt;Bug spotter.&lt;/small&gt;
-&lt;pre&gt;
-@Jacob
-PHP Notice:
-Syntax error on line 1. :D
-&lt;/pre&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;p&gt;&lt;b&gt;Omoloro Oyegoke&lt;/b&gt; - &lt;small&gt;The Planner&lt;/small&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;php&quot;&gt;&lt;span class=&quot;x&quot;&gt;/**&lt;/span&gt;
-&lt;span class=&quot;x&quot;&gt;*TODO: Wish Celestine a very happy birthday in a cool geeky way Post-MVP&lt;/span&gt;
-&lt;span class=&quot;x&quot;&gt;*&lt;/span&gt;
-&lt;span class=&quot;x&quot;&gt;*/&lt;/span&gt;
-&lt;span class=&quot;x&quot;&gt;echo &amp;quot;Happy Birthday Obong&amp;quot;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Obasa Adegoke&lt;/strong&gt; &lt;small&gt;The Terminal god and earlang show-off&lt;/small&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;erlang&quot;&gt;&lt;span class=&quot;sc&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;vim&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;happy_birthday&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;erl&lt;/span&gt;
-
-&lt;span class=&quot;c&quot;&gt;% happy birthday program&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;ni&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;happy_birthday&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;ni&quot;&gt;export&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]).&lt;/span&gt;
-
-&lt;span class=&quot;nf&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nn&quot;&gt;io&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;fwrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Happy Birthday BOSS!!!&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;More Codes To Your Gloves. God Bless You&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;% :) :D&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;b&gt;Oyewale Oyediran&lt;/b&gt; &lt;small&gt;The Scalability buff&lt;/small&gt;
-&lt;pre&gt;
-Happy Birthday Master-chief.
-I wish you very scalable birthdays with high-performance success in life.
-&lt;/pre&gt;&lt;/p&gt;
-
-&lt;p&gt;Yours truly&lt;br&gt;
-&lt;b&gt;Celestine Omin&lt;/b&gt; &lt;small&gt;The Bash wannabe&lt;/small&gt; &lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;&lt;span class=&quot;c&quot;&gt;#!/bin/sh&lt;/span&gt;
-&lt;span class=&quot;nv&quot;&gt;today&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;date +%Y-%m-%d&lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Thank You all. I love you $today and always.&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-</description>
-        <pubDate>Sat, 10 May 2014 11:51:14 +0100</pubDate>
-        <link>http://cyberomin.github.io/birthday/2014/05/10/nerdiest-birthday-ever.html</link>
-        <guid isPermaLink="true">http://cyberomin.github.io/birthday/2014/05/10/nerdiest-birthday-ever.html</guid>
-        
-        
-        <category>birthday</category>
-        
-      </item>
-    
-      <item>
-        <title>!important</title>
-        <description>&lt;p&gt;One of my primary task at my day job is sending out daily newsletter to our teeming customers. As with every other thing web, I have to test my letters across multiple clients: web, mobile and desktop/native.&lt;/p&gt;
-
-&lt;p&gt;Google in its infinite wisdom decided to re-colour my links even down to plain text. If you have ever dealt with newsletters you will know that there isn’t so much flexibility - 600px max-width, inline CSS and loads of tables. Let’s not get started on mobile devices, that’s a post for another day.&lt;/p&gt;
-
-&lt;p&gt;I spent days trying to figure out what I did or was doing wrong. Why can’t things like links be any simpler? Google why try to complicate my life? &lt;em&gt;Don’t be Evil&lt;/em&gt; - pun intended. Y!, Hotmail and co will render just fine, Google? No.&lt;/p&gt;
-
-&lt;p&gt;We all have heard about the buzz phrase “best practices, right?” I have. That said, many scholars and “experts” will cuss and swear if you ever mentioned you  use(d) &lt;strong&gt;!important&lt;/strong&gt; in your style sheet. You are automatically labeled an outcast. &lt;/p&gt;
-
-&lt;p&gt;Now here’s the thing, I work at a company that defies the status quo. We believe in done is better than perfect, with this in mind I threw away my best practices hat. I used &lt;strong&gt;!important&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;#000&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;imprtant&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Boom, Google got the message. My letter now have a similar resemblance with my mock-ups. &lt;/p&gt;
-
-&lt;p&gt;So, when next you are faced with these kinds of issues, bite the bullet and throw away the “best practices” hat. Become the rebel. Use &lt;b&gt;!important&lt;/b&gt;. :-)&lt;/p&gt;
-</description>
-        <pubDate>Tue, 06 May 2014 13:14:14 +0100</pubDate>
-        <link>http://cyberomin.github.io/css/2014/05/06/important.html</link>
-        <guid isPermaLink="true">http://cyberomin.github.io/css/2014/05/06/important.html</guid>
-        
-        
-        <category>css</category>
+        <category>routesms</category>
         
       </item>
     
