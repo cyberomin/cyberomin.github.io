@@ -5,8 +5,8 @@ date:   2015-10-06 12:18:00
 categories: startup
 description: "What matters most to a brand new startup?"
 ---
-<img src="https://www.startupvitamins.com/media/products/10261/variant_801.jpg"/>
-Credit: Startup Vitamins
+<img src="https://www.startupvitamins.com/media/products/10261/variant_801.jpg"/><br/>
+<small>Credit: Startup Vitamins</small>
 <blockquote>
 	<p>First make it work, then make it right, then make it fast.</p>
 	<footer>Kent Beck</footer>
@@ -18,8 +18,8 @@ Credit: Startup Vitamins
 
 <p>In the startup world, especially in emerging markets like Nigeria, getting your product out fast and testing it in the marketplace cannot be over emphasised. The whole idea of technical startup and digitisation, while not exactly new, our counter parts in the West have had over 20yrs head start before us. In this market, you have to, not just build, but also reorient people on why they should abandon their old, tried and tested ways of doing things to embrace this new shiny idea of yours. Getting to the market fast shouldn’t be taken lightly.</p>
 
-<img src="http://41.media.tumblr.com/tumblr_l63ltpE9ZZ1qz6pqio1_500.png" />
-Credit: Startup quote.
+<img src="http://41.media.tumblr.com/tumblr_l63ltpE9ZZ1qz6pqio1_500.png" /><br/>
+<small>Credit: Startup quote.</small>
 <p>Reid Hoffman, founder of LinkedIn, once said <strong>"if you are not embarrassed by the first version of your product, you’ve launched too late."</strong> Speed and first mover advantage will win always. Not surprised he (Reid) is currently teaching a class on Blitzscaling at Stanford.</p>
 
 <p>We have all heard it time without number that the customer doesn’t care what is happening under the hood. He or she isn’t interested in knowing if your data store is an RDMS or a NoSQL data store. If your operating system is a Unix flavoured OS or a Windows server. He isn’t even interested in knowing if you wrote your stylesheet in vanilla CSS or you did go the Sass or Less route. He is interested in 2 things. 1. Does it work? 2. Will it solve my problems?</p>
