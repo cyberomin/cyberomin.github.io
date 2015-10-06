@@ -9,7 +9,7 @@ description: "How to use Jekyll with vagrant."
 <p>If you have been following my Twitter timeline for a while now, you will notice my unwavering love for Vagrant. To think that this technology has existed for almost 5yrs now and I’m only getting to use it is beyond me.</p>
 
 <p><strong>Context</strong><br/>
-A little bit of background knowledge, Vagrant is this is awesome tool that was started by Mitchell Hashimoto, vagrant helps you configure and provision disposable virtual development environment. At its core, it help solves the excuse of it works on my machine.</p>
+A little bit of background knowledge, Vagrant is this awesome tool that was started by Mitchell Hashimoto, vagrant helps you configure and provision disposable virtual development environment. At its core, it help solves the excuse of <i>it works on my machine.</i></p>
 
 <p>
 I gush about the awesomeness of Vagrant like every other day. Vagrant is a life saver.
@@ -29,7 +29,7 @@ Vagrant.configure(2) do |config|
   config.vm.hostname = "cyberomin.blog"
   config.vm.network "forwarded_port", guest: 4000, host: 4000
   config.vm.provision :shell, :path => "vagrant/setup.sh"
-  config.vm.synced_folder ".", "/vagrant", group: "www-data", owner: "www-data", :mount_options => [ "dmode=777", "fmode=777" ]
+  config.vm.synced_folder ".", "/vagrant", group: "www-data", owner: "www-data"
 
   config.vm.provider "virtualbox" do |vb|
     vb.name = "CyberOmin Blog"
@@ -70,3 +70,6 @@ its dependencies. I added <code>--no-rdoc</code> flag that tells the installatio
 <p>
 With the steps above, I now have a ready and fully functional box that I can call up and destroy at will.
 </p>
+
+The result is what we have here
+<img src="{{ site.url }}/assets/article_images/vagrant/blog.png"/ style="width:400px; height:auto;">
