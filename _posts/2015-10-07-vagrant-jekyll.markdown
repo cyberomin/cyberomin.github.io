@@ -72,4 +72,4 @@ With the steps above, I now have a ready and fully functional box that I can cal
 </p>
 
 The result is what we have here
-<img src="{{ site.url }}/assets/article_images/vagrant/blog.png"/ style="width:400px; height:auto;">
+<img src="{{ site.url }}/assets/article_images/vagrant/blog.png"/ style="width:700px; height:auto;">
