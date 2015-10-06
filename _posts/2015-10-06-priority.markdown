@@ -12,7 +12,7 @@ description: "What matters most to a brand new startup?"
 	<footer>Kent Beck</footer>
 </blockquote>
 
-<p>Last week, I had a rather interesting and illuminating discussion with someone. Our discussion bothered on some core concept that almost every startup will deal with at some point; over engineering and time to market.</p>
+<p>Last week, I had a rather interesting and illuminating discussion with someone. Our discussion bothered on some core concepts that almost every startup will deal with at some point; over engineering and time to market.</p>
 
 <p>While I argued that getting your product quickly out of the door and testing market fit should take priority for every single startup, especially the ones venturing into new territories, my <i>friend</i> was of the opinion that getting engineering right from the onset before any thing should be the focal point. His concern was simple, fix the engineering problem and save yourself from technical debt.</p>
 
@@ -22,9 +22,9 @@ description: "What matters most to a brand new startup?"
 <small>Credit: Startup quote.</small>
 <p>Reid Hoffman, founder of LinkedIn, once said <strong>"if you are not embarrassed by the first version of your product, you’ve launched too late."</strong> Speed and first mover advantage will win always. Not surprised he (Reid) is currently teaching a class on Blitzscaling at Stanford.</p>
 
-<p>We have all heard it time without number that the customer doesn’t care what is happening under the hood. He or she isn’t interested in knowing if your data store is an RDMS or a NoSQL data store. If your operating system is a Unix flavoured OS or a Windows server. He isn’t even interested in knowing if you wrote your stylesheet in vanilla CSS or you did go the Sass or Less route. He is interested in 2 things. 1. Does it work? 2. Will it solve my problems?</p>
+<p>We have all heard it time without number that the customer doesn’t care what is happening under the hood. He or she isn’t interested in knowing if your data store is an RDBMS or a NoSQL data store. If your operating system is a Unix flavoured OS or a Windows server. He isn’t even interested in knowing if you wrote your stylesheet in vanilla CSS or you did go the Sass or Less route. He is interested in 2 things. 1. Does it work? 2. Will it solve my problems?</p>
 
-<p>While writing scalable software and codes cannot be ignored, it is imperative to note that if your product doesn’t gain market acceptability you are doomed. Dead. Your super sleek MEAN(Mongo, Express, Angular, Node) based app that runs on 4 Amazon M3 large instances with an elastic load balancer in front of them all using a MySQL RDS and a read replica will come to nut. Nothing. No body cares.</p>
+<p>While writing scalable software and code cannot be ignored, it is imperative to note that if your product doesn’t gain market acceptability you are doomed. Dead. Your super sleek MEAN(Mongo, Express, Angular, Node) based app that runs on 4 Amazon M3 large instances with an elastic load balancer in front of them all using a MySQL RDS and a read replica will come to nut. Nothing. No body cares.</p>
 
 <p><strong>Product before engineering</strong>
 Every hyper growth startup today all started with less over engineering and in some cases monoliths; Netflix, Uber, Sportify, Dropbox, Twitter etc all ran really large systems and in most cases all in one machine. They were all super focused on the products. They all bothered about sleek engineering after they got a strong foot hold in the market. Today, all of these startup have broken things down in favour of micro services (smaller units of systems). You could argue that Travis Kalanic, CEO of Uber, isn’t an engineer, but I don’t think he bothered so much on how the first commit of the Uber codebase looked like. He just wanted a service that can/will allow users hail taxis using their mobile phone. Uber today is a ~$40B company, they can afford a star studded engineering team. Heck, they poached almost all the scientist/engineers working on the self driving car project at Carnegie Mellon University.</p>
@@ -46,4 +46,4 @@ I understand why my <i>friend</i> favoured micro services and doing things right
 
 <p>I live by this quote by Kent Beck - “First make it work, then make it right, then make it fast.”</p>
 
-<p>A friend of mine just got into Techstars, his <a href="http://max.ng" target="_blank">starup</a> has a lot to prove. Awesome engineering skills isn’t one of them.</p>
+<p>A friend of mine just got into Techstars, his <a href="http://max.ng" target="_blank">startup</a> has a lot to prove. Awesome engineering skills isn’t one of them.</p>
