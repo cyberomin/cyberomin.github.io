@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"group":"www-data","owner":"www-data","mount_options":["dmode=777","fmode=777"],"guestpath":"/vagrant","hostpath":"/Users/celestine/www/cyberomin.github.io","disabled":false}}}
