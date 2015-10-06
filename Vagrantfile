@@ -8,7 +8,7 @@ Vagrant.configure(2) do |config|
   config.vm.network "forwarded_port", guest: 4000, host: 4000
   config.vm.provision :shell, :path => "vagrant/setup.sh"
   #config.vm.network :private_network, ip: "192.168.56.101"
-  config.vm.synced_folder ".", "~/", group: "www-data", owner: "www-data", :mount_options => [ "dmode=777", "fmode=777" ]
+  config.vm.synced_folder ".", "/", group: "www-data", owner: "www-data", :mount_options => [ "dmode=777", "fmode=777" ]
 
   config.vm.provider "virtualbox" do |vb|
     vb.name = "CyberOmin Blog"
