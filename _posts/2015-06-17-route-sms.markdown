@@ -15,8 +15,11 @@ If you have ever worked with RouteSMS' HTTP API, I am sure you probably have ran
 <p>I took it upon myself to write a simple library that will ease my pain of communicating with their API. Today, I'm making this public with the hope that someone else will find this useful.
 </p>
 
-<p>Here is the GitHub repo for the library - <a href="https://github.com/cyberomin/RouteSMS" target="_blank">
+<p>Here is the GitHub repo for the Python client library - <a href="https://github.com/cyberomin/RouteSMS" target="_blank">
 https://github.com/cyberomin/RouteSMS</a></p>
+
+<p>Here is the GitHub repo for the PHP client library - <a href="https://github.com/cyberomin/RouteSMS-PHP" target="_blank">
+https://github.com/cyberomin/RouteSMS-PHP</a></p>
 
 <p>
 	PS: RouteSMS is an awesome company and I love their services. They are one of the most proactive companies I know.
