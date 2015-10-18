@@ -8,9 +8,10 @@ description: "Fixing the server_names_hash_bucket_size problem in Nginx"
 
 Today I ran into an issue with Nginx. Nginx automatically shut down on me when I added a new virtual host to it.
 Upon checking the error log, I this error:
+
+
 ```
-2015/10/18 11:51:40 [emerg] 26332#0: could not build the server_names_hash, you should increase server_names_hash_bucket_size: 32
-2015/10/18 11:51:54 [emerg] 26367#0: could not build the server_names_hash, you should increase server_names_hash_bucket_size: 32
+could not build the server_names_hash, you should increase server_names_hash_bucket_size: 32
 ```
 
 This means there was an issue with the nginx server name hashes.
