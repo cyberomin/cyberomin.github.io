@@ -2,7 +2,7 @@
 layout: post
 title:  "Uyo DevFest, Git and GitHub"
 date:   2015-11-22 04:05:00
-categories: conference, talk
+categories: conference talk
 description: "Over the last one year, I have had the opportunity to preach the gospel of Git and GitHub in different conferences and meetings across Nigeria. From organising the Lagos GitHub Meetup to speaking at Google Developer Groups events and Dev Festivals."
 ---
 
