@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Fixing the server_names_hash_bucket_size problem in Nginx"
-date:   2015-10-18 01:09:00
-categories: tips, nginx
-description: "Fixing the server_names_hash_bucket_size problem in Nginx"
+title:  "Uyo DevFest, Git and GitHub"
+date:   2015-11-22 04:05:00
+categories: conference, talk
+description: "Over the last one year, I have had the opportunity to preach the gospel of Git and GitHub in different conferences and meetings across Nigeria. From organising the Lagos GitHub Meetup to speaking at Google Developer Groups events and Dev Festivals."
 ---
 
-Over the last one year, I have had the opportunity to preach the gospel of Git and GitHub in different conferences and meetings across Nigeria. From organising the [Lagos GitHub Meetup](http://lagosmeet.github.io/) to speaking at Google Developer Groups events and Dev Festivals.
+Over the last one year, I have had the opportunity to preach the gospel of Git and GitHub in different conferences and meetings across Nigeria. From organising the [Lagos GitHub Meetup](http://lagosmeet.github.io/) to speaking at [Google Developer Groups](http://devblog.gdglagos.com/2015/07/git-with-programme-this-saturday.html) events and [Dev Festivals](http://devfestse.com/#!/speakers/4).
 
-I have also tutored at an event geared towards tech diversity and inclusion like the Rails Girls meetup. The journey thus far has been amazing. The enthusiasm with which participants accept these meetings is nothing short of awesome.
+I have also tutored at an event geared towards tech diversity and inclusion like the [Rails Girls meetup](http://railsgirls.com/lagos). The journey thus far has been amazing. The enthusiasm with which participants accept these meetings is nothing short of awesome.
 
 This past weekend I was in Uyo, Akwa Ibom State, to speak to about 300 persons about Git and GitHub. The Uyo GDG(Google Developer Group), organised what I’ll call the biggest and largest technology event in both the South-South and South Eastern zone of the country.
 
@@ -26,7 +26,7 @@ An app called AKTrivia, a trivia game that test your knowledge of Akwa Ibom stat
 
 It is awesome to watch the amazing things coming out of this city. My talk lasted for about 40min. I introduced the participants to git, GitHub and the whole concept of distributed version control system. We talked about simple everyday commands like git add ., git commit and how to use a cloud git server like GitHub.
 
-A participant asked how non-software engineers can use git and GitHub. I took the opportunity to brush through the concept of Git Large Filesystem.
+A participant asked how non-software engineers can use git and GitHub. I took the opportunity to brush through the concept of [Git Large File Storage](https://git-lfs.github.com/).
 
 All I can say that tech and the startup culture is catching up really fast. We just need to fan the flames a little more.
 
