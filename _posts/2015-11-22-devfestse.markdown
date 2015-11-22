@@ -24,7 +24,7 @@ Another app called House Girl was demonstrated. This app is our own version of H
 
 An app called AKTrivia, a trivia game that test your knowledge of Akwa Ibom state was also presented. What amazed me most of this particular app was that it was presented by a 9yr old.
 
-It is awesome to watch the amazing things coming out of this city. My talk lasted for about 40min. I introduced the participants to git, GitHub and the whole concept of distributed version control system. We talked about simple everyday commands like git add ., git commit and how to use a cloud git server like GitHub.
+It is awesome to watch the amazing things coming out of this city. My talk lasted for about 40min. I introduced the participants to git, GitHub and the whole concept of distributed version control system. We talked about simple everyday commands like `git add .`, `git commit` and how to use a cloud git server like [GitHub](http://github.com).
 
 A participant asked how non-software engineers can use git and GitHub. I took the opportunity to brush through the concept of [Git Large File Storage](https://git-lfs.github.com/).
 
