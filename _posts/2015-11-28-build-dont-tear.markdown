@@ -2,7 +2,7 @@
 layout: post
 title:  "Build, don't destroy"
 date:   2015-11-28 12:40:00
-categories: conference talk
+categories: ecosystem
 description: "In the last couple of days, there have a been a barrage of tweets from *experts* about all that is wrong with the current tech(read startup) in Nigeria. I have followed these tweets with keen interest. What’s amazing or rather amusing about those calling the new generation technologist and startups out is that one can’t easily point to what they are doing, have done or their singular efforts to move this community forward"
 ---
 
