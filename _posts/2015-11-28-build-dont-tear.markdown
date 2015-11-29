@@ -6,11 +6,18 @@ categories: ecosystem
 description: "In the last couple of days, there have a been a barrage of tweets from *experts* about all that is wrong with the current tech(read startup) in Nigeria. I have followed these tweets with keen interest. What’s amazing or rather amusing about those calling the new generation technologist and startups out is that one can’t easily point to what they are doing, have done or their singular efforts to move this community forward"
 ---
 
+<blockquote>
+	<p>
+		First they ignore you, then they laugh at you, then they fight you, then you win.
+	</p>
+	<footer>Mahatma Gandhi</footer>
+</blockquote>
+
 In the last couple of days, there have a been a barrage of tweets from *experts* about all that is wrong with the current tech(read startup) in Nigeria. I have followed these tweets with keen interest. What’s amazing or rather amusing about those calling the new generation technologist and startups out is that one can’t easily point to what they are doing, have done or their singular efforts to move this community forward.
 
 The conversation started from why Yaba and Lagos at large aren't an ideal place to run a startup to how every startup today runs on either failed or untested business models. To who is qualified to be called a tech company and how the current breed of software engineers and developers is bereft of direction, saucy and without mentorship. I find these things annoying and exhausting.
 
-A couple of days ago, I read a beautiful [post from M.G Siegler](https://500ish.com/first-61858a79d6de#.fn1be3efo), a general partner at Google Ventures. In his post, Siegler opened it with a catchy subtitle - what you are working on sucks, give up, they said. Siegler talked about the struggles of Facebook, to that of Square and how people deride Uber and Instagram as stupid and doomed ideas. Sadly, I’m beginning to see the same attitude back home.
+A couple of days ago, I read a beautiful [post from M.G Siegler](https://500ish.com/first-61858a79d6de#.fn1be3efo), a general partner at Google Ventures. In his post, Siegler opened it with a catchy subtitle - *what you are working on sucks, give up, they said*. Siegler talked about the struggles of Facebook, to that of Square and how people deride Uber and Instagram as stupid and doomed ideas. Sadly, I’m beginning to see the same attitude back home.
 
 It’s hard to run a business in Nigeria, harder to run a tech company in this country. The challenges, though surmountable, is enough to bury the faint hearted. Power, bandwidth, skyrocketing rent, human capital are some of the things you have to deal with. The least anyone can do for those slugging it out daily is to at least encourage them or just let them be all together. There is a fine line between healthy criticism and outrightly lambasting someone else’ work. If you think there’s a gap in the market and the current players leave so much to be desired of their current services, do the honourable thing, roll your sleeves and jump in. Simple. The best form of criticism is building/offering a better and more competitive service.
 
