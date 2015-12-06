@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "We all don't know what we are doing..."
+date:   2015-12-07 12:00:00
+categories: startup
+description: "From the outside, it always looks like people have it all figured out and they are just riding the wave. But the reality is, they are just failing fast and learning from the experience as they go on. "
+---
+
+From the outside, it always looks like people have it all figured out and they are just riding the wave. But the reality is, they are just failing fast and learning from the experience as they go on. 
+
+Mark Zuckerberg, Brian Chesky and a host of other CEOs doing amazing jobs are all first timers. They have all had to figure things out and sift what works from what doesn't, little wonder Facebook favours "the move fast, break things and the done is better than perfect" mantra. *We don’t know what we are doing.*
+
+When Konga opened formally for business on the 10th of July 2012, we started out with categories that we thought would help us hit a home run, categories that would possibly give us a leg up in the market. *We were wrong. We didn’t know what we were doing.*
+
+Konga started out selling beauty and personal care products in addition to the baby, kids and toy items, the rationale was simple; get the women, who incidentally are the drivers of household spend to be interested in your brand then upsell them on other categories. Simple. It turns out, that wasn't the case, though the two categories we started out with did quite well, we scored a better home run with the electronics category; mobile phones, laptops, etc.
+
+Often times people go into businesses and other endeavours with a very faint idea of what they think the outcome will be, albeit with informed decisions based on trends and existing data. We seldom forget that our ideas, no matter how awesome they sound and look on paper will be tested in the marketplace. *Nobody knows what they are doing.*
+
+When I wanted to get married, I remember vaguely someone asking the question - what do you know about marriage? - my response at the time was simple; I don't know anything, I will figure it out as I go. 
+
+So many startups, especially those in the emerging markets, don't know what they are doing, not because they are totally oblivious of the realities and choose to ignore them, a larger part of the founders time will be spent making gut calls. The belief is often simple - just get in, things will even out. We run in a market(emerging market) without existing frameworks, no blueprints and worst of all. The only way to survive here is to follow your intuition and guts. *We don't know what we are doing.*
+
+About two months into Konga's operation, the Lagos State Government placed a band on motorcycles. Nobody ever anticipated this. We had, at the time invested in about 20 motorcycles or there about and to watch these supposed assets become dead assets on arrival was rather unsettling. How do you navigate this issue? How do you properly serve a market that still has logistics plaguing it? You have to figure this out yourself. Follow your guts, there are no existing models. *Nobody knows what they are doing*
+
+In November 2013, we pioneered *Yakata* — our own adaptation of Black Friday — mind you, this was the first of its kind in Nigeria. We had planned, prepared and drawn all our projections. We estimated that at best we will get quadruple of our regular traffic, we couldn't be more wrong. On the day of the sale, something interesting happened, between 9 AM  and noon we had beaten our estimates and traffic grew 16 times, nobody saw this coming, consequently, our infrastructure fell over. Even though we had planned, we still didn't know what will hit us. *We didn't know what were doing.*
+
+Yakata 2015 has come and gone, like every other one before now, we have interesting tales. Around August this year, we started moving towards the paradigm of microservices, Konga hitherto had been running on the monolithic Magento system, while the product has served us well, we have also stretched it beyond its capacity. It only made sense to decouple it and break it down into microservices; order service, inventory service, catalogue, notification, wishlist, seller ratings, etc. We decided to move away from PHP and go the Node route, there was a little bit of uncertainty, no one in the team had experience running Node under high traffic, we didn't know what we were doing, but we went ahead nonetheless. Here is what we found out, Node outperformed PHP with the same resources. Our services though running on our busiest days(Yakata) of the year didn't flinch for a second. It shattered all our previous assumptions and made us increasingly confident on so many things. Nobody saw this coming. We didn't know what were doing. But we went ahead regardless.
+
+Google created Buzz, Wave and still killed it? Why? I guess you would have figured it, you don’t kill a product that’s excelling in the marketplace. Fab, though defunct, never started out as a flash sale company. It started out as a dating site for gay men. The company pivoted when things didn’t quite pan out well for its gay site. If Jason had foreknowledge, I guess he would have created a flash sale site from the get-go. Amazon pulled the plug on Fire Phone not because the Fire Phone was killing it in the marketplace, but because the phone performed below par. *We all don’t know what we are doing.*
+
+It is easy to look at those you admire and get overwhelmed, especially when you look at what they have achieved in comparison to yourself, you could quickly and easily retire into your shell. The amazing CEO, operations expert and that manager you see and admire didn’t get there by understanding all that this new position will entail. They simply jumped into the deep end and believed that things will sort themselves as they go. We only grow when we step out of our comfort zone. It's impossible to see all the troubles that really lies ahead. Jump in, because, we all don’t know what we are doing.
+
+Personally, I’ve blown opportunities, not because it was my initial intention, but because I just didn’t know better. I’ve learned from it and made significant progress as an individual and a professional. My job consistently involves stepping out and going beyond my limit, doing things I hitherto thought I couldn’t do. I always don’t get it right, but I remind myself that those that did it before me probably didn’t know much, they figured it out. As such, it becomes part of my duty to figure things out and forged ahead, because, we all don’t know what we are doing. 
