@@ -14,3 +14,5 @@ Stock Exchange. He is also the convener of [The Lagos GitHub meetup](http://lago
 Prior to Konga, Celestine worked at a law firm where he lead the development of an electronic law management system.
 
 He is a University of Calabar graduate, he enjoys the game of table tennis and [@cyberomin](https://twitter.com/cyberomin) on Twitter.
+
+You want to talk? [Email me.](celestineomin@gmail.com)
