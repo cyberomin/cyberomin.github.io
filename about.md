@@ -15,4 +15,4 @@ Prior to Konga, Celestine worked at a law firm where he lead the development of 
 
 He is a University of Calabar graduate, he enjoys the game of table tennis and [@cyberomin](https://twitter.com/cyberomin) on Twitter.
 
-You want to talk? [Email me.](celestineomin@gmail.com)
+You want to talk? [Email me.](mailto:celestineomin@gmail.com)
