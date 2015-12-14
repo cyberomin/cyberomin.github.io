@@ -12,7 +12,7 @@ Yakata 2015 has come and gone, but the events leading to this momentous day will
 The engineering team at Konga, without mincing words, made giant leaps. We stepped out of our comfort zones and challenged the status quo. We built new services(we’re moving towards microservices) and improved on other critical parts of our systems, example monitoring.
 
 ### A brief of what we did:
-- We made conscious efforts to move away from Magento(monoliths) in favour micro services - catalog and rendering service.
+- We made conscious efforts to move away from Magento(monoliths) in favour microservices - catalog and rendering services.
 - We reworked on Hermes, our in-house notification as a service system.
 - We swapped core components from PHP in favour of Node JS.
 - We moved search from SOLR to Elastisearch.
