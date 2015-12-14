@@ -21,7 +21,7 @@ With all these changes made, we couldn’t be happier with the outcome. Our syst
 
 The icing on the cake for us all came from our customers and merchants, they were visibly delighted with the event. Some merchants did 10x their usual daily trade volume. Across all categories — fashion through electronics, merchants recorded significant success and contributed over N500M to the overall GMV during the sales period.
 
-In the first 4hrs of the sale, Konga recorded over N110,000,000 worth of orders placed. Traffic for this same period twice what we had in the previous year.
+In the first 4hrs of the sale, Konga recorded over N110,000,000 worth of orders placed. Traffic for this same period was twice what we recorded in the previous year.
 
 Below are some of the testimonials that came in:
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">I sold 110 laptops yesterday. I normally sell about 10 a day... That was a huge jump. Thank you Konga. (Maxitech Global) <a href="https://twitter.com/hashtag/yakata?src=hash">#yakata</a></p>&mdash; SS (@SimShagaya) <a href="https://twitter.com/SimShagaya/status/671672982184566785">December 1, 2015</a></blockquote>
