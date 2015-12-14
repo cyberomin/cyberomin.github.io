@@ -9,11 +9,11 @@ description: "Yakata 2015 has come and gone, but the events leading to this mome
 <img src="{{ site.url }}/assets/article_images/yakata-2015/yakata.jpg"/>
 
 Yakata 2015 has come and gone, but the events leading to this momentous day will forever be etched in our memories.
-The engineering team at Konga, without mincing words, made giant leaps. Stepped out of our comfort zones and challenged the status quo. We built new services(we’re moving towards micro services) and improved on our monitoring.
+The engineering team at Konga, without mincing words, made giant leaps. Stepped out of our comfort zones and challenged the status quo. We built new services(we’re moving towards microservices) and improved on our monitoring.
 
 ### A brief of what we did:
 - We made conscious efforts to move away from Magento(monoliths) in favour micro services - catalog and rendering service.
-- We reworked on Hermes, our in-house notification as as a service system.
+- We reworked on Hermes, our in-house notification as a service system.
 - We swapped core components from PHP in favour of Node JS.
 - We moved search from SOLR to Elastisearch.
 
@@ -42,20 +42,20 @@ A particular merchant sold N600,000 worth of watches in 48hrs.
 
 During all of these, KongaPay, Konga’s payment in-house system processed more transaction than any other payment gateway provider on the Konga’s website.
 
-With this much success, comes so much pressure and the major pressure was that of fulfulling customers orders in record time. Below are some of what took place
+With this much success, comes so much pressure and the major pressure was that of fulfilling customers orders in record time. Below are some of what took place
 
 
 <img src="{{ site.url }}/assets/article_images/yakata-2015/1.png"/><br/>
-<span class="text-muted">A customer comes to pick her order at the Gwagwalada distribution center.</span>
+<small class="text-muted">A customer comes to pick her order at the Gwagwalada distribution center.</small>
 
 <img src="{{ site.url }}/assets/article_images/yakata-2015/2.png"/><br/>
-<span class="text-muted">K-Express Ondo distribution center with orders ready to be dispatched to customers.</span>
+<small class="text-muted">K-Express Ondo distribution center with orders ready to be dispatched to customers.</small>
 
 <img src="{{ site.url }}/assets/article_images/yakata-2015/3.png"/><br/>
-<span class="text-muted">K-Express Ikorodu Items being prepared for Delivery</span>
+<small class="text-muted">K-Express Ikorodu Items being prepared for Delivery</small>
 
 <img src="{{ site.url }}/assets/article_images/yakata-2015/4.png"/><br/>
-<span class="text-muted">K-Express Calabar filled with Orders</span>
+<small class="text-muted">K-Express Calabar filled with Orders</small>
 
 
 The Yakata sales ended on a very high note with Konga processing over N1B worth of orders. First of its kind.
