@@ -13,7 +13,7 @@ The engineering team at Konga, without mincing words, made giant leaps. We stepp
 
 ### A brief of what we did:
 - We made conscious efforts to move away from Magento(monoliths) in favour microservices - catalog and rendering services.
-- We reworked on Hermes, our in-house notification as a service system.
+- We reworked Hermes, our in-house notification as a service(NAAS) system.
 - We swapped core components from PHP in favour of Node JS.
 - We moved search from SOLR to Elastisearch.
 
