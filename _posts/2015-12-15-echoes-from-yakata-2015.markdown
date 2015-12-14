@@ -42,6 +42,22 @@ A particular merchant sold N600,000 worth of watches in 48hrs.
 
 During all of these, KongaPay, Konga’s payment in-house system processed more transaction than any other payment gateway provider on the Konga’s website.
 
+With this much success, comes so much pressure and the major pressure was that of fulfulling customers orders in record time. Below are some of what took place
+
+
+<img src="{{ site.url }}/assets/article_images/yakata-2015/1.png"/>
+A customer comes to pick her order at the Gwagwalada distribution center.
+
+<img src="{{ site.url }}/assets/article_images/yakata-2015/2.png"/>
+K-Express Ondo distribution center with orders ready to be dispatched to customers.
+
+<img src="{{ site.url }}/assets/article_images/yakata-2015/3.png"/>
+K-Express Ikorodu Items being prepared for Delivery
+
+<img src="{{ site.url }}/assets/article_images/yakata-2015/4.png"/>
+K-Express Calabar filled with Orders
+
+
 The Yakata sales ended on a very high note with Konga processing over N1B worth of orders. First of its kind.
 
 All of these points to one thing — ecommerce isn’t a flash in the pan, it is here to stay.
