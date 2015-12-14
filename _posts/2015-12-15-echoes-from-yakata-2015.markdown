@@ -40,7 +40,7 @@ A particular merchant sold N600,000 worth of watches in 48hrs.
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">LR WATCHES was pleased to be part of the 1billion naira sales made by <a href="https://twitter.com/ShopKonga">@ShopKonga</a> <a href="https://twitter.com/hashtag/YakataSales?src=hash">#YakataSales</a>.. N600,000 sales in 48 hours.</p>&mdash; Seyi (@seyi_syba) <a href="https://twitter.com/seyi_syba/status/670592361857183744">November 28, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-During all of these, KongaPay, Konga’s payment in-house system processed more transaction than any other payment gateway provider on the Konga’s website.
+During all of these, KongaPay, Konga’s in-house payment system processed more transaction than any other payment gateway provider on the Konga’s website.
 
 With this much success, comes so much pressure and the major pressure was that of fulfilling customers orders in record time. Below are some of what took place
 
