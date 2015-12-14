@@ -24,7 +24,7 @@ The icing on the cake for us all came from our customers and merchants delight w
 In the first 4hrs of the sale, Konga recorded over N110,000,000 worth of orders placed. Traffic for this same period twice what we had in the previous year.
 
 Below are some of the testimonials that came in:
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">I sold 110 laptops yesterday. I normally sell about 10 a day... That was a huge jump. Thank you Konga. (Maxitech Global) <a href="https://twitter.com/hashtag/yakata?src=hash">#yakata</a></p>&mdash; SS (@SimShagaya) <a href="https://twitter.com/SimShagaya/status/671672982184566785">December 1, 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">I sold 110 laptops yesterday. I normally sell about 10 a day... That was a huge jump. Thank you Konga. (Maxitech Global) <a href="https://twitter.com/hashtag/yakata?src=hash">#yakata</a></p>&mdash; SS (@SimShagaya) <a href="https://twitter.com/SimShagaya/status/671672982184566785">December 1, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">I think I have shipped 107 generators so far. I still have about 300 generators to ship going to different locations Estendo Power <a href="https://twitter.com/hashtag/Yakata?src=hash">#Yakata</a></p>&mdash; SS (@SimShagaya) <a href="https://twitter.com/SimShagaya/status/671672844774977537">December 1, 2015</a></blockquote>
