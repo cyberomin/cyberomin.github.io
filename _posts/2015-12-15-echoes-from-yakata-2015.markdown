@@ -45,17 +45,17 @@ During all of these, KongaPay, Konga’s payment in-house system processed more 
 With this much success, comes so much pressure and the major pressure was that of fulfulling customers orders in record time. Below are some of what took place
 
 
-<img src="{{ site.url }}/assets/article_images/yakata-2015/1.png"/>
-A customer comes to pick her order at the Gwagwalada distribution center.
+<img src="{{ site.url }}/assets/article_images/yakata-2015/1.png"/><br/>
+<span class="text-muted">A customer comes to pick her order at the Gwagwalada distribution center.</span>
 
-<img src="{{ site.url }}/assets/article_images/yakata-2015/2.png"/>
-K-Express Ondo distribution center with orders ready to be dispatched to customers.
+<img src="{{ site.url }}/assets/article_images/yakata-2015/2.png"/><br/>
+<span class="text-muted">K-Express Ondo distribution center with orders ready to be dispatched to customers.</span>
 
-<img src="{{ site.url }}/assets/article_images/yakata-2015/3.png"/>
-K-Express Ikorodu Items being prepared for Delivery
+<img src="{{ site.url }}/assets/article_images/yakata-2015/3.png"/><br/>
+<span class="text-muted">K-Express Ikorodu Items being prepared for Delivery</span>
 
-<img src="{{ site.url }}/assets/article_images/yakata-2015/4.png"/>
-K-Express Calabar filled with Orders
+<img src="{{ site.url }}/assets/article_images/yakata-2015/4.png"/><br/>
+<span class="text-muted">K-Express Calabar filled with Orders</span>
 
 
 The Yakata sales ended on a very high note with Konga processing over N1B worth of orders. First of its kind.
