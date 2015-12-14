@@ -17,7 +17,7 @@ The engineering team at Konga, without mincing words, made giant leaps. We stepp
 - We swapped core components from PHP in favour of NodeJS.
 - We moved search from SOLR to Elastisearch.
 
-With all these changes made, we couldn’t be happier with the outcome. Our systems survived the expected surge and scaled effortlessly. We watched traffic rise steadily and not even a single service went down. They all held their own. No downtime. From New Relic to Chartbeat even to our beloved Google Analytics showed us we were doing something right.
+With all these changes made, we couldn’t be happier with the outcome. Our systems survived the expected surge and scaled effortlessly. We watched traffic rise steadily and not even a single service went down. They all held their own. No downtime. From New Relic to Chartbeat even to our beloved Google Analytics, everything showed us we were doing something right.
 
 The icing on the cake for us all came from our customers and merchants, they were visibly delight with the event. Some merchants did 10x their usual daily trade volume. Across all categories — fashion through electronics, merchants recorded significant success and contributed over N500M to the overall GMV during the sales period.
 
