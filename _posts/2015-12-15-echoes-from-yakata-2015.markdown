@@ -9,7 +9,7 @@ description: "Yakata 2015 has come and gone, but the events leading to this mome
 <img src="{{ site.url }}/assets/article_images/yakata-2015/yakata.jpg"/>
 
 Yakata 2015 has come and gone, but the events leading to this momentous day will forever be etched in our memories.
-The engineering team at Konga, without mincing words, made giant leaps. We stepped out of our comfort zones and challenged the status quo. We built new services(we’re moving towards microservices) and improved on our monitoring.
+The engineering team at Konga, without mincing words, made giant leaps. We stepped out of our comfort zones and challenged the status quo. We built new services(we’re moving towards microservices) and improved on other critical parts of our systems, example monitoring.
 
 ### A brief of what we did:
 - We made conscious efforts to move away from Magento(monoliths) in favour micro services - catalog and rendering service.
