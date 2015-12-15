@@ -15,7 +15,7 @@ The engineering team at Konga, without mincing words, made giant leaps. We stepp
 - We made conscious efforts to move away from Magento(monoliths) in favour microservices - catalog and rendering services.
 - We reworked Hermes, our in-house notification as a service(NAAS) system.
 - We swapped core components from PHP in favour of NodeJS.
-- We moved search from SOLR to Elastisearch.
+- We moved search from SOLR to Elasticssearch.
 
 With all these changes made, we couldn’t be happier with the outcome. Our systems survived the expected surge and scaled effortlessly. We watched traffic rise steadily and not even a single service went down. They all held their own. No downtime. From New Relic to Chartbeat even to our beloved Google Analytics, everything showed us we were doing something right.
 
