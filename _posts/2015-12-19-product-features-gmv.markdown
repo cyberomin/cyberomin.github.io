@@ -41,7 +41,8 @@ This post isn’t intended to push you away from improving and working on new fe
 
 Always ask yourself; "what is most important to the consumer?” Pinterest popularised the infinite scroll, before now, it was almost customary to see online retailers paginate categories and search results. This trend seems to be going out of fashion in favour of the all shiny infinite scroll. Do you really need infinite scroll? Of course, I’m not saying one should sacrifice UX on the altar of speed. During the ideation process, it is okay to add this as a feature, but don’t forget to ask what is really important to the customer. In the case of e-commerce, the customer just wants to buy and move on. Period.
 
-<p>###What should you consider before adding a new feature?</p>
+###What should you consider before adding a new feature?
+
 
 
 
