@@ -7,7 +7,7 @@ description: "Often times we get really excited about new products and new produ
 image: /assets/article_images/on-product/jira.png
 ---
 
-<img src="{{ site.url }}/assets/article_images/on-product/jira.png"/>
+<img src="{{ site.url }}/assets/article_images/on-product/product-development.png"/>
 
 Often times we get really excited about new products and new product features that we forget how the fit into the bigger picture of the organisation. While launching products and new features are great, it is imperative that we measure and understand their overall place in the company's bottom line.
 
