@@ -40,8 +40,7 @@ This post isn’t intended to push you away from improving and working on new fe
 - How much will intelligent search drive sales?
 
 Always ask yourself; "what is most important to the consumer?” Pinterest popularised the infinite scroll, before now, it was almost customary to see online retailers paginate categories and search results. This trend seems to be going out of fashion in favour of the all shiny infinite scroll. Do you really need infinite scroll? Of course, I’m not saying one should sacrifice UX on the altar of speed. During the ideation process, it is okay to add this as a feature, but don’t forget to ask what is really important to the customer. In the case of e-commerce, the customer just wants to buy and move on. Period.
-
-##What should you consider before adding a new feature?
+###What should you consider before adding a new feature?
 
 ####Bottomline
 Without a doubt, some feature greatly enhances user experience while others just add to the product's aesthetics. In the age of <em>less is more</em>, it is imperative that we don’t overwhelm the user with unnecessary noise. This is the era of simplification. And there is just as much beauty in simplicity. Minimalism is key. Products differ based on the need it serves; Instagram serves a different need from Twitter, likewise, Konga serves a different need from WhatsApp. Whatever is the core of the product should be what is given the most priority. Konga is an e-commerce company; catalog, cart and checkout should be given top priority. YouTube’s annotation is awesome and we love it. But annotations are nice-to-haves, not show-stoppers. The inability to play videos are show-stoppers and it is one that should be placed front and square. Whatever increases user retention and improves repeat usage should be the focus, every other thing is secondary. Don’t forget your bottom line: revenue, GMV, MAU.
