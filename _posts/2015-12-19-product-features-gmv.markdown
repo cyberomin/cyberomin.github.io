@@ -10,7 +10,7 @@ image: /assets/article_images/on-product/product-development.png
 <img src="{{ site.url }}/assets/article_images/on-product/jira.png"/>
 <span class="text-muted">Atlassian's JIRA</span>
 
-Often times we get really excited about new products and new product features that we forget how the fit into the bigger picture of the organisation. While launching products and new features are great, it is imperative that we measure and understand their overall place in the company's bottom line.
+Often times we get really excited about new products and new product features that we forget how they fit into the bigger picture of the organisation. While launching products and new features are great, it is imperative that we measure and understand their overall place in the company's bottom line.
 
 Products are great and in my opinion, they are indistinguishable from the company itself. The Twitter app(clients inclusive) is what makes Twitter, Twitter. Without it, there is no Twitter. But how much care and thought we put into them will go a long way in determining how they perform in the marketplace. So, before you work on that fancy new feature that is pseudo web 2.0, it is important that you ask yourself; will this feature have an adverse positive effect on this product or is this another layer of noise and clutter?
 
