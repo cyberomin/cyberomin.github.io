@@ -21,8 +21,8 @@ We work in an industry where speed, agility and scale is always top of the discu
 In the months leading to Yakata, [Konga’s](http://www.konga.com) monicker for Black Friday, the engineering team worked with so much speed and paid every single attention only features that will make the Yakata event a success. It was needless adding a sticky header or footer because someone thought it was cool. We just didn’t have the luxury of time. Day in day out, we planned our priorities and move items of less importance into the backlog. Tasks with higher priorities were labelled as major, critical and blockers, those that were not deal breakers were labelled as trivial. With this in mind, the team zeroed in on what needed to be done fast and paid no attention to the nice-to-haves. On one of such days, a team member picked a trivial task — a nice-to-have but not necessarily a deal breaker — and the engineer was immediately asked to drop the task. Our Associate Director of Engineering asked a really simple and apt question "will this task or feature improve our GMV?" When the engineer didn’t give a convincing response, he was asked to drop the task. His idea(Ass. Dir. of Engineering) of working on features that will improve GMV(Gross Merchandise Volume) immediately drove the point home.
 
 
->Whatsoever that does not or will not add to the GMV isn’t important.
->Andrew Mori, Associate Director of Engineering, Konga.
+> Whatsoever that does not or will not add to the GMV isn’t important.
+> Andrew Mori, Associate Director of Engineering, Konga.
 
 Revenue is the lifeblood of any company and the very oxygen upon which some(not all startups are under pressure to bring in revenue in their early stage. For these startups, their metrics for growths are generally adjudicated by MAU and user subscriptions. Wall Street keeps hounding Twitter over user growth) startups survive on. Every other thing is vanity. This is, even more, important for an e-commerce startup.
 
@@ -35,7 +35,6 @@ Facebook started with a simple concept, connecting with either long lost contact
 This post isn’t intended to push you away from improving and working on new features, instead, my intention is to help you narrow down to what’s most important. Before you begin on that new feature, ask yourself these questions:
 
 - What order of magnitude is this going to help my product grow and encourage adoption?
-
 - How much will recommendation — those who bought x also bought y — add to commence?
 - How much will proper faceting help search?
 - How much will intelligent search drive sales?
