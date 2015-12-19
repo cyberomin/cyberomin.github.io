@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "On product, feature development and GMVs - Eyes on the price."
+date:   2015-12-19 06:40:00
+categories: startup
+description: "Often times we get really excited about new products and new product features that we forget how the fit into the bigger picture of the organisation. While launching products and new features are great, it is imperative that we measure and understand their overall place in the company's bottom line."
+---
+
+<img src="{{ site.url }}/assets/article_images/on-product/jira.png"/>
+
+Often times we get really excited about new products and new product features that we forget how the fit into the bigger picture of the organisation. While launching products and new features are great, it is imperative that we measure and understand their overall place in the company's bottom line.
+
+Products are great and in my opinion, they are indistinguishable from the company itself. The Twitter app(clients inclusive) is what makes Twitter, Twitter. Without it, there is no Twitter. But how much care and thought we put into them will go a long way in determining how they perform in the marketplace. So, before you work on that fancy new feature that is pseudo web 2.0, it is important that you ask yourself; will this feature have an adverse positive effect on this product or is this another layer of noise and clutter?
+
+By the very nature of startups, time is always the number one constraints, missing a product launch by whiskers could spell doom. This is why proper planning and prioritisation is key. Before embarking on the development phase, teams spend a copious amount of time discussing product and feature requirements with product owners and other stakeholders, these requirements often times don’t remain the same after project commencement. New features get introduced and scope creeps become a very big issue. This inadvertently becomes the bane for on schedule and on-budget product launch. Product managers, while they try so much to align product interest with business goals, often forget that time is a fixed constant and does not change even when requirements do.
+
+We work in an industry where speed, agility and scale is always top of the discuss and any extra time spent on things that wouldn’t necessarily move the needle becomes counter productive. The difference between the market leader and the second fiddle in most cases revolves around lunch dates. While I’m all for focusing on “what is important and speed,” I’m in no way encouraging people not to pay attention to the finer details, after all, the devil is in the details. We need to find a balance for these things and always keep the bigger picture ahead — will this affect our bottom line?
+
+In the months leading to Yakata, [Konga’s](http://www.konga.com) monicker for Black Friday, the engineering team worked with so much speed and paid every single attention only features that will make the Yakata event a success. It was needless adding a sticky header or footer because someone thought it was cool. We just didn’t have the luxury of time. Day in day out, we planned our priorities and move items of less importance into the backlog. Tasks with higher priorities were labelled as major, critical and blockers, those that were not deal breakers were labelled as trivial. With this in mind, the team zeroed in on what needed to be done fast and paid no attention to the nice-to-haves. On one of such days, a team member picked a trivial task — a nice-to-have but not necessarily a deal breaker — and the engineer was immediately asked to drop the task. Our Associate Director of Engineering asked a really simple and apt question "will this task or feature improve our GMV?" When the engineer didn’t give a convincing response, he was asked to drop the task. His idea(Ass. Dir. of Engineering) of working on features that will improve GMV(Gross Merchandise Volume) immediately drove the point home.
+
+<blockquote>
+    <p>Whatsoever that does not or will not add to the GMV isn’t important.</p>
+    <footer>Andrew Mori, <cite>Associate Director of Engineering, Konga.</cite></footer>
+</blockquote>
+
+Revenue is the lifeblood of any company and the very oxygen upon which some(not all startups are under pressure to bring in revenue in their early stage. For these startups, their metrics for growths are generally adjudicated by MAU and user subscriptions. Wall Street keeps hounding Twitter over user growth) startups survive on. Every other thing is vanity. This is, even more, important for an e-commerce startup.
+
+In e-commerce for instance, a couple of features are deal breakers and if absent the company may as well close shop. These features include, in no particular order: catalogue, add to cart/buy button, faceting, checkout/payment and search. You need to display your wares before a purchase or a purchase decision can be made. And as such, this makes the catalogue the very fabric that weaves in every other feature together. Without the catalogue, add to cart/buy now and the checkout buttons are useless. Payment/checkout is what is needed in order to close the first layer of the transaction loop. These three core functionalities make up the major components of a wholesome e-commerce product. The flow is as follows: catalogue -> add to cart/buy now -> checkout. You can call them the trinity. They make it rain. Without them everything else is useless.
+
+As a startup, your major asset, aside from funding are skilled human resources, your ability to focus on the most important things with this limited resource will set you apart. This is especially true when you are going against an old and established incumbent. We all don't have the luxury of Facebook and Google, we can't afford to spend so much time on nice-to-haves. Always keep your eyes on the price; revenue, user growth and MAU.
+
+Facebook started with a simple concept, connecting with either long lost contacts or people you see every day. Till date, that is still the fundamental concept — connecting the world. This singular guiding truth allowed them to focus on what will eventually add to the bottom line and as such initial features like friends and friend request, user profile, search and invitation contributed tremendously to what we all know today as Facebook. The company, still focusing on her core, has gone also to launch other complementing features: moments, services, messenger and check-in, but they had to focus on what was important — user profile and ability to make connections via friend request.
+
+This post isn’t intended to push you away from improving and working on new features, instead, my intention is to help you narrow down to what’s most important. Before you begin on that new feature, ask yourself these questions:
+
+- What order of magnitude is this going to help my product grow and encourage adoption?
+
+- How much will recommendation — those who bought x also bought y — add to commence?
+- How much will proper faceting help search?
+- How much will intelligent search drive sales?
+
+Always ask yourself; "what is most important to the consumer?” Pinterest popularised the infinite scroll, before now, it was almost customary to see online retailers paginate categories and search results. This trend seems to be going out of fashion in favour of the all shiny infinite scroll. Do you really need infinite scroll? Of course, I’m not saying one should sacrifice UX on the altar of speed. During the ideation process, it is okay to add this as a feature, but don’t forget to ask what is really important to the customer. In the case of e-commerce, the customer just wants to buy and move on. Period.
+
+##What should you consider before adding a new feature?
+
+####Bottomline
+Without a doubt, some feature greatly enhances user experience while others just add to the product's aesthetics. In the age of <em>less is more</em>, it is imperative that we don’t overwhelm the user with unnecessary noise. This is the era of simplification. And there is just as much beauty in simplicity. Minimalism is key. Products differ based on the need it serves; Instagram serves a different need from Twitter, likewise, Konga serves a different need from WhatsApp. Whatever is the core of the product should be what is given the most priority. Konga is an e-commerce company; catalog, cart and checkout should be given top priority. YouTube’s annotation is awesome and we love it. But annotations are nice-to-haves, not show-stoppers. The inability to play videos are show-stoppers and it is one that should be placed front and square. Whatever increases user retention and improves repeat usage should be the focus, every other thing is secondary. Don’t forget your bottom line: revenue, GMV, MAU.
+
+####Complexity
+You have to be smart about this. Time is the only thing that is equally allocated to us all. We all have 24hrs and what differentiates startup A from B is how well they have managed time and execute on their ideas. Some startup can afford the luxury of spending time and resources in moonshots R&D projects. You don’t have to, at least not when you are just starting out as a company. Aside from helping grow revenue, GMV and MAU, whatever feature that cannot be completed in a two weeks sprint should be added to the backlog. You can always revisit it when time permits.
+
+####Outsourcing
+A recommendation engine is a pure gold to an e-commerce company, but with shoe string budgets and limited resource, it doesn't make sense to invest 90% of your engineering resources into building a recommendation engine. Why? Because building a robust recommendation engine is HARD. You don’t need to go this route. While having a good recommendation engine will help improve conversation and encourage up selling, you don’t need to build one yourself.  There are excellent third party companies that can do this for you - Rich Relevance, Graph Flow, etc, are all great companies that offer SaaS-based recommendation engines for a fee. Use them. You don’t need to roll out your own chatting system — Olark has already solved that problem. The list of things to outsource are endless: emails, analytics, log management, etc. The idea is to outsource what does not necessarily impact your bottom line, this way it becomes easier to focus on your core competency.
+
+####Measure - A/B testing.
+There is a reason Facebook killed Poke, Beacon, Credits, etc. I’m certain no one in his right mind will kill a killer feature, you will rather nurse it, improve it and allow it flourish. Some features, when first conceived sounded great. They felt like that missing piece that was going to complete the puzzle only to turn out a sheer waste of everybody’s time, from product manager all the way to engineering. The only way you can understand what feature to keep and the one to axe is by measuring everything. This is where A/B testing shines. Will making the item fly from the catalog page into the cart — I have seen this before — drive sales? Will the obtrusive popup that ask us for our emails with the sweet intentions of sending us nice deals become offensive and a turn-off. (Group buying site please stop it)? How will the big banner, the one that looks like a splash screen affect your bounce rate? The brilliant idea to broadcast my purchases to my social feed, is that really needed? What if I am a private person and will like my dealings be handled privately. That feature that you hounded the engineers to find a way and fit into this current sprint, will it turn out to be a brilliant idea or one that will make you call for a press conference and apologise to your teeming customers. You can only know these things when you have a clear cut plan on how to measure them.
+
+<center>........................</center>
+
+Launching a new feature into the wild shouldn't end after clinging glasses in celebration of a successful launch. If anything, your work is just getting started. I, for one, believe that every feature and product should follow a simple principle I will call BTML (Build, Test, Measure and Listen.)
+
+Build intentionally. Test deliberately and aggressively. Measure proactively and listen to what your customers are saying, even when they aren’t uttering a single word. To add to the immortal words of Jeff Bezos, “start with the customer and work backwards. Don’t forget to keep your eyes on the prize."
+
+Your product and features shouldn’t annoy your users. For every product out there, the exist about three variants that serve the same purpose. Attention span is short these days. We, the users, don’t have that much time to waste. It takes a single mistake(read as feature) to ruin a once beloved product.
