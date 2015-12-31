@@ -48,4 +48,6 @@ Apple and Microsoft became more open. First, Microsoft made the .NET framework o
 In May of this year, Mary Meeker, a partner at the Silicon Valley venture capital firm KPCB(Kleiner Perkins Caufield & Byers), in her customary way, highlighted in what she titled "Internet Trends," the major Internet trends of 2015.
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/sUM0BRj7Dd2ENC" width="650" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kleinerperkins/internet-trends-v1" title="2015 Internet Trends Report" target="_blank">2015 Internet Trends Report</a> </strong> from <strong><a href="//www.slideshare.net/kleinerperkins" target="_blank">Kleiner Perkins Caufield &amp; Byers</a></strong> </div>
 
-This is by no means a comprehensive list of what happened in tech in the year 2015. But is my own way of capturing the major events that occured this year and also to highlight how far we have come as an industry. 
+This is by no means a comprehensive list of what happened in tech in the year 2015. But this is my own way of capturing the major events that occured this year and also to highlight how far we have come as an industry. 
+
+Here is to a bigger and better 2016. Cheers.
