@@ -22,7 +22,7 @@ The market wasn't so favourable in China, the effect hit hard, it wiped off a si
 
 Accel sold of $100m worth of its FlipKart shares in the secondary market. This gave FlipKart a $15B valuation.
 
-(Udacity)[https://www.udacity.com/], an online eduction startup whose mission is to bring accessible, affordable, engaging, and highly effective higher education to the world, joined the esteemed and exclusive Unicorn club. This came on the heels of its latest funding round. Udacity raised raised $105M at a valuation of over $1B. Well done Sebastian Thrun.
+[Udacity](https://www.udacity.com/), an online eduction startup whose mission is to bring accessible, affordable, engaging, and highly effective higher education to the world, joined the esteemed and exclusive Unicorn club. This came on the heels of its latest funding round. Udacity raised raised $105M at a valuation of over $1B. Well done Sebastian Thrun.
 
 Twitter laid off 336 of its employees. This number represents 8% of its staff. But this was another blessing in disguised for SF based companies as they came in drove to snatch any ex-Twitter in sight.
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Letter from <a href="https://twitter.com/jack">@jack</a> sent to employees regarding restructuring/layoffs <a href="https://twitter.com/search?q=%24TWTR&amp;src=ctag">$TWTR</a> <a href="http://t.co/kqJ1NrFocW">pic.twitter.com/kqJ1NrFocW</a></p>&mdash; Yoree Koh (@yoreekoh) <a href="https://twitter.com/yoreekoh/status/653912085093416960">October 13, 2015</a></blockquote>
@@ -35,7 +35,7 @@ Jack finally returned as Twitter's CEO, the once ousted CEO now runs both Twitte
 BlackBerry, after all these years finally joined the Android movement with the introduction of Priv. The upscale device is a first, in what we hope will become an array of Android products from the house Mr John is trying really hard to hold together.
 
 Atlassian, makers of HipChat, JIRA and Bitbucket with over 48,000 customers, including Citigroup, Coca-Cola, eBay, NASA, and Netflix. finally went public. The 13yr old Sydney based company trades under the symbol TEAM and has a market cap of almost $6.5B.
-<img src="https://www.google.com/finance/getchart?q=AMZN&p=20Y&i=86400" />
+<img src="https://www.google.com/finance/getchart?q=TEAM&p=20Y&i=86400" />
 
 Zuckerberg gave out 99% of his wealth, at the time of his pledge, he was worth $45B. Both him and Prisciallia also welcomed a baby girl, Max.
 
