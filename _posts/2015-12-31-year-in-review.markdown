@@ -14,9 +14,9 @@ Nigeria’s leading hotels booking website, [Hotels.ng](http://hotels.ng) raised
 
 [Andela](http://www.andela.com/), a talent accelerator startup, raised $10M to help train amazing software engineers from Africa and provide them world class opportunities at both startups and fortune 500 companies. The investment was lead by Spark Capital. Andela believes talent and geniuses abound everywhere, but the opportunities are limited.
 
-A Nigerian based last-mile delivery startup that promises 3-hour delivery, (Max.ng)[http://max.ng], made it into the highly competitive Techsters accelerator program. It is worthy of note that Max is the first African startup to have made it into a Techsters NYC class. Max finished as the runner up at the just concluded Techcruch Disrupt event that held in London.
+A Nigerian based last-mile delivery startup that promises 3-hour delivery, [Max.ng](http://max.ng), made it into the highly competitive Techsters accelerator program. It is worthy of note that Max is the first African startup to have made it into a Techsters NYC class. Max finished as the runner up at the just concluded Techcruch Disrupt event that held in London.
 
-Uber, in its characteristics manner, raised more money - raised $2B recently at a $61B valuation - and kept marching on. The company won a court case in London against the metered taxis - http://www.theguardian.com/technology/2015/oct/16/uber-wins-high-court-case-taxi-app-tfl. This same year, India’s Ola, Malaysia’s GrabTaxi, China’s Didi Kuaidi in company of San Francisco based, Lyft, all pulled together to fend off Uber in their local turf.
+Uber, in its characteristics manner, raised more money &mdash; the company raised $2B recently at a $61B valuation &mdash; and kept marching on. The company won a court case in [London against the metered taxis](http://www.theguardian.com/technology/2015/oct/16/uber-wins-high-court-case-taxi-app-tfl). This same year, India’s Ola, Malaysia’s GrabTaxi, China’s Didi Kuaidi in company of San Francisco based, Lyft, all pulled together to fend off Uber in their local turf.
 
 The market wasn't so favourable in China, the effect hit hard, it wiped off a sizeable sum from the market caps of a few publicly traded company notably China’s BAT(Baidu, Alibaba, Tencet)
 
