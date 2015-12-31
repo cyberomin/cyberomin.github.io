@@ -4,19 +4,20 @@ title:  "2015: The Year in Review"
 date:   2015-12-31 03:36:00
 categories: startup
 description: "Today is the last day of 2015 and, I must say it was quite an eventful year for tech globally. This year had several defining moments and we couldn’t be more grateful for the giant strides that have been made."
+image: /assets/article_images/tech-in-2015/2015.jpg
 ---
 
 Today is the last day of 2015 and, I must say it was quite an eventful year for tech globally. This year had several defining moments and we couldn’t be more grateful for the giant strides that have been made.
 
-Nigeria’s leading hotels booking website, [Hotels.ng](http://hotels.ng) raised $1.2M from Pierre Omidyar’s investment vehicle, Omidyar Network and EchoVC Partners  to fuel its quest for an African hospitality market domination. Hotels.ng had before now gotten a seed investment of over $200k from Jason Njorku’s Spark, an organisation that describes itself as a company that build companies.
+Nigeria’s leading hotels booking website, [Hotels.ng](http://hotels.ng) raised $1.2M from Pierre Omidyar’s investment vehicle, Omidyar Network and EchoVC Partners  to fuel its quest for an African hospitality market domination. Hotels.ng had before now gotten a seed investment of over $200k from Jason Njorku’s Spark, an organisation that describes itself as a company that builds companies.
 
-[TravelBeta](https://www.travelbeta.com/), a Nigerian startup focused on the travel industry raised $2M to make trips and vacation a memorable experience. The funding was lead by [Altheus](http://altheusltd.com/), a Nigerian invest firm.
+[TravelBeta](https://www.travelbeta.com/), a Nigerian startup focused on the travel industry raised $2M to make trips and vacations a memorable experience. The funding was lead by [Altheus](http://altheusltd.com/), a Nigerian invest firm.
 
-[Andela](http://www.andela.com/), a talent accelerator startup, raised $10M to help train amazing software engineers from Africa and provide them world class opportunities at both startups and fortune 500 companies. The investment was led by Spark Capital. Andela believes talent and geniuses abound everywhere, but the opportunities are limited.
+[Andela](http://www.andela.com/), a talent accelerator startup, raised $10M to help train amazing software engineers from Africa and also provide them with world class opportunities at both startups and fortune 500 companies. The investment was led by Spark Capital. Andela believes talent and geniuses abound everywhere, but the opportunities are limited.
 
-A Nigerian based last-mile delivery startup that promises 3-hour delivery, [Max.ng](http://max.ng), made it into the highly competitive TechStars accelerator program. It is worthy of note that Max is the first African startup to have made it into a TechStars NYC class. Max finished as the runner-up at the just concluded Techcrunch Disrupt event that held in London.
+A Nigerian based last-mile delivery startup that promises 3-hour delivery, [Max.ng](http://max.ng), made it into the highly competitive TechStars accelerator program. It is worthy of note that Max is the first African startup to have made it into a TechStars NYC class. Max finished as the runner-up at the just concluded Techcrunch Disrupt event that held in London. The company has so far received $100,000 seed money. 
 
-Uber, in its characteristics manner, raised more money &mdash; the company raised $2B recently at a $61B valuation &mdash; and kept marching on. The company won a court case in [London against the metered taxis](http://www.theguardian.com/technology/2015/oct/16/uber-wins-high-court-case-taxi-app-tfl). This same year, India’s Ola, Malaysia’s GrabTaxi, China’s Didi Kuaidi and San Francisco-based, Lyft, all pulled together to fend off Uber in their local turf.
+Uber, in its characteristics manner, raised more money &mdash; the company raised $2B recently at a $61B valuation &mdash; and kept marching on. Uber won a court case in [London against the metered taxis](http://www.theguardian.com/technology/2015/oct/16/uber-wins-high-court-case-taxi-app-tfl). This same year, India’s Ola, Malaysia’s GrabTaxi, China’s Didi Kuaidi and San Francisco-based, Lyft, all pulled together to fend off Uber in their local turf.
 
 The market wasn't so favourable in China, the effect hit hard, it wiped off a sizeable sum from the market caps of a few publicly traded company notably China’s BAT(Baidu, Alibaba, Tencent)
 
@@ -24,7 +25,7 @@ Accel sold $100m worth of its FlipKart shares in the secondary market. This gave
 
 [Udacity](https://www.udacity.com/), an online education startup whose mission is to bring accessible, affordable, engaging, and highly effective higher education to the world, joined the esteemed and exclusive Unicorn club. This came on the heels of its latest funding round. Udacity raised $105M at a valuation of over $1B. Well done Sebastian Thrun.
 
-Twitter laid off 336 of its employees. This number represents 8% of its staff. But this was another blessing in disguised for SF based companies as they came in drove to snatch any ex-Twitter in sight.
+Twitter laid off 336 of its employees. This number represents 8% of its staff. But this was another blessing in disguise for San Francisco-based companies as they came in drove to snatch any ex-Twitter in sight.
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Letter from <a href="https://twitter.com/jack">@jack</a> sent to employees regarding restructuring/layoffs <a href="https://twitter.com/search?q=%24TWTR&amp;src=ctag">$TWTR</a> <a href="http://t.co/kqJ1NrFocW">pic.twitter.com/kqJ1NrFocW</a></p>&mdash; Yoree Koh (@yoreekoh) <a href="https://twitter.com/yoreekoh/status/653912085093416960">October 13, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -37,11 +38,11 @@ BlackBerry, after all these years finally joined the Android movement with the i
 Atlassian, makers of HipChat, JIRA and Bitbucket with over 48,000 customers, including Citigroup, Coca-Cola, eBay, NASA, and Netflix. finally went public. The 13yr old Sydney based company trades under the symbol TEAM and has a market cap of almost $6.5B.
 <img src="https://www.google.com/finance/getchart?q=TEAM&p=20Y&i=86400" />
 
-Zuckerberg gave out 99% of his wealth, at the time of his pledge, he was worth $45B. Both him and Priscilla also welcomed a baby girl, Max.
+Zuckerberg gave out 99% of his wealth, at the time of his pledge, he was worth $45B. [Both him and Priscilla also welcomed a baby girl, Max](https://www.facebook.com/notes/mark-zuckerberg/a-letter-to-our-daughter/10153375081581634?pnref=story).
 
-Apple and Microsoft became more open. First, Microsoft made the .NET framework open and compatible for both Mac and Linux. This, hopefully, is a trend that will usher in more Microsoft tools and products to the Linux platform. Apple made the Swift programming language open. They even hosted it on GitHub, a platform that is known to host notable open source projects including Git.
+Apple and Microsoft became more open. First, Microsoft made the .NET framework open and compatible for both Mac and Linux. This, hopefully, is a trend that will usher in more Microsoft tools and products to the Linux platform. Apple made the Swift programming language open. The project is hosted on GitHub, a platform that is known to host notable open source projects including Git.
 
-2015 was also the year that a lot of progress was made with regards to diversity in tech. It’s been a known fact that minorities and women are highly under represented in tech. Pinterest lead the diversity charge this year when they decided to make their diversity report and plan public. The issue of diversity has been a major concern in the tech ecosystem and it is good to see companies begin to embrace it and throw their weights behind it.
+2015 was also the year that a lot of progress was made with regards to diversity in tech. It’s been a known fact that minorities and women are highly under represented in tech. Pinterest lead the diversity charge this year when they decided to make their diversity report and plan public. The issue of diversity has been a major concern in the tech industry and it is good to see companies begin to embrace it and throw their weights behind it.
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Exclusive: Pinterest launches innovative diversity lab + first company to publicly reveal diversity hiring goals <a href="http://t.co/66XphOaaZ5">http://t.co/66XphOaaZ5</a></p>&mdash; Jessica Guynn (@jguynn) <a href="https://twitter.com/jguynn/status/626785265684590592">July 30, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
