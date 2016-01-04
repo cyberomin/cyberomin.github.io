@@ -7,7 +7,7 @@ echo "Provisioning Development Environment for: $SERVICE"
 
 echo "Updating environment"
 sudo apt-get update -y
-#sudo apt-get upgrade -y
+sudo apt-get upgrade -y
 
 echo "Installing Ruby and"
 sudo apt-get install ruby ruby-dev make gcc nodejs -y
