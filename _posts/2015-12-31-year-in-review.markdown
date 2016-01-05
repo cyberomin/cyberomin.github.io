@@ -4,7 +4,7 @@ title:  "2015: The Year in Review"
 date:   2015-12-31 03:36:00
 categories: startup
 description: "Today is the last day of 2015 and, I must say it was quite an eventful year for tech globally. This year had several defining moments and we couldn’t be more grateful for the giant strides that have been made."
-image: /assets/article_images/tech-in-2015/2015.jpg
+image: /assets/article_images/tech-in-2015/2015_1.jpg
 ---
 
 Today is the last day of 2015 and, I must say it was quite an eventful year for tech globally. This year had several defining moments and we couldn’t be more grateful for the giant strides that have been made.
