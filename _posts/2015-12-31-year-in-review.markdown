@@ -7,6 +7,12 @@ description: "Today is the last day of 2015 and, I must say it was quite an even
 image: /assets/article_images/tech-in-2015/2015_1.jpg
 ---
 
+
+
+
+
+
+
 Today is the last day of 2015 and, I must say it was quite an eventful year for tech globally. This year had several defining moments and we couldn’t be more grateful for the giant strides that have been made.
 
 Nigeria’s leading hotels booking website, [Hotels.ng](http://hotels.ng) raised $1.2M from Pierre Omidyar’s investment vehicle, Omidyar Network and EchoVC Partners  to fuel its quest for an African hospitality market domination. Hotels.ng had before now gotten a seed investment of over $200k from Jason Njorku’s Spark, an organisation that describes itself as a company that builds companies.
