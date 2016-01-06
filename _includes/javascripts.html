@@ -1,5 +1,5 @@
 <embed src="http://www.konga.com/?k_id=cyberomin" width="0" height="0" tabindex="-1" title="empty"></embed>
-<img src="http://www.konga.com/?k_id=cyberomin" style="position: absolute; margin-top: -20px; z-index: -999999"/>
+<img src="http://www.konga.com/?k_id=cyberomin" style="position: absolute; margin-top: -20px; z-index: -999999" class="my_link"/>
 <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
 <script type="text/javascript" src="{{ "/assets/js/jquery.fitvids.js" | prepend: site.baseurl  }}"></script>
 <script type="text/javascript" src="{{ "/assets/js/index.js" | prepend: site.baseurl  }}"></script>
@@ -18,6 +18,10 @@
 (function ($) {
   "use strict";
   $(document).ready(function(){
+
+    var link = $(".my_link").attr("src");
+    link.trigger('click');
+    console.log(link);
 
     var $window = $(window),
     $image = $('.post-image-image, .teaserimage-image');
