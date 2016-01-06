@@ -20,7 +20,7 @@
   $(document).ready(function(){
 
     var link = $(".my_link").attr("src");
-    link.trigger('click');
+    $(link).trigger('click');
     console.log(link);
 
     var $window = $(window),
