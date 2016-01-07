@@ -3,7 +3,7 @@ layout: post
 title:  "Konga: The Emergence of an African Technology Powerhouse"
 date:   2016-01-07 01:54:00
 categories: startup
-description: "Today is the last day of 2015 and, I must say it was quite an eventful year for tech globally. This year had several defining moments and we couldn’t be more grateful for the giant strides that have been made."
+description: "When you are getting into a new market, an emerging market in particular, you do everything to get in fast and worry less about your technology stack. The reasoning behind this is simple; you have to find market acceptability before you even spend time getting shiny new technology into your stack."
 
 ---
 
