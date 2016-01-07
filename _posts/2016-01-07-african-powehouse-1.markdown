@@ -40,6 +40,8 @@ ZIN is our in-house CRM solution that eventually replaced Salesforce. It’s by 
 
 ZIN offers a simple and intuitive way to manage customers and everything customer related. At first glance, it shows you the priority of cases based on its urgency and every priority has a unique colour code. It offers the convenience of creating cases via, email, and social media; Facebook and Twitter.
 
+<img src="{{ site.url }}/assets/article_images/power-house/order.png"/>
+<em style="color:#CCCCCC; font-size:13px">ZIN: Customer's history</em>
 ZIN gives you a 360-degree view of a customer's lifecycle, from wallet transactions, order history, complaints to enquiries. It goes a step further to classify customers into different segments: Bronze, Gold and Premium.
 
 <img src="{{ site.url }}/assets/article_images/power-house/social.png"/>
