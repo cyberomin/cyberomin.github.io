@@ -7,7 +7,7 @@ description: "When you are getting into a new market, an emerging market in part
 
 ---
 
-This is my first post for the year and I'd thought I'll write on something that I care deeply about, Konga. This is a first in a series of post that will highlight how we have grown as a technology company. From the little days of relying on external tools to survive to the point were we are redefining the African technology scene. 
+This is my first post for the year and I'd thought I'll write on something that I care deeply about, Konga. This is a first in a series of post that will highlight how we have grown as a technology company. From the little days of relying on external tools to survive to the point where we are redefining the African technology scene. 
 
 When you are getting into a new market, an emerging market in particular, you do everything to get in fast and worry less about your technology stack. The reasoning behind this is simple; you have to find market acceptability before you even spend time getting shiny new technology into your stack. [Timing is everything](http://cyberomin.github.io/startup/2015/10/06/priority.html)
 
