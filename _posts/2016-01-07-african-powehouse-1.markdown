@@ -42,10 +42,12 @@ ZIN offers a simple and intuitive way to manage customers and everything custome
 
 <img src="{{ site.url }}/assets/article_images/power-house/order.png"/>
 <em style="color:#CCCCCC; font-size:13px">ZIN: Customer's history</em>
+
 ZIN gives you a 360-degree view of a customer's lifecycle, from wallet transactions, order history, complaints to enquiries. It goes a step further to classify customers into different segments: Bronze, Gold and Premium.
 
 <img src="{{ site.url }}/assets/article_images/power-house/social.png"/>
 <em style="color:#CCCCCC; font-size:13px">ZIN: Social Media</em>
+
 ZIN allows us to monitor our social media feeds right without the need of a third party software. This particular feature has proven invaluable as the vast majority of customer’s interactions are done via social media.
 
 The success of ZIN has proven to us that we are coming of age, and we can successfully wean ourselves from external tools and craft one for ourselves. One that touches where it pinches most.
