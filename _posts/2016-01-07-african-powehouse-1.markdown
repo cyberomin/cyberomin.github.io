@@ -36,17 +36,17 @@ We had been running Salesforce for about a year and it served us well, but as a 
 ZIN is our in-house CRM solution that eventually replaced Salesforce. It’s by no means a true Salesforce replacement, but it scratches our itch. And most importantly, it saves us money from licensing fees. ZIN is an effort that spanned past the allocated three months project duration, it actually took us almost five months to roll it out; from requirements analysis to product launch.
 
 <img src="{{ site.url }}/assets/article_images/power-house/zin.png"/>
-<em style="color:#CCCCCC; font-size:13px">ZIN: Case View</em>
+<em style="color:#666; font-size:13px">ZIN: Case View</em>
 
 ZIN offers a simple and intuitive way to manage customers and everything customer related. At first glance, it shows you the priority of cases based on its urgency and every priority has a unique colour code. It offers the convenience of creating cases via, email, and social media; Facebook and Twitter.
 
 <img src="{{ site.url }}/assets/article_images/power-house/order.png"/>
-<em style="color:#CCCCCC; font-size:13px">ZIN: Customer's history</em>
+<em style="color:#666; font-size:13px">ZIN: Customer's history</em>
 
 ZIN gives you a 360-degree view of a customer's lifecycle, from wallet transactions, order history, complaints to enquiries. It goes a step further to classify customers into different segments: Bronze, Gold and Premium.
 
 <img src="{{ site.url }}/assets/article_images/power-house/social.png"/>
-<em style="color:#CCCCCC; font-size:13px">ZIN: Social Media</em>
+<em style="color:#666; font-size:13px">ZIN: Social Media</em>
 
 ZIN allows us to monitor our social media feeds right without the need of a third party software. This particular feature has proven invaluable as the vast majority of customer’s interactions are done via social media.
 
