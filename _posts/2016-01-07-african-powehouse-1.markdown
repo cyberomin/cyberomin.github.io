@@ -2,6 +2,7 @@
 layout: post
 title:  "Konga: The Emergence of an African Technology Powerhouse"
 date:   2016-01-07 01:54:00
+tags: featured
 categories: startup
 description: "When you are getting into a new market, an emerging market in particular, you do everything to get in fast and worry less about your technology stack. The reasoning behind this is simple; you have to find market acceptability before you even spend time getting shiny new technology into your stack."
 
