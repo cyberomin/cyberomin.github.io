@@ -40,14 +40,14 @@ social:
 
   - icon:	github
     url:	https://github.com/cyberomin
-    desc:	Fork me on github
+    desc:	Find me on GitHub
     share_url:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+  - icon:	linkedin
+    url:	https://ng.linkedin.com/in/celestineomin
+    desc:	Find me on linkedin
+    share_url:
+    share_title:
+    share_link:
