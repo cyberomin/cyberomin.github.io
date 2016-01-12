@@ -12,6 +12,7 @@ If you’re like me, you’re probably just getting to the Docker party. Today I
 This mini tutorial isn’t supposed to take you through the entire container setup et al. It is meant to help you connect a MySQL GUI to a Docker container.
 
 From your terminal, run `docker ps` and you should see a list of active containers
+
 ```
 CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                     NAMES
 fe66288216eb        mysql               "/entrypoint.sh mysql"   9 hours ago         Up 9 hours          0.0.0.0:32769->3306/tcp   sso_mysql
@@ -24,4 +25,4 @@ Then run `docker-machine ip default`, it should tell you the IP of the Docker ma
 Mine is `192.168.99.100`. That’s it. That simple.
 
 <img src="{{ site.url }}/assets/article_images/docker/docker.png"/>
-<em style="color:#666; font-size:13px">ZIN: Case View</em>
+<em style="color:#666; font-size:13px">SequelPro</em>
