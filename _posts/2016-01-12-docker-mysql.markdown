@@ -2,7 +2,7 @@
 layout: post
 title:  "Connecting to MySQL on a Docker container."
 date:   2016-01-12 07:54:00
-categories: tutorial,docker
+categories: tutorial docker
 description: "If you’re like me, you’re probably just getting to the Docker party. Today I ran into what some will consider a noob problem — I wanted to connect to my MySQL container, but didn’t know how to go about it."
 
 ---
