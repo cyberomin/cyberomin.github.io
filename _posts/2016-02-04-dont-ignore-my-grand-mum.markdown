@@ -21,12 +21,12 @@ Mobile apps have become ubiquitous. With the proliferation of sub $100 Android d
 
 Typically, mobile apps make use of a combination of icons and text to pass information and convey a message. My grand mum can’t read, so she’s essentially not going to use this. How about we flip the coin on its head and design the apps instead with traditional icons, one with cultural meaning and context, not the standard icons every stock app ships with today. Instead of text, why not we substitute it with videos, audios and pictures? Will this help grandma? I think it will.
 
-<img src="{{ site.url }}/assets/article_images/my-grandmum/phone.png" style="height:100px; width:auto;" /><br/>
+<img src="{{ site.url }}/assets/article_images/my-grandmum/phone.png" style="height:250px; width:auto;" /><br/>
 <em style="color:#666; font-size:13px">Concept design for medical app</em>
 
 My gut feeling tells me she will make more sense out of this. This will speak to her in a way she understands.
 
-<img src="{{ site.url }}/assets/article_images/my-grandmum/phone2.png" style="height:100px; width:auto;"/><br/>
+<img src="{{ site.url }}/assets/article_images/my-grandmum/phone2.png" style="height:250px; width:auto;"/><br/>
 <em style="color:#666; font-size:13px">Video playing</em>
 
 Let’s imagine an app, one where the home screen shows a picture of a rodent, mosquito, mosquito net and a sick person. When she taps on the picture of the rodent, a video of how a rodent is eating food meant for humans plays and this video goes on to explain how if a human eats this same food may likely end up sick and possibly die. On tapping the picture of the mosquito, a video of how mosquito transmits malaria is shown. Other pictures, when tap, can display slideshows and these slide shows will possibly show preventive measures and simple personal hygiene method. I’d imagine this passing the message and making more sense to her and people like her than an app full of text and hard-to-pronounce medical terminologies.
