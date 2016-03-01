@@ -1,7 +1,7 @@
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
-  
+
 # Site settings
 title: "Celestine Omin"
 description: > # this means to ignore newlines until "email:"
