@@ -13,7 +13,7 @@ As our engineering team grew and different teams had the need to add notificatio
 This route presents a problem, inconsistent coding style and no client library, most of all, keeping track of what was happening and ownership of the third party services we ride on became an issue.
 
 ###Enter Hermes
-Hermes is our in house notification service -- Notification as a service, NaaS. It provides a simple RESTFul API for sending notifications; emails and SMS.
+Hermes is our in house notification service -- Notification as a service(NaaS). It provides a simple RESTFul API for sending notifications; emails and SMS.
 
 The major benefit of Hermes is that it abstracts the underlying API of  SMS and transactional email providers into one simple and consistent RESTFul endpoint — `/v1/notifications`  — that does one thing and one thing well; send notifications.
 
