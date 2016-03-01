@@ -734,8 +734,7 @@ code {
   padding: 1px 5px; }
 
 pre {
-  padding: 8px 12px;
-  overflow-x: scroll; }
+  padding: 8px 12px;}
   pre > code {
     border: 0;
     padding-right: 0;
