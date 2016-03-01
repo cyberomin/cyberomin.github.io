@@ -54,7 +54,7 @@ While every key in the above payload is mandatory, the keys that form the `param
     <title>Title</title>
 </head>
 <body>
-    Dear `{``{`customer_name`}}`<br/>
+    Dear `{{`customer_name`}}`<br/>
     Your order with number: `{{`order_number`}}` has been shipped.
 </body>
 </html>
