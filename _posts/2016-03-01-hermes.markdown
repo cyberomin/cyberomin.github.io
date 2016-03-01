@@ -46,7 +46,7 @@ The above payload is simple and almost self-explanatory. Below is a brief explan
 
 While every key in the above payload is mandatory, the keys that form the `params` varies based on the template content. A template is an HTML document with Jinja2 template syntax
 
-{% highlight html %}
+{% highlight javascript %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
