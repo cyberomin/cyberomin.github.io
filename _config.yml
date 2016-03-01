@@ -1,6 +1,6 @@
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Site settings
 title: "Celestine Omin"
