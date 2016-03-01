@@ -18,7 +18,7 @@ Hermes is our in house notification service -- Notification as a service, NaaS. 
 The major benefit of Hermes is that it abstracts the underlying API of  SMS and transactional email providers into one simple and consistent RESTFul endpoint — `/v1/notifications`  — that does one thing and one thing well; send notifications.
 
 Hermes accepts sample payload in this format
-<pre><code>
+{% highlight javascript %}
 {
     "medium": "email",
     "name": “app_template_name",
@@ -31,7 +31,7 @@ Hermes accepts sample payload in this format
         “order_number”: “R123456789"
     }
 }
-</code></pre>
+{% endhighlight %}
 
 The above payload is simple and almost self-explanatory. Below is a brief explanation of what each key means:
 `medium` - The notification medium: `sms` or `email`<br/>
@@ -46,7 +46,7 @@ The above payload is simple and almost self-explanatory. Below is a brief explan
 
 While every key in the above payload is mandatory, the keys that form the `params` varies based on the template content. A template is an HTML document with Jinja2 template syntax
 
-<pre>
+{% highlight html %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -58,7 +58,7 @@ While every key in the above payload is mandatory, the keys that form the `param
     Your order with number: {{order_number}} has been shipped.
 </body>
 </html>
-</pre>
+{% endhighlight %}
 
 The above payload plus the template will translate to an email like this:
 
