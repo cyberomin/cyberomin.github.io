@@ -54,8 +54,8 @@ While every key in the above payload is mandatory, the keys that form the `param
     <title>Title</title>
 </head>
 <body>
-    Dear &#123;&#123;customer_name&#125;&#125; <br/>
-    Your order with number: &#123;&#123;order_number&#125;&#125; has been shipped.
+    Dear *{{customer_name}**}* <br/>
+    Your order with number: *{{order_number}**}* has been shipped.
 </body>
 </html>
 {% endhighlight %}
