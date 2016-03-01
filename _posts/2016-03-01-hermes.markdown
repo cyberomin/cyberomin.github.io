@@ -54,17 +54,18 @@ While every key in the above payload is mandatory, the keys that form the `param
     <title>Title</title>
 </head>
 <body>
-    Dear `{{`customer_name`}}`<br/>
-    Your order with number: `{{`order_number`}}` has been shipped.
+    Dear \{\{customer_name\}\}<br/>
+    Your order with number: \{\{order_number\}\} has been shipped.
 </body>
 </html>
 {% endhighlight %}
 
 The above payload plus the template will translate to an email like this:
-
+{% highlight html %}
 Dear James Bond,
 
 Your order with number: R123456789 has been shipped.
+{% endhighlight %}
 
 ###Hermes Technology Stack
 Hermes is built with the Python Flask framework and it Jinja2 for templating. It uses RabbitMQ for messaging queue, MySQL as its primary data store, Redis for caching and Celery for distributed task queue.
