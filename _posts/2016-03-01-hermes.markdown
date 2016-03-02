@@ -15,7 +15,7 @@ This route presents a problem, inconsistent coding style and no client library, 
 <h3>Enter Hermes</h3>
 Hermes is our in house notification service -- Notification as a service(NaaS). It provides a simple RESTFul API for sending notifications; emails and SMS.
 
-The major benefit of Hermes is that it abstracts the underlying API of  SMS and transactional email providers into one simple and consistent RESTFul endpoint — `/v1/notifications`  — that does one thing and one thing well; send notifications.
+The major benefit of Hermes is that it abstracts the underlying API of  SMS and transactional email providers into one simple and consistent RESTFul endpoint — `/v1/endpoint`  — that does one thing and one thing well; send notifications.
 
 Hermes accepts sample payload in this format
 {% highlight javascript %}
