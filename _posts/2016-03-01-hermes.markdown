@@ -24,8 +24,8 @@ Hermes accepts sample payload in this format
     "name": “app_template_name",
     "recipient": “you@example.com",
     "subject": “Your order has been shipped",
-    "sender": "noreply@konga.com",
-    "sender_id": “Konga",
+    "sender": "noreply@example.com",
+    "sender_id": “Owner",
     "params": {
         “customer_name": “James Bond”,
         “order_number”: “R123456789"
