@@ -30,7 +30,7 @@ T left my house that evening with the intention of going to get the transistor, 
 
 After another bout of back and forth, it was discovered that the newly replaced pipes had cracked again while trying to install them. Bear in mind that this was the same crack that made us replaced the pipes in the first place. I told "T" I wasn't paying for another pipe.
 
-<center>We need to “disrupt” these repairmen, artisans and handymen. Ain't nobody got time for stress.</center>
+###We need to “disrupt” these repairmen, artisans and handymen. Ain't nobody got time for stress.
 
 The experience I just narrated above isn’t uncommon, I dare say I’m not the first person to go through this experience neither would I be the last. Some repairmen, artisans and handymen have their ways and you can’t hold them for that. A part of me will want to believe the think they have the upper hand and the rest of us mortals can either play by their rules or …. play by their rules.
 
@@ -47,6 +47,7 @@ While the concept of a marketplace for handymen isn’t exactly new. The likes o
 >“Ideas don’t rule the world again, execution does and it’s everything.”
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/cyberomin/posts/10208854714705649" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/cyberomin/posts/10208854714705649"><p>Have you had any cause to deal with an artisan? What was your experience look like? Will you recommend the one you deal with?</p>Posted by <a href="#" role="button">Celestine Omin</a> on&nbsp;<a href="https://www.facebook.com/cyberomin/posts/10208854714705649">Saturday, February 27, 2016</a></blockquote></div></div>
+
 
 My idea for an ideal marketplace will be to have some sort of platform, where repairmen, handymen and artisans can register under categories, based on the service the offer; home and kitchen, electronics, carpentry, electricians, automobiles, etc. Every registered service provider(repairman, artisan and handyman) is verified via a thorough background check and work ethics. A prospective customer goes to the marketplace, select's a category and chose a service he wants help with e.g AC servicing and repairs. A list of handymen and artisans is presented, each service provider with their individual star ratings and reviews from past clients including their availability — Monday through Friday, between 9 AM to 6 PM — and rates.
 
