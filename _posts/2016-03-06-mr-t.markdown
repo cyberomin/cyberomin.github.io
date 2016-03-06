@@ -4,7 +4,7 @@ title:  "Artisans, repairmen and handymen. Another market ripe for a disruption"
 date:   2016-03-06 04:09:00
 categories: startup
 description: "Anyone that has had any dealings with an artisan or a handyman will tell you how unpleasant the experience is. From broken promises to buying substandard parts — while charging you for the original — to fixing problems based on guesses, to causing further damage, the list goes on."
-
+image: /assets/article_images/handymen/handyman-tools.jpg
 ---
 Anyone that has had any dealings with an artisan or a handyman will tell you how unpleasant the experience is. From broken promises to buying substandard parts — while charging you for the original — to fixing problems based on guesses, to causing further damage, the list goes on.
 
