@@ -24,12 +24,6 @@ Hermes accepts sample payload in this format
     "name": “app_template_name",
     "recipient": “you@example.com",
     "subject": “Your order has been shipped",
-    "sender": "noreply@example.com",
-    "sender_id": “Owner",
-    "params": {
-        “customer_name": “James Bond”,
-        “order_number”: “R123456789"
-    }
 }
 {% endhighlight %}
 
@@ -38,13 +32,8 @@ The above payload is simple and almost self-explanatory. Below is a brief explan
 `name`  - The name of a template. Since we send different notification depending on an action, grouping these actions into templates makes a lot of sense. Template names are typically synonymous with actions: <b>shipped_order</b>, <b>order_received</b>, etc.<br/><br/>
 `recipient` the recipient of the notification.<br/>
 `subject` - Subject of the email. Not required for SMS.<br/>
-`sender` - Sender’s email<br/>
-`sender_id` - Name of the sender<br/>
-`params` - Holds nested JSON that the templates render into real content. Every template has a variable that gets replaced with a key in `params`<br/>
-`customer_name` - Name of a customer<br/>
-`order_number` - Order number<br/>
 
-While every key in the above payload is mandatory, the keys that form the `params` varies based on the template content. A template is an HTML document with Jinja2 template syntax
+A template is an HTML document with Jinja2 template syntax
 
 {% highlight html %}
 <!DOCTYPE html>
