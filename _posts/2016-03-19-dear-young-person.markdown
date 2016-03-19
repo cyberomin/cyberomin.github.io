@@ -6,7 +6,7 @@ categories: life
 description: "Dear young person, I get it, at this stage in your life you pay very little or no attention to somethings and you couldn’t be bothered. I understand the pressure to be hip and “swag” but if you must do it, do it right."
 
 ---
-Dear young person, I get it, at this stage in your life you pay very little or no attention to somethings and you couldn’t be bothered. I understand the pressure to be hip and “swag” but if you must do it, do it right.
+Dear young person, I get it, at this stage in your life you pay very little or no attention to some things and you couldn’t be bothered. I understand the pressure to be hip and “swag” but if you must do it, do it right.
 
 You see, I’m not perfect, far from it but I strive daily to be a better person; life, work, relationship, etc. Like you, I’m still learning a lot and I’m at 0.0000000001% out of the 100% that I need to know. The road is long and winding and truthfully,  I don’t even see a destination. Like it’s been said, my reward is in the journey itself.
 
