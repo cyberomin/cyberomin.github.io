@@ -26,7 +26,7 @@ Dear young person, I once struggled with my spoken English — I’m still learn
 
 Dear young person, make that conscious effort today to switch. Push yourself to drop all manner of short-form writing. It will be hard but stay the course. It will be worth it. Trust me. And stop that habit of starting a statement with “Am”, it’s “I’m.” Don’t do it again, it looks bad on you. You can do better.
 
-Oh, and just incase you see any bad grammar or anything anti-pattern, call me out.
+Oh, and just in case you see any bad grammar or anything anti-pattern, call me out.
 
 You know I do care about you, right? I do.
 
