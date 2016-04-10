@@ -39,4 +39,6 @@ At this point, we had gotten to the car park of the office complex. I bid Makind
 
 Makinde, got to his floor, but just before he settles in, he whips a quick SMS to Bidemi, "Hello babe, I just got in. Did you sleep well? We have a dinner reservation this evening. Put on something smashing and don't forget to slay. I'll pick you up at 7. Love you loads. M." "M" was his other moniker. Makinde always has his ways with words and things.
 
-"<em>Babe, this is rather sudden. You should have checked in with me before making the reservation</em>", Bidemi's reply to his SMS 5 minutes later. He was taken aback for a moment.  He dialed her number immediately but there was no response. With a clenched fist, he slams the table and gave out a big "<em>damn</em>". Makinde has anger problems.
+"<em>Babe, this is rather sudden. You should have checked in with me before making the reservation</em>", Bidemi's reply to his SMS 5 minutes later. He was taken aback for a moment.  He dialled her number immediately but there was no response. With a clenched fist, he slams the table and gave out a big "<em>damn</em>". Makinde has anger problems.
+
+To be continued
