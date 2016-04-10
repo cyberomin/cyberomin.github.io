@@ -4,6 +4,7 @@ title:  "The Dinner - Makinde and Bidemi"
 date:   2016-04-10 04:57:00
 categories: fiction
 description: "The day began with an unusual tempo, Makinde, my office and ride mate had arrived rather early with an unusual grin on his face."
+mage: /assets/article_images/the-dinner/dinner.jpg
 ---
 
 The day began with an unusual tempo, Makinde, my office and ride mate had arrived rather early with an unusual grin on his face.
