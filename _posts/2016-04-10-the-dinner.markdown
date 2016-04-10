@@ -31,7 +31,7 @@ While Bidemi had a calm and humble disposition, Makinde, on the other hand, will
 
 "<em>We have a date this evening,</em>" he told me. I've booked a private dinner for two at the rooftop of Orchestra Hotel. Orchestra is one of the few 5-star hotels in the city. "<em>I choose the menu myself</em>" he quipped, just as I was doing the mental sum of how much he must have invested in all of these, worst of it, Bidemi was rather a quiet girl who wasn't a fan of all these things. The Bidemi I know will rather order take out and have a quiet meal indoors but Makinde, being Makinde will always want to make a statement.
 
-I've carefully instructed the French chef to make the hors d'oeuvres as appetizing as possible. We are having a 3-course meal and top it off with a perfect bottle of wine, a 1940 Château Cheval Blanc Red Bordeaux Blend St. Émilion Grand Cru, at this point, my eyes popped. I never realized when I screamed "what?" That bottle of wine will easily set him back by over $1,000. Not that I was surprised, this is Makinde we are talking about here. The new money, nouveau-rich Lagos big boy.
+I've carefully instructed the French chef to make the hors d'oeuvres as appetizing as possible. We are having a 3-course meal and top it off with a perfect bottle of wine, a 1940 Château Cheval Blanc Red Bordeaux Blend St. Émilion Grand Cru, at this point, my eyes popped. I never realized when I screamed "what?" That bottle of wine will easily set him back by over $1,000. Not that I was surprised, this is Makinde we are talking about here. The new money, nouveau-riche Lagos big boy.
 
 >1940 Château Cheval Blanc Red Bordeaux Blend St. Émilion Grand Cru
 
