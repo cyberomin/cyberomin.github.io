@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "The Dinner"
+title:  "The Dinner - Makinde and Bidemi"
 date:   2016-04-10 04:57:00
 categories: fiction
 description: "The day began with an unusual tempo, Makinde, my office and ride mate had arrived rather early with an unusual grin on his face. "What is it I inquired ?", I haven't seen him this way for as long as I can remember. "Bidemi and I are back together, we made up last night." "nice" I replied, "what did you do," I asked him  hastily, "I realised my folly and called her to apologise. She accepted my apologies and forgave me."
-
 ---
+
 The day began with an unusual tempo, Makinde, my office and ride mate had arrived rather early with an unusual grin on his face.
 "What is it I inquired ?", I haven't seen him this way for as long as I can remember. "Bidemi and I are back together, we made up last night." "nice" I replied, "what did you do," I asked him  hastily, "I realised my folly and called her to apologise. She accepted my apologies and forgave me."
 
