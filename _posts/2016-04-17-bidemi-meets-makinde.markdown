@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Bidemi meets Makinde for dinner"
+title:  "Bidemi meet's Makinde for dinner"
 date:   2016-04-17 10:46:00
 categories: fiction
-description: "Makinde managed to pull himself together, "I wouldn't let this issue ruin my day, it's way to early", he said to himself."
+description: "Makinde managed to pull himself together, I wouldn't let this issue ruin my day, it's way to early, he said to himself."
 image: /assets/article_images/the-dinner/candle-light-dinner-table.jpg
 ---
 
