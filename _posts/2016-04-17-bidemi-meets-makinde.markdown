@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Bidemi meet's Makinde for dinner"
+date:   2016-04-17 10:46:00
+categories: fiction
+description: "Makinde managed to pull himself together, "I wouldn't let this issue ruin my day, it's way to early", he said to himself."
+image: /assets/article_images/the-dinner/candle-light-dinner-table.jpg
+---
+
+Makinde managed to pull himself together, "I wouldn't let this issue ruin my day, it's way to early", he said to himself.
+
+I reached out to M just as I was heading out for my lunch break. I wanted to see how his day was going. " O'l boy, how far na?” I asked him over the phone. "Not good man, not good at all" even without him saying not good, I could tell something was amiss. His voice already gave him away. His voice was like that of a child that has managed to get all F in his last term's exams and the thought of explaining this to his parents has drowned every iota of excitement in him.
+
+"I thought Bidemi would be excited about the prospects of having a private dinner with me this evening. But from the tone of her SMS, I can tell she isn't, if anything, I wanted this to serve as a commemoration of our reconciliation" he said to me, at this point it all made sense. He grew more and more despondent as we spoke. This was more than the dinner. It was a blow to M's ego.
+
+“Bro, I’m going out for lunch. Let’s meet at the cafeteria.” I said to him. We met at the cafeteria in the office complex and it was obvious M was worried. He just couldn’t stop talking about Bidet’s SMS. I was inclined to believe he was also worried that Bidemi hasn’t really taken him back.
+
+I brought up a different conversation, in the hope that it will take his mind off the dinner issue. I consciously talked about the football match of the past weekend, this I knew he will bite. Makinde is a football buff and he's one of those die-hard fans who will go as far as staking their valuable possession and money for the team of their choice not  to mention that he is still not in talking terms with Jide, his younger cousin. They both fell out after a particular football match. M breaths, dreams and eats football and he hate to lose an argument.
+
+We both spent the rest of our lunch break arguing who was going to win the match of the coming weekend as we walked back to the office.
+
+The moment M stepped into his floor, his phone rang. His P-Square's Do-me ringtone blaring loud into the air, it was Bidemi calling. "Hey, I called earlier," he said, "I'm so sorry I left my phone on my desk for an impromptu 5-minute meeting that eventually lasted for 3 hours. What’s up?”, she asked. “I got your SMS, you sounded as though you weren’t interested in our dinner tonight. Is there a problem? Did I do something wrong”, he stuttered. Bear in mind that Makinde just made up with Bidemi, even though things are smooth with them, he still gets jittery and conscious of things that will return any awkwardness. Safe to say he was walking on egg shells. “Makonde, it’s fine. I’ll meet you up at the restaurant. Just text the address and time to me. I’m sorry I’ve to run now, work calls.” They both ended the call with their usual salutation, not before M seized the opportunity to profess his love, “Bidemi, I love you. I really do.” He sounded really sombre, you would think he was going to cry. Love nwantiti.
+
+The day progressed as usual and everyone carried along with their normal activities. Office gossips flying everywhere, with people congregating in little informal groups. The guys talking about the usual; booze, football and who wore the best agbada and who rocked the best suit to the weekend weddings and introductions. The ladies, on the other hand, were not left out, tales of show-stopper head gears and who rocked the best designs could get even the most conservative lady salivating.
+
+Oluchi, the office fashionista lead the gang. She wouldn’t stop showing pictures of her dresses over the weekend to every willing eye. From her short, to-die-for Ankara dress that she rocked to a friend's Friday dinner party, to the fish-shaped dress she wore to Olu and Sade’s introduction #OluSade2016. For Sunday, she capped it with a Vogue inspired, high waisted A-line skirt with a nice patterned top. She completed the look with a nice lapel long sleeve floral print blazer. Her Yves Saint Laurent 'Paris skinny' pointy toe pump gave her that chick look. She accessorized with a simple neck piece and a nice purse. Even I couldn’t hold back myself. She was on FIRE!!!!!!!. In my mind’s eye, I could see her in the Sunday service giving a resounding “Hallelujah” to her Pastor’s every “praise the Lord”. Oluchi just knows how to oppress the rest of us. God dey sha.
+
+In all of these, Deola, the lady at the front desk was somewhat missing out from the action. She couldn’t join any of the circles for obvious reasons; she just can’t leave the front office. She did what was the closest thing - scroll through Instagram feed and criticise everybody’s dress and questioned their fashion sense. One would think she just replaced Joan Rivers on E!'s Fashion Police. Every picture had an issue, it’s either the makeup was off and the tone didn’t quite blend in with the skin complexion or the dress was too loose and the satchel bag didn’t pair well with the peep-toe shoe. Oh, did I forget the endless yimu she gave to people in group pictures?
+
+As the day eased to a close, my thoughts switched from Makinde and Bidemi’s date to Oluchi. Frankly, I could hardly do any other productive work after seeing those pictures of hers. It’s as if she’s cast a spell on me. Everything had her face on it, from my computer screen to my phone. It’s as if every phone number on my contact list had miraculously been replaced with hers. For a moment, I nursed the idea of asking her out on a date, I just couldn't muster the courage. This Oluchi girl na high maintenance babe. My N128K post-tax salary can hardly sustain me, I can’t add any more issues abeg. But a brother can dream, right?
+
+Makinde, spent the remaining part of the day thinking about how his date with Bidemi will turn out. From when he got off the phone with her, the day appeared unusually slow. The clock wouldn’t just move. Every glance at the time on his computer screen didn’t help either. 2 hours in his mind was 10 minute in the real world. He finished every assigned and pending task as fast as he could. He carried on the day with such gusto, you would think he was preparing for the mid-year appraisal.
+
+Emeka his office mate had noticed how his countenance changed after the call with Bidemi. He went from that of a dejected person to this new adrenaline-fuelled person. He greeted everyone that walked into their room like he was trying to close a deal. Every “hello, how are you doing today?” had him flashing his near white dentition.
+
+M could barely allow the 5:00PM tick, he left his office at 4:50 PM, hovered around the front office, killing the next 10 minutes. His index finger was already on the elevator button when it was 4:59 PM, at 5PM, he pushed the button with every single ounce of strength he had in him. 
+ 
+Sixty seconds later he raced out of the elevator, dashed to the car park as fast as he could and zoomed off, the road, for some strange reason, was devoid of the usual Lagos rush hour traffic. Just before hitting the highway he decided to stop at a gift shop and grab a bouquet of flower. This date and dinner must go on perfectly well. Nothing was going to be left to chance. 
+
+As M his gate, you could hear his car horn from 500m. The gateman flung the gate open as fast as he could. “Oga welcome, oga, somebody bring one letter like that come for you”, the gateman said but he waved him away with his left hand. Anything out of the date was a distraction and he wasn’t going to have any of those.
+
+He hurried into the bathroom, he trimmed his beard, brushed then flossed. He wore a nice long sleeve dress shirt, stone wash jeans and a beautiful pair of Zara Man Oxford shoes. A nice navy blue jacket and pocket square to completed the look. He wore his favourite perfume, a Gucci Museo. He was looking all shades of awesome. Classic Makinde, he is a head turner.
+
+M arrived at the restaurant 20 minutes earlier and went straight to the location of their private dining. The waiter showed up 2 minutes later and he requested for a bottle of water. I mean, you can’t start the dinner without/before the lady. It’s just rude. While waiting for Bidemi's arrival, he kept fiddling with his bracelet and gazed into the night sky. His mind wandering on so many random issues. So far it was looking like a perfect evening.
+
+At exactly 7:02PM, Bidemi walked in. “I’m sorry dear, I’m 2 minutes late”, she said while glancing at her wristwatch. “I had a bit of an issue finding a good place to park.” Bidemi is always almost punctual, she hates it when people don’t keep to time, little wonder she spent the first few minutes apologising. “That’s okay dear. You’re here now and that’s what matters”, he said as he leaned in to give her a peck on her left cheek. He proceeded to pull the chair for her, made sure she was comfortably seated and he continued to his own seat. “Here, I got you flowers”, he said with smiles. “Thank you, dear, this is quite thoughtful of you.” She responded with a nice innocent smile. The kind of smile you typically will find in the face of a lady that has just seen her crush.
+
+The evening started on a very good note and things seemed to be going well, not until the chef decided to turn things around. There was a mistake in the menu and Makinde wasn’t having any of it. “This is the wrong menu”, there was a slight change in his tone even though he tried very hard to manage it. “M, it’s ok. We will be fine”, she responded. From this point, the whole evening took a different turn. His ego has just kicked in.  
+
+To be continued
