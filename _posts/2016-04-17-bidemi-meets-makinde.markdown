@@ -15,7 +15,7 @@ I reached out to M just as I was heading out for my lunch break. I wanted to see
 
 “<em>Bro, I’m going out for lunch. Let’s meet at the cafeteria.</em>” I said to him. We met at the cafeteria in the office complex and it was obvious M was worried. He just couldn’t stop talking about Bidet’s SMS. I was inclined to believe he was also worried that Bidemi hasn’t really taken him back.
 
-I brought up a different conversation, in the hope that it will take his mind off the dinner issue. I consciously talked about the football match of the past weekend, this I knew he will bite. Makinde is a football buff and he's one of those die-hard fans who will go as far as staking their valuable possession and money for the team of their choice not  to mention that he is still not in talking terms with Jide, his younger cousin. They both fell out after a particular football match. M breath's, dream's and eat's football and he hate to lose an argument.
+I brought up a different conversation, in the hope that it will take his mind off the dinner issue. I consciously talked about the football match of the past weekend, this I knew he will bite. Makinde is a football buff and he's one of those die-hard fans who will go as far as staking their valuable possession and money for the team of their choice not  to mention that he is still not in talking terms with Jide, his younger cousin. They both fell out after a particular football match. M breaths, dreams and eats football and he hate to lose an argument.
 
 We both spent the rest of our lunch break arguing who was going to win the match of the coming weekend as we walked back to the office.
 
