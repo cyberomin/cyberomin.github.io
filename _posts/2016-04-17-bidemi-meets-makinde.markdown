@@ -39,7 +39,7 @@ Sixty seconds later he raced out of the elevator, dashed to the car park as fast
 
 As M his gate, you could hear his car horn from 500m. The gateman flung the gate open as fast as he could. “<em>Oga welcome, oga, somebody bring one letter like that come for you</em>”, the gateman said but he waved him away with his left hand. Anything out of the date was a distraction and he wasn’t going to have any of those.
 
-He hurried into the bathroom, he trimmed his beard, brushed then flossed. He wore a nice long sleeve dress shirt, stone wash jeans and a beautiful pair of Zara Man Oxford shoes. A nice navy blue jacket and pocket square to completed the look. He wore his favourite perfume, a Gucci Museo. He was looking all shades of awesome. Classic Makinde, he is a head turner.
+He hurried into the bathroom, he trimmed his beard, brushed then flossed. He wore a nice long sleeve dress shirt, stone wash jeans and a beautiful pair of Zara Man Oxford shoes. A nice navy blue jacket and pocket square to complete the look. He wore his favourite perfume, a Gucci Museo. He was looking all shades of awesome. Classic Makinde, he is a head turner.
 
 M arrived at the restaurant 20 minutes earlier and went straight to the location of their private dining. The waiter showed up 2 minutes later and he requested for a bottle of water. I mean, you can’t start the dinner without/before the lady. It’s just rude. While waiting for Bidemi's arrival, he kept fiddling with his bracelet and gazed into the night sky. His mind wandering on so many random issues. So far it was looking like a perfect evening.
 
