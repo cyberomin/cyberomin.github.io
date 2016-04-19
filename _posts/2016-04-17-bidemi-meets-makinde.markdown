@@ -37,7 +37,7 @@ M could barely allow the 5:00PM tick, he left his office at 4:50 PM, hovered aro
  
 Sixty seconds later he raced out of the elevator, dashed to the car park as fast as he could and zoomed off, the road, for some strange reason, was devoid of the usual Lagos rush hour traffic. Just before hitting the highway he decided to stop at a gift shop and grab a bouquet of flower. This date and dinner must go on perfectly well. Nothing was going to be left to chance. 
 
-As M his gate, you could hear his car horn from 500m. The gateman flung the gate open as fast as he could. “<em>Oga welcome, oga, somebody bring one letter like that come for you</em>”, the gateman said but he waved him away with his left hand. Anything out of the date was a distraction and he wasn’t going to have any of those.
+As M approached his gate, you could hear his car horn from 500m. The gateman flung the gate open as fast as he could. “<em>Oga welcome, oga, somebody bring one letter like that come for you</em>”, the gateman said but he waved him away with his left hand. Anything out of the date was a distraction and he wasn’t going to have any of those.
 
 He hurried into the bathroom, he trimmed his beard, brushed then flossed. He wore a nice long sleeve dress shirt, stone wash jeans and a beautiful pair of Zara Man Oxford shoes. A nice navy blue jacket and pocket square to complete the look. He wore his favourite perfume, a Gucci Museo. He was looking all shades of awesome. Classic Makinde, he is a head turner.
 
