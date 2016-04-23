@@ -14,7 +14,7 @@ After waiting for about 3 minutes amidst my browser spinning endlessly, I was gr
 
 A representative from Paga called me about an hour later and said Interswith asked to wait for 24 hours. Twenty-four hours later, I got a reply from Paga, it wasn’t a nice one. Interswitch claimed the transaction failed, the Paga representative now suggested I should speak to my bank, United Bank for Africa(UBA).
 
-I reached out to UBA and I was told the transaction was successful. The UBA social media manager asked me to go speak to the merchant (Paga/Gigalayer), but in the case where the merchant claimed they didn’t value for the transaction, I should request an official email from the merchant stating that they never saw value for the transaction. The Paga representative was gracious enough to write one for me to which I forward to UBA immediately. I didn’t get any feedback from UBA again that day. When I tried reaching them again the following day, I was told to wait for 2 weeks before a refund can be made. In the meantime, they need to conduct an internal investigation.
+I reached out to UBA and I was told the transaction was successful. The UBA social media manager asked me to go speak to the merchant (Paga/GigaLayer), but in the case where the merchant claimed they didn’t value for the transaction, I should request an official email from the merchant stating that they never saw value for the transaction. The Paga representative was gracious enough to write one for me to which I forward to UBA immediately. I didn’t get any feedback from UBA again that day. When I tried reaching them again the following day, I was told to wait for 2 weeks before a refund can be made. In the meantime, they need to conduct an internal investigation.
 
 >Where did I go wrong here?
 
