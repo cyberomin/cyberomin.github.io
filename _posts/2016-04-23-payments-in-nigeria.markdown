@@ -26,6 +26,6 @@ Imagine I was in another city and I tried booking a flight back home with the la
 
 Every single email reply was one of those pre-canned messages you would get from a standard CRM. Devoid of personal touch or anything remotely close to empathy. They all ended with “we are sorry for the inconveniences this must have caused.” I still don’t understand why it will take 10 business days to recover funds from a bank.
 
-All the intersecting parties aren't a half way round the world, in fact, they are in close proximity. Isn't there supposed to some sort of correspondence, someone like an account manager between Interswitch and UBA that respond to these sort of issues very quickly? There is nothing standard about using 240 days to reach a settlement.
+All the intersecting parties aren't a half way round the world, in fact, they are in close proximity. Isn't there supposed to some sort of correspondence, someone like an account manager between Interswitch and UBA that respond to these sort of issues very quickly? There is nothing standard about using 240 hours to reach a settlement.
 
 I’m still here, still hoping that somehow, I will get a refund. In the meantime, I will remain punished for trying to use a service that was supposed to make my life a lot easier.
