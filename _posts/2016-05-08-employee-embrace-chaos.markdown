@@ -6,11 +6,11 @@ categories: startup
 description: "It’s an interesting time to be working in tech, especially at startups. But I’ve a feeling not too many people are cut out for the high powered, high input environment, high expectations that come with working at startups."
 ---
 
-It’s an interesting time to be working in tech, especially at startups. But I’ve a feeling not too many people are cut out for the high powered, high input environment, high expectations that come with working at startups.
+It’s an interesting time to be working in tech, especially at startups. But I’ve got a feeling that a lot fewer people are cut out for the high powered, high input and high expectations environment that comes with working at startups.
 
 A few days ago, I had a conversation with someone who works at a start-up. We both shared our thoughts on startups and he did hit on something a whole lot of people have had concerns with especially at early stage ventures &mdash; roles, job descriptions and chaos.
 
-While he obviously enjoys what he does, he found the lack of structure and a properly defined job function a big issue. I listened to him for about 10 minutes while he went on about "why they need to be properly defined roles, job functions and the need to deal with one task at a time." This person, I'd assume is coming from a big company, where structures have been entrenched into the  company's ethos and bureaucracy is at its core. Sadly, this isn't the same with start-ups.
+While he obviously enjoys what he does, he found the lack of structure and a properly defined job function a big issue. I listened to him for about 10 minutes while he went on about "why they needs to be properly defined roles, job functions and the need to deal with one task at a time." This person, I'd assume is coming from a big company, where structures have been entrenched into the  company's ethos and bureaucracy is at its core. Sadly, this isn't the same with start-ups.
 
 As startups grow and find their rhythm, properly define roles and job functions will fall into place naturally while this will eventually happen, there's no guarantee that you as an employee wouldn't have to play intersection at cross-functional teams and find a need to wear multiple hats. Ability to move really fast and get things done are some of the things that define really successful startups.
 
