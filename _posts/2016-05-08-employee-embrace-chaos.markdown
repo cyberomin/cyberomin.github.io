@@ -12,7 +12,7 @@ A few days ago, I had a conversation with someone who works at a start-up. We bo
 
 While he obviously enjoys what he does, he found the lack of structure and a properly defined job function a big issue. I listened to him for about 10 minutes while he went on about "why they needs to be properly defined roles, job functions and the need to deal with one task at a time." This person, I'd assume is coming from a big company, where structures have been entrenched into the  company's ethos and bureaucracy is at its core. Sadly, this isn't the same with start-ups.
 
-As startups grow and find their rhythm, properly define roles and job functions will fall into place naturally while this will eventually happen, there's no guarantee that you as an employee wouldn't have to play intersection at cross-functional teams and find a need to wear multiple hats. Ability to move really fast and get things done are some of the things that define really successful startups.
+As startups grow and find their rhythm, properly defined roles and job functions will fall into place naturally while this will eventually happen, there's no guarantee that you as an employee wouldn't have to play intersection at cross-functional teams and find a need to wear multiple hats. Ability to move really fast and get things done are some of the things that define really successful startups.
 
 In the early stage of a startup, experimentation and pivot are sure-fire recipes to get the most out of anything. As the market changes and moves on, a start-up must adapt to these changes and in most cases, these changes happen at break-neck speed. This is only natural and employees must be ready to embrace this change.
 
