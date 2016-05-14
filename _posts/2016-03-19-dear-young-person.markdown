@@ -10,7 +10,7 @@ Dear young person, I get it, at this stage in your life you pay very little or n
 
 You see, I’m not perfect, far from it but I strive daily to be a better person; life, work, relationship, etc. Like you, I’m still learning a lot and I’m at 0.0000000001% out of the 100% that I need to know. The road is long and winding and truthfully,  I don’t even see a destination. Like it’s been said, my reward is in the journey itself.
 
-Dear young person, you’re awesome and I love so many things about you, I do, trust me. My only gripe with you is the way you write…yes, your writing. You see, in the quest to follow the trend, to fit in and avoid the risk of being label a <em>jew man</em> you have thrown away and paid little attention to one of the most basic and fundamental means of communication — writing — and it bothers me that you don’t see anything wrong in it. I've got news for you, everything is wrong in the way you write. EVERYTHING.
+Dear young person, you’re awesome and I love so many things about you, I do, trust me. My only gripe with you is the way you write…yes, your writing. You see, in the quest to follow the trend, to fit in and avoid the risk of being labeled a <em>not hip enough</em> you have thrown away and paid little attention to one of the most basic and fundamental means of communication — writing — and it bothers me that you don’t see anything wrong in it. I've got news for you, everything is wrong in the way you write. EVERYTHING.
 
 > They don't want you to write well. But you know writing well is a major key.
 
