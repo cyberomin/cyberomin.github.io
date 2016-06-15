@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "The N-Power website, what could have been done...differently."
+date:   2016-06-15 08:27:00
+categories: governemt
+description: "A few days ago, the Federal Government of Nigeria launched a project aptly called N-Power, a project that seeks to 'Empower Nigerian Youths for Prosperity.''
+---
+
+A few days ago, the Federal Government of Nigeria launched a project aptly called “N-Power”, a project that seeks to “Empower Nigerian Youths for Prosperity." While this is a laudable initiative, the main source of information collection - the website - wasn’t managed properly. It’s reminiscent of Obama’s healthcare.gov initiative and the “N Power” website wasn’t any different. Aside the fact that it takes an insane amount of time to load, the website crashes under pressure.
+
+For context, unemployment rate in Nigeria stood at a staggering 12.1% as of March 2016, this is up from 10.5% in the fourth quarter of 2015. For a country of approximately 180M people, these numbers sort of gives you a fair idea of how much load this website will have to deal with. In the first few days of its  unveiling to the general public, a record number of 400,000 registration took place successfully in the first 36 hours and so far, according to a statement issues by the SSA to the Vice President on Media and publicity, the website has gotten over 35 million visits thus far. Impressive.
+
+<iframe src='http://www.tradingeconomics.com/embed/?s=nigeriaur&v=201605262210n&h=300&w=600&ref=/nigeria/unemployment-rate' height='300' width='600'  frameborder='0' scrolling='no'></iframe><br />source: <a href='http://www.tradingeconomics.com/nigeria/unemployment-rate'>tradingeconomics.com</a>
+
+So far, while the number of registration looks impressive, it pale in comparison with the unemployment numbers of the nation. My believe is that the frequent outage of the website has greatly affected the smooth registration process as so many prospective registrants finds it really difficult to access the website.
+
+I admire the government’s effort and intention to help solve the unemployment problem, but most times, good intentions aren’t always good enough, you have to do more. Some people have taken to Twitter to vent their frustration on the inaccessibility of the website and this, in my opinion if the website isn’t accessible, the whole purpose of this exercise is defeated.
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">it seems the FGN&#39;s <a href="https://twitter.com/Galaxybackbone">@Galaxybackbone</a> does not have the know-how of getting a high traffic site to work <a href="https://t.co/HtTZotuDz4">https://t.co/HtTZotuDz4</a> <a href="https://twitter.com/channelstv">@channelstv</a></p>&mdash; Dayo Ayeni (@dedayoa) <a href="https://twitter.com/dedayoa/status/743141719529693184">June 15, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Ts site can’t be reached<a href="https://t.co/qFTy1FugOx">https://t.co/qFTy1FugOx</a> took too long to respond.<br>Search Google for npower gov ng login<br>ERR_CONNECTION_TIMED_OUT</p>&mdash; Progressives e-News (@ProgressivesG) <a href="https://twitter.com/ProgressivesG/status/743075692276002817">June 15, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/bukolasaraki">@bukolasaraki</a> pls sir help us, <a href="https://t.co/YJQOIHCP4w">https://t.co/YJQOIHCP4w</a> is not responding, we need your help sir, please sir help us.</p>&mdash; owoseni samuel (@OwoseniSamuel) <a href="https://twitter.com/OwoseniSamuel/status/742992949844312064">June 15, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">what kind of website that been created for <a href="https://t.co/yMwEARPPj8">https://t.co/yMwEARPPj8</a>. always no working</p>&mdash; Umar-Aliyu (@umaraliyumusa) <a href="https://twitter.com/umaraliyumusa/status/742899255933816833">June 15, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Below are a few thoughts of mine from a technical and product perspective with regards to how the website could have been managed properly.
+
+A website of this nature is guaranteed to have hundreds of thousands of visitors and proper load and stress testing should be part of its development life cycle. There a bunch of tools that can help with this Apache Benchmark, Locust, Siege just to mention a few. Not just that, the average response time of this website is about 1m 10sec. This is unacceptable.
+
+Static contents - Javascript, CSS and images - could have been better managed. Combining the stylesheets and javascripts into one single file respectively would further help the response time of the website as this will reduce the number of round trips. The different tiny images on the website could have been made into a sprite, there is no point in loading logos of the stake holders individually. This will further reduce the roundtrip and create a better experience. Aside from minifying the static contents, serving them through a CDN(content delivery network) is something that should really be considered. It takes a total of 46 round trips and content size of 5M to get the entire website to display.
+
+<p>
+	<img src="{{ site.url }}/assets/article_images/n-power/npower.png"/>
+</p>
+
+High availability is none negotiable for a website of this nature, as such, a fail over of a single node shouldn’t take down the entire website. A load balancer(Haproxy, Amazon’s ELB) could have been used here with all the web nodes sitting behind it. This will help disperse the load across multiple machines and take the stress of one machine.
+
+Depending on the architecture, putting the web server and a the database on the same machine isn’t a wise decision, nothing leads to a single point of failure like this setup. Separating the web node(s) from the database is almost always advisable and always replicate the master database. Always.
+
+Frequently accessed pages should be cached, depending on the content type, a tool like Varnish is highly recommended and expensive queries should be cached, Redis and Memcache are great candidates for this task. And don’t forget to index the database tables. I can’t overemphasise the upside of this.
+
+Monitor and measure everything, a high CPU throughput should trigger an alert to responsible parties. New Relic is an excellent server monitoring tool and for an open source equivalent, Nagios comes to mind.  The rule of the game here is measure and monitor.
+
+In a world where cyber security is becoming a major issue, logins and registrations pages must have SSL enabled. This is something I found lacking on the website.
