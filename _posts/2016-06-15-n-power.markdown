@@ -36,6 +36,7 @@ Static contents - Javascript, CSS and images - could have been better managed. C
 
 <p>
 	<img src="{{ site.url }}/assets/article_images/n-power/npower.png"/>
+	<small>Network request of the N-Power website</small>
 </p>
 
 High availability is non-negotiable for a website of this nature, as such, a failover of a single node shouldn’t take down the entire website. A load balancer(Haproxy, Amazon’s ELB) could have been used here with all the web nodes sitting behind it. This will help disperse the load across multiple machines and take the stress of one machine.
