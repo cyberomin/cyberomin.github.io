@@ -3,7 +3,7 @@ layout: post
 title:  "The N-Power website, what could have been done...differently."
 date:   2016-06-15 08:27:00
 categories: governemt
-description: "A few days ago, the Federal Government of Nigeria launched a project aptly called N-Power, a project that seeks to 'Empower Nigerian Youths for Prosperity.''
+description: "A few days ago, the Federal Government of Nigeria launched a project aptly called N-Power, a project that seeks to 'Empower Nigerian Youths for Prosperity.'"
 ---
 
 A few days ago, the Federal Government of Nigeria launched a project aptly called “N-Power”, a project that seeks to “Empower Nigerian Youths for Prosperity." While this is a laudable initiative, the main source of information collection - the website - wasn’t managed properly. It’s reminiscent of Obama’s healthcare.gov initiative and the “N Power” website wasn’t any different. Aside the fact that it takes an insane amount of time to load, the website crashes under pressure.
