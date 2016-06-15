@@ -10,7 +10,7 @@ A few days ago, the Federal Government of Nigeria launched a project aptly calle
 
 For context, unemployment rate in Nigeria stood at a staggering 12.1% as of March 2016, this is up from 10.5% in the fourth quarter of 2015. For a country of approximately 180M people, these numbers sort of gives you a fair idea of how much load this website will have to deal with. In the first few days of its  unveiling to the general public, a record number of 400,000 registration took place successfully in the first 36 hours and so far, according to a statement issues by the SSA to the Vice President on Media and publicity, the website has gotten over 35 million visits thus far. Impressive.
 
-<iframe src='http://www.tradingeconomics.com/embed/?s=nigeriaur&v=201605262210n&h=300&w=600&ref=/nigeria/unemployment-rate' height='300' width='600'  frameborder='0' scrolling='no'></iframe><br />source: <a href='http://www.tradingeconomics.com/nigeria/unemployment-rate'>tradingeconomics.com</a>
+<iframe src='//www.tradingeconomics.com/embed/?s=nigeriaur&v=201605262210n&h=300&w=600&ref=/nigeria/unemployment-rate' height='300' width='600'  frameborder='0' scrolling='no'></iframe><br />source: <a href='http://www.tradingeconomics.com/nigeria/unemployment-rate'>tradingeconomics.com</a>
 
 So far, while the number of registration looks impressive, it pale in comparison with the unemployment numbers of the nation. My believe is that the frequent outage of the website has greatly affected the smooth registration process as so many prospective registrants finds it really difficult to access the website.
 
