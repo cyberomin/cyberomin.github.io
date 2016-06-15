@@ -14,7 +14,7 @@ For context, the unemployment rate in Nigeria stood at a staggering 12.1% as of 
 
 While the number of successful registration looks impressive, it pales in comparison with the unemployment numbers of the nation. The fluctuating uptime of the website is affecting registrations negatively; a problem if not checked soon enough will render the project dead on arrival
 
-I admire the government’s effort and intention to help solve the unemployment problem, but most times, good intentions aren’t always good enough, you have to do more. Some people have taken to Twitter to vent their frustration on the inaccessibility of the website and this, in my opinion if the website isn’t accessible, the whole purpose of this exercise is defeated.
+I admire the government’s effort and intention to help solve the unemployment problem, but most times, good intentions aren’t always good enough, you have to do more. Some prospective registrant have taken to Twitter to vent their frustration on the inaccessibility of the website. The whole purpose of this exercise is defeated if people can't use it.
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">it seems the FGN&#39;s <a href="https://twitter.com/Galaxybackbone">@Galaxybackbone</a> does not have the know-how of getting a high traffic site to work <a href="https://t.co/HtTZotuDz4">https://t.co/HtTZotuDz4</a> <a href="https://twitter.com/channelstv">@channelstv</a></p>&mdash; Dayo Ayeni (@dedayoa) <a href="https://twitter.com/dedayoa/status/743141719529693184">June 15, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
