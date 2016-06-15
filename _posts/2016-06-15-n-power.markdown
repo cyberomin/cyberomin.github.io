@@ -28,7 +28,7 @@ I admire the government’s effort and intention to help solve the unemployment 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">what kind of website that been created for <a href="https://t.co/yMwEARPPj8">https://t.co/yMwEARPPj8</a>. always no working</p>&mdash; Umar-Aliyu (@umaraliyumusa) <a href="https://twitter.com/umaraliyumusa/status/742899255933816833">June 15, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Below are a few thoughts of mine from a technical and product perspective with regards to how the website could have been managed properly.
+Below are a few thoughts of mine from a technical and product perspective with regards to how the website could have been better managed.
 
 A website of this nature is guaranteed to have hundreds of thousands of visitors and proper load and stress testing should be part of its development life cycle. There are lots of tools that can help with this Apache Benchmark, Locust, Siege just to mention a few. Not just that, the average response time of this website is about 70sec. This is unacceptable.
 
