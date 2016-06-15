@@ -30,7 +30,7 @@ I admire the government’s effort and intention to help solve the unemployment 
 
 Below are a few thoughts of mine from a technical and product perspective with regards to how the website could have been managed properly.
 
-A website of this nature is guaranteed to have hundreds of thousands of visitors and proper load and stress testing should be part of its development life cycle. There a bunch of tools that can help with this Apache Benchmark, Locust, Siege just to mention a few. Not just that, the average response time of this website is about 1m 10sec. This is unacceptable.
+A website of this nature is guaranteed to have hundreds of thousands of visitors and proper load and stress testing should be part of its development life cycle. There a bunch of tools that can help with this Apache Benchmark, Locust, Siege just to mention a few. Not just that, the average response time of this website is about 70sec. This is unacceptable.
 
 Static contents - Javascript, CSS and images - could have been better managed. Combining the stylesheets and javascript into one single file respectively would further help the response time of the website as this will reduce the number of round trips. The different tiny images on the website could have been made into a sprite, there is no point in loading logos of the stakeholders individually. This will further reduce the roundtrip and create a better experience. Aside from minifying the static contents, serving them through a CDN(content delivery network) is something that should really be considered. It takes a total of 46 round trips and content size of 5M to get the entire website to display.
 
@@ -38,9 +38,9 @@ Static contents - Javascript, CSS and images - could have been better managed. C
 	<img src="{{ site.url }}/assets/article_images/n-power/npower.png"/>
 </p>
 
-High availability is none negotiable for a website of this nature, as such, a fail over of a single node shouldn’t take down the entire website. A load balancer(Haproxy, Amazon’s ELB) could have been used here with all the web nodes sitting behind it. This will help disperse the load across multiple machines and take the stress of one machine.
+High availability is none negotiable for a website of this nature, as such, a failover of a single node shouldn’t take down the entire website. A load balancer(Haproxy, Amazon’s ELB) could have been used here with all the web nodes sitting behind it. This will help disperse the load across multiple machines and take the stress of one machine.
 
-Depending on the architecture, putting the web server and a the database on the same machine isn’t a wise decision, nothing leads to a single point of failure like this setup. Separating the web node(s) from the database is almost always advisable and always replicate the master database. Always.
+Depending on the architecture, putting the web server and a database on the same machine isn’t a wise decision, nothing leads to a single point of failure like this setup. Separating the web node(s) from the database is almost always advisable and always replicate the master database. Always.
 
 Frequently accessed pages should be cached, depending on the content type, a tool like Varnish is highly recommended and expensive queries should be cached, Redis and Memcache are great candidates for this task. And don’t forget to index the database tables. I can’t overemphasise the upside of this.
 
