@@ -33,13 +33,21 @@ SellerHQ has been serving us quite well and we couldn’t be happier, in retrosp
 <hr/>
 
 Today, thousands of merchants rely on this system to sell to millions of customers across Nigeria. The features of this software has so far grown to include the following:
+
 - Customer management: merchants have the unique ability to interact with customers that buy from them.
+
 - Reports: our merchants have the unique ability to monitor their store performance through the insightful sales and order reports we provide them, thereby helping them make a good business decision.
+
 - Shipment: One of the unique shipment models we offer merchants today is the self-fulfil. Essentially, they can decide to deliver their orders themselves without the help of an external courier company, provided they have the necessary manpower to take on this.
+
 - Messaging: There is now a bi-directional conversation between merchant and customers built right into the software. This helps create a unique shopping experience for the customer.
+
 - Rating: Merchants can now see how their product and overall customer experience are being rated. This is a powerful component, as it allows our merchants see themselves through the eyes of their customers
+
 - Store management: Merchants can now set their store to vacation mode for a period of time, this is particularly unique as merchants can go off for a while and not worry about order management.
+
 - KongaPay: Payout can now be initiated swiftly. With the help of KongaPay, payment reconciliation becomes quite easy. Something that wasn't quite possible with a 3rd party tool.
+
 - Notifications: today, merchants get notified about activities on their stores, from low stock alerts to new order notifications.
 
 We are currently building out the analytics feature into the core system. A tool that, at a glance will allow our merchants to see their best performing categories, best selling products, most valuable customer, best performing customer, etc
