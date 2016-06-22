@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "SellerHQ: Why and how we built our own markeplace platform."
+date:   2016-06-22 09:36:00
+categories: startup
+description: "Early this year, I wrote a post with a rather screaming title: Konga, the emergence of African technology powerhouse, the essence of that post, this one and many more to come is to share some insights with regards to the lessons we have learnt in the course of building our engineering efforts"
+---
+
+Early this year, I wrote a post with a rather screaming title: [Konga, the emergence of African technology powerhouse](http://cyberomin.github.io/startup/2016/01/07/african-powehouse-1.html), the essence of that post, this one and many more to come is to share some insights with regards to the lessons we have learnt in the course of building our engineering efforts; building in-house teams and moving away from 3rd party solutions and contractors to building our own software and tools.
+
+It's important to chronicle our own story, for a couple of reasons, first, for posterity sake and secondly, that these stories will inspire someone out there to persevere in their entrepreneurial journey, especially in sub-Saharan Africa and emerging markets at large.
+
+In late 2013, Konga embarked on a rather scary and audacious mission, one that will eventually become a defining moment in the life of the company. We made the decision to bring our engineering efforts back home. Hitherto, we have had to rely majorly on contractors for all our engineering needs. While relying on contractors isn't necessarily a bad thing — especially when you’re trying to test out an idea and get product market fit really quickly — in the long run, it poses a series of challenges; challenges that may become detrimental and possibly an existential threat to the business. These challenges range anywhere between shared vision, speed and focus(contractors usually have multiple clients to serve and in most cases, they probably don’t have dedicated resources to your project). These issues particularly amplify themselves especially when the contractor is in a different time zone entirely.
+
+Since the outsourcing model wasn’t particularly sustainable, there was a need to rethink our strategy and building things ourselves made the most sense. Slowly but steadily, we started hiring local engineers and we began the process of building our own products by ourselves. One of the first product we built was [SellerHQ](https://shq.konga.com/), our merchant platform that powers the Konga marketplace and helps democratise commerce. This move was big and scary, the reason being we had been operating the marketplace with a SaaS solution for a while and the product did a good job in getting us off the ground and on track to open up the Konga to external vendors.
+
+By the way, if you’re an SME and you’re not yet selling on Konga, you should consider doing so. [Register here.](https://shq.konga.com/register)
+
+The software served us quite well, but we quickly ran into issues with regards to new features, updates and general adaptability to the Nigerian market. One of such issues was with payments &mdash; merchant payout. Pay on Delivery(PoD) is a huge component of e-commerce in Nigeria and one that a large customer base rely on daily to complete their checkout flow. Given the fact that this software vendor was based in Europe and the bulk of its customers operate in the European market, upfront payment during checkout wasn’t an issue and quite naturally, they didn’t consider issues like PoD. Paying for an order upfront is a standard practise, not quite the case in Nigeria and other emerging markets. The software assumed every single order made was a paid order, which in reality, it wasn't really the case bearing in mind that PoD is a major factor in Nigeria. Since this was a SaaS based software, asking for tailor made features wasn't really a walk in the park.
+
+With this problem and many more staring right at us, building our own system made perfect sense, for once we will have firm control over our solution and iterate on it as we learn and evolve in the market. This will save us from the constant push back we faced whenever we needed a new feature and the vendor wouldn’t tell us what is and what isn’t in their product roadmap.
+
+In February of 2014, we started building the first phase of SellerHQ, our drop in replacement for the SaaS software we were currently using. The initial plan was to tackle the core components that makes up the  marketplace; inventory management, sales and order management, shipment and merchant payment(payout).
+
+The project took about 6 months to complete with a team of about 6 dedicated engineers. By September of  2014, we were ready to launch the new SellerHQ to our merchants, we began the onboarding process by migrating a small portion of our merchants to the new shiny SellerHQ, we never wanted a hard cut over from our existing software as this was going to be expensive should things go south. We continued to improve on the new SellerHQ, fix bugs and learn from real world users for about a month, when we were confident about the stability of the software, we migrated yet another batch of merchants. We kept on iterating the product as we got feedback from merchants. We cleaned it further and made the final decision of moving everyone into the new system. This, at the time, was a big feat, we have successfully launched our own product, built entirely by our own people, people who understand our own unique problems and challenges. We clinked glasses.
+
+SellerHQ has been serving us quite well and we couldn’t be happier, in retrospect, it was a great decision to build this system ourselves. The successful execution of this project gave us the confident to build many more systems. The product has so far been improved upon and it keeps evolving.
+
+<hr/>
+
+Today, thousands of merchants rely on this system to sell to millions of customers across Nigeria. The features of this software has so far grown to include the following:
+
+- Customer management: merchants have the unique ability to interact with customers that buy from them.
+- Reports: our merchants have the unique ability to monitor their store performance through the insightful sales and order reports we provide them, thereby helping them make a good business decision.
+- Shipment: One of the unique shipment models we offer merchants today is the self-fulfil. Essentially, the can decide to deliver their orders themselves without the help of an external courier company, provided they have the necessary manpower to take on this.
+- Messaging: There is now a bi-directional conversation between merchant and customers built right into the software. This helps create a unique shopping experience for the customer.
+- Rating: Merchants can now see how their product and overall customer experience are being rated. This is a powerful component, as it allows our merchants see themselves through the eyes of their customers
+- Store management: Merchants can now set their store to vacation mode for a period of time, this is particularly unique as merchants can go off for a while and not worry about order management.
+- KongaPay: Payout can now be initiated swiftly. With the help of KongaPay, payment reconciliation becomes quite easy. Something that wasn't quite possible with a 3rd party tool.
+- Notifications: today, merchants get notified about activities on their stores, from low stock alerts to new order notifications.
+
+We are currently building out the analytics feature into the core system. A tool that, at a glance will allow our merchants to see their best performing categories, best selling products, most valuable customer, best performing customer, etc
+
+By owning our own tools and software, we have been able to drive innovation quickly and serve our merchants better. This creates a win-win strategy for all parties.
+
+<hr/>
+
+### Lessons:
+No one understands your pain like yourself. While people and company will do their ultimate best in helping out, the ultimate solution to your own problem lies in your hands. It can’t be outsourced.
+
+Start with the low hanging fruits, we didn't set out to build a full fledged marketplace back end system from the onset. We focused on the most important component that will help facilitate commerce; inventory, sales and orders, shipment management and payment. This strategy allowed us to focus on the most important piece, avoid distractions and not get overwhelmed.
+
+As a startup, launching out with external contractors isn’t necessarily a bad thing &mdash; as this frees your time to chase other things &mdash; keep in mind that you can’t run like this forever. You will have to, at some point, bring things back home. A technology company is as strong as its engineering. The benefits of doing your own thing by yourself cannot be over emphasised. You will most definitely gain on the long run.
+
+You will not always get things right the first time, you will stumble but your ability to get right back up is what will make the entire difference. On this journey of building our team and products, we have made our fair share of mistakes but most importantly, we have learnt from those experiences and this has, in turn, made us more resilient.
+
+Contractors may never understand why you need them to run trice their usual speed. Your people will. Speed and execution are at the core of any successful enterprise. Your contractors may not be able to run as fast as you will want them.
+
+Over come fear and inertia. Take a chance and give people the opportunity to prove themselves. Konga’s former Director of Products was quite instrumental to our efforts in becoming a self-reliant software company. He literally went out on a limb and made the bet that local software engineers were just as good and can build world class solutions.
+
+Our merchants have been a big part of the SellerHQ success. Their suggestions and feedback have really helped in shaping some of the product features.
