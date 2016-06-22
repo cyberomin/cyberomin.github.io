@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SellerHQ: Why and how we built our own markeplace platform."
+title:  "SellerHQ: Why and how we built our own marketplace platform."
 date:   2016-06-22 09:36:00
 categories: startup
 description: "Early this year, I wrote a post with a rather screaming title: Konga, the emergence of African technology powerhouse, the essence of that post, this one and many more to come is to share some insights with regards to the lessons we have learnt in the course of building our engineering efforts"
