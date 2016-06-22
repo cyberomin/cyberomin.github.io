@@ -29,7 +29,6 @@ SellerHQ has been serving us quite well and we couldn’t be happier, in retrosp
 <hr/>
 
 Today, thousands of merchants rely on this system to sell to millions of customers across Nigeria. The features of this software has so far grown to include the following:
-
 - Customer management: merchants have the unique ability to interact with customers that buy from them.
 - Reports: our merchants have the unique ability to monitor their store performance through the insightful sales and order reports we provide them, thereby helping them make a good business decision.
 - Shipment: One of the unique shipment models we offer merchants today is the self-fulfil. Essentially, the can decide to deliver their orders themselves without the help of an external courier company, provided they have the necessary manpower to take on this.
