@@ -17,6 +17,7 @@ Since the outsourcing model wasn’t particularly sustainable, there was a need 
 >By the way, if you’re an SME and you’re not yet selling on Konga, you should consider doing so. [Register here.](https://shq.konga.com/register)
 
 <img src="{{ site.url }}/assets/article_images/shq/shq.png" style="width: 600px; height: auto;" />
+<span class="center-block"><em>SellerHQ: Konga's marketplace platform</em></span>
 
 The software served us quite well, but we quickly ran into issues with regards to new features, updates and general adaptability to the Nigerian market. One of such issues was with payments &mdash; merchant payout. Pay on Delivery(PoD) is a huge component of e-commerce in Nigeria and one that a large customer base rely on daily to complete their checkout flow. Given the fact that this software vendor was based in Europe and the bulk of its customers operate in the European market, upfront payment during checkout wasn’t an issue and quite naturally, they didn’t consider issues like PoD. Paying for an order upfront is a standard practise, not quite the case in Nigeria and other emerging markets. The software assumed every single order made was a paid order, which in reality, it wasn't really the case bearing in mind that PoD is a major factor in Nigeria. Since this was a SaaS based software, asking for tailor made features wasn't really a walk in the park.
 
