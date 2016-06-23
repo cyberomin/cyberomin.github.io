@@ -42,7 +42,7 @@ Today, thousands of merchants rely on this system to sell to millions of custome
 
 - Messaging: Our wish to be custodians of trust and with the belief that commerce in itself resolve predominantly around the social experience between buyer and seller, we added a messaging component to SellerHQ.
 
-- Rating: In order to provided validated feedback into the e-commerce process as well as build a community of trust between buyers and sellers we added rating of sellers, whose data is added to product page and could be used for further cataloging in the near future.
+- Rating: In order to provide validated feedback into the e-commerce process as well as build a community of trust between buyers and sellers we added rating of sellers, whose data is added to product page and could be used for further cataloging in the near future.
 
 - Store management: Merchants can now set their store to vacation mode for a period of time, this is particularly unique as merchants can go off for a while and not worry about order management.
 
