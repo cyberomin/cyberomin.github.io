@@ -6,7 +6,7 @@ categories: engineering
 description: "Two days ago, I had to switch projects at work and go work on a different project. As with a new project, setting up the project on my dev machine was the first thing I needed to do."
 ---
 
-Two days ago, I had to switch projects at work and go work on a different project. As with a new project, setting up the project on my dev machine was the first thing I needed to do. I decided to setup the project with Docker for obvious reasons, on-boarding future engineers unto the project will be a breeze.
+Two days ago, I had to switch projects at work and go work on a different project. As with a new project, setting up the project on my dev machine was the first thing I needed to do. I decided to setup the project with Docker for obvious reasons; on-boarding future engineers unto the project will be a breeze.
 
 While setting up the project, I realised that Docker —env and PHP-FPM don’t quite mix properly. While passing in an environment variable file when running the containers will work, getting those environment variables with `getenv` from PHP will become an issue. The solution to this is to add the environment variables into the config file of PHP-FPM located at `etc/php5/fpm/pool.d/www.conf`.
 
