@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Docker and PHP, what to look out for."
+title:  "Docker and PHP-FPM: What to look out for."
 date:   2016-07-16 04:32:00
 categories: engineering
 description: "Two days ago, I had to switch projects at work and go work on a different project. As with a new project, setting up the project on my dev machine was the first thing I needed to do."
