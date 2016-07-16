@@ -12,7 +12,7 @@ While setting up the project, I realised that Docker —env and PHP-FPM don’t 
 
 Environment variables in the PHP-FPM config file follow a regular pattern, every variable begins with the word `env` followed by brackets for the actual variable name and a value e.g. `env[DB_HOST] = 127.0.0.1`.
 Another thing you want to watch out for when setting up variables and values are the use of reserve words and special characters. Words like `yes`,`null`, etc shouldn’t be used in variables and also special characters like `!` should be avoided.
->*Note:* There are reserved words which must not be used as keys for ini files. These include: null, yes, no, true, false, on, off, none. Values null, off, no and false result in "", and values on, yes and true result in "1", unless *INI_SCANNER_TYPED* mode is used (as of PHP 5.6.1). Characters ?{}|&~!()^" must not be used anywhere in the key and have a special meaning in the value.
+>Note: There are reserved words which must not be used as keys for ini files. These include: null, yes, no, true, false, on, off, none. Values null, off, no and false result in "", and values on, yes and true result in "1", unless INI_SCANNER_TYPED mode is used (as of PHP 5.6.1). Characters ?{}|&~!()^" must not be used anywhere in the key and have a special meaning in the value.
 
 Why am I talking about this?
 I spent todays trying to debug my variables and just didn’t know why PHP-FPM was failing each time I ran a test to check the configuration `php-fpm -t` and it turns out, one of the variable value had an `!` character.
