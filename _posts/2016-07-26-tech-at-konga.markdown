@@ -26,7 +26,7 @@ Elasticsearch allows us build faceting into our catalogue(UI) with ease, this is
 ### Logging and Monitoring
 Logging is at the core of every service that we build at Konga, they give us a window into what’s happening at every point in time. Data is collected and indexed at near real-time into an ELK(Elasticsearch Kibana Logstash) stack for future search and analysis.
 
-NewRelic is the resident guardian angel to all our servers. We really on it heavily for health checks and application level introspection; slow queries, long running processes, etc.  We rely on Splunk’s MINT(Mobile Intelligence) for our mobile apps monitoring; crash report, analytics, performance, etc. It gives us a high-level overview into our operational intelligence.
+NewRelic is the resident guardian angel to all our servers. We rely on it heavily for health checks and application level introspection; slow queries, long running processes, etc.  We rely on Splunk’s MINT(Mobile Intelligence) for our mobile apps monitoring; crash report, analytics, performance, etc. It gives us a high-level overview into our operational intelligence.
 
 ### Deployment
 Deployment and configuration management is done using Chef via AWS’s OpsWorks. We write our custom recipes and manage them using version control — git. Chef is a battle tested in infrastructure automation tool.
