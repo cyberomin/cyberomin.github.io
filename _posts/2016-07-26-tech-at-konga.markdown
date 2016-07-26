@@ -6,7 +6,7 @@ categories: engineering
 description: "Konga isn’t necessarily an e-commerce company, we’re a technology company that builds tools to facilitates trade and commerce. This explains why our mission is To be the Engine of Commerce and Trade in Africa."
 ---
 
-Konga isn’t necessarily an e-commerce company, we’re a technology company that builds tools to facilitates trade and commerce. This explains why our mission is *"To be the Engine of Commerce and Trade in Africa."*
+Konga isn’t necessarily an e-commerce company, we’re a technology company that builds tools to facilitate trade and commerce. This explains why our mission is *"To be the Engine of Commerce and Trade in Africa."*
 
 I’ve been asked a couple of times if we are a technology enabled business, short answer: we are not. While we started out as an e-commerce retail company, we have since evolved into a platform. Calling Konga an ecommerce company is like saying Uber is a Taxi company or AirBnB is a hotel chain. I digress.
 
