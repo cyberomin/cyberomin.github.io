@@ -10,7 +10,7 @@ Konga isn’t necessarily an e-commerce company, we’re a technology company th
 
 I’ve been asked a couple of times if we are a technology enabled business, short answer: we are not. While we started out as an e-commerce retail company, we have since evolved into a platform. Calling Konga an ecommerce company is like saying Uber is a Taxi company or AirBnB is a hotel chain. I digress.
 
-Over the years, we have invested a considerable amount of resources in building solutions like SellerHQ (marketplace), KongaPay(Payments), Mercury(logistics software powering KOS Deliveries), Community(a forum where buyers and sellers can come together and share ideas.), etc.
+Over the years, we have invested a considerable amount of resources in building solutions like [SellerHQ (marketplace)](https://shq.konga.com/), [KongaPay(Payments)](https://kongapay.com/), [Mercury(logistics software powering KOS Deliveries)](http://kos.ng/), [Community(a forum where buyers and sellers can come together and share ideas.)](http://community.konga.com/), etc.
 
 > Mission: To be the Engine of Commerce and Trade in Africa
 
