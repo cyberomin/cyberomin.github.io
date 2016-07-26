@@ -34,7 +34,7 @@ Deployment and configuration management is done using Chef via AWS’s OpsWorks.
 Most of our production system runs Linux(Ubuntu.) and Microsoft’s Windows Server.
 
 ### Metrics
-A colleague once said, "If it is running, measure it.” This is a mantra that we have come to embrace and love. Every single endpoint of every live service is tracked and measure.
+A colleague once said, *"If it is running, measure it.”* This is a mantra that we have come to embrace and love. Every single endpoint of every live service is tracked and measure.
 
 They are many reasons why collecting stats about servers and an application is a good idea. Not only does it help with regards to scaling, it also allows you to figure out pain points and possible blockers while troubleshooting.
 
