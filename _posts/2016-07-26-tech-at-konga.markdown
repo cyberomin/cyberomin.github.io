@@ -64,7 +64,7 @@ We love MariaDB and it just works for us. MariaDB is the primary datastore for a
 Redis is one tool that we love and it has served us quite well. We manage our caching and store session data in it. Before now, we also used Redis for task queues, but in recent times, we have migrated a lot of those to RabbitMQ. In the past, we’ve used Amazon’s SQS but we’re really happy with RabbitMQ.
 
 ### Testing and builds
-We write the bulk of our test using a combination of different tools; PHPUnit, Mocha, Chai and Sinon and we use Atlassian’s Bamboo as our build server. Fail builds are reported directly into a Slack channel.
+We write the bulk of our test using a combination of different tools; PHPUnit, Mocha, Chai and Sinon and we use Atlassian’s Bamboo as our build server. We also use Selenium for our UI automated testing. Fail builds are reported directly into a Slack channel.
 
 ### Documentation and Project management
 At this point, it’s obvious that we’re a big fan of Atlassian, I guess this is partly due to the fact that they make tightly integrated products that do what they were supposed to do. This probably explains why we use Confluence as our Wiki and JIRA for project management.
