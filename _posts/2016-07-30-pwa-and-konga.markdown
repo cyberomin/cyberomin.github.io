@@ -26,7 +26,7 @@ It's no news to any industry observer that Africa is a mobile-first continent&md
 
 <img src="{{ site.url }}/assets/article_images/konga-pwa/traffic.png" style="border-left:solid 1px #CCC;"/>
 
-While our existing mobile website isn't inherently bad, PWA allows us to take advantage of some native mobile capabilities and provides us with a platform to build an offline-first system. This makes really good sense if you take erratic mobile network service into consideration.
+While our existing mobile website isn't inherently bad, PWA allows us to take advantage of some native mobile capabilities and it provides us with a platform to build an offline-first system. This makes really good sense if you take our erratic mobile network service into consideration.
 
 The Konga PWA dubbed Konga EZ allows customers to continue their shopping process all through to checkout even when they are out of network coverage. Aside from the fact that this allows us to capture what was once considered lost revenue, it also provides us with the opportunity to provide a great shopping experience to our customers.
 
