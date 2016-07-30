@@ -64,6 +64,7 @@ Right out of the gate, Progressive Web Apps allows you to take advantage of tech
 		<img src="{{ site.url }}/assets/article_images/konga-pwa/details.jpeg" style="width: 250px; height:auto;"/>
 	</li>
 </ul>
+<em>Screens from KongaEZ</em>
 
 #### Africa and Progressive Web Apps.
 While the price of mobile data has been dropping rather sharply in recent times, it's still relatively expensive for some people. It's my belief that, technologies like PWA will have a profound effect on the African continent and this will further drive the adoption of African owned web properties. 
