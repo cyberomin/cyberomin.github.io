@@ -66,6 +66,16 @@ Right out of the gate, Progressive Web Apps allows you to take advantage of tech
 </ul>
 <em>Screens from KongaEZ</em>
 
+### And the tweets
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Nice to see Nigerian eCommerce site <a href="https://t.co/eBPYTJhW70">https://t.co/eBPYTJhW70</a> featured in the <a href="https://twitter.com/hashtag/pwadevsummit?src=hash">#pwadevsummit</a> keynote. Amazing stuff is being done in Africa.</p>&mdash; .weirdo (@PaulHMason) <a href="https://twitter.com/PaulHMason/status/745532466044108800">June 22, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Konga cuts data usage 92% with new Progressive Web App, hear them live at <a href="https://twitter.com/hashtag/PWADevSummit?src=hash">#PWADevSummit</a>: <a href="https://t.co/McYzDV2obK">https://t.co/McYzDV2obK</a> <a href="https://t.co/hZrWAs6a6I">pic.twitter.com/hZrWAs6a6I</a></p>&mdash; Chrome Developers (@ChromiumDev) <a href="https://twitter.com/ChromiumDev/status/745157089677320192">June 21, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Impressive talk about konga. Actually selling live goats online <a href="https://twitter.com/hashtag/pwadevsummit?src=hash">#pwadevsummit</a> <a href="https://t.co/UDQjd8NZVS">pic.twitter.com/UDQjd8NZVS</a></p>&mdash; Henk Rijneveld (@HenkRijneveld) <a href="https://twitter.com/HenkRijneveld/status/745164071503171588">June 21, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 #### Africa and Progressive Web Apps.
 While the price of mobile data has been dropping rather sharply in recent times, it's still relatively expensive for some people. It's my belief that, technologies like PWA will have a profound effect on the African continent and this will further drive the adoption of African owned web properties. 
 
