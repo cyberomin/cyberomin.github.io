@@ -46,7 +46,7 @@ Right out of the gate, Progressive Web Apps allows you to take advantage of tech
 - Responsiveness: progressive web apps fits any form factor, this is really powerful if you consider the plater of devices available today.
 
 <div class="center-block">
-	<p>
+	<p class="center-block">
 		<img src="{{ site.url }}/assets/article_images/konga-pwa/offline.jpeg" style="width: 300px; height:auto;" />
 		<small>Offline browsing</small>
 	</p>
