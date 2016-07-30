@@ -36,15 +36,15 @@ Right out of the gate, Progressive Web Apps allows you to take advantage of tech
 
 - Push Notifications: Push notifications makes it easy to re-engage with users by showing them relevant and contextual notification even when their browser is closed. As a customer, nothing could be more delightful than getting a push notification notifying me of a 40% discount on a particular merchandise or category&mdash;Fashion, Electronics, etc&mdash;of my choice.
 
-- Add to Home Screen: Giving users the ability to add your web app to their home screen cannot be overemphasized. This allows your users to quickly and seamlessly launch your application and it saves them the stress of typing long URLs into an address bar.
+- Add to Home Screen: Giving users the ability to add your web app to their home screen cannot be overemphasized. This allows your users to quickly and seamlessly launch your application. It also saves them the stress of typing long URLs into an address bar.
 
 - Instant loading: Service workers allows your app to load nearly instantly regardless of the network the user is currently on.
 
 - Security: HTTPS ensures that information is transferred securely between you and your users. This solves the problem of man in the middle attacks.
 
-- Native Hardware Access: Accelerometers, gyroscope and compass are some of the native app features that ARE made available via PWA. Nothing like a gentle vibration on a Friday afternoon reminding your users to buy spa deals for themselves and their loved ones.
+- Native Hardware Access: Accelerometers, gyroscope and compass are some of the native app features that are made available via PWA. Nothing like a gentle vibration on a Friday afternoon reminding your users to buy spa deals for themselves and their loved ones.
 
-- Responsiveness: progressive web apps fit any form factor, this is really powerful if you consider the plethora of devices available today.
+- Responsiveness: Progressive web apps fit any form factor, this is really powerful if you consider the plethora of devices available today.
 
 <ul class="list-inline">
 	<li>
