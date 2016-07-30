@@ -8,7 +8,7 @@ description: "About a month ago, Konga’s Director of Engineering was at the Pr
 
 About a month ago, Konga’s Director of Engineering was at the Progressive Web App (PWA) submit which was organised by Google to talk about how Konga was leveraging on PWA to deliver a consistent experience to its users.
 
-This will not the time Konga has be featured at a global event of this sort, but what was quite different this time was the fact that the company's Director of Engineering was actually on stage to not just to talk about the app, but also to share the decision that led to this effort in the first place.
+This will not be first the time Konga has be featured at a global event of this sort, but what was quite different this time was the fact that the company's Director of Engineering was actually on stage to not just to talk about the app, but also to share the decision that led to this effort in the first place.
 
 It's worthy of note that Progressive Web Apps isn't just another buzz word. It's a decent piece of technology that will have profound impact on user experience across the mobile spectrum.
 
