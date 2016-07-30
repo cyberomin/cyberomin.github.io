@@ -49,7 +49,7 @@ We use Docker containers for our local app development. Before now, a lot of the
 
 We utilize git heavily and it’s our go-to choice when it comes to version control. We run our own in-house remote git servers using Atlassian’s Bitbucket server. We have gone through hosted GitHub and Bitbucket, but Bitbucket server seems to be our best shot and we’re loving it. We also run our own in-house NPM registry for some of our private modules.
 
-For IDEs, engineers basically use what works for them. We have people using everything from Vim to JetBrains’ awesome IDEs - PHPStorm, WebStorm and IntelliJ IDEA. Atom and Sublime Text seems to have a strong following too and a handful of engineers are die-hard Komodo fans.
+For IDEs, engineers basically use what works for them. We have people using everything from Vim to JetBrains’ awesome IDEs - PHPStorm, WebStorm, PyCharm and IntelliJ IDEA. Atom and Sublime Text seems to have a strong following too and a handful of engineers are die-hard Komodo fans.
 
 ### Languages
 PHP sits at the core of most of our system, interestingly, we started off as a RoR(Ruby on Rails) shop and gradually worked our way to PHP. With our move towards an SOA(Service Oriented Architecture) paradigm, we have been utilizing NodeJS heavily.
