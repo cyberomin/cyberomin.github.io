@@ -36,7 +36,7 @@ Right out of the gate, Progressive Web Apps allows you to take advantage of tech
 
 - Push Notifications: Push notifications makes it easy to re-engage with users by showing them relevant and contextual notification even when their browser is closed. As a customer, nothing could be more delightful than getting a push notification notifying me of a 40% discount on a particular merchandise or category&mdash;Fashion, Electronics, etc&mdash;of my choice.
 
-- Add to Home Screen: Giving users the ability to add your app to their home screen. This allows your users to quickly and seamlessly launch your application and it saves them the stress of typing long URLs into an address bar.
+- Add to Home Screen: Giving users the ability to add your web app to their home screen cannot be overemphasized. This allows your users to quickly and seamlessly launch your application and it saves them the stress of typing long URLs into an address bar.
 
 - Instant loading: Service workers allows your app to load nearly instantly regardless of the network the user is currently on.
 
