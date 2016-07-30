@@ -4,6 +4,7 @@ title:  "Konga EZ: Our Progressive Web Apps Journey"
 date:   2016-07-30 02:10:00
 categories: engineering
 description: "About a month ago, Konga’s Director of Engineering was at the Progressive Web App (PWA) summit which was organised by Google to talk about how Konga was leveraging on PWA to deliver a consistent experience to its users."
+image: /assets/article_images/konga-pwa/bg.jpg
 ---
 
 About a month ago, Konga’s Director of Engineering was at the Progressive Web App (PWA) summit which was organised by Google to talk about how Konga was leveraging on PWA to deliver a consistent experience to its users.
