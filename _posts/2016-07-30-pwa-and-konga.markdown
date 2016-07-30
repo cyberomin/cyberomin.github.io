@@ -47,22 +47,22 @@ Right out of the gate, Progressive Web Apps allows you to take advantage of tech
 
 <div class="center-block">
 	<p>
-		<img src="{{ site.url }}/assets/article_images/konga-pwa/offline.jpeg" style="width; 300px; height:auto; " />
+		<img src="{{ site.url }}/assets/article_images/konga-pwa/offline.jpeg" style="width: 300px; height:auto;" />
 		<small>Offline browsing</small>
 	</p>
 
 	<p>
-		<img src="{{ site.url }}/assets/article_images/konga-pwa/home.jpeg"/>
+		<img src="{{ site.url }}/assets/article_images/konga-pwa/home.jpeg" style="width: 300px; height:auto;"/>
 		<small>Offline browsing</small>
 	</p>
 
 	<p>
-		<img src="{{ site.url }}/assets/article_images/konga-pwa/category.jpeg"/>
+		<img src="{{ site.url }}/assets/article_images/konga-pwa/category.jpeg" style="width: 300px; height:auto;"/>
 		<small>Category Pages</small>
 	</p>
 
 	<p>
-		<img src="{{ site.url }}/assets/article_images/konga-pwa/details.jpeg"/>
+		<img src="{{ site.url }}/assets/article_images/konga-pwa/details.jpeg" style="width: 300px; height:auto;"/>
 		<small>Product Details page</small>
 	</p>
 </div>
