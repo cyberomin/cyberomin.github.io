@@ -24,6 +24,8 @@ From internal data and assessment, it was discovered that the mobile optimised v
 
 It's no news to any industry observer that Africa is a mobile first continent—[Mary Meeker, famously declared Nigeria as the most mobilised country in the world](http://cyberomin.github.io/mobile/2015/07/05/embrace-mobile-dont-ignore-it.html)—as such, investing in a mobile is a strategy shouldn’t be an afterthought. This reality isn't different from what we have seen at Konga. A large portion of our user base consume our services from mobile devices and we owe it to them to provide the best possible mobile experience.
 
+<img src="{{ site.url }}/assets/article_images/konga/traffic.png"/>
+
 While our existing mobile website isn't inherently bad, PWA allows us to take advantage of some native mobile capabilities and provides us with a platform to build an offline-first system. This makes really good sense if you take erratic mobile network service into consideration.
 
 The Konga PWA dubbed Konga EZ allows customers to continue their shopping process all through to checkout even when they are out of network coverage. Aside from the fact that this allows us capture what was once considered lost revenue, it also provides us with the opportunity to provide a great shopping experience to our customers.
@@ -31,18 +33,17 @@ The Konga PWA dubbed Konga EZ allows customers to continue their shopping proces
 #### Features of Progressive Web Apps
 
 Right out of the gate, Progressive Web Apps allows you to take advantage of technologies like:
-Push Notifications: push notifications makes it easy to re-engage with users by showing them relevant and contextual notification even when their browser is closed. As a customer, nothing could be more delightful than getting a push notification notifying me of a 40% discount on a particular merchandise or category&mdash;Fashion, Electronics, etc&mdash;of my choice.
+- Push Notifications: push notifications makes it easy to re-engage with users by showing them relevant and contextual notification even when their browser is closed. As a customer, nothing could be more delightful than getting a push notification notifying me of a 40% discount on a particular merchandise or category&mdash;Fashion, Electronics, etc&mdash;of my choice.
 
-Add to Home Screen: Giving users the ability to add your app to their home screen. This allows your users to quickly and seamlessly launch your application and it saves them stress of typing long urls into an address bar.
+- Add to Home Screen: Giving users the ability to add your app to their home screen. This allows your users to quickly and seamlessly launch your application and it saves them stress of typing long urls into an address bar.
 
-Instant loading: Service workers allows your app to load nearly instantly regardless of the network the user is currently on.
+- Instant loading: Service workers allows your app to load nearly instantly regardless of the network the user is currently on.
 
-Security: HTTPS ensures that information is transferred securely between you and your users. This solves the problem of man in the middle attacks.
+- Security: HTTPS ensures that information is transferred securely between you and your users. This solves the problem of man in the middle attacks.
 
-Native Hardware Access: Accelerometers, gyroscope and compass are some of the native app features that is made available via PWA. Nothing like a gentle vibration on a Friday afternoon reminding your users to buy spa deals for themselves and their love ones.
+- Native Hardware Access: Accelerometers, gyroscope and compass are some of the native app features that is made available via PWA. Nothing like a gentle vibration on a Friday afternoon reminding your users to buy spa deals for themselves and their love ones.
 
-Responsiveness: progressive web apps fits any form factor, this is really powerful if you consider the plater of devices available today.
+- Responsiveness: progressive web apps fits any form factor, this is really powerful if you consider the plater of devices available today.
 
-
-
-Africa and Progressive Web Apps.
+#### Africa and Progressive Web Apps.
+While the price of mobile data has been dropping rather sharply in recent times, progressive web apps
