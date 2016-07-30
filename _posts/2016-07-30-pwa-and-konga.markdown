@@ -33,7 +33,8 @@ The Konga PWA, dubbed Konga EZ, allows customers to continue their shopping proc
 #### Features of Progressive Web Apps
 
 Right out of the gate, Progressive Web Apps allows you to take advantage of technologies like:
-- Push Notifications: push notifications makes it easy to re-engage with users by showing them relevant and contextual notification even when their browser is closed. As a customer, nothing could be more delightful than getting a push notification notifying me of a 40% discount on a particular merchandise or category&mdash;Fashion, Electronics, etc&mdash;of my choice.
+
+- Push Notifications: Push notifications makes it easy to re-engage with users by showing them relevant and contextual notification even when their browser is closed. As a customer, nothing could be more delightful than getting a push notification notifying me of a 40% discount on a particular merchandise or category&mdash;Fashion, Electronics, etc&mdash;of my choice.
 
 - Add to Home Screen: Giving users the ability to add your app to their home screen. This allows your users to quickly and seamlessly launch your application and it saves them the stress of typing long URLs into an address bar.
 
