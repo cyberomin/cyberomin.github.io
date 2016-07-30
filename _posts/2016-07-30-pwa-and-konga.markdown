@@ -20,6 +20,8 @@ Progressive Web Apps, though fairly new, has caught up quite quickly and it's fa
 #### Why?
 From internal data and assessment, it was discovered that the mobile optimised version of Konga was approximately 2MB, despite best efforts to optimised and serve mobile-first content. This doesn't only degrade the entire experience, it cost the user&mdash;data cost&mdash;a lot more when browsing our website from a mobile device.
 
+<img src="{{ site.url }}/assets/article_images/konga-pwa/data.png"/>
+
 It's no news to any industry observer that Africa is a mobile first continent—[Mary Meeker, famously declared Nigeria as the most mobilised country in the world](http://cyberomin.github.io/mobile/2015/07/05/embrace-mobile-dont-ignore-it.html)—as such, investing in a mobile is a strategy shouldn’t be an afterthought. This reality isn't different from what we have seen at Konga. A large portion of our user base consume our services from mobile devices and we owe it to them to provide the best possible mobile experience.
 
 While our existing mobile website isn't inherently bad, PWA allows us to take advantage of some native mobile capabilities and provides us with a platform to build an offline-first system. This makes really good sense if you take erratic mobile network service into consideration.
