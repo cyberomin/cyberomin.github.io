@@ -45,6 +45,27 @@ Right out of the gate, Progressive Web Apps allows you to take advantage of tech
 
 - Responsiveness: progressive web apps fits any form factor, this is really powerful if you consider the plater of devices available today.
 
+<p>
+<img src="{{ site.url }}/assets/article_images/konga-pwa/offline.jpeg"/>
+<small>Offline browsing</small>
+</p>
+
+<p>
+<img src="{{ site.url }}/assets/article_images/konga-pwa/home.jpeg"/>
+<small>Offline browsing</small>
+</p>
+
+<p>
+<img src="{{ site.url }}/assets/article_images/konga-pwa/category.jpeg"/>
+<small>Category Pages</small>
+</p>
+
+<p>
+<img src="{{ site.url }}/assets/article_images/konga-pwa/details.jpeg"/>
+<small>Product Details page</small>
+</p>
+
+
 #### Africa and Progressive Web Apps.
 While the price of mobile data has been dropping rather sharply in recent times, it's still relatively expensive for some people. It's my belief that, technologies like PWA will have a profound effect on the African continent and this will further drive the adoption of African owned web properties. 
 
