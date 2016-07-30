@@ -46,4 +46,4 @@ Right out of the gate, Progressive Web Apps allows you to take advantage of tech
 - Responsiveness: progressive web apps fits any form factor, this is really powerful if you consider the plater of devices available today.
 
 #### Africa and Progressive Web Apps.
-While the price of mobile data has been dropping rather sharply in recent times, progressive web apps
+While the price of mobile data has been dropping rather sharply in recent times, it's still relatively expensive for some people. It's my belief that, technologies like PWA will have a profound effect on the African continent and this will further drive the adoption of African owned web properties. 
