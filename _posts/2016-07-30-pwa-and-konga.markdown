@@ -8,11 +8,11 @@ description: "About a month ago, Konga’s Director of Engineering was at the Pr
 
 About a month ago, Konga’s Director of Engineering was at the Progressive Web App (PWA) summit which was organised by Google to talk about how Konga was leveraging on PWA to deliver a consistent experience to its users.
 
-This will not be first the time Konga has been featured at a global event of this sort, but what was quite different this time was the fact that the company's Director of Engineering was actually on stage to not just to talk about the app, but also to share the decision that led to this effort in the first place.
+This will not be first the time that Konga has been featured at a global event of this sort, but what was quite different this time was the fact that the company's Director of Engineering was actually on stage to not just to talk about the app, but also to share the decision that led to this path in the first place.
 
 It's worthy of note that Progressive Web Apps isn't just another buzz word. It's a decent piece of technology that will have a profound impact on user experience across the mobile spectrum.
 
-Progressive Web Apps, though fairly new, has caught up quite quickly and it's fast becoming the defacto way of building web apps for mobile. Amongst other things, PWA gives you the ability to build a near native mobile app experience on the web. Little wonder companies like Flipkart and Alibaba is favouring it over the standard mobile optimised website.
+Progressive Web Apps, though fairly new, has caught up quite quickly and it's fast becoming the defacto way of building web apps for mobile devices. Amongst other things, PWA gives you the ability to build a near native mobile app experience on the web. Little wonder companies like Flipkart and Alibaba is favouring it over the standard mobile optimised website.
 
 #### So what exactly is a progressive web app?
 >"Progressive Web App (PWA) is a term used to denote a new software development methodology. Unlike traditional applications, Progressive Web App can be seen as an evolving hybrid of regular web pages (or websites) and a mobile application. This new application life-cycle model combines features offered by most modern browsers with benefits of mobile experience." — Wikipedia.
