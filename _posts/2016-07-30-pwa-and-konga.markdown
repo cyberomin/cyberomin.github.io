@@ -22,7 +22,7 @@ From internal data and assessment, it was discovered that the mobile optimised v
 
 <img src="{{ site.url }}/assets/article_images/konga-pwa/data.png" style="border-top:solid 1px #CCC;"/>
 
-It's no news to any industry observer that Africa is a mobile-first continent&mdash;[Mary Meeker, famously declared Nigeria as the most mobilised country in the world](http://cyberomin.github.io/mobile/2015/07/05/embrace-mobile-dont-ignore-it.html)&mdash;as such, investing in a mobile is a strategy shouldn’t be an afterthought. This reality isn't different from what we have seen at Konga. A large portion of our user base consume our services from mobile devices and we owe it to them to provide the best possible mobile experience.
+It's no news to any industry observer that Africa is a mobile-first continent&mdash;[Mary Meeker, a partner at KPCB, famously declared Nigeria as the most mobilised country in the world](http://cyberomin.github.io/mobile/2015/07/05/embrace-mobile-dont-ignore-it.html)&mdash;as such, investing in a mobile is a strategy shouldn’t be an afterthought. This reality isn't different from what we have seen at Konga. A large portion of our user base consume our services from mobile devices and we owe it to them to provide the best possible mobile experience.
 
 <img src="{{ site.url }}/assets/article_images/konga-pwa/traffic.png" style="border-left:solid 1px #CCC;"/>
 
