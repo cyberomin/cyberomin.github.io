@@ -12,7 +12,7 @@ On a beautiful Friday afternoon, April 27th, 2012, I got a phone call from Sim a
 
 We spent that evening at Colonades talking about Konga, commerce and why we all needed to go on this journey. On the 14th June 2012, I got a one-way ticket to Lagos and I haven’t looked back.
 
-Over the last 4 years, I’ve had the honour of coming on this wonderful journey called Konga and the privilege to contribute to it. It’s hard to believe that it’s been 4 years already. I still remember my first day at work — excited, beaming with joy and a little bit naive.
+Over the last 4 years, I’ve had the honour of coming on this wonderful journey called Konga and the privilege to contribute to it. It’s hard to believe that it’s been 4 years already. I still remember my first day at work&mdash;excited, beaming with joy and a little bit naive.
 
 In this 4 years, I have seen e-commerce grow and take a life of its own.
 
