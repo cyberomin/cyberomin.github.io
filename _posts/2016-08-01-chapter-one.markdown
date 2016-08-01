@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Chapter One"
+title:  "Chapter One: The end of a new beginning."
 date:   2016-08-01 07:27:00
 categories: life
-description: "On a beautiful Friday afternoon, April 27th, 2012, I got a phone call from Sim and we spent the next 20 minutes or so talking about himself, myself and Konga"
+description: "On a beautiful Friday afternoon, April 27th, 2012, I got a phone call from Sim and we spent the next 20 minutes or so talking about himself, myself and Konga."
 ---
 >"There is no real ending. It's just the place where you stop the story."<br/>
 &mdash; Frank Herbert
