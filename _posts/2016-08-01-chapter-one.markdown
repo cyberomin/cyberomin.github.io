@@ -8,7 +8,7 @@ description: "On a beautiful Friday afternoon, April 27th, 2012, I got a phone c
 >"There is no real ending. It's just the place where you stop the story."<br/>
 &mdash; Frank Herbert
 
-On a beautiful Friday afternoon, April 27th, 2012, I got a phone call from Sim and we spent the next 20 minutes or so talking about himself, myself and Konga. A few days later, 1st May 2012 precisely I was in Lagos to see him in person. 
+On a beautiful Friday afternoon, April 27th, 2012, I got a phone call from Sim and we spent the next 20 minutes or so talking about himself, myself and Konga. A few days later, 1st May 2012 precisely I was in Lagos to meet him in person. 
 
 We spent that evening at Colonades talking about Konga, commerce and why we all needed to go on this journey. On the 14th June 2012, I got a one-way ticket to Lagos and I haven’t looked back.
 
