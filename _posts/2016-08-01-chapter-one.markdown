@@ -22,7 +22,7 @@ I want to say a very big thank you to my soon to be ex-colleagues at Konga and e
 
 A big thank you to Tim Akimbo, he made the introduction, without him, I probably wouldn’t have been here. Effiong Okwong for helping me settle into this city that has become home. Ndifereke Ekott, Joseph Agunbiade&mdash;Alangoro&mdash; and every other person I must have left out. Thank you.
 
-And to the amazing Lagos tech community, thank you for the love. Bosun Tijanni, thank you for being awesome. God bless you.
+And to the amazing Lagos tech community, thank you for the love. Bosun Tijani, thank you for being awesome. God bless you.
 
 I’ll love to take some time out and rest, possibly travel and plan the next chapter.
 
