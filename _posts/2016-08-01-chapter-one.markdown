@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Chapter One"
+title:  "Chapter One: The end of a new beginning."
 date:   2016-08-01 07:27:00
 categories: life
 description: "On a beautiful Friday afternoon, April 27th, 2012, I got a phone call from Sim and we spent the next 20 minutes or so talking about himself, myself and Konga"
 ---
-On a beautiful Friday afternoon, April 27th, 2012, I got a phone call from Sim and we spent the next 20 minutes or so talking about himself, myself and Konga. A few days later, 1st May 2012 precisely I was in Lagos to see him in person. We spent that evening at Colonnades talking about Konga, commerce and why we all needed to go on this journey. On the 14th June 2012, I got a one-way ticket to Lagos and I haven’t looked back.
+>"There is no real ending. It's just the place where you stop the story."
+-Frank Herbert
+
+On a beautiful Friday afternoon, April 27th, 2012, I got a phone call from Sim and we spent the next 20 minutes or so talking about himself, myself and Konga. A few days later, 1st May 2012 precisely I was in Lagos to see him in person. We spent that evening at Colonades talking about Konga, commerce and why we all needed to go on this journey. On the 14th June 2012, I got a one-way ticket to Lagos and I haven’t looked back.
 
 Over the last 4 years, I’ve had the honour of coming on this wonderful journey called Konga and the privilege to contribute to it. It’s hard to believe that it’s been 4 years already. I still remember my first day at work — excited, beaming with joy and a little bit naive.
 
