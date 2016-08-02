@@ -16,7 +16,7 @@ Over the last 4 years, I’ve had the honour of coming on this wonderful journey
 
 In this 4 years, I have seen e-commerce grow and take a life of its own.
 
-This month, I will be joining the Alumni network. I have had an awesome time here and also made beautiful  memories that will live with me forever. From DealDey’s borrowed office to [climbing poles in a bid to fix bad phone lines and sort out ISP troubles (I’m acrophobic)](http://cyberomin.github.io/startup/2016/05/08/employee-embrace-chaos.html), to our very first order, TGIFs, etc.
+This month, I will be joining the alumni network. I have had an awesome time here and also made beautiful  memories that will live with me forever. From DealDey’s borrowed office to [climbing poles in a bid to fix bad phone lines and sort out ISP troubles (I’m acrophobic)](http://cyberomin.github.io/startup/2016/05/08/employee-embrace-chaos.html), to our very first order, TGIFs, etc.
 
 I still remember my first production application and the first git commit I made, first Yakata, etc.
 
