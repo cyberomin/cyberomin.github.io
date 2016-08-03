@@ -5,6 +5,7 @@ date:   2016-08-02 03:35:00
 categories: life
 description: "Social media is a great place to be 'the real you'. No inhibitions. Just be yourself. That sounds great and nice but it is not the whole truth."
 ---
+Guest post: [Gabriel Omin](https://medium.com/@gabomin)
 
 ### Copy. Paste. Send. Voila !!! Not so fast.
 
@@ -13,8 +14,7 @@ moment on the net. Some feel they can hide their identity, but in these days of 
 
 The normal educated person is expected to think things through and make an informed decision. Afterall, education is the training of the mind. But it seems these days, we have suspended that part of our existence. Any sensational news travels faster than the speed of light without any confirmation. I mean you have witnessed this. Let me re-juggle your memory; remember the Ebola and salt solution. Even doctors were sending and forwarding that message. 
 
-The wisdom of what I am writing about is simple. To put it succinctly, it goes thus 
-###:Be careful when you are on the net. Things can be tracked and most importantly; the internet does not forget. It remembers and some things can embarrass you at moments you least expect.
+The wisdom of what I am writing about is simple. To put it succinctly, it goes thus <h4>:Be careful when you are on the net. Things can be tracked and most importantly; the internet does not forget. It remembers and some things can embarrass you at moments you least expect.</h4>
 
 There are etiquettes on social media; written or unwritten. There are some trends I have found and I want to say a thing or two about them. Here are tips on some that I have thought of….
 
@@ -38,4 +38,5 @@ One dead fly makes the perfumer’s ointment give a rancid stench, so a little f
 All in all, what have I said ? Fact-check your news. Use Google. Be sure before you broadcast.
 
 ### Copy. Paste. Send. Voila ?????
+
 ### Think again before you make that post.
