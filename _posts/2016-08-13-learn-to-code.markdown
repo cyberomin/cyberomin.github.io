@@ -23,7 +23,7 @@ What am I going on about here?
 
 You see, for these companies to do what they do — summon a car at the tap of a button and shop groceries from the comfort of your home — they need software engineers to build these tools and build them really fast. But there lies the problem, they aren't enough software engineers and the ones that exist as at today are either gainfully employed or are busy building their own thing.
 
-###How do we fix this?
+### How do we fix this?
 The easiest way to fix this gap is to get more people coding. Simple. The sad and uncomfortable truth is that you can’t just instantaneously make copies of the existing engineers. You have to train new ones or people go out of their own and learn, and learning takes time.
 
 This is the perfect time to learn how to code, yes learn how to code. While I advocate for people to learn how to code for fun and for profit, I’m in no way guaranteeing that this route will end all your financial woes, on the flip side, there's a strong likelihood that you will find work.
@@ -38,7 +38,7 @@ Conferences, more than ever, are sharing recorded videos of their events online,
 
 You will not become a software engineer overnight, it takes years of practise and perseverance. Sadly, there isn’t a magic wand just yet to convert you to one. You need to put in the time.
 
-###Where to begin?
+### Where to begin?
 Start with a plan and be systemic about it. Almost every modern system today has some sort of code somewhere; fridges, televisions, smartphones, etc, your first job will be figuring out which of these platforms you want to build for.
 
 Since I primary build for the web and that’s what I really know, I will try to talk more about it. HTML(Hypertext Markup Language) and CSS(Cascading Style Sheet) are the fundamental fabric of the web. Start with the low hanging fruits, learn HTML first. Understand the basic syntax and what they do. When and and how to use them. When you’re comfortable with your HTML skills, you can now proceed to learning CSS, like HTML you need to understand the basic syntax and what they do. When and how to use them.
@@ -56,7 +56,7 @@ If you’re like me and you learn better visually, here is a good primer on HTML
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qKoajPPWpmo" frameborder="0" allowfullscreen></iframe>
 
-###Final thoughts.
+### Final thoughts.
 Technology, both consumer and enterprise growing at a break-neck speed and it isn’t showing any sings of slowing down. It will be foolhardy to think it’s a flash in the pan. There will still be a high demand for software engineers and technology professionals. While this route isn’t a silver bullet out of financial woes, one thing is certain, there will always be a high demand for this skill set.
 
 Like I said before and I will say it again, learn to code, there will always be a job.
