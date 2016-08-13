@@ -9,7 +9,7 @@ image: /assets/article_images/learn_to_code/bg.png
 
 >Disclaimer: This post will not teach you how to code in order to build the next earth-shaking product and make a decent exit.
 
-After Sunday service this past week, as I made my way out of the church premises I ran into an acquaintance, we shared pleasantries and spoke about everything in-between, just before we both parted ways, earhe ended the conversation with <em>“Celestine, I need software engineers and if you can make referrals, I’ll really appreciate it.”</em>
+After Sunday service this past week, as I made my way out of the church premises I ran into an acquaintance, we shared pleasantries and spoke about everything in-between, just before we both parted ways, he ended the conversation with <em>“Celestine, I need software engineers and if you can make referrals, I’ll really appreciate it.”</em>
 
 The scenario above isn’t new to me, I get to hear this almost every other week albeit not always in the church premises. Individuals and startups are on the haunt for software engineers. This shouldn’t come as a surprise to anyone who has been following industry trends.
 
