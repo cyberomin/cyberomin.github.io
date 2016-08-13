@@ -53,8 +53,11 @@ The web has a lot of component and technologies but the three technologies; HTML
 
 If you’re like me and you learn better visually, here is a good primer on HTML and CSS
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dD2EISBDjWM?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB" frameborder="0" allowfullscreen></iframe>
+<small>HTML for beginners</small>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qKoajPPWpmo" frameborder="0" allowfullscreen></iframe>
+<small>CSS for beginners</small>
 
 ### Final thoughts.
 Technology, both consumer and enterprise growing at a break-neck speed and it isn’t showing any sings of slowing down. It will be foolhardy to think it’s a flash in the pan. There will still be a high demand for software engineers and technology professionals. While this route isn’t a silver bullet out of financial woes, one thing is certain, there will always be a high demand for this skill set.
