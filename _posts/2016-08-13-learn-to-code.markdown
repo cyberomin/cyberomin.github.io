@@ -62,7 +62,7 @@ If you’re like me and you learn better visually, here is a good primer on HTML
 <small>CSS for beginners</small>
 
 ### Final thoughts.
-Technology, both consumer and enterprise growing at a break-neck speed and it isn’t showing any sings of slowing down. It will be foolhardy to think it’s a flash in the pan. There will still be a high demand for software engineers and technology professionals. While this route isn’t a silver bullet out of financial woes, one thing is certain, there will always be a high demand for this skill set.
+Technology, both consumer and enterprise are growing at a break-neck speed and it isn’t showing any sings of slowing down. It will be foolhardy to think it’s a flash in the pan. There will still be a high demand for software engineers and technology professionals. While this route isn’t a silver bullet out of financial woes, one thing is certain, there will always be a high demand for this skill set.
 
 Like I said before and I will say it again, learn to code, there will always be a job. A quick search on Twitter reveals this too.
 
