@@ -13,7 +13,7 @@ After Sunday service this past week, as I made my way out of the church premises
 
 The scenario above isn’t new to me, I get to hear this almost every other week albeit not always in the church premises. Individuals and startups are on the haunt for software engineers. This shouldn’t come as a surprise to anyone who has been following industry trends.
 
-No time in history, have we, as humans, experience this much exponential growth with regards to technology. From social networks; Instagram, Facebook, Twitter, etc to e-commerce, self driving cars, the sharing economy; Uber, AirBnB, etc. Almost every human facet has been permeated by technology. These technologies, in most cases, improve upon on existing systems or bring about disruption to age old industries.
+No time in history, have we, as humans, experienced this much exponential growth with regards to technology. From social networks; Instagram, Facebook, Twitter, etc to e-commerce, self driving cars, the sharing economy; Uber, AirBnB, etc. Almost every human facet has been permeated by technology. These technologies, in most cases, improve upon on existing systems or bring about disruption to age old industries.
 
 And with these explosions, comes about some radical changes to human behaviour, consumption habit and our general outlook on life. Imagine for a second what life felt like pre-WhatsApp, Uber, Konga(shameless plug), etc. Industries and business models are being disrupted and entirely new paradigm are emerging.
 
