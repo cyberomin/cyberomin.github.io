@@ -62,8 +62,14 @@ If you’re like me and you learn better visually, here is a good primer on HTML
 ### Final thoughts.
 Technology, both consumer and enterprise growing at a break-neck speed and it isn’t showing any sings of slowing down. It will be foolhardy to think it’s a flash in the pan. There will still be a high demand for software engineers and technology professionals. While this route isn’t a silver bullet out of financial woes, one thing is certain, there will always be a high demand for this skill set.
 
-Like I said before and I will say it again, learn to code, there will always be a job.
+Like I said before and I will say it again, learn to code, there will always be a job. A quick search on Twitter reveals this too.
 
-Tweets
+### Tweets
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Fam, there’s way more work than we can do. Literally turning down money. Come on you guys, we all know school pissed on us. Learn to code.</p>&mdash; Opemipo (@FatherMerry) <a href="https://twitter.com/FatherMerry/status/735562149079179264">May 25, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">One needs a website designer in <a href="https://twitter.com/hashtag/Nigeria?src=hash">#Nigeria</a>. Thanks</p>&mdash; Rosanwo (@rosanwo) <a href="https://twitter.com/rosanwo/status/763683086852878337">August 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Quick Job: PHP developer needed TODAY for a one-week job.<br>Experience with E-commerce would be a plus. <br>Good Pay...DM if interested.</p>&mdash; Aug 14 #ChillNChow (@DadaBen_) <a href="https://twitter.com/DadaBen_/status/762579465285279744">August 8, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
