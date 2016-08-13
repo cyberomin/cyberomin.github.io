@@ -7,15 +7,15 @@ description: "After Sunday service this past week, as I made my way out of the c
 image: /assets/article_images/learn_to_code/bg.png
 ---
 
->Disclaimer: This post will not teach you how to code in order to build the next earth shaking product and make a decent exit.
+>Disclaimer: This post will not teach you how to code in order to build the next earth-shaking product and make a decent exit.
 
-After Sunday service this past week, as I made my way out of the church premises I ran into an acquaintance, we shared pleasantries and spoke about everything in-between, just before we both parted ways, he ended the conversation with <em>“Celestine, I need software engineers and if you can make referrals, I’ll really appreciate it.”</em>
+After Sunday service this past week, as I made my way out of the church premises I ran into an acquaintance, we shared pleasantries and spoke about everything in-between, just before we both parted ways, earhe ended the conversation with <em>“Celestine, I need software engineers and if you can make referrals, I’ll really appreciate it.”</em>
 
 The scenario above isn’t new to me, I get to hear this almost every other week albeit not always in the church premises. Individuals and startups are on the haunt for software engineers. This shouldn’t come as a surprise to anyone who has been following industry trends.
 
 No time in history, have we, as humans, experience this much exponential growth with regards to technology. From social networks; Instagram, Facebook, Twitter, etc to e-commerce, self driving cars, the sharing economy; Uber, AirBnB, etc. Almost every human facet has been permeated by technology. These technologies, in most cases, improve upon on existing systems or bring about disruption to age old industries.
 
-And with these explosions, comes about some radical changes to human behaviour, consumption habit and our general outlook about life. Imagine for a second what life felt like pre-WhatsApp, Uber, Konga(shameless plug), etc. Industries and business models are being disrupted and entirely new paradigm are emerging.
+And with these explosions, comes about some radical changes to human behaviour, consumption habit and our general outlook on life. Imagine for a second what life felt like pre-WhatsApp, Uber, Konga(shameless plug), etc. Industries and business models are being disrupted and entirely new paradigm are emerging.
 
 AirBnB and Uber, two companies I admire so much and ones that never existed 10 years ago are massively disrupting the hospitality and transportation industry respectively. Before now, having strangers share your home and car sounded not just foolish, but outright risky, 10 years later, these two companies are fast becoming indispensable. With a tap of a button on your mobile phone, you can share a ride with a total stranger and be at ease. The same holds for AirBnb, where, with a few clicks, you can share a home with someone you have never known from Adam.
 
@@ -36,12 +36,12 @@ In today's world, there's absolutely no excuse not to learn anything and the oth
 
 Conferences, more than ever, are sharing recorded videos of their events online, what that means is that, you have access to the same quality of information like the person that attended these event physically and also spent hundreds of Dollars in conference fees and logistics. Companies are organising tech talks and putting out those resources for everyone and they are doing this free. These same companies are open sourcing some of their core technologies for the greater good of the community. That means you have access to the same quality of tools like a Google or a Facebook engineer. The only thing required of you is to seek these information and use them to your advantage.
 
-You will not become a software engineer overnight, it takes years of practise and perseverance. Sadly, there isn’t a magic wand just yet to convert you to one. You need to put in the time.
+You will not become a software engineer overnight, it takes years of practice and perseverance. Sadly, there isn’t a magic wand just yet to convert you to one. You need to put in the time.
 
 ### Where to begin?
 Start with a plan and be systemic about it. Almost every modern system today has some sort of code somewhere; fridges, televisions, smartphones, etc, your first job will be figuring out which of these platforms you want to build for.
 
-Since I primary build for the web and that’s what I really know, I will try to talk more about it. HTML(Hypertext Markup Language) and CSS(Cascading Style Sheet) are the fundamental fabric of the web. Start with the low hanging fruits, learn HTML first. Understand the basic syntax and what they do. When and and how to use them. When you’re comfortable with your HTML skills, you can now proceed to learning CSS, like HTML you need to understand the basic syntax and what they do. When and how to use them.
+Since I primary build for the web and that’s what I really know, I will try to talk more about it. HTML(Hypertext Markup Language) and CSS(Cascading Style Sheet) are the fundamental fabric of the web. Start with the low hanging fruits, learn HTML first. Understand the basic syntax and what they do. When and how to use them. When you’re comfortable with your HTML skills, you can now proceed to learning CSS, like HTML you need to understand the basic syntax and what they do. When and how to use them.
 
 If HTML were building blocks, CSS would be its paint. You lay blocks and build walls before painting. Which explains why I chose the sequence, HTML before CSS.
 
