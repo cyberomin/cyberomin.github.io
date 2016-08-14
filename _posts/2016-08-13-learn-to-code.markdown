@@ -11,7 +11,7 @@ image: /assets/article_images/learn_to_code/bg.png
 
 After Sunday service this past week, as I made my way out of the church premises I ran into an acquaintance, we shared pleasantries and spoke about everything in-between, just before we both parted ways, he ended the conversation with <em>“Celestine, I need software engineers and if you can make referrals, I’ll really appreciate it.”</em>
 
-The scenario above isn’t new to me, I get to hear this almost every other week albeit not always in the church premises. Individuals and startups are on the haunt for software engineers. This shouldn’t come as a surprise to anyone who has been following industry trends.
+The scenario above isn’t new to me, I get to hear this almost every other week albeit not always in the church premises. Individuals and startups are on the hunt for software engineers. This shouldn’t come as a surprise to anyone who has been following industry trends.
 
 No time in history, have we, as humans, experienced this much exponential growth with regards to technology. From social networks; Instagram, Facebook, Twitter, etc to e-commerce, self driving cars, the sharing economy; Uber, AirBnB, etc. Almost every human facet has been permeated by technology. These technologies, in most cases, improve upon on existing systems or bring about disruption to age old industries.
 
@@ -30,11 +30,11 @@ This is the perfect time to learn how to code, yes learn how to code. While I ad
 
 It's estimated that over the next decade, there will be about [1 million STEM](http://www.bls.gov/opub/mlr/2015/article/stem-crisis-or-stem-surplus-yes-and-yes.htm) roles that will not be filled in the US alone. I’m not exactly sure what our own(Nigeria) numbers will be, but conservatively, I will put it at 10,000. Those are some staggering numbers. Anybody, that begins today and position themselves for that tomorrow, will be able to take advantage of these opportunities.
 
-Today, you don't have to attend an ivy league school in order to learn to code, resources are a dime a dozen. From Khan Academy to Udacity, Coursera, EDX, Code.org, etc. All of these places offer high quality learning resources and in most cases, these materials are always free. FREE. YouTube is another great place for awesome resources, I can't count how many times I have had to turn to YouTube to learn a new piece of technology or a solve problem. Beside these places, fora like Quora and Q&A sites like Stackoverflow exist for asking questions and finding help and the beautiful thing about Stackoverflow is that before you even ask a question, there js a high likelihood that the answer already exist, that means someone at some point have had to ask these questions — your experience and learning process isn’t peculiar.
+Today, you don't have to attend an ivy league school in order to learn to code, resources are a dime a dozen. From Khan Academy to Udacity, Coursera, EDX, Code.org, etc. All of these places offer high quality learning resources and in most cases, these materials are always free. FREE. YouTube is another great place for awesome resources, I can't count how many times I have had to turn to YouTube to learn a new piece of technology or a solve problem. Beside these places, fora like Quora and Q&A sites like Stackoverflow exist for asking questions and finding help and the beautiful thing about Stackoverflow is that before you even ask a question, there is a high likelihood that the answer already exist, that means someone at some point have had to ask these questions — your experience and learning process isn’t peculiar.
 
 In today's world, there's absolutely no excuse not to learn anything and the other amazing thing is that people are willing to help, you just need to ask the right questions. Tens of thousands of people take time out of their busy schedule to write high quality articles that walk you through simple "How Tos" all the way to some really complex technologies.
 
-Conferences, more than ever, are sharing recorded videos of their events online, what that means is that, you have access to the same quality of information like the person that attended these event physically and also spent hundreds of Dollars in conference fees and logistics. 
+Conferences, more than ever, are sharing recorded videos of their events online, what that means is that, you have access to the same quality of information like the person that attended these events physically and also spent hundreds of Dollars in conference fees and logistics. 
 
 Companies are organising tech talks and putting out those resources for everyone and they are doing this free. These same companies are open sourcing some of their core technologies for the greater good of the community. That means you have access to the same quality of tools like a Google or a Facebook engineer. The only thing required of you is to seek these information and use them to your advantage.
 
@@ -43,15 +43,15 @@ You will not become a software engineer overnight, it takes years of practice an
 ### Where to begin?
 Start with a plan and be systemic about it. Almost every modern system today has some sort of code somewhere; fridges, televisions, smartphones, etc, your first job will be figuring out which of these platforms you want to build for.
 
-Since I primary build for the web and that’s what I really know, I will try to talk more about it. HTML(Hypertext Markup Language) and CSS(Cascading Style Sheet) are the fundamental fabric of the web. Start with the low hanging fruits, learn HTML first. Understand the basic syntax and what they do. When and how to use them. When you’re comfortable with your HTML skills, you can now proceed to learning CSS, like HTML you need to understand the basic syntax and what they do. When and how to use them.
+Since I primarily build for the web and that’s what I really know, I will try to talk more about it. HTML(Hypertext Markup Language) and CSS(Cascading Style Sheet) are the fundamental fabric of the web. Start with the low hanging fruits, learn HTML first. Understand the basic syntax and what they do. When and how to use them. When you’re comfortable with your HTML skills, you can now proceed to learning CSS, like HTML you need to understand the basic syntax and what they do. When and how to use them.
 
-If HTML were building blocks, CSS would be its paint. You lay blocks and build walls before painting. Which explains why I chose the sequence, HTML before CSS.
+If HTML were building blocks, CSS would be its paint. You lay blocks and build walls before painting. Which explains why I chose the sequence; HTML before CSS.
 
 Now that you are comfortable with these two fundamental pieces of technologies, it’s time to apply them. Pretend you want to build a website for your alma mater and build one. In my former life as a teacher, my first practical assignment was to ask my students to build the Google home page. Sounds simple enough — large input box with buttons.
 
 When you’re done with this and comfortable enough with both technologies, you can now make the move to learn Javascript. Javascript helps with client side interaction and improves your user experience. Since you’re starting out, I’ll strongly advise that you resist the urge of learning to code with a library like jQuery. Go the vanilla route and learn the fundamentals of Javascript, when you do, picking up a library like jQuery will be a piece of cake and none of the jQuery shortcuts will look magical to you.
 
-The web has a lot of component and technologies but the three technologies; HTML, CSS and Javascript, is enough to get you going if your major aim is to focus on the user facing section of the web.
+The web has a lot of component and technologies but the three technologies; HTML, CSS and Javascript, is enough to get you going if your major aim is to focus on the user facing side of the web.
 
 If you’re like me and you learn better visually, here is a good primer on HTML and CSS
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dD2EISBDjWM?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB" frameborder="0" allowfullscreen></iframe>
@@ -62,7 +62,7 @@ If you’re like me and you learn better visually, here is a good primer on HTML
 <small>CSS for beginners</small>
 
 ### Final thoughts.
-Technology, both consumer and enterprise are growing at a break-neck speed and it isn’t showing any sings of slowing down. It will be foolhardy to think it’s a flash in the pan. There will still be a high demand for software engineers and technology professionals. While this route isn’t a silver bullet out of financial woes, one thing is certain, there will always be a high demand for this skill set.
+Technology, both consumer and enterprise are growing at a break-neck speed and it isn’t showing any signs of slowing down. It will be foolhardy to think it’s a flash in the pan. There will still be a high demand for software engineers and technology professionals. While this route isn’t a silver bullet out of financial woes, one thing is certain, there will always be a high demand for this skill set.
 
 Like I said before and I will say it again, learn to code, there will always be a job. A quick search on Twitter reveals this too.
 
