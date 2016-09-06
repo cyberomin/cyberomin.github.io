@@ -15,4 +15,4 @@ Today marks the beginning of a new chapter in my life, a new opportunity, a fres
 
 Thank you to Iyin, Nad, Jeremy, Ebun, Derin, Sayo, Seni, Lisbi and every other person that has been instrumental to the birthing of this new phase. I look forward to the amazing things that we all do together.
 
-Let’s go make magic. This is ANDELA.
+Let’s go make magic. This is ANDELA. #TIA.
