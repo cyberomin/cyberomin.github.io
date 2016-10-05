@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Celestine is a Software Engineer at Konga, an $80m VC-backed eCommerce company. 
+I'm a Software Engineer currently living and working in Africa.
 
-In this role he has worked on major products including leading the development of [Konga's online community](http://community.konga.com), an online community forum for Konga's merchants and customers. This project has gone on to save the company over $400,000 in annual licensing fee for a SaaS-based forum solution. He also served as the lead engineer for [SellerHQ](http://shq.konga.com) and online marketplace platform for Konga's over 12,000 stores.
+I currently work at Andela, a $41M VC-backed startup. Andela provides companies with access to the top 1% of tech talent across the African content.
 
-Celestine is also the lead maintainer and developer of [NSEFinance](http://nsefinance.com), an experimental API for the Nigerian
-Stock Exchange. He is also the convener of [The Lagos GitHub meetup](http://lagosmeet.github.io). Celestine was the founding manager of the Calabar Google Developer Group.
+Prior to Andela, I worked at Konga, a $78.5M VC-backed e-commerce marketplace. Konga is the largest online marketplace in Nigeria with well over 20,000 merchants.
 
-Prior to Konga, Celestine worked at a law firm where he lead the development of an electronic law management system.
+While at Konga, I served as the lead engineer for [SellerHQ](http://shq.konga.com) and online marketplace platform for Konga's over 12,000 stores and helped in migrating some of the company's monolithic applications to mirco services. 
 
-He is a University of Calabar graduate, he enjoys the game of table tennis and [@cyberomin](https://twitter.com/cyberomin) on Twitter.
+I lead the development of a [community forum](http://community.konga.com) for Konga's merchants and customers. This project has so far saved the company over $40,000 in annual licensing fee for an equivalent SaaS-based solution. The ideas and suggestions offered by the merchants and customer on this forum have greatly shaped the product roadmap and strategy of Konga.
 
+I have also contributed significantly to the tech ecosystem here in Africa, for instance, I organised and convene [Africa Git Meetup](http://lagosmeet.github.io). Our most recent event had Kelvin Mutuma, a software engineer from GitLab as our guest speaker.
+
+I'm the lead developer and maintainer of an experimental API for the Nigerian Stock Exchange. I am currently working on the same API for other African markets starting with the Ghana Stock Exchange.
+
+I blog and share my thoughts about startups in emerging markets, with a special focus on Nigeria at http://cyberomin.github.io.
 You want to talk? [Email me.](mailto:celestineomin@gmail.com)
