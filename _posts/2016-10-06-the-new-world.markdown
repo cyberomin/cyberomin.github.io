@@ -35,7 +35,7 @@ What do all these trends point to? Still thinking? While you are it, make no mis
 
 As a young person today, why not prepare for this new world? This new world that I speak of is inevitable. Prepare for it. 
 
-Introducing the Andela Student Ambassador Program(ASAP)
+#### Introducing the Andela Student Ambassador Program(ASAP)
 At Andela, we are working very hard to build the next generation of technology leaders. Leaders that will go on to become strong voices across different spheres of life. People that will leverage technologies for the greater good of humanity.
 
 The Andela Student Ambassador Progam wants to work with resourceful Student Ambassador to lead Andela’s events and campaigns in their respective universities and communities. People that will help create awareness about what we do and represent and contribute to the development of technology leaders in Africa.
