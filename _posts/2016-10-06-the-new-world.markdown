@@ -42,4 +42,4 @@ The Andela Student Ambassador Progam wants to work with resourceful Student Amba
 
 Today, we invite you to become an ASAP. Come let's build the future together. [You really should apply here](http://bit.ly/AndASAP)
 
-<p><img src="{{ site.url }}/assets/article_images/asap/Asap.jpg"/ style="width:700px; height:auto;"></p>
+<p><img src="{{ site.url }}/assets/article_images/asap/Asap.jpeg"/ style="width:700px; height:auto;"></p>
