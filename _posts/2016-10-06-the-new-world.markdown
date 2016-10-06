@@ -2,7 +2,7 @@ layout: post
 title:  "The New World"
 date:   2016-10-06 06:47:00
 categories: startup
-description: "A while ago, the story went this way You learn the alphabets of a particular language, say English, then you learn to string alphabets together to form words, this is then succeeded with learning to make a complete sentence"
+description: "A while ago, the story went this way You learn the alphabets of a particular language"
 ---
 >"The line it is drawn
 The curse it is cast
