@@ -31,9 +31,9 @@ Self-driving cars, space exploration are just a subset of what the new world wil
 
 Google, through its Allo instant messaging service, blessed us with the awesomeness called Google Assistant. No, seriously, that technology is awesome and if anything, I already see the jobs of city and tour guide coming under serious threat. Uber, Tesla, Google are pouring billions of Dollars into autonomous vehicles, the man that gets his daily from driving people should be worried. Amazon, the one company that is known to ignore Wall Street, defy odds and do things its way is already deploying robots in its fulfilment centres, aside from robots, it is also testing out drone deliveries. We all should be worried. 
 
-What do all these trends point to? Still thinking? While you are it, make no mistake, technology and the tech revolution is here. The unifying thing in this new world will be code. Coding is the *new read and write*. Your ability to control computers and bend them at will be as invaluable as learning to read and write. 
+What do all these trends point to? Still thinking? While you are it, make no mistake, technology and the tech revolution is here. The unifying thing in this new world will be code. Coding is the *new read and write*. Your ability to control computers and bend them will be as invaluable as learning to read and write. 
 
-As a young person today, why not prepare for this new world? This new world that I speak of is inevitable. Prepare for it. 
+As a young person today, why not prepare for this new world? This new world that I speak of is inevitable. Prepare for it...
 
 #### Introducing the Andela Student Ambassador Program(ASAP)
 At Andela, we are working very hard to build the next generation of technology leaders. Leaders that will go on to become strong voices across different spheres of life. People that will leverage technologies for the greater good of humanity.
