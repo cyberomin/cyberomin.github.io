@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "The New World"
-date:   2016-10-06 06:47:00
+date:   2016-10-06 07:00:00
 categories: startup
-description: "A while ago, the story went this way You learn the alphabets of a particular language"
+description: "A while ago, the story went this way; You learn the alphabets of a particular language"
 ---
+
 >"The line it is drawn
 The curse it is cast
 The slow one now
