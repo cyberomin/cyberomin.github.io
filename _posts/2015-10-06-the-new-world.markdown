@@ -4,6 +4,17 @@ date:   2016-10-06 06:47:00
 categories: startup
 description: "A while ago, the story went this way; You learn the alphabets of a particular language, say English, then you learn to string alphabets together to form words, this is then succeeded with learning to make a complete sentence"
 ---
+>"The line it is drawn
+The curse it is cast
+The slow one now
+Will later be fast
+As the present now
+Will later be past
+The order is rapidly fadin’
+And the first one now will later be last
+For the times they are a-changin’”
+&mdash; The Times They Are A-Changin’, Bob Dylan
+
 A while ago, the story went this way; You learn the alphabets of a particular language, say English, then you learn to string alphabets together to form words, this is then succeeded with learning to make a complete sentence. When you get comfortable doing this, you learn the rules of grammar, punctuations, etc, and you can now begin to write and speak a language. This, in most cases, is when you are termed a literate or a master of that language.
 
 The scenario I painted above is over a century old and still, holds true to this day. I don’t see it changing anytime soon. Your ability to read and write puts you a step ahead of the next person who doesn't possess these skills. 
@@ -28,3 +39,5 @@ At Andela, we are working very hard to build the next generation of technology l
 The Andela Student Ambassador Progam wants to work with resourceful Student Ambassador to lead Andela’s events and campaigns in their respective universities and communities. People that will help create awareness about what we do and represent and contribute to the development of technology leaders in Africa.
 
 Today, we invite you to become an ASAP. Come let's build the future together. [You really should apply here](http://bit.ly/AndASAP)
+
+<p><img src="{{ site.url }}/assets/article_images/asap/Asap.jpg"/ style="width:700px; height:auto;"></p>
