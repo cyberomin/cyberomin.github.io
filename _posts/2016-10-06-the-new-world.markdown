@@ -23,7 +23,7 @@ The scenario I painted above is over a century old and still, holds true to this
 
 This is the year 2016 and times are changing. Life, as we know it, is evolving and humans are adapting. At the core of this evolution is technology and if the trends we see today are anything to go by, this is going to last for a long time, maybe for another century.
 
-Part of my goals for this year was to learn to drive and thank God I achieved it. But boy was it a fun experience? No, it was everything but fun. Lagos isn’t exactly the kind of city where you learn to drive. The other road users could be lenient with you, but not the yellow bus drivers. At best, the hurl insults at you, but that is a story for another day.
+Part of my goals for this year was to learn to drive and thank God I achieved it. But boy was it a fun experience? No, it was everything but fun. Lagos isn’t exactly the kind of city where you learn to drive. The other road users could be lenient with you, but not the yellow bus drivers. At best, they hurl insults at you, but that is a story for another day.
 
 As I reflected on this experience, I asked myself, will my grandkids ever learn the beautiful art of driving? I don’t think so, not because they wouldn’t be smart or courageous enough like grandpa, but because it wouldn’t be necessary. In the world where autonomous vehicles will be as common as the air we breath, why even bother? Let the robots do their thing. They will do it better.
 
