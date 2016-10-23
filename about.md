@@ -12,6 +12,6 @@ Prior to Andela, Celestine worked at Konga, the largest online e-commerce market
 
 Outside of Andela, Celestine speaks regularly at technology conferences across Africa. He organizes and leads Africa Git Meetup, which recently featured GitLab's Kelvin Mutuma as a guest speaker.
 
-Celestine has a bachelor in Computer Science from the University of Calabar. He blogs and shares his thoughts about startups in emerging markets, with a special focus on Nigeria, at [http://cyberomin.github.io](http://cyberomin.github.io).
+Celestine has a bachelor in Computer Science from the University of Calabar. He blogs and shares his thoughts about startups in emerging markets, with a special focus on Nigeria and Africa, at [http://cyberomin.github.io](http://cyberomin.github.io).
 
 You want to talk? [Email me.](mailto:celestineomin@gmail.com)
