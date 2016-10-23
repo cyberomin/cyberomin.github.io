@@ -4,19 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I'm a Software Engineer currently living and working in Africa.
+Celestine Omin is a software engineer based in Lagos, Nigeria. He is currently a Senior Technical Consultant at Andela, an elite engineering organization that provides companies with access to the top 1% of tech talent across the African continent.
 
-I currently work at Andela, a $41M VC-backed startup. Andela provides companies with access to the top 1% of tech talent across the African content.
+As Senior Technical Consultant, Celestine manages teams of Andela developers and works with Andela's partner companies to understand their business goals and product roadmap. He provides technical guidance and oversight to ensure that engineering teams are running in accordance with world-class technical standards.
 
-Prior to Andela, I worked at Konga, a $78.5M VC-backed e-commerce marketplace. Konga is the largest online marketplace in Nigeria with well over 20,000 merchants.
+Prior to Andela, Celestine worked at Konga, the largest online e-commerce marketplace in Nigeria with well over 20,000 merchants and $78.5M in venture funding. While at Konga, Celestine served as the lead engineer for SellerHQ, helped in migrating some of the company’s monolithic applications to micro-services, and led the development of a community forum for Konga's merchants and customers that greatly shaped the company's product roadmap and strategy.
 
-While at Konga, I served as the lead engineer for [SellerHQ](http://shq.konga.com) and online marketplace platform for Konga's over 12,000 stores and helped in migrating some of the company's monolithic applications to mirco services. 
+Outside of Andela, Celestine speaks regularly at technology conferences across Africa. He organizes and leads Africa Git Meetup, which recently featured GitLab's Kelvin Mutuma as a guest speaker.
 
-I lead the development of a [community forum](http://community.konga.com) for Konga's merchants and customers. This project has so far saved the company over $40,000 in annual licensing fee for an equivalent SaaS-based solution. The ideas and suggestions offered by the merchants and customer on this forum have greatly shaped the product roadmap and strategy of Konga.
+Celestine has a bachelor in Computer Science from the University of Calabar. He blogs and shares his thoughts about startups in emerging markets, with a special focus on Nigeria, at http://cyberomin.github.io.
 
-I have also contributed significantly to the tech ecosystem here in Africa, for instance, I organised and convene [Africa Git Meetup](http://lagosmeet.github.io). Our most recent event had Kelvin Mutuma, a software engineer from GitLab as our guest speaker.
-
-I'm the lead developer and maintainer of an experimental API for the Nigerian Stock Exchange. I am currently working on the same API for other African markets starting with the Ghana Stock Exchange.
-
-I blog and share my thoughts about startups in emerging markets, with a special focus on Nigeria at http://cyberomin.github.io.
 You want to talk? [Email me.](mailto:celestineomin@gmail.com)
