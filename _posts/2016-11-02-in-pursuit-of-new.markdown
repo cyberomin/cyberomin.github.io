@@ -28,6 +28,6 @@ Don't beat yourself up when next you feel like you're lagging behind. No, you ar
 
 Everything in life is ephemeral, your work tools aren't any different. Don't stress out. Keep reading and learning the new stuff, but worry less when the next big thing shows up.
 
-Remember, before when CSS was just simple and straight forward? LESS, SCSS and SASS changed that.
+Remember when CSS was just simple and straight forward? LESS, SCSS and SASS changed that.
 
 Enjoy the moment.
