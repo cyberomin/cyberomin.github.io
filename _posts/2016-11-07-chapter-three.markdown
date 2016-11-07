@@ -16,7 +16,7 @@ Harvey, cocky as the king of spade, decided to interview Mike, even though he wa
 
 Mike explained to Harvey, that he never graduated college let alone graduate from Harvard, as it was the tradition for Pearson Specter to hire only Harvard law grads. There and then, Harvey made an exception and hired Mike immediately. Mike’s life changed forever.
 
-Why am I telling you all this?
+### Why am I telling you all this?
 
 Suits is the first TV show that I have ever followed religiously, this is largely due to the fact that the protagonist and I share similar a similar story.
 
@@ -49,6 +49,6 @@ A month later I had the call with Sim, I made the move to Lagos, this time, I wa
 
 While still keeping a full-time job, I made a few trips back home a couple of times and for each trip, I manage to take a resit exams and just generally try to improve my odds of graduating. It wasn’t fun. It was exhausting. I confided in Nneka and she became not just my sounding board, but a great confidant.
 
-Nneka became my Rachel Zane, Mike Ross’ fiancée. Times when I was way too tired to even try again she’d encourage me to give it one last shot. One shot became two shots, three shots and so on. After 7 tortuous years, I finally graduated. I got a certificate with a beautiful 3rd class well embolden with what I will describe as the most amazing typeface I have ever seen. I made a 1.54 CGPA.
+Nneka became my Rachel Zane, Mike Ross’ fiancée. Times when I was way too tired to even try again she’d encourage me to give it one last shot. One shot became two shots, three shots and so on. On the 4th of January, 2016, after 7 tortuous years, I finally graduated. I got a certificate with a beautiful 3rd class well embolden with what I will describe as the most amazing typeface I have ever seen. I made a 1.54 CGPA.
 
-Suits, isn’t just a show. It speaks to me. Suits is déjà vu all over again.
+Suits, isn’t just a show. It speaks to me. Suits is *déjà vu* all over again.
