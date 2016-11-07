@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chapter Three: The 11 year journey."
+title:  "Chapter Three: The 11-year journey."
 date:   2016-11-07 07:16:00
 categories: life
 description: "In the hit TV show Suits, produced by US Network, Patrick Adams played the role of Mike Ross"
