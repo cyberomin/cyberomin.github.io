@@ -20,7 +20,7 @@ Mike explained to Harvey, that he never graduated college let alone graduate fro
 
 ### Why am I telling you all this?
 
-Suits is the first TV show that I have ever followed religiously, this is largely due to the fact that the protagonist and I share similar a similar story.
+Suits is the first TV show that I have ever followed religiously, this is largely due to the fact that the protagonist and I share a similar story.
 
 In 2011, I moved to Uyo and this will become my new home for the next 9 months. On a certain beautiful Friday afternoon, I was boiling rice to eat with the stew mum had sent me. As I watched the grains of rice dart all over the pot as the meal cooked, my phone rang. I didn’t know the caller, but something struck me, the phone number pattern was rather unique. It felt like the owner had asked the network provider to specifically reserve him the number. On the other side of the line was the voice of a man with a deep baritone and he spoke eloquently.
 
