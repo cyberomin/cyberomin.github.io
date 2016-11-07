@@ -5,6 +5,8 @@ date:   2016-11-07 07:16:00
 categories: life
 description: "In the hit TV show Suits, produced by US Network, Patrick Adams played the role of Mike Ross"
 ---
+>"Winners don't make excuses." 
+Harvey Specter, Suits
 
 In the hit TV show Suits, produced by US Network, Patrick Adams played the role of Mike Ross, a brilliant college dropout turned unlicensed lawyer. Mike Ross, a man who came from almost nothing went on to build a stellar career at Pearson Specter. Mike rose through the ranks very quickly, he made junior partner in the shortest period of the firm’s history. His brilliance and photographic memory would make even Einstein jealous.
 
