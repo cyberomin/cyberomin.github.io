@@ -53,4 +53,6 @@ While still keeping a full-time job, I made a few trips back home a couple of ti
 
 Nneka became my Rachel Zane, Mike Ross’ fiancée. Times when I was way too tired to even try again she’d encourage me to give it one last shot. One shot became two shots, three shots and so on. On the 4th of January, 2016, after 7 tortuous years, I finally graduated. I got a certificate with a beautiful 3rd class well embolden with what I will describe as the most amazing typeface I have ever seen. I made a 1.54 CGPA.
 
+Sim was my Harvey. Thank you, Sim. 
+
 Suits, isn’t just a show. It speaks to me. Suits is *déjà vu* all over again.
