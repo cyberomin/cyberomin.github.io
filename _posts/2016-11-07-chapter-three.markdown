@@ -58,3 +58,6 @@ Nneka became my Rachel Zane, Mike Ross’ fiancée. Times when I was way too tir
 Sim was my Harvey. Thank you, Sim. 
 
 Suits, isn’t just a show. It speaks to me. Suits is *déjà vu* all over again.
+
+
+PS: If you've had a similar story, go ahead and share it in the comments. Be a source of hope and inspiration today!!
