@@ -22,7 +22,7 @@ I love how companies in the valley, Europe and South East Asia are deliberately 
 
 This is one surefire way of building a community. A community is not people doing things in silos and calling it an "ecosystem.” Netflix holds tech-talks and invites Uber engineers to speak. They move this further by sharing core components of their infrastructure.It's only in sharing that we can truly build a sustainable ecosystem and also move the needle a notch higher.
 
-Kafka, one of the core components of distributed computing was built in-house by LinkedIn. They shared it and everyone is benefiting today. For a second, imagine if Google kept Angular and Kubernetes to itself and Facebook kept React to itself. Think about it.
+[https://kafka.apache.org/](Kafka), one of the core components of distributed computing was built in-house by LinkedIn. They shared it and everyone is benefiting today. For a second, imagine if Google kept Angular and Kubernetes to itself and Facebook kept React to itself. Think about it.
 
 A few days ago, Neo Ighodaro, CTO of Hotels.ng, tweeted about Watch Dog, a monitoring tool they built in-house that sends critical alerts to Slack and every stakeholder. Not only did they write about this tool, they went ahead and made it open source. To say I was excited will be an understatement. That tweet literarily made my day.
 
