@@ -38,3 +38,5 @@ We need more African tech startups writing about their processes, product design
 In 2017, there should be just as much tech talks and articles. I think we have enough fundraising articles.
 
 PS: I recognise and celebrate the great work of FoorLoop, GDGs, African Git Meetup(shameless plug, that's me) all of the individual contributors to OSS and everyone writing one technical article or the other, you're all rockstars. 
+
+Hotels.ng, CCHub thank you for giving out your spaces. We need these supports. 
