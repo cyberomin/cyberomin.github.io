@@ -24,7 +24,7 @@ This is one surefire way of building a community. A community is not people doin
 
 [https://kafka.apache.org/](Kafka), one of the core components of distributed computing was built in-house by LinkedIn. They shared it and everyone is benefiting today. For a second, imagine if Google kept Angular and Kubernetes to itself and Facebook kept React to itself. Think about it.
 
-A few days ago, Neo Ighodaro, CTO of Hotels.ng, tweeted about Watch Dog, a monitoring tool they built in-house that sends critical alerts to Slack and every stakeholder. Not only did they write about this tool, they went ahead and made it open source. To say I was excited will be an understatement. That tweet literarily made my day.
+A few days ago, Neo Ighodaro, CTO of Hotels.ng, tweeted about Watch Dog, a monitoring tool they built in-house that sends critical alerts to Slack and every stakeholder. Not only did they write about this tool, they went ahead and made it open source. To say I was excited will be an understatement. That tweet literally made my day.
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Just published “Meet Watchdog; Hotels.ng’s in-house open source application monitor” <a href="https://t.co/iiFizO41gQ">https://t.co/iiFizO41gQ</a> cc <a href="https://twitter.com/lyndachiwetelu">@lyndachiwetelu</a> <a href="https://twitter.com/markessien">@markessien</a></p>&mdash; Neo Ighodaro (@NeoIghodaro) <a href="https://twitter.com/NeoIghodaro/status/808205822450868224">December 12, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
