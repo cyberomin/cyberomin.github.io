@@ -8,7 +8,9 @@ description: "In Steve Case’ book, The Third Wave: An Entrepreneur’s Vision 
 
 In Steve Case’ book, The Third Wave: An Entrepreneur’s Vision for The Future, Steve outlined the different waves that defined the Internet and laid the foundation for the explosive technological innovation that we experience today. 
 
-The first wave — building the internet — , which lasted between 1985 - 1999, was largely driven by People, Products, Platforms, Partnerships, Policy and Perseverance and he outlined a few companies that were pivotal to the success of that era; Cisco, IBM, Apple, AOL, Sprint and the now defunct Sun Microsystem. The second wave — App economy and mobile revolution — started in 2000 through 2015 and this wave was driven by People, Products and Platforms. The third wave — Internet of Everything — started this year, 2016 and it’s ongoing. 
+The first wave — building the internet — , which lasted between 1985 - 1999, was largely driven by People, Products, Platforms, Partnerships, Policy and Perseverance and he outlined a few companies that were pivotal to the success of that era; Cisco, IBM, Apple, AOL, Sprint and the now defunct Sun Microsystem. 
+
+The second wave — App economy and mobile revolution — started in 2000 through 2015 and this wave was driven by People, Products and Platforms. The third wave — Internet of Everything — started this year, 2016 and it’s ongoing. 
 
 I’m more interested in the first wave and how it relates to the Nigerian technology ecosystem. I'm really interested in the *People* aspect of things. Yesterday, I started a series of tweets about how technology startups in Nigeria and Africa at large can bolster the engineering community around us. While other components that makes for a successful ecosystem are equally as important, I choose to focus on engineering because not only is it my forte, it’s one of the critical components of every successful technology startup. 
 
