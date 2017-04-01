@@ -4,7 +4,7 @@ title:  "Docker Hack: Prune those unwanted stuff."
 date:   2017-04-01 01:00:00
 categories: bits docker
 description: "I have been meaning to do this for a very long time and today, I overcame inertia. This is a first in, hopefully, a never ending series that I have aptly titled bits"
-image: /assets/article_images/docker/docker.png
+image: /assets/article_images/docker-prune/docker.png
 ---
 I have been meaning to do this for a very long time and today, I overcame inertia. This is a first in, hopefully, a never ending series that I have aptly titled bits. The aim of these series is to share my discoveries, hacks and shortcuts with everyday tools that I work with. Sit back, relax and enjoy the ride.
 
