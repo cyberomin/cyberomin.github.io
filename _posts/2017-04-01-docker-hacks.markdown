@@ -5,7 +5,6 @@ date:   2017-04-01 01:00:00
 categories: bits docker
 description: "I have been meaning to do this for a very long time and today, I overcame inertia. This is a first in, hopefully, a never ending series that I have aptly titled bits"
 ---
-<img src="{{ site.url }}/assets/article_images/docker-prune/docker.png"/>
 I have been meaning to do this for a very long time and today, I overcame inertia. This is a first in, hopefully, a never ending series that I have aptly titled bits. The aim of these series is to share my discoveries, hacks and shortcuts with everyday tools that I work with. Sit back, relax and enjoy the ride.
 
 In this first episode of the bit series, I will be sharing a Docker hack. Docker is an amazing piece of software, like every other tool, it has its ways and as engineers, we have to learn those ways. This article isn't meant to talk about what Docker is and is not, the aim here is to showcase one tiny feature I found this week.
