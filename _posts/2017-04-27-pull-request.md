@@ -9,13 +9,13 @@ A few weeks ago, I wrote an article on the need to hire a tech lead when you con
 
 For context, I’ll love to explain what pull request and code reviews are and for the sake of this article, I’ll be using both terms interchangeably.
 
->>> A pull request(PR) is a method of submitting contributions to a software development project. It is often the preferred way of submitting contributions to a project using a distributed version control system (DVCS) such as Git. A pull request occurs when a developer asks for changes committed to an external repository to be considered for inclusion in a project’s main repository. Source - [OSS Watch](http://oss-watch.ac.uk/resources/pullrequest)
+> A pull request(PR) is a method of submitting contributions to a software development project. It is often the preferred way of submitting contributions to a project using a distributed version control system (DVCS) such as Git. A pull request occurs when a developer asks for changes committed to an external repository to be considered for inclusion in a project’s main repository. Source - [OSS Watch](http://oss-watch.ac.uk/resources/pullrequest)
 
->>> Code review is a systematic examination (sometimes referred to as peer review) of computer source code. It is intended to find mistakes overlooked in the initial development phase, improving the overall quality of software. Source - [Wikipedia](https://en.wikipedia.org/wiki/Code_review)
+> Code review is a systematic examination (sometimes referred to as peer review) of computer source code. It is intended to find mistakes overlooked in the initial development phase, improving the overall quality of software. Source - [Wikipedia](https://en.wikipedia.org/wiki/Code_review)
 
 The problem that I see with most pull request/code review session is when reviewers nitpick on seemingly inconsequential issues and often neglecting the elephant in the room. This does not only degrade the entire reviewing experience, it leads to unnecessary bike shading. This, in my opinion, is one of the few causes of strife within technical teams and it’s unhealthy. 
 
->>> The bike shed story tells of a management committee’s decision to approve a nuclear power plant, which it does so with little argument or deliberation.  The story contrasts this with another decision on choosing the color of the bike shed where the management gets into a nit-picking debate and expends far more time and energy than on the nuclear power plant decision.
+> The bike shed story tells of a management committee’s decision to approve a nuclear power plant, which it does so with little argument or deliberation.  The story contrasts this with another decision on choosing the color of the bike shed where the management gets into a nit-picking debate and expends far more time and energy than on the nuclear power plant decision.
 
 A pull request should be a learning experience, it’s an opportunity to get good feedback from trusted team members. This feedback could range anywhere from writing more structured and succinct code to better optimisation of algorithms, queries, etc. It’s the time to be open minded and not become unnecessarily defensive. 
 
