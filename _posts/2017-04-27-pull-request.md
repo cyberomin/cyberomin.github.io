@@ -5,7 +5,7 @@ date:   2017-04-27 12:43:00
 categories: engineering
 description: "A few weeks ago, I wrote an article on the need to hire a tech lead when you consider outsourcing your engineering. This article sparked some interesting conversation and one was about pull requests(PR) and code reviews(CR) and how it should be approached"
 ---
-A few weeks ago, I wrote an article on the need to hire a tech lead when you consider outsourcing your engineering. This article sparked some interesting conversation and one was about pull requests(PR) and code reviews(CR) and how it should be approached. Today, I will try to talk about code reviews and some of its inherent problems amongst team members, and I’ll also highlight possible ways to overcome some of these problems. 
+A few weeks ago, I wrote an article on the need to hire a tech lead when you consider [outsourcing your engineering](http://cyberomin.github.io/tech/2017/04/03/before-you-outsource.html). This article sparked some interesting conversation and one was about pull requests(PR) and code reviews(CR) and how it should be approached. Today, I will try to talk about code reviews and some of its inherent problems amongst team members, and I’ll also highlight possible ways to overcome some of these problems. 
 
 For context, I’ll love to explain what pull request and code reviews are and for the sake of this article, I’ll be using both terms interchangeably.
 
