@@ -19,7 +19,7 @@ The problem that I see with most pull request/code review session is when review
 
 A pull request should be a learning experience, it’s an opportunity to get good feedback from trusted team members. This feedback could range anywhere from writing more structured and succinct code to better optimisation of algorithms, queries, etc. It’s the time to be open minded and not become unnecessarily defensive. 
 
-One issue that I find quite worrying is the fact that most authors come with girded loins when the submit their PRs. You can’t tell them otherwise, after all, they have spent a significant portion of their day solving this complex problem and all they need is your approval and a merge to the base branch. And this is a big problem.
+One issue that I find quite worrying is the fact that most authors come with girded loins when they submit their PRs. You can’t tell them otherwise, after all, they have spent a significant portion of their day solving this complex problem and all they need is your approval and a merge to the base branch. And this is a big problem.
 
 But, as an author of a PR, before you put on your armour, take a second and think through the opinions of your reviewers, and look at the issue from their own lens. Your reviewers are here to uncover your blind spot, they check those things that must have slipped through the cracks, they are meant to guide and help you become better. When authors approach their PR/CR session with the way they would approach an editor, they become aware of things they must have overlooked, uncover new paradigms and fundamentally gain new knowledge. Your reviewers, like editors, are your third eyes. 
 
