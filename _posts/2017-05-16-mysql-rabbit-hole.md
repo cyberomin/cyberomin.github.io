@@ -5,6 +5,8 @@ date:   2017-05-16 07:36:00
 categories: engineering
 description: "Recently, an old project of mine died mysteriously—I don’t think so, things rarely die mysteriously, something had gone wrong; MySQL wasn’t running and there was a potential data loss"
 ---
+<img src="{{ site.url }}/assets/article_images/mysql/mysql.jpg"/>
+
 Recently, an old project of mine died mysteriously&mdash;I don’t think so, things rarely die mysteriously, something had gone wrong; MySQL wasn’t running and there was a potential data loss. What was more frustrating about this was the fact that I had procrastinated the database replication and backup for the longest of time. This was all my fault. 
 
 Over the last couple of months, there have a sizable amount of data that I had collected and I didn’t imagine myself going through the process of collecting these data again and as such, excuses weren’t an option. I had to recovered it with as little information that I had at my disposal. 
