@@ -34,10 +34,12 @@ provider "digitalocean" {
 
 The code above is how a Terraform provider is declared. That simple. The declaration above by itself does nothing and has very limited use. In order to harness its power and begin communication with the Digital Ocean cloud, we will have to provide a valid Digital Ocean token. This is how Terraform will communicate with our Digital Ocean cloud. 
 
-To generate a from your Digital Ocean account, simply log in to your account, click the **API** link on your menu, click on **Generate New Token** button, enter a token name and generate one. Remember to also keep this token safe and secure as bad things can happen if it gets into the wrong hands. 
-<img src="{{ site.url }}/assets/article_images/terraform/token.png"/>
+To generate a from your Digital Ocean account, simply log in to your account, click the **API** link on your menu, click on **Generate New Token** button, enter a token name and generate one. Remember to also keep this token safe and secure as bad things can happen if it gets into the wrong hands.
 
-We will extend our initial code, Code I, and add our DO token. 
+<img src="{{ site.url }}/assets/article_images/terraform/token.png"/>
+<small>Digital Ocean generate token page</small>
+
+Now that we have our token ready, we will have to extend our initial code in *Code I* and add our Digital Ocean token like what we have below: 
 {% highlight javascript %}
 provider "digitalocean" {
     token = "xxxx-xxxxx-xxxx-xxxx-xxxx"
@@ -45,10 +47,10 @@ provider "digitalocean" {
 {% endhighlight %}
 *Code II*
 
-Our work here isn’t done, we have only told Terraform we want to work with Digital Ocean and nothing more. This, by itself does nothing, we need to create some Digital Ocean droplets. Terraform has a concept of resource, a resource is typically a service offered by your cloud hosting service, a provider in Terraform’s parlance. These resources include but not limited to; VMs(EC2, droplets), Load balancers, database, cache, etc. To create a Digital Ocean droplet, we will declare a droplet resource and pass along arguments like image type—Ubuntu, CentOS, etc, name—hostname of the machine, region—the DO region where we want this resource created, size—size of the droplet.
+Our work here isn’t done, we have only told Terraform we want to work with Digital Ocean and nothing more. This, by itself does nothing. Now let's create create some Digital Ocean droplets. Terraform has a concept of resource, a resource is typically a service offered by your cloud hosting service, a provider, in Terraform’s parlance. These resources include but not limited to; VMs(EC2, droplets), load balancers, database, cache, etc. To create a Digital Ocean droplet, we will declare a droplet resource and pass along arguments like image type&mdash;Ubuntu, CentOS, etc, name&mdash;hostname of the machine, region&mdash;the DO region where we want this resource created, size&mdash;size of the droplet.
 {% highlight javascript %}
 provider "digitalocean" {
-    token = "valid digital ocean token"
+    token = "xxxx-xxxxx-xxxx-xxxx-xxxx"
 }
 
 resource "digitalocean_droplet" "web" {
@@ -60,15 +62,15 @@ resource "digitalocean_droplet" "web" {
 {% endhighlight %}
 *Code III*
 
-The human readable form of Code III declared above translates to *“create a 64 bit Ubuntu 16.04 droplet in the London 1 region and give it a size of 1gb and a hostname of web-1.”*  It’s worthy of note that a few things in the resource declaration above are standard. The `resource` keyword is standard, `digitalocean_droplet` is standard, this is how Terraform represent’s Digital Ocean’s droplets—it varies for other cloud providers, for example, `aws_instance` for AWS’ EC2 and `google_compute_instance` for Google’s VM. The `web` word is arbitrary, it serves the purpose of an identifier in this declaration, as such, you can choose whatever name pleases you. The other declaration inside the curly braces are standard and required. For information on how it’s declared for other providers, please consult the Terraform documentation. 
+The human readable form of *Code III* declared above translates to *“create a 64 bit Ubuntu 16.04 droplet in the London 1 region and give it a size of 1gb and a hostname of web-1.”*  It’s worthy of note that some  things in the resource declaration above are standard. The `resource` keyword is standard, `digitalocean_droplet` is standard, this is how Terraform represent’s Digital Ocean’s droplets. It varies for other cloud providers, for example, `aws_instance` for AWS’ EC2 and `google_compute_instance` for Google’s VM. The `web` word is arbitrary, it serves the purpose of an identifier in this declaration, as such, you can choose whatever name you're most comfortable with. The other declaration inside the curly braces are standard and required. For information on how it’s declared for other providers, please consult the Terraform documentation. 
 
-With the code above, we have successfully declared a valid Terraform provider and created an associated resource. To run this command see its effect, we will run `terraform apply` on our console. At this point, Terraform will initiate a communication link with Digital Ocean and if everything goes well, create us a valid and ready to use droplet. This is a rather simplistic way of doing things and we will be diving deeper in the course of this article. 
+With the code above, we have successfully declared a valid Terraform provider and created an associated resource. To run this command and see its effect, we will run `terraform apply` on our console. At this point, Terraform will initiate a communication link with Digital Ocean and if everything goes well, create us a valid and ready to use droplet. This is a rather simplistic way of doing things and we will be diving deeper in the course of this article. 
 
 **Variables**
 
 In *code II*, we created a Digital Ocean provider and provided it with an API token. While this get’s the job done, it’s not entirely the best way to deal with this problem. This is where the concept of a variables comes in. Like many traditional programming languages, Terraform also has a concept of a variable, albeit declared differently. 
 
-In ES6 for instance, a variable can be declared with either the `const` or the `let` keyword. For instance 
+In ES6 for instance, a variable can be declared with either the `const` or the `let` keyword. Like what we have below:
 {% highlight javascript %}
 const name = "Bob Jones";
 let age = 70;
@@ -81,14 +83,14 @@ To create an assign data to a variable we will start with the `variable` keyword
 {% highlight javascript %}
 variable "name" {}
 variable "token" {
-    default = "DO API Token"
+    default = "xxxx-xxxxx-xxxx-xxxx-xxxx"
 }
 {% endhighlight %}
 *Code V*
 
-From the definition in Code V, if we run the Terraform code using `terraform apply`, Terraform will prompt us to enter a value for the `name` variable and wouldn’t do same for the second one, `token`. This is because, in the second declaration, we have provided a default value for the variable which is our Digital Ocean API token as such, Terraform picks it from there. 
+From the definition in *Code V*, if we run the Terraform code using `terraform apply`, Terraform will prompt us to enter a value for the `name` variable and wouldn’t do same for the second one, `token`. This is because, in the second declaration, we have provided a default value for the variable which is our Digital Ocean API token and as such, Terraform picks it from there. 
 
-If we need to use this variable anywhere, we will have to invoke it like this `“${var.token}”`, so going back to Code II, we can modify the declaration to this format:
+If we need to use this variable anywhere, we will have to invoke it like this `"${var.token}"`, so going back to *Code II*, we can modify the declaration to this format:
 {% highlight javascript %}
 provider "digitalocean" {
     token = "${var.token}"
