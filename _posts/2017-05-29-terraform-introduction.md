@@ -32,10 +32,10 @@ provider "digitalocean" {
 {% endhighlight %}
 *Code I*
 
-The code above is how a Terraform provider is declared. That simple. The declaration above by itself does nothing and has very limited use. In order to harness its power and begin communication with the Digital Ocean cloud, we will have to provide a valid Digital Ocean token. This is how Terraform will be able to communicate with our Digital Ocean cloud. 
+The code above is how a Terraform provider is declared. That simple. The declaration above by itself does nothing and has very limited use. In order to harness its power and begin communication with the Digital Ocean cloud, we will have to provide a valid Digital Ocean token. This is how Terraform will communicate with our Digital Ocean cloud. 
 
-A token can be gotten from your Digital Ocean account, simply log in and generate one. Remember to also keep this token safe and secure as bad things could happen if it gets into the wrong hands. 
-*Insert picture of how to generate Digital Ocean token*
+To generate a from your Digital Ocean account, simply log in to your account, click the **API** link on your menu, click on **Generate New Token** button, enter a token name and generate one. Remember to also keep this token safe and secure as bad things can happen if it gets into the wrong hands. 
+<img src="{{ site.url }}/assets/article_images/terraform/token.png"/>
 
 We will extend our initial code, Code I, and add our DO token. 
 {% highlight javascript %}
