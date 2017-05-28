@@ -24,11 +24,11 @@ Terraform’s code is written in Harshicorp’s proprietary language called Hash
 Before we use Terraform and explore its power, we will need to declare a provider. This is the entry point to every Terraform program. As at the time of this post, they are well over 10 different Terraform providers and they include; AWS, Digital Ocean, Google cloud, etc. For a complete and up to date list of providers, visit the Terraform providers [documentation page](https://www.terraform.io/docs/providers/index.html).
 
 Declaring a provider is simple, you start with the keyword `provider` and provide the name of the provider, e.g; `aws`, `digitalocean`, `google`, etc. 
-```js
+{% highlight javascript %}
 provider "digitalocean" {
     # todo
 }
-```
+{% endhighlight %}
 *Code I*
 
 The code above is how a Terraform provider is declared. That simple. The declaration above by itself does nothing and has very limited use. In order to harness its power and begin communication with the Digital Ocean cloud, we will have to provide a valid Digital Ocean token. This is how Terraform will be able to communicate with our Digital Ocean cloud. 
