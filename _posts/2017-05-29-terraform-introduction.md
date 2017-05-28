@@ -5,6 +5,7 @@ date:   2017-05-29 02:00:00
 categories: engineering
 description: "In the last couple of months, I have been obsessed with automation, workflows and infrastructure as code"
 ---
+<img src="{{ site.url }}/assets/article_images/terraform/terraform.png"/>
 
 #### Introduction
 In the last couple of months, I have been obsessed with automation, workflows and infrastructure as code. This obsession led me to explore tools like Ansible and a little bit of Chef and how to better apply them to my everyday work.
@@ -13,15 +14,15 @@ In the last few weeks, I have been experimenting with Harshicorp’s Terraform a
 
 >PS: I’ve created a bootstrapped Vagrant box with Terraform provisioned. You can clone the [repository here](https://github.com/cyberomin/terraform) and follow along. 
 
-Terraform, like every other Harshicorp products have basic commands that can be run from the CLI. But the one most frequently used Terraform command is the `terraform apply`. This is the command that actually allows Terraform to run and communicate with our provider(more on this later). The `terraform apply` command goes out to our provider and provision the resources that we have declared in our Terraform files. In simple terms, it builds or changes our infrastructure. 
+Terraform, like every other Harshicorp products have basic commands that can be run from the CLI. But the one most frequently used Terraform command is the `terraform apply` command. This command allows Terraform to run and communicate with our provider(more on this later). The `terraform apply` command goes out to our provider and provision the resources that we have declared in our Terraform scripts. In simple terms, it builds or changes our infrastructure. 
 
-While the `terraform apply` command is great, the problem is that it doesn’t give you an early feedback of what you’re doing, luckily, Terraform provides another command `terraform plan` which does just that. It allows us to see how infrastructure execution plan. 
+While the `terraform apply` command is great, the problem is that it doesn’t give you an early feedback on what you’re doing, luckily, Terraform provides another command `terraform plan` which does just that. It allows us to see our infrastructure execution plan. To see a full list of all the available Terraform commands, run `terraform --help` on your terminal.
 
 
 #### The Terraform Syntax - HCL
-Terraform’s code is written in Harshicorp’s proprietary language called Hashicorp Configuration Language(HCL). HCL is a structured configuration language that is intended to be both machines friendly and human readable. It’s geared mostly towards DevOps, and in the case of Terraform, its syntax allows us to describe our infrastructure as code. All Terraform codes are written in a file with a `.tf` extension. 
+Terraform’s code is written in Harshicorp’s proprietary language called Hashicorp Configuration Language(HCL). HCL is a structured configuration language that is intended to be both machine friendly and human readable. It’s geared mostly towards DevOps, and in the case of Terraform, its syntax allows us to describe our infrastructure as code. All Terraform codes are written in a file with a `.tf` extension. 
 
-Before we use Terraform and explore its power, we will need to declare a provider. This is the entry point to every Terraform program. As at the time of this post, they are well over 10 different Terraform providers and they include; AWS, Digital Ocean, Google cloud, etc. For a complete and up to date list of providers, visit the Terraform providers [documentation page](https://www.terraform.io/docs/providers/index.html).
+Before we use Terraform and explore its power, we will need to declare a provider. This is the entry point to every Terraform program. As at the time of this post, they are well over ten different Terraform providers and they include; AWS, Digital Ocean, Google cloud, etc. For a complete and up to date list of providers, visit the Terraform providers [documentation page](https://www.terraform.io/docs/providers/index.html).
 
 Declaring a provider is simple, you start with the keyword `provider` and provide the name of the provider, e.g; `aws`, `digitalocean`, `google`, etc. 
 {% highlight javascript %}
@@ -74,7 +75,7 @@ let age = 70;
 {% endhighlight %}
 *Code IV*
 
-But things are a bit different in the Terraform land. Every variable is predicated with the keyword `variable` followed by the variable name and a set of parameters. Terraform’s variables comes in two different flavours; input and output variables. An input variable is used to send values into a Terraform while the output variable prints result from Terraform to the stdout. Input variables can be sent in a different format; command line, from a file and an environment variable. 
+But things are a bit different in the Terraform land. Every variable is preceded with the keyword `variable` followed by the variable name and a set of parameters. Terraform’s variables comes in two different flavours; input and output variables. An input variable is used to send values into a Terraform while the output variable prints result from Terraform to the stdout. Input variables can be sent in a different format; command line, from a file and an environment variable. 
 
 To create an assign data to a variable we will start with the `variable` keyword as seen in Code V.
 {% highlight javascript %}
@@ -201,6 +202,15 @@ resource "digitalocean_loadbalancer" "pubic" {
 *Code XII*
 
 From the declaration in Code XII, the DO load balancer will only exist if the environment is a production environment. Terraform also support operations like `!=, >, <, >=, <= && || !`.
+
+**Comments**
+One useful part of Terraform is its support for comments. I'm not going to stress the need for code commenting as this one is pretty obvious. In Code I, we have a `#todo`, this is an example of a comment and this is a single line comment. Terraform also supports multi line comments and they are wrapped in `/* */` as seen below
+{% highlight javascript %}
+/*
+This is a multi
+line comment....
+*/
+{% endhighlight %}
 
 *Disclaimer*
 
