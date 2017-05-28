@@ -206,6 +206,7 @@ resource "digitalocean_loadbalancer" "pubic" {
 From the declaration in Code XII, the DO load balancer will only exist if the environment is a production environment. Terraform also support operations like `!=, >, <, >=, <= && || !`.
 
 **Comments**
+
 One useful part of Terraform is its support for comments. I'm not going to stress the need for code commenting as this one is pretty obvious. In Code I, we have a `#todo`, this is an example of a comment and this is a single line comment. Terraform also supports multi line comments and they are wrapped in `/* */` as seen below
 {% highlight javascript %}
 /*
