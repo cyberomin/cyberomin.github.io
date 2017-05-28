@@ -108,7 +108,9 @@ output "ip" {
 {% endhighlight %}
 *Code VII*
 
-The declaration in Code VII tells Terraform to print the IPV4 address of our droplet to the console. So far, we have been able to create a Digital Ocean droplet, which is good, but the problem now is that we can’t ssh into our newly minted machine, which is a major issue and will definitely pose a problem for us as we go. To fix this issue, we will need to add our SSH public key to our droplet. Terraform provides us with an SSH resource aptly named `digital ocean_ssh_key`. To use this resource we declare it as below:
+The declaration in *Code VII* tells Terraform to print the IPV4 address of our droplet to the console. 
+
+So far, we have been able to create a Digital Ocean droplet, which is good, but the problem now is that we can’t ssh into our newly minted machine, which is a major issue and will definitely pose a problem for us as we go on. To fix this issue, we will need to add our SSH public key to our droplet. Terraform provides us with an SSH resource aptly named `digitalocean_ssh_key`. To use this resource we declare it as below:
 
 {% highlight javascript %}
 resource "digitalocean_ssh_key" "default" {
@@ -118,7 +120,8 @@ resource "digitalocean_ssh_key" "default" {
 {% endhighlight %}
 *Code VIII*
 
-With the introduction of the SSH key resource, we will need to link it to our droplet. That way, we can SSH in using our private key. For this to happen, we will have to modify our code in Code III. The code in Code VIII uploads allows SSH public key to our droplet. Also, notice that we didn’t copy and paste our SSH key here, instead, we used a Terraform built-in function called `file`. The file function lets us read a file from a path. It has a basic syntax of `${file(“path/to/file")}`. 
+With the introduction of the SSH key resource, we will need to link it to our droplet. That way, we can SSH in using our private key. For this to happen, we will have to modify our code in *Code III*. The code in *Code VIII* uploads allows SSH public key to our droplet. Also, notice that we didn’t copy and paste our SSH key here, instead, we used a Terraform built-in function called `file`. The file function lets us read a file from a path. It has a basic syntax of 
+`${file(“path/to/file")}`. 
 
 >If you are using the Vagrant box I provided in this article, I strongly advise that you generate a new SSH key as this box comes without one. Generating an SSH key is simple, simply run this command on your terminal `ssh-keygen -t rsa -b 4096 -C “your email”` and follow the on-screen information. I’ll strongly advise that you don’t set a passphrase for your SSH key. 
 
@@ -137,7 +140,7 @@ resource "digitalocean_droplet" "web" {
 {% endhighlight %}
 *Code IX*
 
-Pulling all everything together, we will have something like this:
+Pulling everything together, we will have something like this:
 {% highlight javascript %}
 variable "token" {
     default = "xxxx-xxxxx-xxxx-xxxx-xxxx"
@@ -182,19 +185,20 @@ Outputs:
 
 Unlike procedural languages, Terraform use a declarative language pattern. If you wanted to create a resource say three times, you will wrap them in a for loop, but in terraform, you will  use a meta-parameter like `count`
 
-It’s important to note that the `count` parameter available to every terraform resource has a zero-based index, similar to arrays in a traditional programming language. So if you had resource declaration like 
+It’s important to note that the `count` meta-parameter is available to every terraform resource has a zero-based index, similar to arrays in a traditional programming language. So if you had resource declaration like 
 {% highlight javascript %}
 resource "digitalocean_droplet" "web" {
-    count = 4
+    count = 3
     image = "ubuntu-16-04-x64"
     name = "web.${count.index}"
 }
 {% endhighlight %}
 *Code XI*
 
-From Code XI above, we will have 3 web servers created with names; web.0, web.1, web.2, web.3. Note that the names argument makes use of interpolation syntax. 
+From *Code XI* above, we will have 3 web servers created with names; web.0, web.1, web.2, web.3. Note that the names argument makes use of interpolation syntax; `${count.index}`.
 
-If we wanted to check the truthy of something before using it, we could use another conditional which is similar to the itinerary operator in a regular programming language. It follows the pattern `condition ? trueval : falseval `. Let’s declare a resource that will only be available if a certain condition is met. 
+If we wanted to check the truthy of a thing before using a resource, we could use another conditional which is similar to the itinerary operator in a regular programming language. It follows the pattern 
+`condition ? trueval : falseval `. Let’s declare a resource that will only be available if a certain condition is met. 
 
 {% highlight javascript %}
 resource "digitalocean_loadbalancer" "pubic" {
@@ -203,11 +207,11 @@ resource "digitalocean_loadbalancer" "pubic" {
 {% endhighlight %}
 *Code XII*
 
-From the declaration in Code XII, the DO load balancer will only exist if the environment is a production environment. Terraform also support operations like `!=, >, <, >=, <= && || !`.
+From the declaration in *Code XII*, the Digital Ocean load balancer will only exist if the environment is a production environment. Terraform also support operations like `!=, >, <, >=, <= && || !`.
 
 **Comments**
 
-One useful part of Terraform is its support for comments. I'm not going to stress the need for code commenting as this one is pretty obvious. In Code I, we have a `#todo`, this is an example of a comment and this is a single line comment. Terraform also supports multi line comments and they are wrapped in `/* */` as seen below
+One useful part of Terraform is its support for comments. I'm not going to stress the need for code commenting as this one is pretty obvious. In *Code I*, we have a `#todo`, this is an example of a comment and this is a single line comment. Terraform also supports multi line comments and they are wrapped in `/* */` as seen below
 {% highlight javascript %}
 /*
 This is a multi
