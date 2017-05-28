@@ -37,15 +37,15 @@ A token can be gotten from your Digital Ocean account, simply log in and generat
 *Insert picture of how to generate Digital Ocean token*
 
 We will extend our initial code, Code I, and add our DO token. 
-```js
+{% highlight javascript %}
 provider "digitalocean" {
     token = "xxxx-xxxxx-xxxx-xxxx-xxxx"
 }
-```
+{% endhighlight %}
 *Code II*
 
 Our work here isn’t done, we have only told Terraform we want to work with Digital Ocean and nothing more. This, by itself does nothing, we need to create some Digital Ocean droplets. Terraform has a concept of resource, a resource is typically a service offered by your cloud hosting service, a provider in Terraform’s parlance. These resources include but not limited to; VMs(EC2, droplets), Load balancers, database, cache, etc. To create a Digital Ocean droplet, we will declare a droplet resource and pass along arguments like image type—Ubuntu, CentOS, etc, name—hostname of the machine, region—the DO region where we want this resource created, size—size of the droplet.
-```js
+{% highlight javascript %}
 provider "digitalocean" {
     token = "valid digital ocean token"
 }
@@ -56,7 +56,7 @@ resource "digitalocean_droplet" "web" {
     region = "lon1"
     size = "1gb"   
 }
-```
+{% endhighlight %}
 *Code III*
 
 The human readable form of Code III declared above translates to *“create a 64 bit Ubuntu 16.04 droplet in the London 1 region and give it a size of 1gb and a hostname of web-1.”*  It’s worthy of note that a few things in the resource declaration above are standard. The `resource` keyword is standard, `digitalocean_droplet` is standard, this is how Terraform represent’s Digital Ocean’s droplets—it varies for other cloud providers, for example, `aws_instance` for AWS’ EC2 and `google_compute_instance` for Google’s VM. The `web` word is arbitrary, it serves the purpose of an identifier in this declaration, as such, you can choose whatever name pleases you. The other declaration inside the curly braces are standard and required. For information on how it’s declared for other providers, please consult the Terraform documentation. 
@@ -68,58 +68,58 @@ With the code above, we have successfully declared a valid Terraform provider an
 In *code II*, we created a Digital Ocean provider and provided it with an API token. While this get’s the job done, it’s not entirely the best way to deal with this problem. This is where the concept of a variables comes in. Like many traditional programming languages, Terraform also has a concept of a variable, albeit declared differently. 
 
 In ES6 for insta\nce, a variable can be declared with either the `const` or the `let` keyword. For instance 
-```js
+{% highlight javascript %}
 const name = "Bob Jones";
 let age = 70;
-```
+{% endhighlight %}
 *Code IV*
 
 But things are a bit different in the Terraform land. Every variable is predicated with the keyword `variable` followed by the variable name and a set of parameters. Terraform’s variables comes in two different flavours; input and output variables. An input variable is used to send values into a Terraform while the output variable prints result from Terraform to the stdout. Input variables can be sent in a different format; command line, from a file and an environment variable. 
 
 To create an assign data to a variable we will start with the `variable` keyword as seen in Code V.
-```js
+{% highlight javascript %}
 variable "name" {}
 variable "token" {
     default = "DO API Token"
 }
-```
+{% endhighlight %}
 *Code V*
 
 From the definition in Code V, if we run the Terraform code using `terraform apply`, Terraform will prompt us to enter a value for the `name` variable and wouldn’t do same for the second one, `token`. This is because, in the second declaration, we have provided a default value for the variable which is our Digital Ocean API token as such, Terraform picks it from there. 
 
 If we need to use this variable anywhere, we will have to invoke it like this `“${var.token}”`, so going back to Code II, we can modify the declaration to this format:
-```js
+{% highlight javascript %}
 provider "digitalocean" {
     token = "${var.token}"
 }
-```
+{% endhighlight %}
 *Code VI*
 
 The advantage here is that we can use this variable in multiple locations without necessarily repeating the API token itself in multiple location. This provides tremendous power as to how we manage our code. 
 
 The output variables follow the same pattern with the input variable with the only distinction being that the output variables uses `value` in place of `default`. Below is a sample declaration of the output variable. 
-```js
+{% highlight javascript %}
 output "ip" {
     value = "${digitalocean_droplet.web.ipv4_address}"
 }
-```
+{% endhighlight %}
 *Code VII*
 
 The declaration in Code VII tells Terraform to print the IPV4 address of our droplet to the console. So far, we have been able to create a Digital Ocean droplet, which is good, but the problem now is that we can’t ssh into our newly minted machine, which is a major issue and will definitely pose a problem for us as we go. To fix this issue, we will need to add our SSH public key to our droplet. Terraform provides us with an SSH resource aptly named `digital ocean_ssh_key`. To use this resource we declare it as below:
 
-```js
+{% highlight javascript %}
 resource "digitalocean_ssh_key" "default" {
     name = "SSH Key Credential"
     public_key = "${file("/home/vagrant/.ssh/id_rsa.pub")}"
 }
-```
+{% endhighlight %}
 *Code VIII*
 
 With the introduction of the SSH key resource, we will need to link it to our droplet. That way, we can SSH in using our private key. For this to happen, we will have to modify our code in Code III. The code in Code VIII uploads allows SSH public key to our droplet. Also, notice that we didn’t copy and paste our SSH key here, instead, we used a Terraform built-in function called `file`. The file function lets us read a file from a path. It has a basic syntax of `${file(“path/to/file")}`. 
 
 >If you are using the Vagrant box I provided in this article, I strongly advise that you generate a new SSH key as this box comes without one. Generating an SSH key is simple, simply run this command on your terminal `ssh-keygen -t rsa -b 4096 -C “your email”` and follow the on-screen information. I’ll strongly advise that you don’t set a passphrase for your SSH key. 
 
-```js
+{% highlight javascript %}
 provider "digitalocean" {
     token = "xxxx-xxxxx-xxxx-xxxx-xxxx"
 }
@@ -131,11 +131,11 @@ resource "digitalocean_droplet" "web" {
     size = "1gb"
     ssh_keys = ["${digitalocean_ssh_key.default.id}"]
 }
-```
+{% endhighlight %}
 *Code IX*
 
 Pulling all everything together, we will have something like this:
-```js
+{% highlight javascript %}
 variable "token" {
     default = "xxxx-xxxxx-xxxx-xxxx-xxxx"
 }
@@ -160,11 +160,11 @@ resource "digitalocean_droplet" "web" {
 output "ip" {
     value = "${digitalocean_droplet.web.ipv4_address}"
 }
-```
+{% endhighlight %}
 *Code X*
 
 If we run `terraform apply` again, we will have an output similar to this
-```js
+{% highlight javascript %}
 ...
 
 Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
@@ -173,31 +173,31 @@ Outputs:
 
     ip = 46.XX.XXX.XXX
 
-```
+{% endhighlight %}
 
 **Control and Conditional**
 
 Unlike procedural languages, Terraform use a declarative language pattern. If you wanted to create a resource say three times, you will wrap them in a for loop, but in terraform, you will  use a meta-parameter like `count`
 
 It’s important to note that the `count` parameter available to every terraform resource has a zero-based index, similar to arrays in a traditional programming language. So if you had resource declaration like 
-```js
+{% highlight javascript %}
 resource "digitalocean_droplet" "web" {
     count = 4
     image = "ubuntu-16-04-x64"
     name = "web.${count.index}"
 }
-```
+{% endhighlight %}
 *Code XI*
 
 From Code XI above, we will have 3 web servers created with names; web.0, web.1, web.2, web.3. Note that the names argument makes use of interpolation syntax. 
 
 If we wanted to check the truthy of something before using it, we could use another conditional which is similar to the itinerary operator in a regular programming language. It follows the pattern `condition ? trueval : falseval `. Let’s declare a resource that will only be available if a certain condition is met. 
 
-```js
+{% highlight javascript %}
 resource "digitalocean_loadbalancer" "pubic" {
     count = "${var.env == "production" ? 1 : 0}"
 }
-```
+{% endhighlight %}
 *Code XII*
 
 From the declaration in Code XII, the DO load balancer will only exist if the environment is a production environment. Terraform also support operations like `!=, >, <, >=, <= && || !`.
