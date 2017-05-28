@@ -67,7 +67,7 @@ With the code above, we have successfully declared a valid Terraform provider an
 
 In *code II*, we created a Digital Ocean provider and provided it with an API token. While this get’s the job done, it’s not entirely the best way to deal with this problem. This is where the concept of a variables comes in. Like many traditional programming languages, Terraform also has a concept of a variable, albeit declared differently. 
 
-In ES6 for insta\nce, a variable can be declared with either the `const` or the `let` keyword. For instance 
+In ES6 for instance, a variable can be declared with either the `const` or the `let` keyword. For instance 
 {% highlight javascript %}
 const name = "Bob Jones";
 let age = 70;
