@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Slack: One tool to rule them all"
+title:  "Remote work: How we make it work"
 date:   2017-05-30 04:30:00
 categories: work
 description: "Working and leading a remote team can be daunting without the right tools and processes in place. Getting the right tools very early on will save you loads of trouble and your productivity will shoot through the roof."
@@ -30,14 +30,15 @@ CirleCI further allows us to enforce some defined standards like a coding style,
 <img src="{{ site.url }}/assets/article_images/slack/circleci-slack.png"/>
 _CircleCI/Slack integration. Photo credit - Igor Davydenko_
 
-**JIRA and GitHub** are other tools that we use extensively. We use feature branching in our workflow, which means every JIRA ticket is a branch. The integration between JIRA and GitHub allows us to go straight from a JIRA ticket to a GitHub branch, and since we have a *PULL_REQUEST_TEMPLATE* that requires us to include the JIRA ticket ID, we can easily go back to JIRA from GitHub. 
+**JIRA and GitHub:** are other tools that we use extensively. We use feature branching in our workflow, which means every JIRA ticket is a branch. The integration between JIRA and GitHub allows us to go straight from a JIRA ticket to a GitHub branch, and since we have a *PULL_REQUEST_TEMPLATE* that requires us to include the JIRA ticket ID, we can easily go back to JIRA from GitHub. 
 
 When a branch is pushed into GitHub, JIRA links it automatically to its assigned ticket. 
 
 <img src="{{ site.url }}/assets/article_images/slack/jira.png"/>
+
 _A JIRA ticket, showing the associated GitHub branch, number of commits and pull request status_
 
-**Screen Hero** Once in a while, people need help with technical issues and this is absolutely normal. When a team member is blocked and needs help with an issue, someone who is free or a team member with the most experience and knowledge of the problem jumps on Scree Hero and pair. One of the benefits of this is that stronger bonds and connections are formed.
+**Screen Hero:** Once in a while, people need help with technical issues and this is absolutely normal. When a team member is blocked and needs help with an issue, someone who is free or a team member with the most experience and knowledge of the problem jumps on Scree Hero and pair. One of the benefits of this is that stronger bonds and connections are formed.
 
 #### How did we get here?
 In the beginning, things weren’t always like this, it took a bit of trial and error to find the best workflow. We started out using Slack for just communication but quickly found out that a lot of people didn’t quite know what was happening at every point in time. So, instead of asking “what are you working on?” every so often, we leverage our tools and let them do the talking for us. That way, we can minimise user interruption and just focus on getting work done. 
