@@ -21,7 +21,7 @@ Beyond just the daily communication, we apply Slack to our team’s internal ada
  
 > What is ChatOps? Conversations, put to work. ChatOps is a collaboration model that connects people, tools, process, and automation into a transparent workflow. This flow connects the work needed, the work happening, and the work done in a persistent location staffed by the people, bots, and related tools. [Source: Atlassian](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide) 
 
-We are big believers in the agile methodology, as such, we take things like continuous integration and deployment pretty seriously. Spring planning, retrospective and stand-up all happen on Slack. 
+We are big believers in the agile methodology, as such, we take things like continuous integration and deployment pretty seriously. Sprint planning, retrospective and stand-up all happen on Slack. 
 
 **CircleCI:** CircleCI is an invaluable and almost indispensable tool. For us, it isn’t just another CI tool, it’s our source of truth. CircleCI plays a critical role in our development cycle and deployment pipeline. It helps with running our test suites and does an auto deployment. The beautiful thing about this tool is how it integrates nicely with our workflow and other tools. For instance, when a build is broken, not only does CircleCI emails the entire team, it also sends a Slack notification to the team. And since we use almost the same Slack handle on our GitHub profile, the *build offender* &mdash;a person who breaks a build...I made this up&mdash; is notified immediately, this helps improve our turn around time and it also encourages transparency and accountability. 
 
