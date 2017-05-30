@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Remote work: How we make it work"
+title:  "Remote work: How we make it work."
 date:   2017-05-30 04:30:00
 categories: work
 description: "Working and leading a remote team can be daunting without the right tools and processes in place. Getting the right tools very early on will save you loads of trouble and your productivity will shoot through the roof."
