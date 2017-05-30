@@ -10,17 +10,17 @@ description: "In the last couple of months, I have been obsessed with automation
 #### Introduction
 In the last couple of months, I have been obsessed with automation, workflows and infrastructure as code. This obsession led me to explore tools like Ansible and a little bit of Chef and how to better apply them to my everyday work.
 
-In the last few weeks, I have been experimenting with Harshicorp’s Terraform and I must say, I’m impressed. In this article, I will like to share my findings and also document what I have learnt for posterity. 
+In the last few weeks, I have been experimenting with HarshiCorp’s Terraform and I must say, I’m impressed. In this article, I will like to share my findings and also document what I have learnt for posterity. 
 
 >PS: I’ve created a bootstrapped Vagrant box with Terraform provisioned. You can clone the [repository here](https://github.com/cyberomin/terraform) and follow along. 
 
-Terraform, like every other Harshicorp products have basic commands that can be run from the CLI. But the one most frequently used Terraform command is the `terraform apply` command. This command allows Terraform to run and communicate with our provider(more on this later). The `terraform apply` command goes out to our provider and provision the resources that we have declared in our Terraform scripts. In simple terms, it builds or changes our infrastructure. 
+Terraform, like every other HarshiCorp products have basic commands that can be run from the CLI. But the one most frequently used Terraform command is the `terraform apply` command. This command allows Terraform to run and communicate with our provider(more on this later). The `terraform apply` command goes out to our provider and provision the resources that we have declared in our Terraform scripts. In simple terms, it builds or changes our infrastructure. 
 
 While the `terraform apply` command is great, the problem is that it doesn’t give you an early feedback on what you’re doing, luckily, Terraform provides another command `terraform plan` which does just that. It allows us to see our infrastructure execution plan. To see a full list of all the available Terraform commands, run `terraform --help` on your terminal.
 
 
 #### The Terraform Syntax - HCL
-Terraform’s code is written in Harshicorp’s proprietary language called Hashicorp Configuration Language(HCL). HCL is a structured configuration language that is intended to be both machine friendly and human readable. It’s geared mostly towards DevOps, and in the case of Terraform, its syntax allows us to describe our infrastructure as code. All Terraform codes are written in a file with a `.tf` extension. 
+Terraform’s code is written in HarshiCorp’s proprietary language called Hashicorp Configuration Language(HCL). HCL is a structured configuration language that is intended to be both machine friendly and human readable. It’s geared mostly towards DevOps, and in the case of Terraform, its syntax allows us to describe our infrastructure as code. All Terraform codes are written in a file with a `.tf` extension. 
 
 Before we use Terraform and explore its power, we will need to declare a provider. This is the entry point to every Terraform program. As at the time of this post, they are well over ten different Terraform providers and they include; AWS, Digital Ocean, Google cloud, etc. For a complete and up to date list of providers, visit the Terraform providers [documentation page](https://www.terraform.io/docs/providers/index.html).
 
