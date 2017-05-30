@@ -49,3 +49,5 @@ As a distributed team, we use these tools to compensate for our lack of in-perso
 We are not where I will want us to be, but honestly, I don’t think we'll ever get there. It will be a case of constant improvement. In the future, I would love to see us trigger manual deployment via Slack and get performance metrics via Slack too. We will likely experiment with tools like Hubot to see if they work for our team.
  
 In addition, we’ll also explore custom integrations to leverage the APIs of the third party tools that we use. We will explore building an integration to AWS for instance, such that if there is a service degradation from a region that we work with, Slack can notify us in near real-time. This same tool can also be extended to include GitHub status notification etc. With this in place, we will be more proactive than reactive to issues. 
+
+>PS: Do you work remotely? I will like to know how you work.
