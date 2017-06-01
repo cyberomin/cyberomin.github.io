@@ -17,6 +17,8 @@ name: 'Celestine Omin'
 author: 'Celestine Omin'
 author_image: "/assets/images/author.jpg"
 
+permalink: /:categories/:title/
+
 paginate:	5
 
 url: "http://cyberomin.github.io" # the base hostname & protocol for your site
