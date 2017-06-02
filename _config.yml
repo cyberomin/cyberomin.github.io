@@ -17,7 +17,7 @@ name: 'Celestine Omin'
 author: 'Celestine Omin'
 author_image: "/assets/images/author.jpg"
 
-permalink: /:categories/:title/
+# permalink: /:categories/:title/
 
 paginate:	5
 
