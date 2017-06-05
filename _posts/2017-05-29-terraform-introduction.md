@@ -220,6 +220,7 @@ line comment....
 {% endhighlight %}
 
 **Code formatting**
+
 Seth Vargo, Director of Technical Advocacy at HashiCorp, pointed me to the amazing `terraform fmt` command. What's so beautiful about this command is that you can write your code without worrying about the age old space and tabs debate. When you run `terraform fmt` in your project directory, Terraform scans the directory for configuration files and format them in a HCL defined convention. This solves the formatting problem and keeps things consistent while you focus on writting code. 
 
 *Disclaimer*
