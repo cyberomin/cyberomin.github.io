@@ -7,7 +7,7 @@ description: "In Part I, I introduced us to the concept of IAC(Infrastructure as
 ---
 <img src="{{ site.url }}/assets/article_images/terraform/terraform.png"/>
 
-In Part I, I introduced us to the concept of IAC(Infrastructure as Code) using Terraform, and we explored the awesomeness of Terraform. While the code we used in Part I for provisioning a simple server did work very well, the system we eventually provisioned is hardly a scalable system and not one I’ll recommend for production use. The reasoning here is simple, running a single server for your entire application is almost as bad as lighting a match in a gas station, bad things can and will definitely happen. And I’ll strongly suggest that you refrain from this setup. 
+In [Part I](http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html), I introduced us to the concept of IAC(Infrastructure as Code) using Terraform, and we explored the awesomeness of Terraform. While the code we used in Part I for provisioning a simple server did work very well, the system we eventually provisioned is hardly a scalable system and not one I’ll recommend for production use. The reasoning here is simple, running a single server for your entire application is almost as bad as lighting a match in a gas station, bad things can and will definitely happen. And I’ll strongly suggest that you refrain from this setup. 
 
 In this second part of our IAC series, I’ll want us to build upon what we started in Part I and we will try to build a semi-highly available system. In Code X of Part I, we had created one server with the following code:
 
