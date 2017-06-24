@@ -77,7 +77,7 @@ The next important bit here is the connection algorithm between the load balance
 
 >A round robin is an arrangement of choosing all elements in a group equally in some rational order, usually from the top to the bottom of a list and then starting again at the top of the list and so on. A simple way to think of round robin is that it is about "taking turns." Used as an adjective, round robin becomes "round-robin.” - [WhatIs](http://whatis.techtarget.com/definition/round-robin).
 
-In the last section of our load balancer resource block, we attach our droplets to the load balancer using `droplet_ids`. We use string interpolation to reference the droplet ids, this, is how Terraform builds its dependency graph. There is a convention to using interpolation in Terraform, it follows the pattern of ${RESOURCE_TYPE.RESOURCE_NAME.ATTRIBUTE_NAME}. In our case here, we are referencing the `digitalocean_droplets` resource with the name of `web` and we are getting all its `id` attributes. 
+In the last section of our load balancer resource block, we attach our droplets to the load balancer using `droplet_ids`. We use string interpolation to reference the droplet ids, this, is how Terraform builds its dependency graph. There is a convention to using interpolation in Terraform, it follows the pattern of **${RESOURCE_TYPE.RESOURCE_NAME.ATTRIBUTE_NAME}**. In our case here, we are referencing the `digitalocean_droplets` resource with the name of `web` and we are getting all its `id` attributes. 
 
 With the set up above, we have been able to put together a simple layer 4 load balancing. The only missing bit here is a database server. 
 
