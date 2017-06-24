@@ -22,6 +22,8 @@ resource "digitalocean_droplet" "web" {
 {% endhighlight %}
 *Code I*
 
+>To follow along, you can find the code for this part on [GitHub](https://github.com/cyberomin/terraform/tree/master/part-ii)
+
 Now let’s expand on this code and create two web servers. To do this, we will add a meta-parameter called `count`. The count parameter can be added to any resource and it simply creates more of the declared resource based on the count value. For instance, we will add `count = 2` to create two web servers. 
 
 {% highlight javascript %}
