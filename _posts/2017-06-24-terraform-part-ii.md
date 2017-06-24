@@ -84,9 +84,22 @@ With the set up above, we have been able to put together a simple layer 4 load b
 <img src="{{ site.url }}/assets/article_images/terraform/load_balancing.png"/>
 <small>Image credit: Digital Ocean</small>
 
-Adding a database is simple, unlike AWS, Digital Ocean, as of the time of this article, does not offer a managed database service like RDS. We will need to roll out our own manually. To do that, we will create a droplet resource, just like we did for the web. The code in Code VI does exactly that for us. 
+Adding a database is simple, unlike AWS, Digital Ocean, as of the time of this article, does not offer a managed database service like RDS. We will need to roll out our own manually. To do that, we will create a droplet resource, just like we did for the web. The code in Code VI does exactly that for us. Putting everything together, we have:
 
 {% highlight javascript %}
+variable "token" {
+  default = "xxxx-xxxxx-xxxx-xxxx-xxxx"
+}
+
+provider "digitalocean" {
+  token = "${var.token}"
+}
+
+resource "digitalocean_ssh_key" "default" {
+  name = "SSH Key Credential"
+  public_key = "${file("/home/vagrant/.ssh/id_rsa.pub")}"
+}
+
 resource "digitalocean_droplet" "web" {
   image = "ubuntu-16-04-x64"
   name = "web-1"
@@ -119,10 +132,16 @@ resource "digitalocean_loadbalancer" "public_lb" {
   algorithm = "round_robin"
   droplet_ids = ["${digitalocean_droplet.web.id}"]
 }
+
+output "ip" {
+  value = "${digitalocean_loadbalancer.public_lb.ip}"
+}
 {% endhighlight %}
 *Code VI*
 
-To get thing going and see its effect, we run `terraform plan` just to make sure things are fine and well sorted, then we run `terraform apply` to build the actual system. With the setup in Code VI, we have successfully built ourselves a simple infrastructure that is good enough to host a decent blog. In the next part of this series, we will talk about how to prepare our machine right after provisioning and install basic software on it. 
+We have added an output variable here, this variable will print out the IP address of our load balancer and we can use this address to set up our A record. 
+
+To get thing going and see its effect, we run `terraform plan` just to make sure things are fine and well sorted, then we run `terraform apply` to build the actual infrastructure. With the setup in Code VI, we have successfully built ourselves a simple infrastructure that is good enough to host a decent blog. In the next part of this series, we will talk about how to prepare our machine right after provisioning and install basic software on it. 
 
 
 *Disclaimer*
