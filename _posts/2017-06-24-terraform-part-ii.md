@@ -7,16 +7,16 @@ description: "In Part I, I introduced us to the concept of IAC(Infrastructure as
 ---
 <img src="{{ site.url }}/assets/article_images/terraform/terraform.png"/>
 
-In [Part I](http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html), I introduced us to the concept of IAC(Infrastructure as Code) using Terraform, and we explored the awesomeness of Terraform. While the code we used in Part I for provisioning a simple server did work very well, the system we eventually provisioned is hardly a scalable system and not one I’ll recommend for production use. The reasoning here is simple, running a single server for your entire application is almost as bad as lighting a match in a gas station, bad things can and will definitely happen. And I’ll strongly suggest that you refrain from this setup. 
+In [Part I](http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html), I introduced us to the concept of IAC(Infrastructure as Code) using [Terraform](https://www.terraform.io/), and we explored the awesomeness of Terraform. While the code we used in Part I for provisioning a simple server did work very well, the system we eventually provisioned is hardly a scalable system and not one I’ll recommend for production use. The reasoning here is simple, running a single server for your entire application is almost as bad as lighting a match in a gas station, bad things can and will definitely happen. And I’ll strongly suggest that you refrain from this setup. 
 
 In this second part of our IAC series, I’ll want us to build upon what we started in Part I and we will try to build a semi-highly available system. In Code X of Part I, we had created one server with the following code:
 
 {% highlight javascript %}
 resource "digitalocean_droplet" "web" {
-  image = "ubuntu-16-04-x64"
-  name = "web-1"
-  region = "lon1"
-  size = "1gb"
+  image    = "ubuntu-16-04-x64"
+  name     = "web-1"
+  region   = "lon1"
+  size     = "1gb"
   ssh_keys = ["${digitalocean_ssh_key.default.id}"]
 }
 {% endhighlight %}
@@ -28,11 +28,11 @@ Now let’s expand on this code and create two web servers. To do this, we will 
 
 {% highlight javascript %}
 resource "digitalocean_droplet" "web" {
-  image = "ubuntu-16-04-x64"
-  name = "web-1"
-  count = 2
-  region = "lon1"
-  size = "1gb"
+  count    = 2
+  image    = "ubuntu-16-04-x64"
+  name     = "web-${count.index}"
+  region   = "lon1"
+  size     = "1gb"
   ssh_keys = ["${digitalocean_ssh_key.default.id}"]
 }
 {% endhighlight %}
@@ -40,35 +40,41 @@ resource "digitalocean_droplet" "web" {
 
 Notice the introduction of `count = 2` in the code above? Now that’s how we create 2 web servers. If we wanted to create 10 web servers, all that we need do is to change the value of count to 10, if we need 20 servers, we change the value of count to 20, you get the idea. 
 
+Also pay attention to name we create the names for the web servers; `name = "web-${count.index}"`, this will create `web-0` and `web-1`. `${count.index}` is how we loop over Terraform `count` meta-parameter. In traditional programming languages, we would have used a for loop like this:
+{% highlight php %}
+for($i = 0; i <= 2; $i++) {
+ //
+}
+{% endhighlight %} 
+
 The next thing that we will do to build our semi-highly available system is to create a load balancer and distribute traffic to all of our servers. Terraform provides us with a `digitalocean_loadbalancer` resource and we will make use of it.
 
 Adding a load balancer is simple, we will declare a load balancer resource, give it a name, choose a region, apply the traffic forwarding rules, add a health check from the load balancers to the attached machines and finally, attached our Digital Ocean droplets to these load balancers. That simple. 
 
 {% highlight javascript %}
 resource "digitalocean_droplet" "web" {
-  image = "ubuntu-16-04-x64"
-  name = "web-1"
-  count = 2
-  region = "lon1"
-  size = "1gb"
+  count    = 2
+  image    = "ubuntu-16-04-x64"
+  name     = "web-${count.index}"
+  region   = "lon1"
+  size     = "1gb"
   ssh_keys = ["${digitalocean_ssh_key.default.id}"]
 }
 
 resource "digitalocean_loadbalancer" "public_lb" {
-  name = "web-lb"
+  name   = "public-lb"
   region = "lon1"
 
   forwarding_rule {
-    entry_port = 80
+    entry_port     = 80
     entry_protocol = "http"
 
-    target_port = 80
+    target_port     = 80
     target_protocol = "http"
   }
-    
-  algorithm = "round_robin"
 
-  droplet_ids = ["${digitalocean_droplet.web.id}"]
+  algorithm   = "round_robin"
+  droplet_ids = ["${digitalocean_droplet.web.*.id}"]
 }
 {% endhighlight %}
 *Code III*
@@ -98,46 +104,47 @@ provider "digitalocean" {
 }
 
 resource "digitalocean_ssh_key" "default" {
-  name = "SSH Key Credential"
+  name       = "SSH Key Credential"
   public_key = "${file("/home/vagrant/.ssh/id_rsa.pub")}"
 }
 
 resource "digitalocean_droplet" "web" {
-  image = "ubuntu-16-04-x64"
-  name = "web-1"
-  count = 2
-  region = "lon1"
-  size = "1gb"
+  count    = 2
+  image    = "ubuntu-16-04-x64"
+  name     = "web-${count.index}"
+  region   = "lon1"
+  size     = "1gb"
   ssh_keys = ["${digitalocean_ssh_key.default.id}"]
 }
 
 resource "digitalocean_droplet" "database" {
-  image = "ubuntu-16-04-x64"
-  name = "web-1"
-  region = "lon1"
-  size = "1gb"
+  image    = "ubuntu-16-04-x64"
+  name     = "db-1"
+  region   = "lon1"
+  size     = "1gb"
   ssh_keys = ["${digitalocean_ssh_key.default.id}"]
 }
 
 resource "digitalocean_loadbalancer" "public_lb" {
-  name = "web-lb"
+  name   = "public-lb"
   region = "lon1"
 
   forwarding_rule {
-    entry_port = 80
+    entry_port     = 80
     entry_protocol = "http"
 
-    target_port = 80
+    target_port     = 80
     target_protocol = "http"
   }
-    
-  algorithm = "round_robin"
-  droplet_ids = ["${digitalocean_droplet.web.id}"]
+
+  algorithm   = "round_robin"
+  droplet_ids = ["${digitalocean_droplet.web.*.id}"]
 }
 
-output "ip" {
+output "loadbalancer_ip" {
   value = "${digitalocean_loadbalancer.public_lb.ip}"
 }
+
 {% endhighlight %}
 *Code VI*
 
