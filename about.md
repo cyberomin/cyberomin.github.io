@@ -14,4 +14,4 @@ Outside of Andela, Celestine speaks regularly at technology conferences across A
 
 Celestine has a bachelor in Computer Science from the University of Calabar. He blogs and shares his thoughts about startups in emerging markets, with a special focus on Nigeria and Africa, at [http://cyberomin.github.io](http://cyberomin.github.io).
 
-You want to talk? [Email me.](mailto:celestineomin@gmail.com)
+Do you want to talk? [Email me.](mailto:celestineomin@gmail.com)

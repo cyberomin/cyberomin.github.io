@@ -6,4 +6,4 @@ permalink: /speaking/
 
 I speak at technical conferences and startup events around the world.  
 
-You want to book me? [Email me.](mailto:celestineomin@gmail.com)
+Do you want to book me? [Email me.](mailto:celestineomin@gmail.com)

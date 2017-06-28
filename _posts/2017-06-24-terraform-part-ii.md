@@ -7,9 +7,9 @@ description: "In Part I, I introduced us to the concept of IAC(Infrastructure as
 ---
 <img src="{{ site.url }}/assets/article_images/terraform/terraform.png"/>
 
-In [Part I](http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html), I introduced us to the concept of IAC(Infrastructure as Code) using [Terraform](https://www.terraform.io/), and we explored the awesomeness of Terraform. While the code we used in Part I for provisioning a simple server did work very well, the system we eventually provisioned is hardly a scalable system and not one I’ll recommend for production use. The reasoning here is simple, running a single server for your entire application is almost as bad as lighting a match in a gas station, bad things can and will definitely happen. And I’ll strongly suggest that you refrain from this setup. 
+In [Part I](http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html), I introduced you to the concept of IAC(Infrastructure as Code) using [Terraform](https://www.terraform.io/), and we explored the awesomeness of Terraform. While the code we used in Part I for provisioning a simple server worked very well, the system we eventually provisioned was hardly a scalable system and not one I would recommend for production use. The reasoning is simple, running a single server for your entire application is almost as bad as lighting a match in a gas station, bad things can and will  happen. To save the burns let’s look at high availability setup. 
 
-In this second part of our IAC series, I’ll want us to build upon what we started in Part I and we will try to build a semi-highly available system. In Code X of Part I, we had created one server with the following code:
+In this second part of our IAC series, we're going to build on what we started in Part I, to create a highly available system. In Code X of Part I, we had created one server with the following code:
 
 {% highlight javascript %}
 resource "digitalocean_droplet" "web" {
@@ -22,12 +22,12 @@ resource "digitalocean_droplet" "web" {
 {% endhighlight %}
 *Code I*
 
->To follow along, you can find the code for this part on [GitHub](https://github.com/cyberomin/terraform/tree/master/part-ii)
+>You can find the code for this part on [GitHub](https://github.com/cyberomin/terraform/tree/master/part-ii)
 
-Now let’s expand on this code and create two web servers. To do this, we will add a meta-parameter called `count`. The count parameter can be added to any resource and it simply creates more of the declared resource based on the count value. For instance, we will add `count = 2` to create two web servers. 
+Now let’s expand on this code and create two web servers. To do this, we will add a meta-parameter called `count`. The count parameter can be added to any resource and it simply creates more of the declared resource, based on its value. 
 
 {% highlight javascript %}
-resource "digitalocean_droplet" "web" {
+resource "digitalocean_droplet" "web" {I
   count    = 2
   image    = "ubuntu-16-04-x64"
   name     = "web-${count.index}"
@@ -40,16 +40,16 @@ resource "digitalocean_droplet" "web" {
 
 Notice the introduction of `count = 2` in the code above? Now that’s how we create 2 web servers. If we wanted to create 10 web servers, all that we need do is to change the value of count to 10, if we need 20 servers, we change the value of count to 20, you get the idea. 
 
-Also pay attention to name we create the names for the web servers; `name = "web-${count.index}"`, this will create `web-0` and `web-1`. `${count.index}` is how we loop over Terraform `count` meta-parameter. In traditional programming languages, we would have used a for loop like this:
+We also need to create unique names for the servers; `name = "web-${count.index}"`, this will create servers named `web-0` and `web-1`. `${count.index}` is how we loop over Terraform `count` meta-parameter. In traditional programming languages, we would have used a for loop like this:
 {% highlight php %}
 for($i = 0; i <= 2; $i++) {
  //
 }
 {% endhighlight %} 
 
-The next thing that we will do to build our semi-highly available system is to create a load balancer and distribute traffic to all of our servers. Terraform provides us with a `digitalocean_loadbalancer` resource and we will make use of it.
+The next thing that we need do to build our highly available system is to create a load balancer and distribute traffic to all of our servers. 
 
-Adding a load balancer is simple, we will declare a load balancer resource, give it a name, choose a region, apply the traffic forwarding rules, add a health check from the load balancers to the attached machines and finally, attached our Digital Ocean droplets to these load balancers. That simple. 
+Adding a load balancer is simple, all we have to do is add the digitalocean_loadbalancer resource and add a few parameters. We set the name, choose a region, apply the traffic forwarding rules, add a health check and finally, reference our our Digital Ocean droplets. That simple. 
 
 {% highlight javascript %}
 resource "digitalocean_droplet" "web" {
@@ -79,20 +79,20 @@ resource "digitalocean_loadbalancer" "public_lb" {
 {% endhighlight %}
 *Code III*
 
-From the code above, we added a public load balancer to our infrastructure. The *name* and *region* are pretty self-explanatory and both are required as also the forwarding rule. The forwarding rule basically tells us how to send traffic. The protocol of choice for our load balancer is HTTP which has a default port of 80. The `entry_protocol` and `entry_port` simply states how traffic is being sent to the load balancer and the `target_port` and `target_protocol` talks about how traffic gets to the attached droplets. It’s that simple. 
+From the resource above, the *name* and *region* are pretty self-explanatory, both are also required as is the forwarding rule. The forwarding rule tells us how to send traffic. The protocol for our load balancer is going to be HTTP which has a default port of 80. The `entry_protocol` and `entry_port` configures how traffic is sent to the load balancer and the `target_port` and `target_protocol` configures how traffic gets to the attached droplets.
 
-The next important bit here is the connection algorithm between the load balancer and the droplets. In the case, we choose round robin. Although Terraform only supports two sets of algorithms for Digital Ocean’s load balancer resource &mdash; Round Robin(round_robin) and Least Connections(least_connections) &mdash; other load balancing algorithm exist like Weighted Round Robin, Least Traffic, Source IP, etc.  
+The next important bit here is the connection algorithm between the load balancer and the droplets. In our case, we are chosing round robin. Although Terraform only supports two sets of algorithms for Digital Ocean’s load balancer resource &mdash; Round Robin(round_robin) and Least Connections(least_connections) &mdash; other load balancing algorithm exist like Weighted Round Robin, Least Traffic, Source IP, etc.  
 
 >A round robin is an arrangement of choosing all elements in a group equally in some rational order, usually from the top to the bottom of a list and then starting again at the top of the list and so on. A simple way to think of round robin is that it is about "taking turns." Used as an adjective, round robin becomes "round-robin.” - [WhatIs](http://whatis.techtarget.com/definition/round-robin).
 
-In the last section of our load balancer resource block, we attach our droplets to the load balancer using `droplet_ids`. We use string interpolation to reference the droplet ids, this, is how Terraform builds its dependency graph. There is a convention to using interpolation in Terraform, it follows the pattern of **${RESOURCE_TYPE.RESOURCE_NAME.ATTRIBUTE_NAME}**. In our case here, we are referencing the `digitalocean_droplets` resource with the name of `web` and we are getting all its `id` attributes. 
+In the last section of our load balancer resource block, we attach our droplets to the load balancer using `droplet_ids`. We use string interpolation to reference the droplet ids, this, is how Terraform builds its dependency graph. There is a convention to using interpolation in Terraform, it follows the pattern of **${RESOURCE_TYPE.RESOURCE_NAME.ATTRIBUTE_NAME}**. In our case, we are referencing the `digitalocean_droplets` resource with the name of `web`, and we are getting all its `id` attributes. 
 
-With the set up above, we have been able to put together a simple layer 4 load balancing. The only missing bit here is a database server. 
+The setup above is all that is needed, to put together a simple layer 4 load balancer. The only missing bit here is a database server. 
 
 <img src="{{ site.url }}/assets/article_images/terraform/load_balancing.png"/>
 <small>Image credit: Digital Ocean</small>
 
-Adding a database is simple, unlike AWS, Digital Ocean, as of the time of this article, does not offer a managed database service like RDS. We will need to roll out our own manually. To do that, we will create a droplet resource, just like we did for the web. The code in Code VI does exactly that for us. Putting everything together, we have:
+Adding a database is simple, at the time of this writing, Digital Ocean, unlike AWS, does not offer a managed database service like RDS. We will need to roll out our own manually. To provision a server to install the databse onto, we will create another droplet resource, just like we did for the web. Putting everything together, we have:
 
 {% highlight javascript %}
 variable "token" {
@@ -148,11 +148,11 @@ output "loadbalancer_ip" {
 {% endhighlight %}
 *Code VI*
 
-We have added an output variable here, this variable will print out the IP address of our load balancer and we can use this address to set up our A record. 
+In addition to configuring the resources we have added an output variable, this variable will print out the IP address of our load balancer and we can use this address to setup a DNS A record. 
 
-To get thing going and see its effect, we run `terraform plan` just to make sure things are fine and well sorted, then we run `terraform apply` to build the actual infrastructure. With the setup in Code VI, we have successfully built ourselves a simple infrastructure that is good enough to host a decent blog. In the next part of this series, we will talk about how to prepare our machine right after provisioning and install basic software on it. 
+To get thing going and see its effect, we run `terraform plan` to make sure things are fine and well sorted, then we run `terraform apply` to build the actual infrastructure. In this part of the series, we have successfully built ourselves a simple infrastructure good enough to host a blog or small web application. In the next part of this series, we will look at how we can level things up even further by provisioning software onto our new cluster. 
 
 
 *Disclaimer*
 
-*While following the examples outlined in this article, please bear in mind that there’s a cost attached to it. When you run `terraform plan` then `terraform apply` and create a real resource at your provider’s end, they start billing you almost immediately. As a word of caution and this apply only in a non-production environment, always try to clean after yourself. For this purpose, Terraform offers us a really handy command called `terraform destroy`. The `terraform destroy` command literally goes back to your provider and delete/destroy every single resource that you have created.  This is a one-way command and cannot be undone, so I strongly advise you do this in your personal or experimental environment.*
+*While following the examples outlined in this article, please bear in mind that there’s a cost attached to it. When you run `terraform plan` then `terraform apply` and create real resources on your provider, they start billing you almost immediately. As a word of caution and this applies only in a non-production environment, always try to clean after yourself. For this purpose, Terraform offers us a really handy command called `terraform destroy`. The `terraform destroy` command will delete/destroy every resource that you created in your config.  This is a one-way command and cannot be undone, so I strongly advise you do this in your personal or experimental environment.*
