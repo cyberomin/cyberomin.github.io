@@ -10,19 +10,19 @@ description: "In the last couple of months, I have been obsessed with automation
 #### Introduction
 In the last couple of months, I have been obsessed with automation, workflows and infrastructure as code. This obsession led me to explore tools like Ansible and a little bit of Chef and how to better apply them to my everyday work.
 
-In the last few weeks, I have been experimenting with HashiCorp’s [Terraform](https://www.terraform.io/) and I must say, I’m impressed. In this article, I will like to share my findings and also document what I have learnt for posterity. 
+In the last few weeks, I have been experimenting with HashiCorp’s [Terraform](https://www.terraform.io/) and I must say, I’m impressed. In this article, I would like to share my findings and also document what I have learnt for posterity. 
 
 >PS: I’ve created a bootstrapped Vagrant box with Terraform provisioned. You can clone the [repository here](https://github.com/cyberomin/terraform) and follow along. 
 
-Terraform, like every other HashiCorp products have basic commands that can be run from the CLI. But the one most frequently used Terraform command is the `terraform apply` command. This command allows Terraform to run and communicate with our provider(more on this later). The `terraform apply` command goes out to our provider and provision the resources that we have declared in our Terraform scripts. In simple terms, it builds or changes our infrastructure. 
+Terraform, like every other HashiCorp product, has basic commands that can be run from the CLI. But the one most frequently used Terraform command is the `terraform apply` command. This command allows Terraform to run and communicate with our provider (more on this later). The `terraform apply` command goes out to our provider and provisions the resources that we have declared in our Terraform scripts. In simple terms, it builds or changes our infrastructure. 
 
 While the `terraform apply` command is great, the problem is that it doesn’t give you an early feedback on what you’re doing, luckily, Terraform provides another command `terraform plan` which does just that. It allows us to see our infrastructure execution plan. To see a full list of all the available Terraform commands, run `terraform --help` on your terminal.
 
 
 #### The Terraform Syntax - HCL
-Terraform’s code is written in HashiCorp’s proprietary language called HashiCorp Configuration Language(HCL). HCL is a structured configuration language that is intended to be both machine friendly and human readable. It’s geared mostly towards DevOps, and in the case of Terraform, its syntax allows us to describe our infrastructure as code. All Terraform codes are written in a file with a `.tf` extension. 
+Terraform’s code is written in HashiCorp’s proprietary language called HashiCorp Configuration Language (HCL). HCL is a structured configuration language that is intended to be both machine friendly and human readable. It’s geared mostly towards DevOps, and in the case of Terraform, its syntax allows us to describe our infrastructure as code. All Terraform codes are written in a file with a `.tf` extension. 
 
-Before we use Terraform and explore its power, we will need to declare a provider. This is the entry point to every Terraform program. As at the time of this post, they are well over ten different Terraform providers and they include; AWS, Digital Ocean, Google cloud, etc. For a complete and up to date list of providers, visit the Terraform providers [documentation page](https://www.terraform.io/docs/providers/index.html).
+Before we use Terraform and explore its power, we will need to declare a provider. This is the entry point to every Terraform program. At the time of this post, there are well over ten different Terraform providers and they include; AWS, Digital Ocean, Google cloud, etc. For a complete and up-to-date list of providers, visit the Terraform providers [documentation page](https://www.terraform.io/docs/providers/index.html).
 
 Declaring a provider is simple, you start with the keyword `provider` and provide the name of the provider, e.g; `aws`, `digitalocean`, `google`, etc. 
 {% highlight javascript %}
@@ -34,7 +34,7 @@ provider "digitalocean" {
 
 The code above is how a Terraform provider is declared. That simple. The declaration above by itself does nothing and has very limited use. In order to harness its power and begin communication with the Digital Ocean cloud, we will have to provide a valid Digital Ocean token. This is how Terraform will communicate with our Digital Ocean cloud. 
 
-To generate a from your Digital Ocean account, simply log in to your account, click the **API** link on your menu, click on **Generate New Token** button, enter a token name and generate one. Remember to also keep this token safe and secure as bad things can happen if it gets into the wrong hands.
+To generate a token from your Digital Ocean account, simply log in to your account, click the **API** link on your menu, click on **Generate New Token** button, enter a token name and generate one. Remember to also keep this token safe and secure as bad things can happen if it gets into the wrong hands.
 
 <img src="{{ site.url }}/assets/article_images/terraform/token.png"/>
 <small>Digital Ocean generate token page</small>
@@ -47,7 +47,7 @@ provider "digitalocean" {
 {% endhighlight %}
 *Code II*
 
-Our work here isn’t done, we have only told Terraform we want to work with Digital Ocean and nothing more. This, by itself does nothing. Now let's create create some Digital Ocean droplets. Terraform has a concept of resource, a resource is typically a service offered by your cloud hosting service, a provider, in Terraform’s parlance. These resources include but not limited to; VMs(EC2, droplets), load balancers, database, cache, etc. To create a Digital Ocean droplet, we will declare a droplet resource and pass along arguments like image type&mdash;Ubuntu, CentOS, etc, name&mdash;hostname of the machine, region&mdash;the DO region where we want this resource created, size&mdash;size of the droplet.
+Our work here isn’t done, we have only told Terraform we want to work with Digital Ocean and nothing more. This, by itself does nothing. Now let's create create some Digital Ocean droplets. Terraform has a concept of a resource, a resource is typically a service offered by your cloud hosting service, a provider, in Terraform’s parlance. These resources include but are not limited to; VMs(EC2, droplets), load balancers, database, cache, etc. To create a Digital Ocean droplet, we will declare a droplet resource and pass along arguments like image type&mdash;Ubuntu, CentOS, etc, name&mdash;hostname of the machine, region&mdash;the DO region where we want this resource to be created, size&mdash;size of the droplet.
 {% highlight javascript %}
 provider "digitalocean" {
   token = "xxxx-xxxxx-xxxx-xxxx-xxxx"
@@ -62,13 +62,13 @@ resource "digitalocean_droplet" "web" {
 {% endhighlight %}
 *Code III*
 
-The human readable form of *Code III* declared above translates to *“create a 64 bit Ubuntu 16.04 droplet in the London 1 region and give it a size of 1gb and a hostname of web-1.”*  It’s worthy of note that some  things in the resource declaration above are standard. The `resource` keyword is standard, `digitalocean_droplet` is standard, this is how Terraform represent’s Digital Ocean’s droplets. It varies for other cloud providers, for example, `aws_instance` for AWS’ EC2 and `google_compute_instance` for Google’s VM. The `web` word is arbitrary, it serves the purpose of an identifier in this declaration, as such, you can choose whatever name you're most comfortable with. The other declaration inside the curly braces are standard and required. For information on how it’s declared for other providers, please consult the Terraform documentation. 
+The human readable form of *Code III* declared above translates to *“create a 64 bit Ubuntu 16.04 droplet in the London 1 region and give it a size of 1GB and a hostname of web-1.”*  It’s worthy of note that some things in the resource declaration above are standard. The `resource` keyword is standard, `digitalocean_droplet` is standard, this is how Terraform represents Digital Ocean’s droplets. It varies for other cloud providers, for example, `aws_instance` for AWS’ EC2 and `google_compute_instance` for Google’s VM. The `web` word is arbitrary, it serves the purpose of an identifier in this declaration, as such, you can choose whatever name you're most comfortable with. The other declaration inside the curly braces are standard and required. For information on how it’s declared for other providers, please consult the Terraform documentation. 
 
 With the code above, we have successfully declared a valid Terraform provider and created an associated resource. To run this command and see its effect, we will run `terraform plan` then `terraform apply` on our console. At this point, Terraform will initiate a communication link with Digital Ocean and if everything goes well, create us a valid and ready to use droplet. This is a rather simplistic way of doing things and we will be diving deeper in the course of this article. 
 
 **Variables**
 
-In *code II*, we created a Digital Ocean provider and provided it with an API token. While this get’s the job done, it’s not entirely the best way to deal with this problem. This is where the concept of a variables comes in. Like many traditional programming languages, Terraform also has a concept of a variable, albeit declared differently. 
+In *code II*, we created a Digital Ocean provider and provided it with an API token. While this gets the job done, it’s not entirely the best way to deal with this problem. This is where the concept of a variables comes in. Like many traditional programming languages, Terraform also has a concept of a variable, albeit declared differently. 
 
 In ES6 for instance, a variable can be declared with either the `const` or the `let` keyword. Like what we have below:
 {% highlight javascript %}
@@ -98,7 +98,7 @@ provider "digitalocean" {
 {% endhighlight %}
 *Code VI*
 
-The advantage here is that we can use this variable in multiple locations without necessarily repeating the API token itself in multiple location. This provides tremendous power as to how we manage our code. 
+The advantage here is that we can use this variable in multiple locations without necessarily repeating the API token itself in multiple locations. This provides tremendous power as to how we manage our code. 
 
 The output variables follow the same pattern with the input variable with the only distinction being that the output variables uses `value` in place of `default`. Below is a sample declaration of the output variable. 
 {% highlight javascript %}
@@ -185,7 +185,7 @@ Outputs:
 
 Unlike procedural languages, Terraform use a declarative language pattern. If you wanted to create a resource say three times, you will wrap them in a for loop, but in terraform, you will  use a meta-parameter like `count`
 
-It’s important to note that the `count` meta-parameter is available to every terraform resource has a zero-based index, similar to arrays in a traditional programming language. So if you had resource declaration like 
+It’s important to note that the `count` meta-parameter that is available to every terraform resource has a zero-based index, similar to arrays in a traditional programming language. So if you had a resource declaration like 
 {% highlight javascript %}
 resource "digitalocean_droplet" "web" {
   count = 3
@@ -195,13 +195,13 @@ resource "digitalocean_droplet" "web" {
 {% endhighlight %}
 *Code XI*
 
-From *Code XI* above, we will have 3 web servers created with names; web.0, web.1, web.2, web.3. Note that the names argument makes use of interpolation syntax; `${count.index}`.
+From *Code XI* above, we will have 4 web servers created with names; web.0, web.1, web.2, web.3. Note that the names argument makes use of interpolation syntax; `${count.index}`.
 
-If we wanted to check the truthy of a thing before using a resource, we could use another conditional which is similar to the itinerary operator in a regular programming language. It follows the pattern 
+If we wanted to check the truthfulness of a thing before using a resource, we could use another conditional which is similar to the itinerary operator in a regular programming language. It follows the pattern 
 `condition ? trueval : falseval `. Let’s declare a resource that will only be available if a certain condition is met. 
 
 {% highlight javascript %}
-resource "digitalocean_loadbalancer" "pubic" {
+resource "digitalocean_loadbalancer" "public" {
   count = "${var.env == "production" ? 1 : 0}"
 }
 {% endhighlight %}
@@ -225,4 +225,4 @@ Seth Vargo, Director of Technical Advocacy at HashiCorp, pointed me to the amazi
 
 *Disclaimer*
 
-*While following the examples outlined in this article, please bear in mind that there’s a cost attached to it. When you run `terraform plan` then `terraform apply` and create a real resource at your provider’s end, they start billing you almost immediately. As a word of caution and this apply only in a non-production environment, always try to clean after yourself. For this purpose, Terraform offers us a really handy command called `terraform destroy`. The `terraform destroy` command literally goes back to your provider and delete/destroy every single resource that you have created.  This is a one-way command and cannot be undone, so I strongly advise you do this in your personal or experimental environment.*
+*While following the examples outlined in this article, please bear in mind that there’s a cost attached to it. When you run `terraform plan` then `terraform apply` and create a real resource at your provider’s end, they start billing you almost immediately. As a word of caution and this applies only in a non-production environment, always try to clean up after yourself. For this purpose, Terraform offers us a really handy command called `terraform destroy`. The `terraform destroy` command literally goes back to your provider and deletes/destroys every single resource that you have created. This is a one-way command and cannot be undone, so I strongly advise you to do this in your personal or experimental environment.*
