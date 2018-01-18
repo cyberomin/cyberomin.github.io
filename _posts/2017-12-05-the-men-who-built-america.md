@@ -124,7 +124,7 @@ Ford won the race and became an instant sensation, he raised the
 equivalent of $700,000, built a factory and soon he was making 15 cars daily. ALAM took notice and they came after him. While Ford was battling ALAM, Rockefeller was fighting the US govt. As
 these men were struggling, Carnegie set out to build the Panama Canal. 75,000 workers worked on this project, Carnegie raised the equivalent of $7B for the project. 
 
-`Built on steel, powered by electricity and driven by oil, these are the commodities that made America the most powerful country on earth.` 
+> Built on steel, powered by electricity and driven by oil, these are the commodities that made America the most powerful country on earth. 
 
 Over the course of 40yrs, Rockefeller used innovation, ingenuity and intimidation to build one of the largest corporations on earth. Just before the court gave its judgment, Rockefeller said what the government called monopoly was merely an enterprise.
 Back in Detroit, Ford awaits judgment, ALAM sued Ford for a royalty on every car he sold. If he gives in, the price of his cars will become unaffordable for the average American, he defied ALAM and continued building his cars. He increased the wages of his workers to $5 daily, more than double the rates of most factories, he innovated a new system for making cars and he introduced the assembly line, which is still used in manufacturing to this day. With the assembly line, they can build more cars than their competition, a car that took 12hrs to assemble came down to less than 2hrs.
@@ -133,7 +133,7 @@ He standardized the 8hrs work day, 5 days a week. Back in New York, Rockefeller 
 Ford, ALAM has been defeated. Ford's aim was to bring the car to everyone, his factory went on to create the Model T, it became the car for the common man. The success of Ford became a boost for
 Standard Oil's gasoline stations across the nation, cars that were built using Carnegie's steel, in factories powered by Morgan's electricity.
 
-`PS: It is amazing to watch the interdependence of these different industries.` 
+> PS: It is amazing to watch the interdependence of these different industries.
 
 The industrial revolution resulted in the boom of the American middle class; Exxon, Mobil and Chevron, 3 out of the 34 companies that were broken out of Standard Oil and are giants in their own right today. John Rockefeller being a shareholder in each of these companies, saw his wealth swell, even more, giving him a net worth of more than $600B (in today's money), making him essentially the richest man in history.
 
