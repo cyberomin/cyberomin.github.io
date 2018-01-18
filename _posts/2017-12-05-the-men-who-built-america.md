@@ -9,6 +9,8 @@ always got ahead by any means necessary."
 ---
 <img src="{{ site.url }}/assets/article_images/tmwba/vanderbilt.jpg" style="width: 250px; height: auto"/>
 
+> Disclaimer - this is a direct compilation of a tweet storm. No edits whatsoerver made here. 
+
 **Cornelius Vanderbilt**
 
 Cornelius Vanderbilt started his rail empire by borrowing $100 to buy a small ferry boat, he quickly earned the reputation of a shrewd businessman. He always got ahead by any means necessary by hook or crook, it was pretty much win or lose. No middle ground. His single ship quickly became a fleet of ships and he was christened "The Commodore."
