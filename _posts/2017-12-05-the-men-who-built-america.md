@@ -114,7 +114,7 @@ Almost out of nowhere, a new politician emerged. His name, Theodore Roosevelt. H
 States. Roosevelt goes after Morgan; he was bent on breaking the monopoly of these men, he sues his company in a Federal Court marking the first antitrust case brought against a major corporation.
 Roosevelt wins and Morgan's railroad monopoly is broken up, this was a sign of things to come. Shortly, the government turned its eyes on Rockefeller and Standard Oil, this marked the biggest antitrust case in America at that time. 
 
-<img src="{{ site.url }}/assets/article_images/tmwba/ford.jpg" style="width: 250px; height: auto"/>
+<img src="{{ site.url }}/assets/article_images/tmwba/henry.jpg" style="width: 250px; height: auto"/>
 
 **Henry Ford**
 
