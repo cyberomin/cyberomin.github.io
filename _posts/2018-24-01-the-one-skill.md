@@ -3,7 +3,7 @@ layout: post
 title:  "The one skill every engineer should learn."
 date:   2018-01-24 07:30:00
 categories: work
-description: "A few days ago, someone on Twitter asked me this question "What skills do you wish you had as a beginner software developer?” When I saw the tweet notification, it got me thinking."
+description: "A few days ago, someone on Twitter asked me this question 'What skills do you wish you had as a beginner software developer?' When I saw the tweet notification, it got me thinking."
 ---
 
 <img src="{{ site.url }}/assets/article_images/team.jpg" style="width: 250px; height: auto"/>
