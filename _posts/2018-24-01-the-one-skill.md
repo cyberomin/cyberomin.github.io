@@ -6,7 +6,7 @@ categories: work
 description: "A few days ago, someone on Twitter asked me this question 'What skills do you wish you had as a beginner software developer?' When I saw the tweet notification, it got me thinking."
 ---
 
-<img src="{{ site.url }}/assets/article_images/team.jpg" style="width: 250px; height: auto"/>
+<img src="{{ site.url }}/assets/article_images/team.jpg" style="width: auto; height: auto;"/><br/>
 <small>Picture credit: Sydney Pivotal office.</small>
 
 A few days ago, someone on Twitter asked me this question "What skills do you wish you had as a beginner software developer?” When I saw the tweet notification, it got me thinking. I asked myself, Celestine, given where you’re now and what you know today, “what skill do you wish you had learned as a beginner software developer?” For the first 10 minutes, I had different a lot of things run through my mind - learn CSS better, understand the inner workings of Javascript, focus on learning how to write vanilla Javascript or other than jumping to a tool like jQuery (make no mistake, jQuery is one solid tool that has saved me and millions of developers around the world unnecessary headache), get a better grip of fundamental CS. 
