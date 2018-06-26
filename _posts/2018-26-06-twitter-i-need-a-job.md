@@ -18,9 +18,9 @@ Today, I saw another of this kind of tweet and I decided to make a mini Twitter 
 
 Let recap the thread in this post.
 
-1. Instead of saying `"I have a 1st class in X, please RT my employer may be on your TL."` Why not say `"I have an experience in customer service. I took a team of 2 agents and grew it to 10 over a period of 12 months and during this time, we reduced complaints by 20%"`
-2. `"We improved our SLA from 24hrs to 2hrs, thereby improving customer satisfaction and this had a net positive impact on our NPS."` You can also add your volunteering activities - `"I volunteered as the coordinator for our CDS game day. With a budget of x, we staged the best game day in our service year."`
-3. `"I have an excellent communication skill - verbal and written." "I had also functioned in the capacity of a HOD when my manager was out for 3 months due to maternity leave."`
+1. Instead of saying **"I have a 1st class in X, please RT my employer may be on your TL."** Why not say **"I have an experience in customer service. I took a team of 2 agents and grew it to 10 over a period of 12 months and during this time, we reduced complaints by 20%"**
+2. **"We improved our SLA from 24hrs to 2hrs, thereby improving customer satisfaction and this had a net positive impact on our NPS."** You can also add your volunteering activities - **"I volunteered as the coordinator for our CDS game day. With a budget of x, we staged the best game day in our service year."**
+3. **"I have an excellent communication skill - verbal and written." "I had also functioned in the capacity of a HOD when my manager was out for 3 months due to maternity leave."**
 
 In the tips above, have you seen how I didn't mention a degree or its class? Instead, I focused on listing achievements and skill set. What you have just done here is to prove that you can bring something to the table. Honestly, these days, no one really cares about your 1st class. We have enough today. 
 
