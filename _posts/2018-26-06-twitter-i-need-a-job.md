@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Repositioning your Twitter job hunt to your advantage"
+title:  "Dear Twitter, help, I need a job."
 date:   2018-06-26 03:41:00
 categories: life
 description: "Every week, I see at least 10 tweets from job seekers asking for jobs. And everytime I see these tweets, I think to myself, will I hire this person?"
