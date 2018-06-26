@@ -6,7 +6,7 @@ categories: life
 description: "Every week, I see at least 10 tweets from job seekers asking for jobs. And everytime I see these tweets, I think to myself, will I hire this person?"
 ---
 
-Every week, I see at least 10 tweets from job seekers asking for jobs. And every time I see these tweets, I think to myself, will I hire this person? These tweets, most times seek to be empathy based instead of value based. There's also an interesting pattern to these tweets and it goes thus - 
+Every week, I see at least 10 tweets from job seekers asking for jobs. And every time I see these tweets, I think to myself, will I hire this person? These tweets, most times seek to be sympathy based instead of value based. There's also an interesting pattern to these tweets and it goes thus - 
 > "I graduated with first class in X. I am looking for a job. Please RT, my potential employer may be on your TL."
 
 The first thing that comes to mind when I see this kind of tweet is why should I hire you? Should I just hire you based on the fact that you made the first class? I, for one, don't think that's a strong enough reason for me(as a potential employer) to make that hiring decision.
