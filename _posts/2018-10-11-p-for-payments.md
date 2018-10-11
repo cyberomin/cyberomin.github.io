@@ -4,8 +4,9 @@ title:  "Chapter Five: P For Paystack, P for Payments"
 date:   2018-10-11 05:43:00
 categories: work
 description: "For as long as I can remember, payments, in general, has been a bit of an issue in Nigeria and Africa at large."
-image: /assets/article_images/paystack/logo.png
 ---
+
+<img src="{{ site.url }}/assets/article_images/paystack/logo.png"/>
 
 For as long as I can remember, payments, in general, has been a bit of an issue in Nigeria and Africa at large. While a lot of progress has been made, a lot still needs to happen and we are far from where we should be. There’s hardly a day that goes by without seeing someone asking how they can move money from one African country to the other. Sadly, the existing channel today are either outdated or usually stressful. This is without taking into consideration the ridiculous fees that usually accompany these sort of transactions. 
 
