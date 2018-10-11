@@ -30,7 +30,7 @@ I will be leading a bunch of the engineering effort here; hiring, building and s
 
 Beyond just working with an amazing group of people, I will do well to share the experiences that we have gathered as we tow this line. This will be majorly technical and business challenges that we are dealing with and how we are addressing them. I will write, like a LOT of writing 🙂
 
-I will also spend time talking to entrepreneurs who are looking to integrate Paystack in their products. I will be speaking more are technology conferences, like a lot more. 
+I will also spend time talking to entrepreneurs who are looking to integrate Paystack in their products. I will be speaking more at technology conferences, like a lot more. 
 
 I will go into the office more now. Our son's nanny will now believe I have an actual job. I'll try to put on a suit every now and then. Hopefully, Shola and Ezra wouldn't chase me from the office.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Yesterday, I asked my son&#39;s nanny what she thought I did for a living, she smiled and said &quot;Oga, you dey siddon here press computer everyday. Na madam dey go work.&quot; I am not even mad at her to be honest.</p>&mdash; Celestine Omin (@cyberomin) <a href="https://twitter.com/cyberomin/status/1035855710930853888?ref_src=twsrc%5Etfw">September 1, 2018</a></blockquote>
