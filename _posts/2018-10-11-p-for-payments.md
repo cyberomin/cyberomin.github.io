@@ -26,7 +26,7 @@ Recently, I accepted an offer to become the first Engineering Manager at Paystac
 
 **What will I be doing?**
 
-I will be leading a bunch of the engineering effort here; hiring, building and scaling the engineering teams. So, reach out to me if you’re interested in solving interesting engineering challenges. We are growing and growing really fast and we this kind of growth comes the usual engineering scaling challenges. Let’s solve this together.
+I will be leading a bunch of the engineering effort here; hiring, building and scaling the engineering teams. So, reach out to me if you’re interested in solving interesting engineering challenges. We are growing and growing really fast and with this kind of growth comes the usual engineering scaling challenges. Let’s solve this together.
 
 Beyond just working with an amazing group of people, I will do well to share the experiences that we have gathered as we tow this line. This will be majorly technical and business challenges that we are dealing with and how we are addressing them. I will write, like a LOT of writing 🙂
 
