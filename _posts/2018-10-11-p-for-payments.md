@@ -20,7 +20,7 @@ The thing with me is that, when I like something, I begin to pay a special atten
 
 A couple of months ago, Shola and I started yet another conversation, and this time, the more I spoke with him, the more I fell in love with the company. I am quite excited and there’s a reason for that, I am going back to my roots. For anyone that has followed me long enough on Twitter or any of the social media that I am active on, will know how much I love e-commerce and every layer that makes commerce successful. This time, I’m moving further away from retail to payments. Why? At the heart of commerce is payment and for a successful commercial transaction to happen, there must be an exchange of value and in most cases, that value is in the form of money. 
 
-Recently, I accepted an offer to become the first Engineering Manager at Paystack. I have spent some time now with the team and I can tell you for a fact that there are _good peoples_. 
+Recently, I accepted an offer to become the first Engineering Manager at Paystack. I have spent some time now with the team and I can tell you for a fact that they are _good peoples_. 
 
 <img src="{{ site.url }}/assets/article_images/paystack/me.jpg"/>
 
