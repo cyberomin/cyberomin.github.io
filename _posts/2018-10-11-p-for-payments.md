@@ -40,4 +40,6 @@ You may ask why Paystack and what are we trying to do here? Well, during the las
 
 This is by no means a simple task, If you will let me borrow a leaf from Bezos’ playbook, we are in day 1 of payments and the journey is only starting. 
 
+Finally, I am hiring senior engineers - (https://paystack.breezy.hr/p/1fff4d8f532c-senior-software-engineer)[https://paystack.breezy.hr/p/1fff4d8f532c-senior-software-engineer]
+
 It’s a new dawn. 
