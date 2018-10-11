@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chapter Five: P For Paystack, P for Payments"
+title:  "Chapter Five: P for Paystack, P for Payments"
 date:   2018-10-11 05:43:00
 categories: work
 description: "For as long as I can remember, payments, in general, has been a bit of an issue in Nigeria and Africa at large."
