@@ -21,6 +21,8 @@ A couple of months ago, Shola and I started yet another conversation, and this t
 
 Recently, I accepted an offer to become the first Engineering Manager at Paystack. I have spent some time now with the team and I can tell you for a fact that there are _good peoples_. 
 
+<img src="{{ site.url }}/assets/article_images/paystack/me.jpg"/>
+
 **What will I be doing?**
 I will be leading a bunch of the engineering effort here; hiring, building and scaling the engineering teams. So, reach out to me if you’re interested in solving interesting engineering challenges. We are growing and growing really fast and we this kind of growth comes the usual engineering scaling challenges. Let’s solve this together.
 
