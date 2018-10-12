@@ -23,6 +23,7 @@ A couple of months ago, Shola and I started yet another conversation, and this t
 Recently, I accepted an offer to become the first Engineering Manager at Paystack. I have spent some time now with the team and I can tell you for a fact that they are _good peoples_. 
 
 <img src="{{ site.url }}/assets/article_images/paystack/me.jpg"/>
+<small>Photo credit: Mohini Ufeli</small>
 
 **What will I be doing?**
 
