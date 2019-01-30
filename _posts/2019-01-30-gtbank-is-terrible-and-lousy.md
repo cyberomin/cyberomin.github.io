@@ -29,7 +29,7 @@ When this issue occurred, I immediately reached out to the GTBank branch along C
 
 When I returned to the bank on the 31st of December 2018, she claimed she couldn't log the complaint on the 27th of December, 2018 and informed me specifically that she had logged it on the morning of December 31st, 2018 just before I arrived the bank. When I reminded her about her earlier commitment to me, she told me in clear terms that she was **“doing me a favour, considering the bank was going to work a half day on the 27th of December.”**
 
-Between when the dispense error occurred and January 18th, I have been in constant touch with the social media team of GTBank via their Twitter handle. Every inquiry came back with a canned response - **“We are on it, sir. We will get back to you as soon as we get a response.”** A month later, they are yet to get a response an as such, they are yet to get back to me. 
+Between when the dispense error occurred and January 18th, I have been in constant touch with the social media team of GTBank via their Twitter handle - [@gtbank_help](https://twitter.com/gtbank_help) . Every inquiry came back with a canned response - **“We are on it, sir. We will get back to you as soon as we get a response.”** A month later, they are yet to get a response an as such, they are yet to get back to me. 
 
 <img src="{{ site.url }}/assets/article_images/gtbank/tweet.jpeg"/>
 <small><em>Private conversation with GTBank via Twitter</em></small>
