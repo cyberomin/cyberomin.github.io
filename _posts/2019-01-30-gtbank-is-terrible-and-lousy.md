@@ -12,24 +12,30 @@ description: "Guaranty Trust Bank is a big fat lie and they don't care about you
 
 According to the definition of banking above, GTBank isn’t safeguarding my money. Now that I have gotten that out of the way, let’s get into the meat of the story.
 
-I have been a faithful Guaranty Trust Bank(GTBank) customer for over 10 years. Just like every young person in the late 2000s, the bank was one we all wanted to be associated with. The youthful vibe that the brand exuded drew me and many of my pears in. 
+I have been a faithful Guaranty Trust Bank(GTBank) customer for over 10 years. Just like every young person in the late 2000s, the bank was one we all wanted to be associated with. The youthful vibe that the brand exuded drew me and many of my peers in. 
 
-For context, I have only 2 bank accounts. The first account is with an old generation bank and the other one with GTBank. For the most part, the bank has served my basic needs; get money in and get it out. Pay bills using their USSD product, *737# and nothing more. We have had somewhat of a workable relationship.  
+For context, I have only 2 bank accounts. The first account is with an old generation bank and the other one with GTBank. For the most part, the bank has served my basic needs; get money in and get it out. Pay bills using their USSD product, *737#, and nothing more. We have had somewhat of a workable relationship.  
 
 But in December 2018, I think that workable relationship stopped working 100%. Stay with me, I will come back to why this is the case. 
 
-I, for one, think GTBank has grown so big - they once had best in class customer service which led to an explosive growth - and has lost its north star; from food festivals to fashion shows and web-series and most recently, music, they are trying to be everything to everyone. The bank is trying so hard to become a lifestyle brand and is missing it by a long shot. 
+I, for one, think GTBank has grown so big &mdash; they once had best in class customer service which led to an explosive growth &mdash; and has lost its north star; from food festivals to fashion shows and web-series and most recently, music, they are trying to be everything to everyone. The bank is trying so hard to become a lifestyle brand and is missing it by a long shot. 
 
 On the 22nd of December, 2018 between the hours of 10AM and 4PM, I went to SPAR (operated by Artee Industries Limited) at the Calabar shopping mall to get my dad a Christmas gift. While trying to pay via the (First City Monument Bank) FCMB POS terminal at the store, the terminal returned an error message stating that the transaction was declined. I went out to the Diamond Bank ATM that was in the mall and withdrew cash, came back and paid for the item. On Monday, December 24th 2018, GTBank debited me the sum of N36,457.67 and the recipient was ARTEE INDUSTRIES LIMITED.
 
 When this issue occurred, I immediately reached out to the GTBank branch along Calabar Road, opposite the Central Bank of Nigeria and filled out the required dispense error form that same day, December 24th, 2018. A GTBank staff named Umah Abraka attended to me. She promised to log the complaint on the 27th of December, 2018. 
 
 <img src="{{ site.url }}/assets/article_images/gtbank/staff.jpg"/>
-<small>Umar Abraka letting me know she was doing me a favour by attending to me.</small>
+<small><em>Umar Abraka letting me know she was doing me a favour by attending to me.<em></small>
 
 When I returned to the bank on the 31st of December 2018, she claimed she couldn't log the complaint on the 27th of December, 2018 and informed me specifically that she had logged it on the morning of December 31st, 2018 just before I arrived the bank. When I reminded her about her earlier commitment to me, she told me in clear terms that she was “doing me a favour, considering the bank was going to work a half day on the 27th of December.”
 
 Between when the dispense error occurred and January 18th, I have been in constant touch with the social media team of GTBank via their Twitter handle. Every inquiry came back with a canned response - **“We are on it, sir. We will get back to you as soon as we get a response.”** A month later, they are yet to get a response an as such, they are yet to get back to me. 
+
+<img src="{{ site.url }}/assets/article_images/gtbank/tweet.jpg"/>
+<small><em>Private conversation with GTBank via Twitter<em></small>
+
+<img src="{{ site.url }}/assets/article_images/gtbank/tweet2.jpg"/>
+<small><em>Private conversation with GTBank via Twitter<em></small>
 
 I reached out to a friend who knows a person within the bank to see if the issue could be resolved. My friend made introductions over email to 
 Ugochukwu Ojiegbu, Uchechukwu Jewe and Mary Ndukew and the necessary information required to aid in resolving this issue were supplied. I exchanged a few emails with Ugochukwu Ojiegbu who was the main person that responded. 
