@@ -77,6 +77,8 @@ When I first complained about this issue on Twitter, a few persons with similar 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Same thing happened to me, same <a href="https://twitter.com/gtbank?ref_src=twsrc%5Etfw">@gtbank</a> card, same <a href="https://twitter.com/MyFCMB?ref_src=twsrc%5Etfw">@MyFCMB</a> POS on Christmas Eve. Filed several dispense errors in the days that followed, still no progress.</p>&mdash; Isaac (@isaacsokari) <a href="https://twitter.com/isaacsokari/status/1079755639126151168?ref_src=twsrc%5Etfw">December 31, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Try searching for ["GTBank dispense"](https://twitter.com/search?q=GTBANK%20dispense&src=typed_query) and see what you will get as result.
+
 I am genuinely worried that a bank with a market cap of over a 1 Trillion Naira, and one that has been in operation for more than 20 years can’t fix the smallest process as dispense error resolution and reconciliation. I ordinarily wouldn't have written about this, but it appears after one full month, the bank is hell bent on not refunding my money. I can imagine what their other 
 not so literate customers are dealing with. I am very certain this wasn't what Tayo Adenirokun and Fola Adeola had at the back of their mind when they started this bank.
 
