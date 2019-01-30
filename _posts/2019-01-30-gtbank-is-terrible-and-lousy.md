@@ -25,17 +25,17 @@ On the 22nd of December, 2018 between the hours of 10AM and 4PM, I went to SPAR 
 When this issue occurred, I immediately reached out to the GTBank branch along Calabar Road, opposite the Central Bank of Nigeria and filled out the required dispense error form that same day, December 24th, 2018. A GTBank staff named Umah Abraka attended to me. She promised to log the complaint on the 27th of December, 2018. 
 
 <img src="{{ site.url }}/assets/article_images/gtbank/staff.jpg"/>
-<small><em>Umar Abraka letting me know she was doing me a favour by attending to me.<em></small>
+<small><em>Umar Abraka letting me know she was doing me a favour by attending to me.</em></small>
 
 When I returned to the bank on the 31st of December 2018, she claimed she couldn't log the complaint on the 27th of December, 2018 and informed me specifically that she had logged it on the morning of December 31st, 2018 just before I arrived the bank. When I reminded her about her earlier commitment to me, she told me in clear terms that she was “doing me a favour, considering the bank was going to work a half day on the 27th of December.”
 
 Between when the dispense error occurred and January 18th, I have been in constant touch with the social media team of GTBank via their Twitter handle. Every inquiry came back with a canned response - **“We are on it, sir. We will get back to you as soon as we get a response.”** A month later, they are yet to get a response an as such, they are yet to get back to me. 
 
 <img src="{{ site.url }}/assets/article_images/gtbank/tweet.jpg"/>
-<small><em>Private conversation with GTBank via Twitter<em></small>
+<small><em>Private conversation with GTBank via Twitter</em></small>
 
 <img src="{{ site.url }}/assets/article_images/gtbank/tweet2.jpg"/>
-<small><em>Private conversation with GTBank via Twitter<em></small>
+<small><em>Private conversation with GTBank via Twitter</em></small>
 
 I reached out to a friend who knows a person within the bank to see if the issue could be resolved. My friend made introductions over email to 
 Ugochukwu Ojiegbu, Uchechukwu Jewe and Mary Ndukew and the necessary information required to aid in resolving this issue were supplied. I exchanged a few emails with Ugochukwu Ojiegbu who was the main person that responded. 
@@ -44,7 +44,7 @@ On the 22nd of January 2019, I got this attached email from Ugochkwu Ojiegbu:
 
  
 <img src="{{ site.url }}/assets/article_images/gtbank/email.png"/>
-<small>Ugochuckwu response, letting me know the dispense error was never filed</small>
+<small><em>Ugochuckwu response, letting me know the dispense error was never filed</em></small>
 
 When I got this email, I was very upset. This is considering the fact I have waited for more stipulated 8 business days. I emailed them back and registered my displeasure about the service quality. The next email from Ugochkwu Ojiegbu was him telling me that he has escalated the issues to my account managers: Tom Onorieyereraye and Omolara Effiong. Omolara Effiong never answers her phone. Ever, I have called her a few times even before this incident and she neither did take nor return my calls. Tom Onorieyereraye, on the other hand, returned my call and promised to help resolve the issue. At the time of this writing, Wednesday 30th January 2019 2:18AM WAT, the issue is yet to be resolved. He also has joined the bandwagon in giving me the standard “we are on it” reply. 
 
