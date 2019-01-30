@@ -29,7 +29,7 @@ When this issue occurred, I immediately reached out to the GTBank branch along C
 
 When I returned to the bank on the 31st of December 2018, she claimed she couldn't log the complaint on the 27th of December, 2018 and informed me specifically that she had logged it on the morning of December 31st, 2018 just before I arrived the bank. When I reminded her about her earlier commitment to me, she told me in clear terms that she was **“doing me a favour, considering the bank was going to work a half day on the 27th of December.”**
 
-Between when the dispense error occurred and January 18th, I have been in constant touch with the social media team of GTBank via their Twitter handle - [@gtbank_help](https://twitter.com/gtbank_help) . Every inquiry came back with a canned response - **“We are on it, sir. We will get back to you as soon as we get a response.”** A month later, they are yet to get a response an as such, they are yet to get back to me. 
+Between when the dispense error occurred and January 18th 2019, I have been in constant touch with the social media team of GTBank via their Twitter handle - [@gtbank_help](https://twitter.com/gtbank_help) . Every inquiry came back with a canned response - **“We are on it, sir. We will get back to you as soon as we get a response.”** A month later, they are yet to get a response an as such, they are yet to get back to me. 
 
 <img src="{{ site.url }}/assets/article_images/gtbank/tweet.jpeg"/>
 <small><em>Private conversation with GTBank via Twitter</em></small>
@@ -37,7 +37,7 @@ Between when the dispense error occurred and January 18th, I have been in consta
 <img src="{{ site.url }}/assets/article_images/gtbank/tweet2.jpeg"/>
 <small><em>Private conversation with GTBank via Twitter</em></small>
 
-I reached out to a friend who knows a person within the bank to see if the issue could be resolved. My friend made introductions over email to 
+I reached out to a friend who knows a person within the bank to see if the issue can be resolved. My friend made introductions on January 14th 2019, over email to 
 Ugochukwu Ojiegbu, Uchechukwu Jewe and Mary Ndukew and the necessary information required to aid in resolving this issue were supplied. I exchanged a few emails with Ugochukwu Ojiegbu who was the main person that responded. 
 
 On the 22nd of January 2019, I got this attached email from Ugochkwu Ojiegbu:
@@ -46,7 +46,7 @@ On the 22nd of January 2019, I got this attached email from Ugochkwu Ojiegbu:
 <img src="{{ site.url }}/assets/article_images/gtbank/email.png"/>
 <small><em>Ugochuckwu response, letting me know the dispense error was never filed</em></small>
 
-When I got this email, I was very upset. This is considering the fact I have waited for more stipulated 8 business days. I emailed them back and registered my displeasure about the service quality. The next email from Ugochkwu Ojiegbu was him telling me that he has escalated the issues to my account managers: Tom Onorieyereraye and Omolara Effiong. Omolara Effiong never answers her phone. Ever, I have called her a few times even before this incident and she neither did take nor return my calls. Tom Onorieyereraye, on the other hand, returned my call and promised to help resolve the issue. At the time of this writing, Wednesday 30th January 2019 2:18AM WAT, the issue is yet to be resolved. He also has joined the bandwagon in giving me the standard “we are on it” reply. 
+When I got this email, I was very upset. This is considering the fact I have waited for more than the stipulated 8 business days. I emailed them back and registered my displeasure about the service quality. The next email from Ugochkwu Ojiegbu was him telling me that he has escalated the issues to my account managers: Tom Onorieyereraye and Omolara Effiong. Omolara Effiong never answers her phone. Ever, I have called her a few times even before this incident and she neither did take nor return my calls. Tom Onorieyereraye, on the other hand, returned my call and promised to help resolve the issue. At the time of this writing, Wednesday 30th January 2019 2:18AM WAT, the issue is yet to be resolved. He also has joined the bandwagon in giving me the standard “we are on it” reply. 
 
 The GTBank brand is a big fat lie and here is why, the company’s mission states as follows
 > We are a high quality financial services provider with the urge to be the best at all times whilst adding value to all stakeholders.
@@ -68,4 +68,4 @@ It’s been **21 working days**, more than 4 times the regular period according 
 
 For a second, let’s imagine this happened at a hospital, a place where either myself or a loved one needed critical health care, but my bank, the one I trusted with my money decided to disappoint me when I needed them most. Imagine I had no backup cash for a second, this would have been the most embarrassing experience considering I went to the mall with my dad and I had boldly declared to him “You can get whatever you want for Christmas.” Or imagine I was in another, and knowing that this was my last cash, I decided to pay for my airfare back home only to get a failed but debited transaction. I’d be stranded. So many things that can go wrong when these kinds of things happen; loss of life like the case of the hospital, botched relationship - took a date out and couldn't pay after dinner, etc.
 
-I am genuinely worried that a bank with a market cap of over a 1 Trillion Naira, and one that has been in operation for more than 20 years can’t fix the smallest process as dispense error resolution and reconciliation. 
+I am genuinely worried that a bank with a market cap of over a 1 Trillion Naira, and one that has been in operation for more than 20 years can’t fix the smallest process as dispense error resolution and reconciliation. I ordinarily wouldn't have written about this, but it appears after one full month, the bank is hell bent on not refunding my money.
