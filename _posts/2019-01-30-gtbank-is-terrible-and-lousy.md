@@ -53,10 +53,9 @@ If anything, their customer service is abysmal. The “excellence” they so muc
 
 The Central Bank of Nigeria has clear rules governing POS operations in Nigeria, according to this document published in August of 2011(https://www.cbn.gov.ng/cashless/POS_GUIDELINES_August2011_FINAL_FINAL%20(2).pdf), number 4.1, sub-number 4.1.15 states clearly:
 
-4.1.15 Merchant Acquirers(banks) shall in conjunction with banks, switches and other stakeholders ensure resolution of disputed transactions between the merchant
-and the cardholder within five (5) working days. All transactions from POS devices shall be routed through the PTSA to the relevant acquirer or its appointed third party processor.
+>4.1.15 Merchant Acquirers(banks) shall in conjunction with banks, switches and other stakeholders ensure resolution of disputed transactions between the merchant and the cardholder within five (5) working days. All transactions from POS devices shall be routed through the PTSA to the relevant acquirer or its appointed third party processor.
 
-It’s been 21 working days, more than 4 times the regular period according to the CBN and this issue is still not resolved. 
+It’s been **21 working days**, more than 4 times the regular period according to the CBN and this issue is still not resolved. 
 
 
 For a second, let’s imagine this happened at a hospital, a place where either myself or a loved one needed critical health care, but my bank, the one I trusted with my money decided to disappoint me when I needed them most. Imagine I had no backup cash for a second, this would have been the most embarrassing experience considering I went to the mall with my dad and I had boldly declared to him “You can get whatever you want for Christmas.” Or imagine I was in another, and knowing that this was my last cash, I decided to pay for my airfare back home only to get a failed but debited transaction. I’d be stranded. 
