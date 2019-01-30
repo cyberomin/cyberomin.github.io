@@ -59,7 +59,7 @@ What is even more annoying is their vision statement:
 If anything, their customer service is abysmal. The “excellence” they so much espoused is a pure charade. Nothing is excellent about them. Because if they as much as care about their customer’s, they wouldn’t let you come back to remind them about keeping to their SLA. As far as I am concerned, if **Ms Umah Abraka** had filed that complaint like she claimed she did, even though her colleague, Ugochukwu Ojiegbu, confirmed she never did, she should have checked back after the 8th business day to confirm if the issue was resolved. 
 
 
-The Central Bank of Nigeria has clear rules governing POS operations in Nigeria, according to this document published in August of 2011[POS GUIDELINES](https://www.cbn.gov.ng/cashless/POS_GUIDELINES_August2011_FINAL_FINAL%20(2).pdf), number 4.1, sub-number 4.1.15 states clearly:
+The Central Bank of Nigeria has clear rules governing POS operations in Nigeria, according to this document published in August of 2011 [POS GUIDELINES](https://www.cbn.gov.ng/cashless/POS_GUIDELINES_August2011_FINAL_FINAL%20(2).pdf), number 4.1, sub-number 4.1.15 states clearly:
 
 >4.1.15 Merchant Acquirers(banks) shall in conjunction with banks, switches and other stakeholders ensure resolution of disputed transactions between the merchant and the cardholder within five (5) working days. All transactions from POS devices shall be routed through the PTSA to the relevant acquirer or its appointed third party processor.
 
