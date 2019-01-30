@@ -31,10 +31,10 @@ When I returned to the bank on the 31st of December 2018, she claimed she couldn
 
 Between when the dispense error occurred and January 18th, I have been in constant touch with the social media team of GTBank via their Twitter handle. Every inquiry came back with a canned response - **“We are on it, sir. We will get back to you as soon as we get a response.”** A month later, they are yet to get a response an as such, they are yet to get back to me. 
 
-<img src="{{ site.url }}/assets/article_images/gtbank/tweet.jpg"/>
+<img src="{{ site.url }}/assets/article_images/gtbank/tweet.jpeg"/>
 <small><em>Private conversation with GTBank via Twitter</em></small>
 
-<img src="{{ site.url }}/assets/article_images/gtbank/tweet2.jpg"/>
+<img src="{{ site.url }}/assets/article_images/gtbank/tweet2.jpeg"/>
 <small><em>Private conversation with GTBank via Twitter</em></small>
 
 I reached out to a friend who knows a person within the bank to see if the issue could be resolved. My friend made introductions over email to 
