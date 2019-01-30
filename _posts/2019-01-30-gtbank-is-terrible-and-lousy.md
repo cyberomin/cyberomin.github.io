@@ -68,6 +68,9 @@ It’s been **21 working days**, more than 4 times the regular period according 
 
 For a second, let’s imagine this happened at a hospital, a place where either myself or a loved one needed critical health care, but my bank, the one I trusted with my money decided to disappoint me when I needed them most. Imagine I had no backup cash for a second, this would have been the most embarrassing experience considering I went to the mall with my dad and I had boldly declared to him “You can get whatever you want for Christmas.” Or imagine I was in another city and I decided to pay for my airfare back home only to get a failed but debited transaction. I’d be stranded. So many things can go wrong when these kinds of things happen; loss of life like the case of the hospital, botched relationship &mdash; took a date out and couldn't pay after dinner, etc.
 
+When I first complained about this issue on Twitter, a few persons with similar issue responded with similar complaints. One person even suggested I may never get back the money and GTBank is working really hard to prove him right. 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You will likely never get it back. Happened to me three weeks ago, filled complaint form, sent email, called them. Norhing done so far.</p>&mdash; Rasheed Musa (@dsycas) <a href="https://twitter.com/dsycas/status/1077105193114832896?ref_src=twsrc%5Etfw">December 24, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 I am genuinely worried that a bank with a market cap of over a 1 Trillion Naira, and one that has been in operation for more than 20 years can’t fix the smallest process as dispense error resolution and reconciliation. I ordinarily wouldn't have written about this, but it appears after one full month, the bank is hell bent on not refunding my money. I can imagine what their other 
 not so literate customers are dealing with. 
 
