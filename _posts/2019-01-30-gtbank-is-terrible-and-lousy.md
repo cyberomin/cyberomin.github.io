@@ -8,7 +8,7 @@ description: "Guaranty Trust Bank is a big fat lie and they don't care about you
 <img src="{{ site.url }}/assets/article_images/gtbank/logo.jpg"/>
 
 > Banking can be defined as the business activity of accepting and safeguarding money owned by other individuals and entities, and then lending out this money in order to earn a profit. However, with the passage of time, the activities covered by banking business have widened and now various other services are also offered by banks.  The banking services these days include issuance of debit and credit cards, providing safe custody of valuable items, lockers, ATM services and online transfer of funds across the country / world.
-http://www.allbankingsolutions.com/banking-tutor/what-is-banking.shtml
+[All Banking Solutions](http://www.allbankingsolutions.com/banking-tutor/what-is-banking.shtml)
 
 According to the definition of banking above, GTBank isn’t safeguarding my money. Now that I have gotten that out of the way, let’s get into the meat of the story.
 
