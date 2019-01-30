@@ -5,7 +5,7 @@ date:   2019-01-30 02:30:00
 categories: books
 description: "Guaranty Trust Bank is a big fat lie and they don't care about you."
 ---
-<img src="{{ site.url }}/assets/article_images/gtbak/logo.jpg"/>
+<img src="{{ site.url }}/assets/article_images/gtbank/logo.jpg"/>
 
 > Banking can be defined as the business activity of accepting and safeguarding money owned by other individuals and entities, and then lending out this money in order to earn a profit. However, with the passage of time, the activities covered by banking business have widened and now various other services are also offered by banks.  The banking services these days include issuance of debit and credit cards, providing safe custody of valuable items, lockers, ATM services and online transfer of funds across the country / world.
 http://www.allbankingsolutions.com/banking-tutor/what-is-banking.shtml
@@ -24,7 +24,7 @@ On the 22nd December, 2018 between the hours of 10AM and 4PM, I went to SPAR (op
 
 When this issue occurred, I immediately reached out to the GTBank branch along Calabar Road, opposite the Central Bank of Nigeria and filled out the required dispense error form that same day, December 24th, 2018. A GTBank staff named Umah Abraka attended to me. She promise to log the complaint on the 27th of December, 2018. 
 
-<img src="{{ site.url }}/assets/article_images/gtbak/staff.jpg"/>
+<img src="{{ site.url }}/assets/article_images/gtbank/staff.jpg"/>
 <small>Umar Abraka letting me know she was doing me a favour by attending to me.</small>
 
 When I returned to the bank on the 31st of December 2018, she claimed she couldn't log the complaint on the 27th of December, 2018 and informed me specifically that she had logged it on the morning of December 31st, 2018 just before I arrived the bank. When I reminded her about her earlier commitment to me, she told me in clear terms that she was “doing me a favour, considering the bank was going to work half day on the 27th of December.”
@@ -37,7 +37,7 @@ Ugochukwu Ojiegbu, Uchechukwu Jewe and Mary Ndukew and the necessary information
 On the 22nd of January 2019, I got this attached email from Ugochkwu Ojiegbu:
 
  
-<img src="{{ site.url }}/assets/article_images/gtbak/email.png"/>
+<img src="{{ site.url }}/assets/article_images/gtbank/email.png"/>
 <small>Ugochuckwu response, letting me know the dispense error was never filed</small>
 
 When I got this email, I was very upset. This is considering the fact I have waited for more stipulated 8 business days. I emailed them back and registered my displeasure about the service quality. The next email from Ugochkwu Ojiegbu was him telling me that he has escalated the issues to my account managers: Tom Onorieyereraye and Omolara Effiong. Omolara Effiong never answers her phone. Ever, I have called her a few times even before this incident and she neither did take nor return my calls. Tom Onorieyereraye on the other hand returned my call and promised to help resolve the issue. At the time of this writing, Wednesday 30th January 2019 2:18AM WAT, the issue is yet to be resolved. He also has joined the band wagon in giving me the standard “we are on it” reply. 
