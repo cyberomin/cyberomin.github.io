@@ -44,10 +44,12 @@ When I got this email, I was very upset. This is considering the fact I have wai
 
 The GTBank brand is a big fat lie and here is why, the company’s mission states as follows
 > We are a high quality financial services provider with the urge to be the best at all times whilst adding value to all stakeholders.
+
 More than anything, my experience with them these past weeks has proven this mission to be just mere words and nothing more and for as long as they don’t uphold themselves to these words, they are lying to both their shareholders and customers at large.
 
 What is even more annoying is their vision: 
 > We are a team driven to deliver the utmost in customer service. We are synonymous with innovation, building excellence and superior financial performance and creating role models for society
+
 If anything, their customer service is abysmal. The “excellence” they so much espoused is pure charade. Nothing is excellent about them. Because if they as much as cared about their customer’s, they wouldn’t let you come back to remind them about keeping to their SLA. As far as I am concerned, if Ms Umah Abraka had filed that complaint like she claimed she did, even though her colleague, Ugochukwu Ojiegbu, confirmed she never did, she should have checked back after the 8th business day to confirm it was resolved. 
 
 
