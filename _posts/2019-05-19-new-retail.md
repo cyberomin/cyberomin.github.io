@@ -80,7 +80,18 @@ With an app like the one described here, the points are awarded automatically. L
 
 _Metrics_
 
-Metrics that was rather exclusive to e-commerce becomes widely available. Very quickly, the ability to determine the average order value of individual customers becomes a walk in the park. Other metrics like Net Promoter Score, Shopping cart abandonment rate, customer lifetime value, customer churn rate, early repeat rate, repeat customer rate, average referral rate, referral conversion rate, etc. all become possible.  
+Metrics that was rather exclusive to e-commerce becomes widely available. Very quickly, the ability to determine the average order value of individual customers becomes a walk in the park. Other metrics like those listed below becomes possible: 
+<ul>
+<li>Net Promoter Score - A survey that measures a customer's satisfaction with a brand or product.
+</li>
+<li>Shopping cart abandonment rate - Percentage of customer who added items to their cart but didn't make a purchase</li>
+<li>Customer Lifetime Value - Total revenue earned from a customer over the course of their lifetime</li>
+<li>Customer churn Rate - Percentage of customer who don't make repeat purchases</li>
+<li>Early Repeat Rate - Percentage of first time customers who make a second purchase within a short timeframe</li>
+<li>Repeat Customer Rate - Percentage of customer who have made a repeat purchase</li>
+<li>Average Referral Rate - Percentage of purchase made through a referral</li>
+<li>Referral Conversion Rate - Percentage referred individual who made a purchase</li>
+</ul>
 
 **Conclusion.**
 
