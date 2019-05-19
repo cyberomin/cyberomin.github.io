@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New retail: A blend of ecommerce with brick and mortar"
+title:  "New retail: A perfect blend of ecommerce with brick and mortar."
 date:   2019-05-19 05:30:00
 categories: startup
 description: "Every fortnight, Solomon, an upwardly mobile Investment banker in his late 20s will usually stop by at the grocery store not far from his office to pick groceries before heading home. "
@@ -8,7 +8,7 @@ description: "Every fortnight, Solomon, an upwardly mobile Investment banker in 
 
 Every fortnight, Solomon, an upwardly mobile Investment banker in his late 20s will usually stop by at the grocery store not far from his office to pick groceries before heading home. 
 
-His routine is fairly straight forward, walk the shelves, pick items into his basket or cart &mdash; In cases where he is making large purchases &mdash; then head to the checkout counter. Occasionally, he finds himself wandering the store aisle in search of the new seasoning that he saw in a television commercial.
+His routine is fairly straight forward, walk the shelves, pick items into his basket or cart &mdash;In cases where he is making large purchases&mdash; then head to the checkout counter. Occasionally, he finds himself wandering the store aisle in search of the new seasoning that he saw in a television commercial.
 
 With some luck most days, he finds these new items fairly quickly. Other times, he has to rely on the help of the grocers. Then comes the most dreadful part, checking out. He scans the checkout rows and looks for the shortest line then queue. Three to five person’s later, the cashier is ready to attend to him. With his items scanned and bagged, he reaches for his debit card, depending on the weather, the payment goes through, not before answering the almighty question almost every Nigerian shopper has to answer when paying via a POS; savings or current? 
 
@@ -18,7 +18,7 @@ It’s 2019 and brick and mortar retail is still an arduous task. What if things
 
 The scenario above isn’t peculiar to Solomon alone. We’ve all had to deal with this at one point or another. But what if things were different? Brick and mortar retail have some fundamental flaws, especially when stacked against its online counterpart.
 
-Not only is it time-consuming — commute time to and fro the store — and stressful, its limited catalogue assortment leaves a lot to be desired of the entire shopping experience. According to the Food Marketing Institute, the average number of items carried by a supermarket in 2017 was 30,098 items. On one too many occasion, you as a potential shopper has had settle for an alternative as a substitute for another product that ran out of stock. This is after driving long distances in a stressful city like Lagos.
+Not only is it time-consuming &mdash;commute time to and fro the store&mdash; and stressful, its limited catalogue assortment leaves a lot to be desired of the entire shopping experience. According to the Food Marketing Institute, the average number of items carried by a supermarket in 2017 was 30,098 items. On one too many occasion, you as a potential shopper has had settle for an alternative as a substitute for another product that ran out of stock. This is after driving long distances in a stressful city like Lagos.
 
 One of the major issue with brick and mortar retail is that it doesn’t give you the sort of flexibility and freedom that is common with online retail. Aside from the near infinite catalogue, you pretty much control your checkout experience and time. No long queues.  SKU assortment isn’t the main focus here, the whole shopping experience is.
 
@@ -46,7 +46,7 @@ While you’re in the physical store, you can look up an item location by just s
 
 _Shopping & Self-Checkout_
 
-Just before dropping items you intend to buy into your physical cart, you scan the barcode of the item them from the app, this process allows you to build your virtual cart. If for any reason you change your mind, you pull them off the physical cart and delete them from your virtual cart too. When shopping is done, you hit a checkout button on the app, enter your card details — if this is a first-time shopper — or select a card from the list of saved cards, hit pay and you’re done. A receipt, backed with an OTP encoded as QR code, is generated for you right on the app. This QR code will be used for security clearance just before leaving the store. 
+Just before dropping items you intend to buy into your physical cart, you scan the barcode of the item them from the app, this process allows you to build your virtual cart. If for any reason you change your mind, you pull them off the physical cart and delete them from your virtual cart too. When shopping is done, you hit a checkout button on the app, enter your card details &mdash;if this is a first-time shopper&mdash; or select a card from the list of saved cards, hit pay and you’re done. A receipt, backed with an OTP encoded as QR code, is generated for you right on the app. This QR code will be used for security clearance just before leaving the store. 
 
 A security man waits at the door with a mobile device, before exiting the store, you show him your receipt and he scans it and if everything checks out, you are let out of the store. The downside to this is that people may try to shoplift. One way to combat this, assuming this is technically possible,will be to make the barcode of the product trigger an alarm when a person tries to exit the store. 
 
@@ -84,4 +84,4 @@ Metrics that was rather exclusive to e-commerce becomes widely available. Very q
 
 While the solution offered above isn’t foolproof, it has many flaws, just like many things in life, it’s my belief that it will greatly enhance the overall shopping experience of the average user today. The physical retail space can be a lot more utilised and optimised.
 
-If executed well, I can see brick and mortar stores becoming more of warehouses and display space. Stores having better relationships with their customers — imagine getting a surprise hamper from your favourite store just because you were the shopper of the week all thanks to the newfound insights gleaned from the readily available data. 
+If executed well, I can see brick and mortar stores becoming more of warehouses and display space. Stores having better relationships with their customers; imagine getting a surprise hamper from your favourite store just because you were the shopper of the week all thanks to the newfound insights gleaned from the readily available data. 
