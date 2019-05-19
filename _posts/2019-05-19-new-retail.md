@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "New retail: A perfect blend of ecommerce with brick and mortar."
+title:  "New Retail: A perfect blend of ecommerce with brick and mortar."
 date:   2019-05-19 05:30:00
 categories: startup
 description: "Every fortnight, Solomon, an upwardly mobile Investment banker in his late 20s will usually stop by at the grocery store not far from his office to pick groceries before heading home. "
 ---
+
+Disclaimer: I got the phrase New Retail from Alibaba.
 
 Every fortnight, Solomon, an upwardly mobile Investment banker in his late 20s will usually stop by at the grocery store not far from his office to pick groceries before heading home. 
 
