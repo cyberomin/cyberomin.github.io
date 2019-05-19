@@ -52,7 +52,7 @@ A security man waits at the door with a mobile device, before exiting the store,
 
 This advantage here is that cashiers become experience consultant and product advisor, offering product knowledge and human-powered recommendations. 
 
-Customers who are not interested in going around the store aisle can shop straight from the comfort of their homes or offices and pick up from the store. If they value further convenience, they can use a delivery company like MAX and have their orders delivered right to their doorsteps. 
+Customers who are not interested in going around the store aisle can shop straight from the comfort of their homes or offices and pick up from the store. If they value further convenience, they can use a delivery company like [Metro African Xpress](https://max.ng/) and have their orders delivered right to their doorsteps. 
 
 _Engagement_
 
