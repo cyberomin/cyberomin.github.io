@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dear senior engineer, humble thy self."
+title:  "Dear senior engineer, humble thyself."
 date:   2019-06-07 06:00:00
 categories: startup
 description: "Nothing robs a person like an unnecessary air of superiority. It robs you of pretty much everything."
