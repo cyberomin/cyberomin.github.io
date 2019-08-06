@@ -6,7 +6,7 @@ categories: startup
 description: "A while ago, I wrote an article about SQL being a really strongly tool in today's business environment."
 ---
 
-A while ago, I wrote an article about SQL being a really strong tool in today's business environment. In that article, I argued why ML was overkill for really simple business processes an how the implementation and or adoption of SQL can bring tremendous value to businesses. 
+A while ago, [I wrote an article about SQL being a really strong tool in today's business environment](https://cyberomin.github.io/startup/2018/07/01/sql-ml-ai.html). In that article, I argued why ML was overkill for really simple business processes an how the implementation and or adoption of SQL can bring tremendous value to businesses. 
 
 Most businesses, in my opinion, collect data and do nothing with it. While I am aware of data privacy laws and data exploitation, what I’m alluding to here is collecting data solely for the main purpose of efficient user experience and beneficial customer engagement. I’ll spend some time in the next few paragraphs and talk about how brick and mortar businesses can take advantage of their data, build brand loyalty and drive consumer engagement. 
 
