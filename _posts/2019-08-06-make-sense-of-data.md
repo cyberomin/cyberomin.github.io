@@ -19,7 +19,7 @@ When we were expecting our first child, I’ll go out almost every fortnight to 
 During a consulting session with a client, we used this pharmacy as a case study and talked about what we could have done differently. Here’s what we would have done differently. 
 
 Aside from taking down my phone number to sign customers up for a loyalty program which the pharmacy did, I would have gone the extra mile to collect the customer's email. Given that this might be their first interaction with the store, I would have treated this as their onboarding process too. With the knowledge of the drug the just purchased, we can infer that this is an expectant parent and we will begin a relationship of being helpful. 
-The first thing we will do is send them health tips and how self care tips during their pregnancy journey. This can be automated to come in once every month. These tips will come in the form of a newsletter with contents like; exercise for pregnant women, links to mobile apps that can help track their journey. For this to be effective, we would have collected two extra information; pregnancy stage and expected date of delivery(EDD).
+The first thing we will do is send them health tips and other self care tips during their pregnancy journey. This can be automated to come in once every month. These tips will come in the form of a newsletter with contents like; exercise for pregnant women, links to mobile apps that can help track their journey. For this to be effective, we would have collected two extra information; pregnancy stage and expected date of delivery(EDD).
 
 **Infancy(0 - 6 months).**
 
