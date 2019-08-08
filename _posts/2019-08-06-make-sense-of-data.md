@@ -67,3 +67,5 @@ When it’s the holiday period, kids are home, running, jumping and tripping too
 Tap also into these parents online life; start a Facebook group, encourage them to join and provide them with an opportunity to meet fellow parents. Help them by providing information that will help them become better parents.
 
 My oldest kid is 2.8yrs today. I don’t know what happens from age 3 and above. But I am certain the pharmacy I patronize would have been a lot more useful to me if they did any of this.
+
+> Do you have data and need help making sense of it? I'm happy to listen to you.
