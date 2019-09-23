@@ -31,6 +31,6 @@ That same lecturer became my project supervisor. He signed my final year project
 These men and women single-handedly destroyed the self-worth and the self-esteem of 100s of students. Do you know what would have happened if they had encouraged the 16/17 yrs old under their care?
 Think about that for a second.
 
-I remember the day I got my certificate, I went into a bathroom and wept like a baby, finally, the torments were over. I can look forward to something else. The baggage was finally lifted off my shoulder. After 11 solid years, I made a third-class - https://cyberomin.github.io/life/2016/11/07/chapter-three.html
+I remember the day I got my certificate, I went into a bathroom and wept like a baby, finally, the torments were over. I can look forward to something else. The baggage was finally lifted off my shoulder. After 11 solid years, I made a third-class - [I wrote about it here](https://cyberomin.github.io/life/2016/11/07/chapter-three.html)
 
 In my quiet time, I pray for Sim Shagaya. That man gave me a life-changing opportunity. I will forever be grateful. Thank you, Sim.
