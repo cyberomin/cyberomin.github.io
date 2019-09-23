@@ -10,7 +10,7 @@ My dad and I were at the airport to pick Nene, a former lecturer saw us and walk
 
 My dad was stunned. He didn’t see that coming. The lecturer was expecting praises. I spent the next 10min telling my dad how the said lecturer behaved like Jesus’ assistant. He made even standing in his presence a privilege. He never came to class nor held office hours.
 
-You couldn’t even ask him questions and he will answer you. That man took joy in intimidating his students. People that boldly declared that no one was going to make a first-class. 5 shorts years later, he came to harvest where he never sowed. Receive undeserved praise.
+You couldn’t even ask him questions and he will answer you. That man took joy in intimidating his students. People that boldly declared that no one was going to make a first-class. 5 short years later, he came to harvest where he never sowed. Receive undeserved praise.
 
 If only Nigerian lecturers can see the future, or just behaved like decent humans, the life of so many undergraduates will be a lot different. I am very patient with most Nigerian graduates, I understand their pains. I endured the same.
 
