@@ -6,7 +6,7 @@ categories: life
 description: "It’s been a solid year since I wrote to you. It wasn’t for lack of time or laziness, I just didn’t want to bore you and I have decided to write once, at least for now, every year.”"
 ---
 
-<img src="{{ site.url }}/assets/article_images/lee/tiger.jpg"/>
+<img src="{{ site.url }}/assets/article_images/lee/tiger.JPG"/>
 
 Lee,
 
