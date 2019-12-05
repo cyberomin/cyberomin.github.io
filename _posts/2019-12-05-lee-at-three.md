@@ -7,6 +7,7 @@ description: "It’s been a solid year since I wrote to you. It wasn’t for lac
 ---
 
 <img src="{{ site.url }}/assets/article_images/lee/tiger.JPG"/>
+<small>Lee's best friends</small>
 
 Lee,
 
