@@ -8,7 +8,7 @@ description: "It’s been a solid year since I wrote to you. It wasn’t for lac
 
 Lee,
 
-It’s been a solid year since I wrote to you. It wasn’t for lack of time or laziness, I just didn’t want to bore you and I have decided to write once, at least for now, every year. 
+It’s been a solid year since [I wrote to you](https://cyberomin.github.io/life/2018/12/05/lee.html). It wasn’t for lack of time or laziness, I just didn’t want to bore you and I have decided to write once, at least for now, every year. 
 So, let’s do a year in review. I will try to keep this short. 
 
 **The Accident.**
@@ -41,6 +41,8 @@ Still on the school front, I looked forward to you, beginning the school year. Y
 On your first day in school, I woke you up, eagerly gave your bath, served your meal, packed your bags and drove you to school. Your mum, nanny, grandmum and I cheered you on. We were all excited. I drove you to school whistling. Man, I was excited, my tiny man was finally going to school. When I dropped you off and you ran after me crying, my heart melted. I held the tears as much as I could but when I got into the car, the whole thing came pouring. I got home and pretty much thought about you the entire time, to be honest, I was worried; how will you cope? How will you fit in? Will your teachers remember to serve you your snack?
 
 By 12:45 PM I was already out to go pick you up. I couldn’t wait for the 1 PM closing time. But look at you today, you’re as eager as anything to get to school daily. Congrats son, a lot can happen in 10 weeks. 
+
+10 weeks later, you can confidently write from 0 - 5 and A-D. That's a huge progress man. I am proud of you. You are begining to speak clearly now. Well done. 
 
 **Big Brother**
 
