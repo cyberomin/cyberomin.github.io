@@ -6,6 +6,8 @@ categories: life
 description: "It’s been a solid year since I wrote to you. It wasn’t for lack of time or laziness, I just didn’t want to bore you and I have decided to write once, at least for now, every year.”"
 ---
 
+<img src="{{ site.url }}/assets/article_images/lee/tiger.jpg"/>
+
 Lee,
 
 It’s been a solid year since [I wrote to you](https://cyberomin.github.io/life/2018/12/05/lee.html). It wasn’t for lack of time or laziness, I just didn’t want to bore you and I have decided to write once, at least for now, every year. 
@@ -42,7 +44,7 @@ On your first day in school, I woke you up, eagerly gave your bath, served your 
 
 By 12:45 PM I was already out to go pick you up. I couldn’t wait for the 1 PM closing time. But look at you today, you’re as eager as anything to get to school daily. Congrats son, a lot can happen in 10 weeks. 
 
-10 weeks later, you can confidently write from 0 - 5 and A-D. That's a huge progress man. I am proud of you. You are begining to speak clearly now. Well done. 
+10 weeks later, you can confidently write from 0 - 5 and A-D. That's a huge progress man.  You are begining to speak clearly now. You have also finally figured out the difference between a leopard and a tiger. I am proud of you. Well done. 
 
 **Big Brother**
 
