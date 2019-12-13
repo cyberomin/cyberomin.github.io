@@ -9,7 +9,7 @@ always got ahead by any means necessary."
 ---
 <img src="{{ site.url }}/assets/article_images/tmwba/vanderbilt.jpg" style="width: 250px; height: auto"/>
 
-> Disclaimer - this is a direct compilation of a tweet storm. No edits whatsoerver made here. 
+> Disclaimer - this is a direct compilation of a twitter thread I made. No edits whatsoerver made here. 
 
 **Cornelius Vanderbilt**
 
@@ -29,6 +29,8 @@ to his dad and informed him about the free fall, Vanderbilt commanded him to buy
 
 Vanderbilt wasn’t contented with being the rail king; he wanted the world to know about it. He built the Central depot. It will harmonize Harlem, Hudson and Central, he wanted it in the heart of New York. This rail magnet also pioneered the concept of a hostile takeover. As time passed, he came to the realization that at the end of the day, transportation will be a bigger business than owning railroads. 
 
+---
+
 <img src="{{ site.url }}/assets/article_images/tmwba/john.png" style="width: 250px; height: auto"/>
 
 **John D. Rockefeller**
@@ -44,6 +46,8 @@ Rockefeller’s workers worked round the clock to lay pipelines. They laid more 
 The effect was so bad; it wiped out 1/3 of the country’s 360 rail road company. The crash was the worst America had ever seen in its history. The market shut down for 10 days, triggering the first national depression. The pipeline became Rockefeller's advantage. At the height of the depression, Vanderbilt passed, at a ripe old age 82 leaving an empire worth $100m to his son, William. 
 
 Scott, seeing the pipeline as the future, invested in his own pipelines. Scott, with his protégé, Andrew Carnegie, was ready. Rockefeller asked his COO not to send any more oil through Scott’s line, forcing Scott to fire 10s of thousands of people and cutting wages, this was devastating.
+
+---
 
 <img src="{{ site.url }}/assets/article_images/tmwba/carnegie.jpg" style="width: 250px; height: auto"/>
 
@@ -66,6 +70,8 @@ Frick hostage, production stopped and revenue was lost. Frick wasn’t one known
 off his vacation and went home, by this time, Frick was already the chairman of the company. Carnegie informed Frick that the board was relieving of his position, he got angry, claiming that while Carnegie was on holiday, he was the one that survived a bullet and a stab, he chased Carnegie into a corner and planned a hostile takeover. 
 
 Andrew had a big problem in his hand, as Frick became increasingly more powerful, this power led him into establishing a "members only club," sort of a playground for the rich and mighty, he even created an artificial lake for fishing. As construction of this playground went ahead, the walls holding the dam close to James Town weakened. On a particularly rainy day, the walls gave in and James Town was submerged. This one incident dented Carnegie’s already frail image even further, he needed to fix this. In an effort to launder his image, Carnegie started giving away his money, he donated millions to help rebuild James Town, he also donated towards the building of Carnegie Hall, a home for performing arts, but a challenge brewing ahead. 
+
+---
 
 <img src="{{ site.url }}/assets/article_images/tmwba/morgan.jpg" style="width: 250px; height: auto"/>
 
@@ -115,6 +121,8 @@ was the price he was going to sell his company for, for context, this is almost 
 Almost out of nowhere, a new politician emerged. His name, Theodore Roosevelt. He was a man of character and wouldn't be bought, he quickly targeted the two remaining men, Rockefeller and Morgan. Roosevelt became McKinley's running mate and was later sworn in as the US Vice President, with their man still in the White House, they relaxed and didn't think too much about a re-election, but their clever plot backfired. On 14th September 1901, William McKinley was assassinated, this spelt trouble for Rockefeller and Morgan as Roosevelt gets sworn in as the president of the United
 States. Roosevelt goes after Morgan; he was bent on breaking the monopoly of these men, he sues his company in a Federal Court marking the first antitrust case brought against a major corporation.
 Roosevelt wins and Morgan's railroad monopoly is broken up, this was a sign of things to come. Shortly, the government turned its eyes on Rockefeller and Standard Oil, this marked the biggest antitrust case in America at that time. 
+
+---
 
 <img src="{{ site.url }}/assets/article_images/tmwba/henry.jpg" style="width: 250px; height: auto"/>
 
