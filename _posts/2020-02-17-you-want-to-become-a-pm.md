@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How To Get A Job As a Product Manager When You Don't Have 2 years of Experience"
+title:  "How To Get A Job As A Product Manager When You Don't Have 2 Years Of Experience."
 date:   2020-01-17 06:30:00
 categories: tech
 description: "Are you just starting out as a product manager and you want to work for a certain company?"
