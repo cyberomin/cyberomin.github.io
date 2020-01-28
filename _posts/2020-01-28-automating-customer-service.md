@@ -9,7 +9,7 @@ As a company, it’s safe to say we live in Slack. It’s where we work, collabo
 
 <img src="{{ site.url }}/assets/article_images/altalabs/form.png"/>
 
-<span style="font-size: 11px">_Contact Us Form_</span>
+<span style="font-size: 13px">_Contact Us Form_</span>
 
 Before now, all the forms on our website was connected to a form service called [Form Spree](https://formspree.io) and the service served us well. The only problem was that we rarely checked emails, and when we did, it was maybe twice a day; first thing in the morning and the last thing in the day. This method, while it worked, wasn’t effective as potential clients will have to wait an average of 6 to 12 hours to get a response from us. Not good enough. 
 
@@ -19,11 +19,11 @@ My colleague(Temitope) started the project and I took over from him. We cloned o
 
 <img src="{{ site.url }}/assets/article_images/altalabs/email.png"/>
 
-<span style="font-size: 11px">_Email_</span>
+<span style="font-size: 13px">_Email_</span>
 
 <img src="{{ site.url }}/assets/article_images/altalabs/slack.png"/>
 
-<span style="font-size: 11px">_Slack_</span>
+<span style="font-size: 13px">_Slack_</span>
 
 **The Future.**
 
@@ -31,11 +31,11 @@ When we get these emails, we typically reach back to the client with a Google fo
 
 <img src="{{ site.url }}/assets/article_images/altalabs/trello.png"/>
 
-<span style="font-size: 11px">_CRM_</span>
+<span style="font-size: 13px">_CRM_</span>
 
 <img src="{{ site.url }}/assets/article_images/altalabs/crm.png"/>
 
-<span style="font-size: 11px">_CRM_</span>
+<span style="font-size: 13px">_CRM_</span>
 
 
 In the future, this tiny bot that we have built will help us file tickets, customer service ratings(NPS), product reviews, and much more. I am super excited about this. What started off as an experiment to scratch out own itch is morphing into a tiny little project. Who knows, in future, we might turn this into a SaaS product. Only time will tell. 
