@@ -26,4 +26,11 @@ My colleague(Temitope) started the project and I took over from him. We cloned o
 
 When we get these emails, we typically reach back to the client with a Google form that asks them to describe their needs more elaborately. Today, while the bot post only to Slack, we will build a custom form just like the contact us form on the website and make the bot post the project need to our Trello-powered in-house CRM &mdash; we rigged together a CRM using Trello and a Trello Power-Up called Custom Fields. The board has 4 columns; Inquiry, In Conversation, Executing, Closed(for when we wrap up the project) &mdash; The same Google form content will also be sent to Slack for faster feedback and client engagement. 
 
+<img src="{{ site.url }}/assets/article_images/altalabs/trello.png"/>
+<small>CRM</small>
+
+<img src="{{ site.url }}/assets/article_images/altalabs/crm.png"/>
+<small>CRM</small>
+
+
 In the future, this tiny bot that we have built will help us file tickets, customer service ratings(NPS), product reviews, and much more. I am super excited about this. What started off as an experiment to scratch out own itch is morphing into a tiny little project. Who knows, in future, we might turn this into a SaaS product. Only time will tell. 
