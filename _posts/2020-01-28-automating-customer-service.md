@@ -7,11 +7,20 @@ description: "As a company, it’s safe to say we live inside of Slack"
 ---
 As a company, it’s safe to say we live inside of Slack. It’s where we work, collaborate and pretty much keep an eye on everything that’s happening in the company. For instance, daily stand up happens inside of Slack. We get all sorts of notifications for the different monitoring services we run inside of Slack. Our project/product management tool sends a notification to Slack. Slack is our God view. So it made sense to bring in customer service to Slack. 
 
+<img src="{{ site.url }}/assets/article_images/altalabs/form.png"/>
+<small>Contact Us.</small>
+
 Before now, all the forms on our website was connected to a form service called [Form Spree](https://formspree.io) and the service served us well. The only problem was that we rarely checked emails, and when we did, it was maybe twice a day; first thing in the morning and the last thing in the day. This method, while it worked, wasn’t effective as potential clients will have to wait an average of 6 to 12 hours to get a response from us. Not good enough. 
 
 Last week, I thought to myself, we are a technology company and we have all of these resources &mdash; people, services and infrastructure &mdash; at our disposal, why not fix this problem? So I tapped a colleague and we both got to work. The idea was simple, in addition to receiving emails(which we check sporadically) when people fill out our contact us form, why not send the form messages to Slack? Nothing groundbreaking here, but it was a fun experiment to try out.
 
-My colleague(Temitope) started the project and I took over from him. We cloned our base API repository(yes, this is a thing here) and rolled out a single endpoint called `/messages.` This endpoint receives a simple payload that contains the sender's name, email, phone, organisation and message. Then post the content to a Redid-based queue running on one of our instances. From the queue, an email worker picks the message and fires off an email via Sendgrid to an email group; _engineering@altalabs.io_, followed by a slack worker. The Slack worker posts the messages to a Slack channel called _#inbound-request_. 
+My colleague(Temitope) started the project and I took over from him. We cloned our base API repository(yes, this is a thing here) and rolled out a single endpoint called `/messages.` This endpoint receives a simple payload that contains the sender's name, email, phone, organisation and message. Then post the content to a Redid-based queue running on one of our instances. From the queue, an email worker picks the message and fires off an email via Sendgrid to an email group; _**engineering@altalabs.io**_, followed by a slack worker. The Slack worker posts the messages to a Slack channel called _**#inbound-request**_. 
+
+<img src="{{ site.url }}/assets/article_images/altalabs/email.png"/>
+<small>Email</small>
+
+<img src="{{ site.url }}/assets/article_images/altalabs/slack.png"/>
+<small>Slack</small>
 
 **The Future.**
 
