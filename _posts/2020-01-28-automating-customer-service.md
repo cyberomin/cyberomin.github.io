@@ -5,7 +5,7 @@ date:   2020-01-17 06:30:00
 categories: tech
 description: "As a company, it’s safe to say we live inside of Slack"
 ---
-As a company, it’s safe to say we live in Slack. It’s where we work, collaborate and pretty much keep an eye on everything that’s happening in the company. For instance, daily stand up happens inside of Slack. We get all sorts of notifications for the different monitoring services we run inside of Slack. Our project/product management tool sends a notification to Slack. Slack is our God view. So it made sense to bring in customer service to Slack. 
+As a company, it’s safe to say we live in Slack. It’s where we work, collaborate and pretty much keep an eye on everything that’s happening in the company. For instance, daily stand up happens inside Slack. We get all sorts of notifications for the different monitoring services we run inside Slack. Our project/product management tool sends a notification to Slack. Slack is our God view. So it made sense to bring in customer service to Slack. 
 
 <img src="{{ site.url }}/assets/article_images/altalabs/form.png"/>
 _Contact Us Form_
