@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Automating Customer Support - Scratching our own itch."
-date:   2020-01-17 06:30:00
+date:   2020-01-28 07:00:00
 categories: tech
 description: "As a company, it’s safe to say we live inside Slack"
 ---
