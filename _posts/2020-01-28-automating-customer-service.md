@@ -38,4 +38,4 @@ When we get these emails, we typically reach back to the client with a Google fo
 <span style="font-size: 13px">_CRM_</span>
 
 
-In the future, this tiny bot that we have built will help us file tickets, customer service ratings(NPS), product reviews, and much more. I am super excited about this. What started off as an experiment to scratch out own itch is morphing into a tiny little project. Who knows, in future, we might turn this into a SaaS product. Only time will tell. 
+In the future, this tiny bot that we have built will help us file tickets, customer service ratings(NPS), product reviews, and much more. I am super excited about this. What started off as an experiment to scratch our own itch is morphing into a tiny little project. Who knows, in future, we might turn this into a SaaS product. Only time will tell. 
