@@ -33,9 +33,14 @@ The problem here is that the freelancer has already spent the initial 30% and ob
 
 Client gets frustrated and takes to social media. Then does what most people will do when they are really pissed - drag and entire community into they mess they co-created.
 
-Here are a few problems. 1. Client and freelancer never decided on clearly defined product requirements. 2. Freelancer gets gigs once every 4 months and didn’t want to pass up on this one. They needed the cash. 3. Client felt they were getting a bargain for finding someone that can build another Uber for N500K. This is especially true when they had just read one article about someone who built an app for next to nothing and sold it for millions.
+Here are a few problems:
+1. Client and freelancer never decided on clearly defined product requirements.
+2. Freelancer gets gigs once every 4 months and didn’t want to pass up on this one. They needed the cash.
+3. Client felt they were getting a bargain for finding someone that can build another Uber for N500K. This is especially true when they had just read one article about someone who built an app for next to nothing and sold it for millions.
 
-Here is a few recommendations, dear potential founder/client. 1. Find a company with a track record that has what looks like an ability to do this. 2. Don’t expect to fit in a product that took 10 years to build and refine into a 4 months product dev cycle. Don’t do it.
+Here is a few recommendations, dear potential founder/client.
+1. Find a company with a track record that has what looks like an ability to do this.
+2. Don’t expect to fit in a product that took 10 years to build and refine into a 4 months product development cycle. Don’t do it.
 
 Before you think about replicating another company’s product, think abuot how many people they have working on that product and understand that you will never get the same product quality working with a freelancer.
 
