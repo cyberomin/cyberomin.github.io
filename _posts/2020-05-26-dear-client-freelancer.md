@@ -52,4 +52,4 @@ Also, understand that Rome was not built in a day. These things take sweat, bloo
 
 Freelancer, speak to experienced people before taking on a project you have no experience building. Your sleep, peace of mind and name is far better than playing hide and seek.
 
-Lastly, if you’re thinking of building a product and you need some help bouncing off ideas off a team and get some help around product dev. We(Alta Labs) are happy to speak to you. Please note, this is a paid session. Send a DM and we set up a meeting.
+Lastly, if you’re thinking of building a product and you need some help bouncing off ideas off a team and get some help around product dev. We([Alta Labs](https://altalabs.io/contact-us)) are happy to speak to you. Please note, this is a paid session. Send a DM and we set up a meeting.
