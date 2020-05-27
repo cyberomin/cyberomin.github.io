@@ -5,7 +5,7 @@ date:   2020-05-26 17:00:00
 categories: tech
 description: "Every now and then, there’s someone screaming and shouting how Nigerian developers and terrible and how they never deliver on projects. "
 ---
-Every now and then, there’s someone screaming and shouting how Nigerian developers and terrible and how they never deliver on projects. But there’s also an inherent problem from the position of both parties; the client and the developer.
+Every now and then, there’s someone screaming and shouting how Nigerian developers are terrible and how they never deliver on projects. But the problems are actually inherent from the position of both parties; the client and the developer.
 
 This is either from the place of ignorance or just plain naivety or both parties are just plain gullible. Grab a seat, get your soda and popcorn ready. Let me explain.
 
