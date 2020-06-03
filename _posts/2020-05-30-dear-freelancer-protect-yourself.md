@@ -5,7 +5,7 @@ date:   2020-05-30 17:00:00
 categories: tech
 description: "A few days ago, I wrote a post about how freelancers and clients should manage their relationship and be realistic about expectations"
 ---
-A few days ago, I wrote a post about how freelancers and clients should manage their relationship and be realistic about expectations. (Read it here)[https://cyberomin.github.io/tech/2020/05/26/dear-client-freelancer.html]. Today, I will talk about things freelancers can do to protect themselves.
+A few days ago, I wrote a post about how freelancers and clients should manage their relationship and be realistic about expectations. [Read it here](https://cyberomin.github.io/tech/2020/05/26/dear-client-freelancer.html). Today, I will talk about things freelancers can do to protect themselves.
 
 It’s not unusual to have product features change during the development process.  This is common especially when new ideas are uncovered based on user research or changing market requirements or even regulations. Nothing unusual here.
 
