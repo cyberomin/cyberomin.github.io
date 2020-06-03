@@ -9,7 +9,7 @@ A few days ago, I wrote a post about how freelancers and clients should manage t
 
 It’s not unusual to have product features change during the development process.  This is common especially when new ideas are uncovered based on user research or changing market requirements or even regulations. Nothing unusual here.
 
-Now, for this kind of request and if within reason, should definitely be accommodated. 
+Now, this kind of request should definitely be accommodated if within reason.
 
 Let me explain, assuming you were building a simple calculator and a variable say interest rate was hard coded and somewhere along the line, it became important to make this configurable, such that if the market rate changes, the interest can be adjusted on the fly. By all means, this is a reasonable request and one that both parties should sit down, talk about it and consider.
 
