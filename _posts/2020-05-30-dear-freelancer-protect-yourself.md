@@ -69,6 +69,8 @@ Let them understand that some cost are elastic and charged monthly(cloud infra),
 
 Don’t ever top up any money for any external service. If you need 2 machines, get money for those two machines. Don’t lie, never LIE.
 
+> Avoid the “help us, we are family/friends” syndrome. It always ends in tears. 
+
 You’re better off charging more than trying to make a few buck by topping up on fees from SaaS tools.  
 
 While estimating the product dev duration, make room for overflow. Don’t just settle for 3 months.
