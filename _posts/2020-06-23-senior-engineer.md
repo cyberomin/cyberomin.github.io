@@ -5,15 +5,15 @@ date:   2020-06-23 19:00:00
 categories: tech
 description: "Every now and then, I’ll get a DM from a software engineer asking me how they can become senior engineers and generally grow their careers"
 ---
-Every now and then, I’ll get a DM from a software engineer asking me how they can become senior engineers and generally grow their careers. I will try to answer that in this thread. 
+Every now and then, I’ll get a DM from a software engineer asking me how they can become senior engineers and generally grow their careers. I will try to answer that in this post. 
 
 Grab a glass of something lite, the class is in session.
 
 First and foremost, I generally believe what qualifies a person as a “senior engineer” is the kind of problem and breadth of problems that they have dealt/dealing with and not generally the length of time.
 
-For instance, if you work in a fast pace env and generally get thrown into deep problems, you’re more likely to grow faster in terms of experience and battle scars than someone who, for instance, couples templates for a living. Don’t get me wrong, there is nothing wrong with that.
+For instance, if you work in a fast pace environment and generally get thrown into deep problems, you’re more likely to grow faster in terms of experience and battle scars than someone who, for instance, couples templates for a living. Don’t get me wrong, there is nothing wrong with that.
 
-If you left a Bootcamp about 6 months ago, and you spend the next 6 months solving problems, even though you think those problems are out of your league,  you will learn and grow 2x than the person who just takes it slow. So tip 1. Don’t be shy of hard problems.
+If you left a Bootcamp about 6 months ago, and you spend the next 6 months solving problems, even though you think those problems are out of your league,  you will learn and grow 2x than the person who just takes it slow. So tip 1. _Don’t be shy of hard problems._
 
 Let’s imagine you work for an e-commerce company, and your team is in charge of checkout. Here are the possible scenarios that I imagine will play out. a) You will work on payment processing b) You will understand all the pain-points of processor downtime c) You may be on call.
 
