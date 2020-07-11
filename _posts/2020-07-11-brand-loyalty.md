@@ -23,7 +23,7 @@ Most people, if not everyone is aspirational. It’s inherently a human nature t
 Brands who are looking to build mindshare for a long time, especially within a certain income class should position themselves as aspirational brands. Little wonder why people begin to feel “cool” with themselves the moment the snag their first Apple product; iPhone, Watch, Mac, iPad. It’s the cool factor and satisfaction that these products give. 
 
 ### Mechanics of the reward system
-In this case, these brands can use the loyalty/rewards system to build their own cool. For example, if every time you shopped at a certain location or make a certain transaction with someone organisation you get a point, these organisations can now begin to segment its user base based on point. Let’s take a case simple scenario here. 
+In this case, these brands can use the loyalty/rewards system to build their own cool. For example, if every time you shopped at a certain location or make a certain transaction with some organisation you get a point, these organisations can now begin to segment its user base based on point. Let’s take a case simple scenario here. 
 
 Customers with a certain amount of points will qualify for Bronze, Silver, Gold and Platinum. These points can now be converted for different things, in this case, I will suggest experiential. Bronze member can get a full body massage at a spa or a one-month gym membership, Silver members can get a one-month gym membership, Gold Members can get both a full body massage and a one-month gym membership. The platinum members can, on the other hand, get a full body massage, a one-month gym membership and a private networking event with other platinum members once a month for a quarter. 
 
