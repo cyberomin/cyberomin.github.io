@@ -9,11 +9,11 @@ I have been thinking about brand loyalty for a while now and I thought I’d sha
 
 ### Loyalty
 Brand loyalty is hard to build, especially in the face of increasing competition. Why should a person stick to a brand? While exceptional customer service is great and one that all business should take seriously, in most cases, it may not be enough. 
-People will begin to want more if exceptional customer services become the common denominator(in an ideal world).
+People will begin to want more if exceptional customer service becomes  the common denominator(in an ideal world).
 
-So how else do you keep people coming back? I will suggest rewarding their behaviour and create a cool factor. This both helps the people feel great about their choices and benefits the brand too. 
+So how else do you keep people coming back? I will suggest rewarding their behaviour and create a _cool_ factor in the process. This both helps the people feel great about their choices and benefits the brand too. 
 
-Prints, radio, TV and in recent times, online have all been effective marketing tools. While there’s nothing generally wrong with these mediums, I, as a customer, will appreciate a tangible offer as a way of marketing. It could be as simple as shopping vouchers. I strongly believe there’s a high likelihood of another person seeing this and wanting a piece of the action. 
+Prints, radio, TV and in recent times, online advertisement have all been effective marketing tools. While there’s nothing generally wrong with these mediums, I, as a customer, will appreciate a tangible reward as a way of marketing. It could be as simple as shopping vouchers. I strongly believe there’s a high likelihood of another person seeing this and wanting a piece of the action. 
 
 But today, I will propose another form of reward; experiences. Give people experiences as a form of reward. I strongly believe people rarely forget experiences, especially if it makes them feel good about themselves. 
 
