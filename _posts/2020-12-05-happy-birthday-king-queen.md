@@ -5,7 +5,7 @@ date:   2020-12-05 13:00:00
 categories: business
 description: "Happy Birthday King & Queen"
 ---
-Every year, I try to write a letter to Lee, this year, I am writing to Livy too. If you want to read the previous ones, here is the link 1, 2, 3.
+Every year, I try to write a letter to Lee, this year, I am writing to Livy too. If you want to read the previous ones, here are the links [1](https://cyberomin.github.io/life/2017/12/05/lee.html), [2](https://cyberomin.github.io/life/2018/12/05/lee.html), [3](https://cyberomin.github.io/life/2019/12/05/lee-at-three.html).
 
 The King is 4 and the Queen is 1.5. I can’t believe it’s been this long. The memories are still fresh, and it all feels like everything happened just yesterday. 
 Lee, I remember that Sunday morning when your mum went into labour, I still remember rushing to gather the box with the hospital content. Everything happened so fast. I had 
