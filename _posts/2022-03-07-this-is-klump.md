@@ -3,7 +3,7 @@ layout: post
 title:  "This Is Klump"
 date:   2022-03-07 22:30:00
 categories: life
-description: "I mentioned a while ago that I was going into early retirement so that I could spend the rest of my life with my family, "Baby boying" on Nneka's budget, but she shut me down, saying, "Not on my watch! Get off your behind and do something useful with yourself.""
+description: "I mentioned a while ago that I was going into early retirement so that I could spend the rest of my life with my family, 'Baby boying' on Nneka's budget, but she shut me down, saying, 'Not on my watch! Get off your behind and do something useful with yourself.'"
 ---
 I mentioned a while ago that I was going into early retirement so that I could spend the rest of my life with my family, "Baby boying" on Nneka's budget, but she shut me down, saying, "Not on my watch! Get off your behind and do something useful with yourself."
 
