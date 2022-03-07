@@ -51,7 +51,7 @@ And generally try to have fun while at it.
 
 So if I haven't replied to your email or returned your call, I apologize. I am going to get to them now. The last few weeks have been crazy.
 
-This is new territory to me and a lot of our team members. We don't pretend to know everything, but one thing is certain, we will do our very best to provide best-in-class service.
+This is new territory to me, my co-founder and a lot of our team members. We don't pretend to know everything, but one thing is certain, we will do our very best to provide best-in-class service.
 
 This is by no means an easy task. There will be many good days and many bad days, but our hope is that we will have more good days than bad days.
 
