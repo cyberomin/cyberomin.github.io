@@ -25,7 +25,7 @@ Unfortunately, every good thing must come to an end and this is no exception. Th
 Alta Labs reshaped me and helped me grow faster than I ever imagined. For me, the last 3 years became a period of learning. That opportunity allowed me to wear many hats; not only was I a technological leader, but I also had to learn how to become a business leader, and I will be forever grateful for that experience. We had a great time, made mistakes, and learned from them. I'd like to express my gratitude to everyone who put their faith in us and to those who were there when I needed counsel, thank you!
 
 ### What Next?
-I am beginning a new journey with my co-founder Olufunbi Falayi, a journey that is a culmination of the last 11 years of my life. It's beautiful and terrifying and it's in an industry that I'm passionate about. Today, I'm  the co-founder, CEO and CTO of Klump along side my co-founder ‘Funbi who is our COO and CPO.
+I am beginning a new journey with my co-founder Olufunbi Falayi, a journey that is a culmination of the last 11 years of my life. It's beautiful and terrifying and it's in an industry that I'm passionate about. Today, I'm  the co-founder, CEO and CTO of Klump along side my co-founder, ‘Funbi who is our COO and CPO.
 
 ### What is Klump?
 [Klump](https://useklump.com) is a Buy Now, Pay Later technology company with the mission to enhance the online and in-store checkout experience for customers by providing flexible payments on your purchases. Klump’s initial focus is on marketplaces with higher-margin, discretionary-spend categories, such as apparel and footwear, fitness, accessories, and beauty. Klump will also focus on the education, travels and healthcare industry verticals.
@@ -44,8 +44,11 @@ Klump is special to me. I know it's cliche to hear founders talk about how they 
 Our goal at Klump is simple:
 
 1) Build a strong culture that we(my colleagues, myself and our shareholders) all will be proud of.
+
 2) Excellent product that delights the end-user
+
 3) Customer obsession
+
 4) A fun work environment
 
 And generally try to have fun while at it.
