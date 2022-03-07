@@ -41,7 +41,8 @@ Livy was able to receive medical care because I contacted Reliance HMO, asked th
 
 Klump is special to me. I know it's cliche to hear founders talk about how they started companies to solve their own problems, while this sounds exactly like my case, it's much more. My hope is that no other parent will have to go through what I went through that day. I don't wish that on anyone and I am trying to avoid that with Klump.
 
-My goal at Klump is simple:
+Our goal at Klump is simple:
+
 1) Build a strong culture that we(my colleagues, myself and our shareholders) all will be proud of.
 2) Excellent product that delights the end-user
 3) Customer obsession
