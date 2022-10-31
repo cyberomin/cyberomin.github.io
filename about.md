@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Celestine Omin is a software engineer based in Lagos, Nigeria. Until recently, he was an Engineering Manager at Paystack, a technology company solving payments problems for ambitious businesses in Africa.
+Celestine Omin is the CEO and CTO at Klump, a Nigerian based By Now, Pay Later technology company. He was also the founder of Alta Labs, a Technology Consulting company. 
+
+Celestine was an Engineering Manager at Paystack, a technology company solving payments problems for ambitious businesses in Africa.
 
 Prior to Paystack, he worked as a Senior Technical Consultant at Andela, an elite engineering organization that provides companies with access to the top 1% of tech talent across the African continent.
 
