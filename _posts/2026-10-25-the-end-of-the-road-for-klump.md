@@ -63,7 +63,7 @@ At the start of 2026, we faced a choice: raise additional capital or explore an 
 We held in-depth conversations with a lot of financial technology companies. For a handful of them, we were just too early in their lending journey, and for others, we weren’t a good fit. We received an offer, which we ultimately declined.
 
 ### Closing
-Klump raised approximately $1.3 million across two rounds: a seed round and an extension. Over the past five years, we have worked hard to be good stewards of that capital. We kept our burn as low as possible and built a product loved by both merchants and customers. In the end, headwinds knocked us off course, and Klump’s road has come to an end.
+Klump raised approximately $1.2 million across two rounds: a seed round and an extension. Over the past five years, we have worked hard to be good stewards of that capital. We kept our burn as low as possible and built a product loved by both merchants and customers. In the end, headwinds knocked us off course, and Klump’s road has come to an end.
 
 ### Thank You
 **To our investors:** Seedcamp, Magic Fund, Yellowwood Capital, Resilience 17, Will Neale, Michael Pennington, D Global Ventures Fund, Hoaq Capital, Kickoff Africa, Voltron Capital, Kesho VC, First Circle, Babs Ogundeyi, Russel Cummer of Cummer Capital, Assembly Investors, Fast Forward, Magic Carpet Fortress LLC, Oladimeji Sofowora, Richmond Bassey, Abdul Ventures, Olumide Shoyombo and every individual investor who backed us. Thank you for taking this journey with us.
