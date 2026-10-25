@@ -7,7 +7,7 @@ description: "Five years ago, we started Klump with a simple premise: let Nigeri
 ---
 
 ### The End of the Road for Klump
-<u><p>A thank-you note from [Celestine Omin](mailto:celestineomin@gmail.com) and [Olufunbi Falayi](mailto:funbi.falayi@gmail.com)</p></u>
+_A thank-you note from [Celestine Omin](mailto:celestineomin@gmail.com) and [Olufunbi Falayi](mailto:funbi.falayi@gmail.com)_
 
 Five years ago, we started Klump with a simple premise: let Nigerian consumers pay for goods and services in instalments at checkout (Buy Now, Pay Later), and make it fast. Sub-five-minute fast.
 
