@@ -42,6 +42,7 @@ The model worked, but several challenges quickly became clear:
 - **Risk appetite.** This was outside our control. However ambitious our plans, we couldn’t make lenders move at our pace.
 
 - **Ticket sizes.** Some lenders would not lend above certain amounts.
+
 And through those long integration cycles, we still had to find a way to keep the lights on.
 
 ### On Partnerships
