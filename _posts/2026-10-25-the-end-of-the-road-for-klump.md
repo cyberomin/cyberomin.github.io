@@ -45,6 +45,8 @@ The model worked, but several challenges quickly became clear:
 
 And through those long integration cycles, we still had to find a way to keep the lights on.
 
+[![Klump Checkout Demo](https://www.youtube.com/watch?v=Hz3rWzxZGAs)](https://www.youtube.com/watch?v=Hz3rWzxZGAs)
+
 ### On Partnerships
 Partnerships can be long and brutal. Some took us close to three years to work through, both commercially and legally, and legal was always the 800-pound gorilla.
 
