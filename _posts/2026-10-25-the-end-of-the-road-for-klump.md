@@ -79,7 +79,7 @@ Klump raised approximately $1.2 million across two rounds: a seed round and an e
 
 **To our customers:** Thank you for choosing Klump and for every purchase you made through us.
 
-**To our colleagues:** Past and present: Jenrande, Jerry, Kingsley, Pamela, Edmond, Kunle, Imo-owo, Rebecca, Emmanuel, Folakemi, Seun and Temitope. We can’t thank you enough. Klump would not exist without your hard work. Thank you for your trust and for the faith you placed in us.
+**To our colleagues:** Past and present: Jenrade, Jerry, Kingsley, Pamela, Edmond, Kunle, Imo-owo, Rebecca, Emmanuel, Folakemi, Seun and Temitope. We can’t thank you enough. Klump would not exist without your hard work. Thank you for your trust and for the faith you placed in us.
 
 ### Postscript
 Access to credit remains an unsolved problem. We still believe it can be solved, and solved meaningfully.
