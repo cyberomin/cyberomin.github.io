@@ -47,8 +47,7 @@ And through those long integration cycles, we still had to find a way to keep th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hz3rWzxZGAs" title="Klump Checkout" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
+<p></p>
 ### On Partnerships
 Partnerships can be long and brutal. Some took us close to three years to work through, both commercially and legally, and legal was always the 800-pound gorilla.
 
