@@ -42,7 +42,6 @@ Now, the elephant in the room will be credit check at the point of under-writtin
 	2. Is this a non-active loan - a loan that has gone into default
 3. Does this user have an active loan?
 	1. If the user has an active loan, is this user serving the loan? 
-The check will have 
 
 #### This is how I imagine we will fix this.
 
