@@ -9,17 +9,17 @@ In an earlier post, I had wrote about my previous company; Klump. I talked about
 
 In this post, I will talk about the challenges during the eligibility check and proffer what I consider as the possible solution for it. 
 
-Credit companies in Nigeria face a number of problems; collection and accurate data for eligibility check being chief amongst these problems. As a lender, eligibilty checks aren't a once and done problem. They are recurrent. The very fact that a borrower was eligible a couple of months ago doesn't necessarily mean they will be eligible this time.
+Credit companies in Nigeria face a number of problems; collection and accurate data for eligibility check being chief amongst these problems. As a lender, eligibilty checks aren't a once and done problem. They are recurrent. The very fact that a borrower was eligible a couple of months ago doesn't necessarily mean they will be eligible this today.
 
 ##### Let's talk about collection:
-For collection, a typical user is always asked to leave a card on file, and card, in itself isn't fool proof. 
+For collection, a typical user is always asked to leave a card on file, and card, in itself isn't foolproof. 
 
-Here's a typical sequence. A user adds card at the point of checkout. The card is tokenized by a payment processor, the credit company stores the card's token on their side and use that to charge at the due dates during the loan's tenor. 
+Here's a typical sequence. A user adds card at the point of checkout. The card is tokenized by a payment processor, the credit company stores the card's token on their server, and uses that to charge at the due dates during the loan's tenor. 
 
 While this should work in theory, this flow comes with a bunch of its own problems
 1. The borrower may decide not to fund that account again. We can see this in our everyday lives; people will typically ask loved ones not to send money to a particular account as that account isn't "working"
-2. Card expiration. If the loan has a tenor of 6 months, if the card on file expires at month 3, there isn't much the lender can do here again. You have to pray and hope the borrower will not ignore your micro nudge to add a new card.
-3. Blocked card. A user might just block a card or mark it as stolen. When this happens, there isn't much that the borrower can do. 
+2. Card expiration. If the loan has a tenor of six months, if the card on file expires at month three, there isn't much the lender can do. You have to pray and hope the borrower will not ignore your micro nudge to add a new card.
+3. Blocked card. A user might just block a card or mark it as stolen. When this happens, there isn't much that the lender can do. 
 
 The issues above can be solved by Direct Debit. 
 
@@ -28,9 +28,9 @@ A **direct debit** is an automated payment arrangement where a customer authoriz
 
 The user gives an organization an authorization mandate once at the loan booking process and that solves the collection problem.
 
-The beautiful thing about Direct Debit is that the last 2 issues listed above are non-issues here. But the first issue on the list persist. To solve this, lenders will need access to GSI - Global Standing Instruction - a system that allows a lender to recover a loan and its accrued interest from any bank account(irrespective of where the account is domiciled) linked to the borrower's identity like, BVN. 
+The beautiful thing about Direct Debit is that the last 2 issues listed above are non-issues here. But the first issue on the list persists. To solve this, lenders will need access to GSI (Global Standing Instruction) &mdash; a system that allows a lender to recover a loan and its accrued interest from any bank account (irrespective of where the account is domiciled) linked to the borrower's identity like, BVN. 
 
-With GSI, the collection problem has been solved. 
+With GSI, the collection problem has been solved. But GSI isn't open to all lenders. As at today, only DMB can access it. 
 
 Now, the elephant in the room will be credit check at the point of under-writting. During the underwritting process, a credit check will seek for a few signal:
 1. Has this user ever gotten a loan?
@@ -277,6 +277,7 @@ Imagine a borrower with the following profile:
 | Credit history | 60 | 10% |
 | Recent credit activity | 80 | 10% |
 
+
 The weighted score is 83.3.
 
 Applying our formula:
@@ -294,6 +295,7 @@ We can then classify borrowers into different risk categories:
 | 670–739 | Moderate risk |
 | 580–669 | High risk |
 | 300–579 | Very high risk |
+
 
 These are proposed starting bands, not established regulatory thresholds. They would need to be validated against actual loan performance.
 
