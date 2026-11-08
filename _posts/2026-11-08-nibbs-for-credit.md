@@ -168,7 +168,178 @@ This goes without saying that the above system will only be available to license
 
 Every new loan booked gives you 10 new tokens, every time a loan is updated, the lender earns 5 new tokens. So, a loan with a 3 months tenor will end up giving the lender 25 tokens. The lender spends 15 tokens every time they try to access a user's lending profile. 
 
-If a lender is out of token, they can pay for these tokens with real money. For example, N100 gives them access to a thousand token. You get the idea.
+If a lender is out of token, they can pay for these tokens with real money. For example, N100 gives them access to a thousand token. You get the idea. This system becomes a win-win for every participant.
 
 **Policy**
+
 For this to work, the government will have to be the major driver of this with buy-in from every single institution that intends to offer credit. 
+
+## Calculating a borrower's credit score
+
+Now, having a central repository where all lenders can see a borrower's lending history is great, but I think we can take this a step further.
+
+What if, instead of every lender having to interpret a borrower's lending history independently, the system could calculate a credit score for that borrower?
+
+Think about it. If a borrower has taken loans from three different institutions, the repository already has information about those loans, their repayment schedules, outstanding balances and repayment history. We should be able to use this information to derive a reasonably reliable picture of that borrower's creditworthiness.
+
+The idea isn't particularly complicated. We need to agree on the signals that matter and how much weight each signal should carry.
+
+For a start, I would use a scoring system that ranges from 300 to 850, where 850 represents the lowest estimated credit risk.
+
+I'd break the calculation into five components:
+
+### 1. Repayment behaviour (40%)
+
+This is arguably the most important signal.
+
+Does the borrower consistently repay their loans when due? Have they missed instalments? When they miss a payment, how long does it take them to make good on that obligation?
+
+I would calculate this using the proportion of scheduled repayments made on or before their due dates, giving more importance to recent repayment behaviour.
+
+A borrower who has consistently paid their loans over the last six months should have a better repayment score than someone whose recent repayment history is characterised by missed payments, even if they had a good repayment record three years ago.
+
+### 2. Delinquency and default history (25%)
+
+Missing a repayment isn't necessarily the same as defaulting on a loan.
+
+A borrower who misses a repayment by five days shouldn't be treated the same way as someone who has failed to service a loan for six months.
+
+I'd introduce a delinquency classification based on days past due (DPD).
+
+For example:
+
+| Days past due | Severity |
+|---|---|
+| 0 days | No delinquency |
+| 1–30 days | Minor |
+| 31–60 days | Moderate |
+| 61–90 days | Serious |
+| 91–120 days | Severe |
+| Above 120 days | Critical |
+
+The system should also consider whether the borrower eventually made good on the obligation. A historical delinquency that has been fully resolved shouldn't carry the same weight as an outstanding default.
+
+### 3. Existing debt exposure (15%)
+
+Someone can have an excellent repayment history and still be over-leveraged.
+
+For example, imagine someone earning N500,000 monthly who already has loan repayments of N200,000 across two institutions.
+
+If another institution gives this person a loan with a monthly repayment of N150,000, their total monthly debt obligation becomes N350,000.
+
+That's 70% of their monthly income.
+
+This is where the repository becomes particularly useful. Instead of a lender looking at only the loans it has issued, it can see the borrower's aggregate outstanding obligations across participating institutions.
+
+I'd use a debt service ratio (DSR) to measure this:
+
+**DSR = (Total Monthly Debt Obligations / Verified Monthly Income) × 100**
+
+The higher the ratio, the more pressure the borrower is likely to experience when servicing additional debt.
+
+### 4. Credit history and consistency (10%)
+
+How long has this individual been participating in the credit ecosystem?
+
+Someone who has maintained a consistent repayment record for five years provides more evidence of their credit behaviour than someone who has only taken their first loan three months ago.
+
+I would consider the length of the observed credit history and the consistency of repayment over that period.
+
+One important distinction here: someone who has never taken a loan shouldn't automatically be considered a bad borrower. They simply have no established credit history.
+
+The system should distinguish between a borrower with no credit history and someone with a history of poor repayment.
+
+### 5. Recent credit activity (10%)
+
+How frequently is this borrower taking on new financial obligations?
+
+For example, someone who has taken four loans from different institutions within the last 30 days might require additional scrutiny.
+
+The system should look at the number of recently originated loans, the growth in outstanding balances and how these obligations compare with the borrower's repayment capacity.
+
+This is particularly important because the central repository makes it possible to identify borrowing activities that an individual lender might otherwise not see.
+
+### Putting the numbers together
+
+Each of these five components produces a score between 0 and 100.
+
+I'd then combine them using the following formula:
+
+**Credit Score = 300 + 5.5 × (0.40R + 0.25D + 0.15E + 0.10H + 0.10A)**
+
+Where:
+
+- R = Repayment behaviour score
+- D = Delinquency/default score
+- E = Existing debt exposure score
+- H = Credit history score
+- A = Recent credit activity score
+
+The weights are initial assumptions that would need to be tested against actual repayment data from participating institutions.
+
+Let's use an example.
+
+Imagine a borrower with the following profile:
+
+| Component | Score | Weight |
+|---|---:|---:|
+| Repayment behaviour | 92 | 40% |
+| Delinquency history | 85 | 25% |
+| Debt exposure | 75 | 15% |
+| Credit history | 60 | 10% |
+| Recent credit activity | 80 | 10% |
+
+The weighted score is 83.3.
+
+Applying our formula:
+
+**Credit Score = 300 + (5.5 × 83.3)**
+
+**Credit Score = 758**
+
+We can then classify borrowers into different risk categories:
+
+| Credit score | Risk category |
+|---|---|
+| 800–850 | Very low risk |
+| 740–799 | Low risk |
+| 670–739 | Moderate risk |
+| 580–669 | High risk |
+| 300–579 | Very high risk |
+
+These are proposed starting bands, not established regulatory thresholds. They would need to be validated against actual loan performance.
+
+### What happens when someone has never taken a loan?
+
+This is an interesting one.
+
+I don't think someone who has never borrowed should automatically receive a poor credit score. That would defeat the purpose of creating an inclusive credit ecosystem.
+
+For borrowers with limited credit history, the system should return a provisional score with a confidence indicator.
+
+For instance, a borrower might have a score of 720 but a low confidence rating because the system has only three months of repayment history.
+
+Another borrower might have a score of 720 with a high confidence rating because the system has five years of verified repayment data.
+
+These are not necessarily equivalent from an underwriting perspective.
+
+I'd therefore return two things whenever a lender queries a borrower:
+
+1. The borrower's credit score.
+2. The confidence level of that score.
+
+### The bigger picture
+
+I think this is where the real opportunity lies.
+
+The repository shouldn't just tell a lender whether someone has an outstanding loan. It should provide a continuously updated picture of that individual's credit behaviour across the financial ecosystem.
+
+A lender should be able to understand how much a borrower currently owes, how consistently they repay, whether their debt exposure is increasing and how they have performed across other institutions.
+
+Of course, the scoring methodology would need to be tested against actual loan performance, and there would need to be mechanisms for correcting inaccurate records, protecting borrowers' information and explaining how scores are derived.
+
+I'd start with a transparent, rules-based model and gradually improve it as more repayment data becomes available.
+
+The interesting thing is that the more institutions participate, the more useful the repository becomes. And the more useful the repository becomes, the better the credit decisions institutions can make.
+
+**We shouldn't just be building a place where lenders share loan information. We should be building an infrastructure that helps the entire financial ecosystem make better credit decisions.**
