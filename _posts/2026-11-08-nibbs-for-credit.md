@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "NIBSS, but for the credit industry"
+date:   2026-11-08
+categories: startups
+description: "In an earlier post, I had wrote about my previous company; Klump. I talked about the painful challenges of building a credit based [business in a market like Nigeria]"
+---
 In an earlier post, I had wrote about my previous company; Klump. I talked about the painful challenges of building a credit based [business in a market like Nigeria](https://cyberomin.github.io/startups/2026/10/25/the-end-of-the-road-for-klump.html). 
 
 In this post, I will talk about the challenges during the eligibility check and proffer what I consider as the possible solution for it. 
