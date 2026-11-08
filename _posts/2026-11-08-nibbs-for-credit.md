@@ -32,23 +32,23 @@ The beautiful thing about Direct Debit is that the last 2 issues listed above ar
 
 With GSI, the collection problem has been solved. But GSI isn't open to all lenders. As at today, only DMB can access it. 
 
-Now, the elephant in the room will be credit check at the point of under-writting. During the underwritting process, a credit check will seek for a few signal:
+Now, the elephant in the room will be credit check at the point of under-writting. During the underwritting process, a credit check will seek a few signals:
 1. Has this user ever gotten a loan?
-	1. This is to solve for those new to credit
-2. Does this user own a loan?
-	1. Is this an active loan - a loan that has a valid tenor
-	2. Is this a non-active loan - a loan that has gone into default
+	- This is to solve for those new to credit
+2. Does this user owe a loan?
+	- Is this an active loan - a loan that has a valid tenor
+	- Is this a defaulted loan - a loan that has gone into default
 3. Does this user have an active loan?
-	1. If the user has an active loan, is this user serving the loan? 
+	- If the user has an active loan, is this user serving the loan? 
 
 ##### This is how I imagine we will fix this.
-A central repository where all Fintech companies and Deposit Money Banks(DMB) dump in their loan data. This will be realtime and nothing batched. 
+A central repository where all fintech companies and Deposit Money Banks(DMB) dump in their loan data. This will be realtime and nothing batched. 
 
-A user goes to an institution to take a loan. The institution takes the user's identifier, in this case, their BVN, runs an eligibility check, if the check succeeds, and a loan is disbursed and that loan information is stored in a central repository and it's made available to other lenders instantaneously. 
+A user goes to an institution to take a loan. The institution takes the user's identifier (in this case, their BVN), runs an eligibility check; if the check succeeds, a loan is disbursed and that loan information is stored in a central repository and it's made available to other lenders instantaneously. 
 
-As the user pays of their loan obligation, either manually or an automated process, the lender is obligated to update the loan's status until the tenor runs out. 
+As the user pays off their loan obligation, either manually or an automated process, the lender is obligated to update the loan's status until the tenor runs out. 
 
-What's the incentive here? A unified repository for all interested parties where the major value proposition being minimal NPL (non-performing loans) for all parties with vested interest.  
+What's the incentive here? A unified repository for all interested parties, with the major value proposition being minimal NPL (non-performing loans) for all parties with a vested interest.  
 
 ##### Borrowing history check
 To check a loan status of a user with the BVN `12345678`, a `GET` request is sent as follows
@@ -93,7 +93,7 @@ Response:
 }
 ```
 
-The response above shows that this individual has two loans, one was paid off and the other went into default. This is the entire credit history of the user. 
+The response above shows that this individual has two loans; one was paid off and the other went into default. This is the entire credit history of the user. 
 
 If an institution wanted to narrow down into a single loan and see its details, they can make a request like this:
 ``` bash
@@ -139,13 +139,13 @@ With the request above, they get a single loan information response like the one
 }
 ```
 
-The `insititution_code` represents the institution that gave out the loan. The code structure will always be alphanumeric, an alphabet followed by 5 digit numbers, where `CB` will be for a commercial bank, `MFB` for a micro finance bank and `FT` would be for a Fintech. 
+The `insititution_code` represents the institution that gave out the loan. The code structure will always be alphanumeric: an alphabet followed by five-digit numbers, where `CB` will be for a commercial bank, `MFB` for a micro finance bank and `FT` would be for a Fintech. 
 
-The loan `status` will be either be `on_going` that signifies that this loan is still running or `default` that signifies that the loan has exceeded its tenor without being paid off. 
+The loan `status` will be either be `on_going` (signifing that this loan is still running) or `default` (signifing that the loan has exceeded its tenor without being paid off). 
 
-The loan `state`  can be either `paid` to signify that the loan has been paid off and `not_paid` to signify that the loan hasn't been paid off. These two keys are necessary as a loan can have a `status` of `on_going` while it's been `paid` off. 
+The loan `state`  can be either `paid` (to signify that the loan has been paid off) or `not_paid` (to signify that the loan hasn't been paid off). These two keys are necessary as a loan can have a `status` of `on_going` while it's been paid off. 
 
-With the response above, the lender - new or not - can easily tell that this particular user has an existing loan with a commercial bank with its accompanying repayment history.
+With the response above, the lender &mdash; new or not &mdash; can easily tell that this particular user has an existing loan with a commercial bank with its accompanying repayment history.
 
 ##### Booking a loan
 When booking a loan, the lender sends a `POST` request as follows: 
