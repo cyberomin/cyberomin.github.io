@@ -198,14 +198,40 @@ I'd introduce a delinquency classification based on days past due (DPD).
 
 For example:
 
-| Days past due | Severity |
-|---|---|
-| 0 days | No delinquency |
-| 1–30 days | Minor |
-| 31–60 days | Moderate |
-| 61–90 days | Serious |
-| 91–120 days | Severe |
-| Above 120 days | Critical |
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0; font-family: Arial, sans-serif; font-size: 15px; text-align: left;">
+  <thead>
+    <tr style="background-color: #f3f4f6;">
+      <th style="padding: 14px 16px; border: 1px solid #ddd; width: 50%;">Days Past Due</th>
+      <th style="padding: 14px 16px; border: 1px solid #ddd; width: 50%;">Severity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">0 days</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">No delinquency</td>
+    </tr>
+    <tr style="background-color: #fafafa;">
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">1–30 days</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">Minor</td>
+    </tr>
+    <tr>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">31–60 days</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">Moderate</td>
+    </tr>
+    <tr style="background-color: #fafafa;">
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">61–90 days</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">Serious</td>
+    </tr>
+    <tr>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">91–120 days</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">Severe</td>
+    </tr>
+    <tr style="background-color: #fafafa;">
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">Above 120 days</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">Critical</td>
+    </tr>
+  </tbody>
+</table>
 
 The system should also consider whether the borrower eventually made good on the obligation. A historical delinquency that has been fully resolved shouldn't carry the same weight as an outstanding default.
 
@@ -269,13 +295,42 @@ Let's use an example.
 
 Imagine a borrower with the following profile:
 
-| Component | Score | Weight |
-|---|---:|---:|
-| Repayment behaviour | 92 | 40% |
-| Delinquency history | 85 | 25% |
-| Debt exposure | 75 | 15% |
-| Credit history | 60 | 10% |
-| Recent credit activity | 80 | 10% |
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0; font-family: Arial, sans-serif; font-size: 15px; text-align: left;">
+  <thead>
+    <tr style="background-color: #f3f4f6;">
+      <th style="padding: 14px 16px; border: 1px solid #ddd; width: 60%;">Component</th>
+      <th style="padding: 14px 16px; border: 1px solid #ddd; width: 20%; text-align: right;">Score</th>
+      <th style="padding: 14px 16px; border: 1px solid #ddd; width: 20%; text-align: right;">Weight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">Repayment behaviour</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd; text-align: right;">92</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd; text-align: right;">40%</td>
+    </tr>
+    <tr style="background-color: #fafafa;">
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">Delinquency history</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd; text-align: right;">85</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd; text-align: right;">25%</td>
+    </tr>
+    <tr>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">Debt exposure</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd; text-align: right;">75</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd; text-align: right;">15%</td>
+    </tr>
+    <tr style="background-color: #fafafa;">
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">Credit history</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd; text-align: right;">60</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd; text-align: right;">10%</td>
+    </tr>
+    <tr>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">Recent credit activity</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd; text-align: right;">80</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd; text-align: right;">10%</td>
+    </tr>
+  </tbody>
+</table>
 
 
 The weighted score is 83.3.
@@ -288,13 +343,36 @@ Applying our formula:
 
 We can then classify borrowers into different risk categories:
 
-| Credit score | Risk category |
-|---|---|
-| 800–850 | Very low risk |
-| 740–799 | Low risk |
-| 670–739 | Moderate risk |
-| 580–669 | High risk |
-| 300–579 | Very high risk |
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0; font-family: Arial, sans-serif; font-size: 15px; text-align: left;">
+  <thead>
+    <tr style="background-color: #f3f4f6;">
+      <th style="padding: 14px 16px; border: 1px solid #ddd; width: 50%;">Credit Score</th>
+      <th style="padding: 14px 16px; border: 1px solid #ddd; width: 50%;">Risk Category</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">800–850</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">Very low risk</td>
+    </tr>
+    <tr style="background-color: #fafafa;">
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">740–799</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">Low risk</td>
+    </tr>
+    <tr>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">670–739</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">Moderate risk</td>
+    </tr>
+    <tr style="background-color: #fafafa;">
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">580–669</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">High risk</td>
+    </tr>
+    <tr>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">300–579</td>
+      <td style="padding: 14px 16px; border: 1px solid #ddd;">Very high risk</td>
+    </tr>
+  </tbody>
+</table>
 
 
 These are proposed starting bands, not established regulatory thresholds. They would need to be validated against actual loan performance.
