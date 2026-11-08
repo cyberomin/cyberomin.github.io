@@ -5,8 +5,8 @@ date:   2026-11-08
 categories: startups
 description: "In an earlier post, I had wrote about my previous company; Klump. I talked about the painful challenges of building a credit based [business in a market like Nigeria]"
 ---
-NIBSS, but for the credit ecosystem.
-***
+> NIBSS, but for the credit ecosystem.
+
 
 In an earlier post, I wrote about my previous company, Klump. I talked about the painful challenges of building a credit based [business in a market like Nigeria](https://cyberomin.github.io/startups/2026/10/25/the-end-of-the-road-for-klump.html). 
 
