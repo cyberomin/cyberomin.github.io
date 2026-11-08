@@ -183,7 +183,7 @@ For a start, I would use a scoring system that ranges from 300 to 850, where 850
 
 I'd break the calculation into five components:
 
-**1. Repayment behaviour (40%)**
+##### 1. Repayment behaviour (40%)
 
 This is arguably the most important signal.
 
@@ -193,7 +193,7 @@ I would calculate this using the proportion of scheduled repayments made on or b
 
 A borrower who has consistently paid their loans over the last six months should have a better repayment score than someone whose recent repayment history is characterised by missed payments, even if they had a good repayment record three years ago.
 
-**2. Delinquency and default history (25%)**
+##### 2. Delinquency and default history (25%)
 
 Missing a repayment isn't necessarily the same as defaulting on a loan.
 
@@ -214,7 +214,7 @@ For example:
 
 The system should also consider whether the borrower eventually made good on the obligation. A historical delinquency that has been fully resolved shouldn't carry the same weight as an outstanding default.
 
-**3. Existing debt exposure (15%)**
+##### 3. Existing debt exposure (15%)
 
 Someone can have an excellent repayment history and still be over-leveraged.
 
@@ -232,7 +232,7 @@ I'd use a debt service ratio (DSR) to measure this:
 
 The higher the ratio, the more pressure the borrower is likely to experience when servicing additional debt.
 
-**4. Credit history and consistency (10%)**
+##### 4. Credit history and consistency (10%)
 
 How long has this individual been participating in the credit ecosystem?
 
@@ -244,7 +244,7 @@ One important distinction here: someone who has never taken a loan shouldn't aut
 
 The system should distinguish between a borrower with no credit history and someone with a history of poor repayment.
 
-**5. Recent credit activity (10%)**
+##### 5. Recent credit activity (10%)
 
 How frequently is this borrower taking on new financial obligations?
 
@@ -254,7 +254,7 @@ The system should look at the number of recently originated loans, the growth in
 
 This is particularly important because the central repository makes it possible to identify borrowing activities that an individual lender might otherwise not see.
 
-**Putting the numbers together**
+##### Putting the numbers together
 
 Each of these five components produces a score between 0 and 100.
 
@@ -306,7 +306,7 @@ We can then classify borrowers into different risk categories:
 
 These are proposed starting bands, not established regulatory thresholds. They would need to be validated against actual loan performance.
 
-**What happens when someone has never taken a loan?**
+##### What happens when someone has never taken a loan?
 
 This is an interesting one.
 
@@ -325,7 +325,7 @@ I'd therefore return two things whenever a lender queries a borrower:
 1. The borrower's credit score.
 2. The confidence level of that score.
 
-**The bigger picture**
+##### The bigger picture
 
 I think this is where the real opportunity lies.
 
@@ -341,6 +341,6 @@ The interesting thing is that the more institutions participate, the more useful
 
 > We shouldn't just be building a place where lenders share loan information. We should be building an infrastructure that helps the entire financial ecosystem make better credit decisions.
 
-**Policy**
+##### Policy
 
 For this to work, the government will have to be the major driver of this with buy-in from every single institution that intends to offer credit. 
