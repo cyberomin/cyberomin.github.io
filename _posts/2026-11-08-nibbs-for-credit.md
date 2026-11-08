@@ -161,7 +161,7 @@ The borrower's `bvn`, the loan's `principal`, rate `rate`, repayment start date 
 ##### Mechanics: how this will work
 This goes without saying that the above system will only be available to licensed institutions. Before a lender can access a user's lending history, they will need virtual token to spend. The tokens are earned every time a lender post a new lending information or update an existing lending information. 
 
-Every new loan booked gives you 10 new tokens, every time a loan is updated, the lender earns 5 new tokens. So, a loan with a 3 months tenor will end up giving the lender 25 tokens. The lender spends 15 tokens every time they try to access a user's lending profile. 
+Every new loan booked gives you 10 new tokens, every time a loan is updated, the lender earns 5 new tokens. So, a loan with a three months tenor will end up giving the lender 25 tokens. The lender spends 15 tokens every time they try to access a user's lending profile. 
 
 If a lender is out of token, they can pay for these tokens with real money. For example, N100 gives them access to a thousand token. You get the idea. This system becomes a win-win for every participant.
 
