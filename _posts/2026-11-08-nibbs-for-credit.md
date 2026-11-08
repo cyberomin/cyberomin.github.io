@@ -197,7 +197,6 @@ A borrower who misses a repayment by five days shouldn't be treated the same way
 I'd introduce a delinquency classification based on days past due (DPD).
 
 For example:
-
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0; font-family: Arial, sans-serif; font-size: 15px; text-align: left;">
   <thead>
     <tr style="background-color: #f3f4f6;">
@@ -294,7 +293,6 @@ The weights are initial assumptions that would need to be tested against actual 
 Let's use an example.
 
 Imagine a borrower with the following profile:
-
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0; font-family: Arial, sans-serif; font-size: 15px; text-align: left;">
   <thead>
     <tr style="background-color: #f3f4f6;">
@@ -342,7 +340,6 @@ Applying our formula:
 **Credit Score = 758**
 
 We can then classify borrowers into different risk categories:
-
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0; font-family: Arial, sans-serif; font-size: 15px; text-align: left;">
   <thead>
     <tr style="background-color: #f3f4f6;">
