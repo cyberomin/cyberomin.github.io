@@ -5,34 +5,34 @@ date:   2026-11-08
 categories: startups
 description: "In an earlier post, I had wrote about my previous company; Klump. I talked about the painful challenges of building a credit based [business in a market like Nigeria]"
 ---
-In an earlier post, I had wrote about my previous company; Klump. I talked about the painful challenges of building a credit based [business in a market like Nigeria](https://cyberomin.github.io/startups/2026/10/25/the-end-of-the-road-for-klump.html). 
+In an earlier post, I wrote about my previous company, Klump. I talked about the painful challenges of building a credit based [business in a market like Nigeria](https://cyberomin.github.io/startups/2026/10/25/the-end-of-the-road-for-klump.html). 
 
-In this post, I will talk about the challenges during the eligibility check and proffer what I consider as the possible solution for it. 
+In this post, I will discuss the challenges associated with eligibility checks and propose what I consider a possible solution.
 
-Credit companies in Nigeria face a number of problems; collection and accurate data for eligibility check being chief amongst these problems. As a lender, eligibilty checks aren't a once and done problem. They are recurrent. The very fact that a borrower was eligible a couple of months ago doesn't necessarily mean they will be eligible this today.
+Credit companies in Nigeria face a number of challenges, chief among them being loan collection and access to accurate data for eligibility checks. For a lender, eligibility checks aren't a one-time exercise. They are recurrent. The very fact that a borrower was eligible a couple of months ago doesn't necessarily mean they will be eligible this today.
 
 ##### Let's talk about collection:
-For collection, a typical user is always asked to leave a card on file, and card, in itself isn't foolproof. 
+For loan collection, a typical user is asked to leave a card on file. However, a card, in itself, isn't foolproof.
 
-Here's a typical sequence. A user adds card at the point of checkout. The card is tokenized by a payment processor, the credit company stores the card's token on their server, and uses that to charge at the due dates during the loan's tenor. 
+Here's a typical sequence. A user adds a card at checkout. The card is tokenized by a payment processor, the credit company stores the credit company stores the card token and uses it to charge the borrower on the relevant due dates throughout the loan tenor.
 
-While this should work in theory, this flow comes with a bunch of its own problems
-1. The borrower may decide not to fund that account again. We can see this in our everyday lives; people will typically ask loved ones not to send money to a particular account as that account isn't "working"
-2. Card expiration. If the loan has a tenor of six months, if the card on file expires at month three, there isn't much the lender can do. You have to pray and hope the borrower will not ignore your micro nudge to add a new card.
-3. Blocked card. A user might just block a card or mark it as stolen. When this happens, there isn't much that the lender can do. 
+While this should work in theory, the process comes with a number of problems:
+1. The borrower may decide not to fund the account again. We can see this in our everyday lives; people will typically ask loved ones not to send money to a particular account as that account isn't "working"
+2. Card expiration. For example, if a loan has a tenor of six months and the card on file expires after three months, there isn't much the lender can do. You have to pray and hope the borrower will not ignore your micro nudge to add a new card.
+3. Blocked card. A user might just block a card or mark it as stolen. When this happens, there isn't much the lender can do. 
 
 The issues above can be solved by Direct Debit. 
 
 ##### So what exactly is a Direct Debit?
 A **direct debit** is an automated payment arrangement where a customer authorizes a business or organization to withdraw recurring fixed or variable amounts directly from their bank account. 
 
-The user gives an organization an authorization mandate once at the loan booking process and that solves the collection problem.
+The user gives the organization an authorization mandate during the loan booking process, which solves the collection problem.
 
-The beautiful thing about Direct Debit is that the last 2 issues listed above are non-issues here. But the first issue on the list persists. To solve this, lenders will need access to GSI (Global Standing Instruction) &mdash; a system that allows a lender to recover a loan and its accrued interest from any bank account (irrespective of where the account is domiciled) linked to the borrower's identity like, BVN. 
+The beautiful thing about Direct Debit is that the last 2 issues listed above are non-issues here. However, the first issue on the list persists. To solve this, lenders will need access to GSI (Global Standing Instruction) &mdash; A system that allows a lender to recover a loan and its accrued interest from any bank account, irrespective of where the account is domiciled, that is linked to the borrower's identity, such as their BVN. 
 
 With GSI, the collection problem has been solved. But GSI isn't open to all lenders. As at today, only DMB can access it. 
 
-Now, the elephant in the room will be credit check at the point of under-writting. During the underwritting process, a credit check will seek a few signals:
+Now, the elephant in the room is the credit check at the point of underwriting.. During the underwriting process, a credit check will seek a few signals:
 1. Has this user ever gotten a loan?
 	- This is to solve for those new to credit
 2. Does this user owe a loan?
@@ -42,7 +42,7 @@ Now, the elephant in the room will be credit check at the point of under-writtin
 	- If the user has an active loan, is this user serving the loan? 
 
 ##### This is how I imagine we will fix this.
-A central repository where all fintech companies and Deposit Money Banks(DMB) dump in their loan data. This will be realtime and nothing batched. 
+A central repository where all fintech companies and Deposit Money Banks(DMB) dump in their loan data. This will be real-time and nothing batched. 
 
 A user goes to an institution to take a loan. The institution takes the user's identifier (in this case, their BVN), runs an eligibility check; if the check succeeds, a loan is disbursed and that loan information is stored in a central repository and it's made available to other lenders instantaneously. 
 
@@ -76,7 +76,7 @@ Response:
   "state": "not_paid",
   "status": "default",
   "currency": "NGN",
-  "institutuon_code": "CB00101"
+  "institution_code": "CB00101"
  },
  {
   "id": "xyzabc",
@@ -139,7 +139,7 @@ With the request above, they get a single loan information response like the one
 }
 ```
 
-The `insititution_code` represents the institution that gave out the loan. The code structure will always be alphanumeric: an alphabet followed by five-digit numbers, where `CB` will be for a commercial bank, `MFB` for a micro finance bank and `FT` would be for a Fintech. 
+The `institution_code` represents the institution that gave out the loan. The code structure will always be alphanumeric: an alphabet followed by five-digit numbers, where `CB` will be for a commercial bank, `MFB` for a microfinance bank and `FT` would be for a Fintech. 
 
 The loan `status` will be either be `on_going` (signifing that this loan is still running) or `default` (signifing that the loan has exceeded its tenor without being paid off). 
 
@@ -163,7 +163,7 @@ This goes without saying that the above system will only be available to license
 
 Every new loan booked gives you 10 new tokens, every time a loan is updated, the lender earns 5 new tokens. So, a loan with a three months tenor will end up giving the lender 25 tokens. The lender spends 15 tokens every time they try to access a user's lending profile. 
 
-If a lender is out of token, they can pay for these tokens with real money. For example, N100 gives them access to a thousand token. You get the idea. This system becomes a win-win for every participant.
+If a lender is out of tokens, they can pay for these tokens with real money. For example, N100 gives them access to a thousand token. You get the idea. This system becomes a win-win for every participant.
 
 While the above system is a good starting point, I think we can take this a step further.
 
