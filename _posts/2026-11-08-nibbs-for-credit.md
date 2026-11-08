@@ -65,35 +65,34 @@ curl -G "/v1/loans" \
 Response:
 ```json
 {
-	"fname": "John",
-	"lname": "Doe",
-	"date_of_birth": "1996-03-12",
-	"loans": [
-		{
-			"id": "xyqabc",
-			"principal": 100000,
-			"interest": 15000,
-			"rate": 4.5,
-			"booked_date": "2026-01-01",
-			"expected_closed_date": "2026-04-01",
-			"state": "not_paid",
-			"status": "default",
-			"currency": "NGN",
-			"institutuon_code": "CB00101"
-		},
-		{
-			"id": "xyzabc",
-			"principal": 100000,
-			"interest": 15000,
-			"rate": 4.5,
-			"booked_date": "2026-01-01",
-			"expected_closed_date": "2026-04-01",
-			"state": "paid",
-			"status": "closed",
-			"currency": "NGN",
-			"institutuon_code": "FT0101"
-		}
-	]
+ "fname": "John",
+ "lname": "Doe",
+ "date_of_birth": "1996-03-12",
+ "loans": [
+ {
+  "id": "xyqabc",
+  "principal": 100000,
+  "interest": 15000,
+  "rate": 4.5,
+  "booked_date": "2026-01-01",
+  "expected_closed_date": "2026-04-01",
+  "state": "not_paid",
+  "status": "default",
+  "currency": "NGN",
+  "institutuon_code": "CB00101"
+ },
+ {
+  "id": "xyzabc",
+  "principal": 100000,
+  "interest": 15000,
+  "rate": 4.5,
+  "booked_date": "2026-01-01",
+  "expected_closed_date": "2026-04-01",
+  "state": "paid",
+  "status": "closed",
+  "currency": "NGN",
+  "institutuon_code": "FT0101"
+ }]
 }
 ```
 
@@ -154,7 +153,7 @@ With the response above, the lender - new or not - can easily tell that this par
 **Booking a loan**
 
 When booking a loan, the lender sends a `POST` request as follows: 
-```BASH
+```bash
 curl -X POST /v1/loan-status \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer YOUR_API_TOKEN" \
@@ -172,5 +171,4 @@ Every new loan booked gives you 10 new tokens, every time a loan is updated, the
 If a lender is out of token, they can pay for these tokens with real money. For example, N100 gives them access to a thousand token. You get the idea.
 
 **Policy**
-
 For this to work, the government will have to be the major driver of this with buy-in from every single institution that intends to offer credit. 
