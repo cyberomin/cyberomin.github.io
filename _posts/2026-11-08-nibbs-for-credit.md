@@ -24,7 +24,7 @@ While this should work in theory, the process comes with a number of problems:
 The issues above can be solved by Direct Debit. 
 
 ##### So what exactly is a Direct Debit?
-A **direct debit** is an automated payment arrangement where a customer authorizes a business or organization to withdraw recurring fixed or variable amounts directly from their bank account. 
+A **Direct Debit** is an automated payment arrangement where a customer authorizes a business or organization to withdraw recurring fixed or variable amounts directly from their bank account. 
 
 The user gives the organization an authorization mandate during the loan booking process, which solves the collection problem.
 
@@ -32,30 +32,30 @@ The beautiful thing about Direct Debit is that the last 2 issues listed above ar
 
 With GSI, the collection problem has been solved. But GSI isn't open to all lenders. As at today, only DMB can access it. 
 
-Now, the elephant in the room is the credit check at the point of underwriting.. During the underwriting process, a credit check will seek a few signals:
+Now, the elephant in the room is the credit check at the point of underwriting. During the underwriting process, a credit check will look for a few signals:
 1. Has this user ever gotten a loan?
 	- This is to solve for those new to credit
 2. Does this user owe a loan?
 	- Is this an active loan - a loan that has a valid tenor
 	- Is this a defaulted loan - a loan that has gone into default
 3. Does this user have an active loan?
-	- If the user has an active loan, is this user serving the loan? 
+	- If the user has an active loan, is the user making the required repayments? 
 
 ##### This is how I imagine we will fix this.
-A central repository where all fintech companies and Deposit Money Banks(DMB) dump in their loan data. This will be real-time and nothing batched. 
+A central repository where all fintech companies and Deposit Money Banks (DMBs) submit their loan data. This will happen in real time, with no batch processing.
 
-A user goes to an institution to take a loan. The institution takes the user's identifier (in this case, their BVN), runs an eligibility check; if the check succeeds, a loan is disbursed and that loan information is stored in a central repository and it's made available to other lenders instantaneously. 
+A user approaches an institution for a loan. The institution collects the user's identifier, in this case, their BVN, and runs an eligibility check. If the check is successful, the loan is disbursed, its details are stored in the central repository, and the information is made available to other lenders instantaneously. 
 
-As the user pays off their loan obligation, either manually or an automated process, the lender is obligated to update the loan's status until the tenor runs out. 
+As the user pays off their loan obligation, either manually or through an automated process, the lender is obligated to update the loan's status until the tenor expires. 
 
-What's the incentive here? A unified repository for all interested parties, with the major value proposition being minimal NPL (non-performing loans) for all parties with a vested interest.  
+What's the incentive here? A unified repository for all interested parties, with the major value proposition being lower NPLs (non-performing loans) for all parties with a vested interest. 
 
 ##### Borrowing history check
-To check a loan status of a user with the BVN `12345678`, a `GET` request is sent as follows
+To check the loan status of a user with the BVN `12345678`, send a `GET` request as follows
 Loan status:
 ```bash
 curl -G "/v1/loans" \
-  -H "Authorization: Bearer YOUR_API_TOKEN" \
+  -H "Authorization: Bearer YOUR_API_TOKEN" \f
   -d "bvn=12345678"
 ```
 
@@ -95,14 +95,14 @@ Response:
 
 The response above shows that this individual has two loans; one was paid off and the other went into default. This is the entire credit history of the user. 
 
-If an institution wanted to narrow down into a single loan and see its details, they can make a request like this:
+If an institution wants to narrow its search to a specific loan and view its details, it can make a request like this:
 ``` bash
 curl -G "/v1/loans/{id}/status" \
   -H "Authorization: Bearer YOUR_API_TOKEN" \
   -d "bvn=12345678"
 ```
 
-With the request above, they get a single loan information response like the one below:
+The request above returns information about a single loan, as shown below:
 ```json
 {
  "principal": 100000,
@@ -139,13 +139,13 @@ With the request above, they get a single loan information response like the one
 }
 ```
 
-The `institution_code` represents the institution that gave out the loan. The code structure will always be alphanumeric: an alphabet followed by five-digit numbers, where `CB` will be for a commercial bank, `MFB` for a microfinance bank and `FT` would be for a Fintech. 
+The `institution_code` represents the institution that issued the loan. The code will always be alphanumeric, consisting of an alphabetic prefix followed by five digits. `CB` represents a commercial bank, `MFB` represents a microfinance bank, and FT represents a fintech company.. 
 
-The loan `status` will be either be `on_going` (signifing that this loan is still running) or `default` (signifing that the loan has exceeded its tenor without being paid off). 
+The loan `status` can either be `on_going`, which signifing that the loan is still active or `default`, which signifies that the loan has exceeded its tenor without being fully repaid. 
 
-The loan `state`  can be either `paid` (to signify that the loan has been paid off) or `not_paid` (to signify that the loan hasn't been paid off). These two keys are necessary as a loan can have a `status` of `on_going` while it's been paid off. 
+The loan `state`  can be either `paid`, indicating that the loan has been fully repaid, or `not_paid` indicating that the loan has not been fully repaid. These two fields are necessary as a loan can have a `status` of `on_going` while its `state` is `paid`. 
 
-With the response above, the lender &mdash; new or not &mdash; can easily tell that this particular user has an existing loan with a commercial bank with its accompanying repayment history.
+With the response above, a lender, whether new or existing, can easily determine that the user has an existing loan with a commercial bank, along with its repayment history.
 
 ##### Booking a loan
 When booking a loan, the lender sends a `POST` request as follows: 
@@ -156,14 +156,14 @@ curl -X POST /v1/loan-status \
   -d '{"bvn": "12345678", "principal": 100000, "rate": 3.5, "repayment_start_date": "2026-02-01", "currency": "NGN", "tenor": 3}'
 ```
 
-The borrower's `bvn`, the loan's `principal`, rate `rate`, repayment start date `repayment_start_date`, loan `currency` and the loan `tenor`. The `repayment_start_date` is important, as most institution might offer moratorium to their customer based on a special arrangement. 
+The borrower's `bvn`, the loan's `principal`, rate `rate`, repayment start date `repayment_start_date`, loan `currency` and the loan `tenor`. The `repayment_start_date` is important because most institutions might offer a moratorium to their customers based on a special arrangement.
 
 ##### Mechanics: how this will work
-This goes without saying that the above system will only be available to licensed institutions. Before a lender can access a user's lending history, they will need virtual token to spend. The tokens are earned every time a lender post a new lending information or update an existing lending information. 
+It goes without saying that the system described above will only be available to licensed institutions. Before a lender can access a user's lending history, it will need a virtual token to spend. Tokens are earned every time a lender posts new loan information or updates an existing loan record. 
 
-Every new loan booked gives you 10 new tokens, every time a loan is updated, the lender earns 5 new tokens. So, a loan with a three months tenor will end up giving the lender 25 tokens. The lender spends 15 tokens every time they try to access a user's lending profile. 
+Every new loan booked earns the lender 10 tokens. Every subsequent loan update earns the lender another 5 tokens. So, a loan with a three months tenor will earn the lender a total of 25 tokens. The lender spends 15 tokens each time it attempts to access a user's lending profile. 
 
-If a lender is out of tokens, they can pay for these tokens with real money. For example, N100 gives them access to a thousand token. You get the idea. This system becomes a win-win for every participant.
+If a lender runs out of tokens, it can purchase additional tokens with real money. For example, N100 gives them access to 1,000 tokens. You get the idea. This system becomes a win-win for every participant.
 
 While the above system is a good starting point, I think we can take this a step further.
 
@@ -333,4 +333,4 @@ The interesting thing is that the more institutions participate, the more useful
 > We shouldn't just be building a place where lenders share loan information. We should be building an infrastructure that helps the entire financial ecosystem make better credit decisions.
 
 ###### Policy
-For this to work, the government will have to be the major driver of this with buy-in from every single institution that intends to offer credit. 
+For this to work, the government will have to be the primary driver, with buy-in from every institution that intends to offer credit.
