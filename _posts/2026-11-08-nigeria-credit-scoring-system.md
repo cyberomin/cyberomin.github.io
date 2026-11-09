@@ -5,7 +5,7 @@ date:   2026-11-08
 categories: startups
 description: "In an earlier post, I had wrote about my previous company; Klump. I talked about the painful challenges of building a credit based [business in a market like Nigeria]"
 ---
-<img src="{{ site.url }}/assets/article_images/2026/nigeria-credit-scoring-ecosystem.png"/>
+<img src="{{ site.url }}/assets/article_images/2026/nigeria-credit-scoring-ecosystem.jpg"/>
 
 > NIBSS, but for the credit ecosystem.
 
