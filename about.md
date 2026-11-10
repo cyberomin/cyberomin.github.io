@@ -4,16 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Celestine Omin is the CEO and CTO at Klump, a Nigerian based By Now, Pay Later technology company. He was also the founder of Alta Labs, a Technology Consulting company. 
+I build and scale technology businesses at the intersection of fintech, product, and engineering.
+Over the past 13+ years, I've worked across e-commerce, engineering consulting, payments, and financial technology. I've led engineering teams, built products, and worked closely with commercial and financial partners to turn business ideas into operating systems and products.
 
-Celestine was an Engineering Manager at Paystack, a technology company solving payments problems for ambitious businesses in Africa.
+Most recently, I co-founded Klump, a Nigerian fintech, where I served as CEO and CTO. I helped raise approximately $1.2M and led technology, product development, infrastructure, hiring, and strategic partnerships. I understand the realities of building a venture-backed company: managing limited runway, making hard prioritisation decisions, navigating regulation, and balancing product ambition with commercial execution.
 
-Prior to Paystack, he worked as a Senior Technical Consultant at Andela, an elite engineering organization that provides companies with access to the top 1% of tech talent across the African continent.
+Before Klump, I was an Engineering Manager at Paystack and worked with engineering teams and startups through Andela. Those experiences shaped how I approach reliable financial infrastructure, product delivery, and technical leadership.
 
-As Senior Technical Consultant, Celestine managed teams of Andela developers and works with Andela’s partner companies to understand their business goals and product roadmap. He provided technical guidance and oversight to ensure that engineering teams are running in accordance with world-class technical standards.
+I'm particularly interested in opportunities where I can combine engineering leadership, product judgment, and business strategy to help fintechs and technology companies scale across Africa.
 
-Prior to Andela, Celestine worked at Konga, the largest online e-commerce marketplace in Nigeria with well over 20,000 merchants and $78.5M in venture funding. While at Konga, Celestine served as the lead engineer for SellerHQ, helped in migrating some of the company’s monolithic applications to micro-services, and led the development of a community forum for Konga’s merchants and customers that greatly shaped the company’s product roadmap and strategy.
-
-Celestine is a father to two adorable kids and a husband.
+My strongest contribution is bridging the gap between what a business wants to achieve, what its technology needs to deliver, and what its team can realistically execute.
 
 Do you want to talk? [Email me.](mailto:celestineomin@gmail.com)
