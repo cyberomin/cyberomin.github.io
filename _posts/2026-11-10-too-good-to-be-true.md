@@ -5,31 +5,53 @@ date:   2026-11-10
 categories: life
 description: "The job market is having a moment. And an unprecedented one at that, and the advent of AI has only accelerated this process."
 ---
-The job market is having a moment. And an unprecedented one at that, and the advent of AI has only accelerated this process. Companies aren't only downsizing, they are actively offering employees opportunities to resign voluntarily with as much as six months of severance. Wild.
+The job market is having a moment. And an unprecedented, if you ask me. And the advent of AI has only accelerated things. Companies aren't only downsizing; some are actively offering employees opportunities to resign voluntarily, with as much as six months' severance pay. Wild.
 
-Since announcing the shutdown of [Klump](https://cyberomin.github.io/startups/2026/10/25/the-end-of-the-road-for-klump.html), I have gotten some really interesting offers; one offering a _co-founder opportunity as a way to announce my "come-back" story and proof to the world that I am not weak._ Yes, that was an actual pitch. I wasn't sure what to make of that offer, but I thanked the individual and wished him the very best in his future endeavour.   
+Since announcing the shutdown of [Klump](https://cyberomin.github.io/startups/2026/10/25/the-end-of-the-road-for-klump.html), I have gotten some really interesting offers. One person even pitched me a _co-founder opportunity as a way to announce my "come-back" story and prove to the world that I wasn't weak._ 
 
-But one particular offer got my attention and I must give credit to the "organizers," they did their homework &mdash; if you have ever been head hunted, you will understand why. I call them organizers for a reason and you will understand why in a second, stay with me. 
+Yes, that was an actual pitch. 
 
-The email composition was really good. The subject was pretty clear: role and compensation. They came in strong.
+I wasn't sure what to make of that offer, but I thanked the individual and wished him the very best in his future endeavour.   
+
+Then came the offer. This one was particularly interesting. It was a head-hunting email from a recruiter. I have been head hunted before, so I know how these things work.
+
+I must give credit to the "organizers": they did their homework &mdash; if you have ever been head hunted, you''ll understand what I mean. I deliberately call them organisers, and you'll understand why shortly. Stay with me.
+
+The email was exceptionally well put together. Even the subject line was compelling. It clearly stated the role and compensation. They came in strong.
 
 <img src="{{ site.url }}/assets/article_images/2026/scam/1.png"/>
-This was new. I wasn't used to this kind of pitch. I typically would get a cold message from a recruiter telling me to send my resume for a potential life changing role, even before they bother to guage my interest. Naturally, I was intrigued. So I probed. 
+This was different. I'm used to receiving cold messages from recruiters asking me to send my CV for a potentially life-changing opportunity, sometimes before they've even bothered to establish whether I'm interested.
+
+This one was different enough to get my attention. Naturally, I was intrigued. So, I probed.
 
 <img src="{{ site.url }}/assets/article_images/2026/scam/2.png"/>
-A few hours after my response, I got another email. A very detailed one at that.
+A few hours after I responded, another email landed in my inbox. This time, it was a very detailed one. They had clearly put some effort into it.
 
 <img src="{{ site.url }}/assets/article_images/2026/scam/3.png"/>
 
-The moment I saw the name of the company, Moniepoint, something clicked, and I am guessing you now understand why I called them "organizers" at the top of this article. This was a scam. 
+Then I saw the name of the company: Moniepoint.
 
-Weeks prior, Time Magazine had just recognized Moniepoint's CTO and Co-founder, Felix Ike, as one of the 2026 Executives of The Year. So, there was no way they would be in the market for a new CTO. Did Felix resign? Well, let's find out. I pressed the "organizers" for more information.
+**Something clicked.**
+
+**I'm guessing you now understand why I called them "organisers" at the beginning of this article.**
+
+**I smelled a rat.**
+
+Weeks earlier, TIME Magazine had recognised Moniepoint's CTO and Co-founder, Felix Ike, as one of its 2026 Executives of the Year. Of course, that didn't automatically rule out the possibility of a CTO opening, but it was enough to make me question the story.
+
+Had Felix resigned? Was Moniepoint actually looking for a new CTO?
+
+I decided to find out. I went back to the organisers and asked a few more questions.
 
 <img src="{{ site.url }}/assets/article_images/2026/scam/4.png"/>
-Then I got this response
+Then came their response.
 
 <img src="{{ site.url }}/assets/article_images/2026/scam/5.png"/>
-And somewhere in the long email, they asked for my resume. Even though I know this is a scam, I was willing to see it through. I sent my resume to them and I immediately reached out to Tosin Eniolorunda, the co-founder and CEO of Moniepoint. 
+Somewhere in the rather lengthy email, they requested my CV. By this point, I was fairly certain something wasn't right. But curiosity got the better of me. I wanted to understand how far they intended to take this.
+
+So, I sent my CV.
+
+I also decided to go straight to the source. I reached out to Tosin Eniolorunda, Moniepoint's Co-founder and CEO.
 
 <img src="{{ site.url }}/assets/article_images/2026/scam/6.png"/>
 
@@ -39,14 +61,39 @@ Tosin confirmed my suspicion. I sent him an image of the supposed recruiter; [Ji
 
 Tosin promised to follow up internally. 
 
-I continued to engaged the "organizers," I wanted to see where all of this will lead. Then they dropped the bombshell; the resume I had sent earlier was good, but not well put together. It didn't position me as a **strong executive**, so, they pitched a resume revamp service. 
+I continued to engage the "organizers," I wanted to see where all of this would lead. Then they dropped the bombshell; the resume I had sent earlier was good, but not well put together. It didn't position me as a **strong executive**, so, they pitched a resume revamp service. 
 
 <img src="{{ site.url }}/assets/article_images/2026/scam/8.png"/>
 
-For the fun of it, I reached out to the resume folks via WhatsApp. They offered to redo my resume for a token of $100. The service providers offered me the account number of their Nigerian based accountant. I was going to pay N150,000 for the service. 
+Now, that was interesting.
 
-I have never seen anything like this. The folks perpetrating this _evil_ are pretty smart. They are thorough too. They are leveraging on human emotion and the current job market. So, when someone reaches out to you, don't let your emotion do the thinking, no matter how sweet the offer is. 
+For the fun of it, I reached out to the CV service providers on WhatsApp. They offered to revamp my CV for a modest sum of $100.
 
-A few things to note:
-- No recruiter worth their salt will ever pitch you a resume revamp service. 
-- Recruiting firm make their monies from the firm they are recruiting for, not from a potential candidate. 
+And here was the interesting part: they provided the account details of their Nigerian-based accountant for payment. I was expected to pay ₦150,000 for the service.
+
+Think about that for a moment.
+
+The same people who had supposedly identified me for a senior executive role at one of Nigeria's biggest fintech companies were now trying to sell me a CV makeover.
+
+I have to admit, I've never seen anything quite like this.
+
+The people behind this operation were smart. Thorough, too. They understood the psychology of job seekers, particularly people navigating an uncertain job market. They knew how to package an opportunity, create excitement and gradually introduce a seemingly harmless service that would eventually cost you money.
+
+And that's what makes this particularly concerning.
+
+When you're looking for your next opportunity, especially after a significant professional transition, it's easy to get carried away by an offer that seems too good to be true. The title, the compensation, the company and the prospect of a fresh start can cloud your judgement.
+
+A few things worth remembering:
+
+- Legitimate recruiters don't charge candidates for the privilege of being recruited. Their fees are generally paid by the companies hiring them, not by prospective employees.
+
+- Be wary of unsolicited CV revamp or career coaching offers disguised as part of a recruitment process. A legitimate employer may ask you to improve your CV, but that is very different from directing you to a third party who expects payment.
+
+- Verify opportunities independently. If a company approaches you with an offer, use its official website, verified communication channels or a direct contact within the organisation to establish whether the opportunity is genuine.
+
+- Be careful with your personal information. Your CV contains more information than you might realise. Don't share sensitive personal or financial details with people whose identities you haven't verified.
+
+And remember: sometimes, the most convincing part of a scam isn't the money they're promising you. It's how believable they've made the opportunity look.
+
+If it sounds too good to be true, take a step back and verify.
+
