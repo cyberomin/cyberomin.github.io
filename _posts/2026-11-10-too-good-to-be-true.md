@@ -16,32 +16,32 @@ The email composition was really good. The subject was pretty clear: role and co
 <img src="{{ site.url }}/assets/article_images/2026/scam/1.png"/>
 This was new. I wasn't used to this kind of pitch. I typically would get a cold message from a recruiter telling me to send my resume for a potential life changing role, even before they bother to guage my interest. Naturally, I was intrigued. So I probed. 
 
-<img src="{{ site.url }}/assets/article_images/2026/scam/3.png"/>
+<img src="{{ site.url }}/assets/article_images/2026/scam/2.png"/>
 A few hours after my response, I got another email. A very detailed one at that.
 
-<img src="{{ site.url }}/assets/article_images/2026/scam/4.png"/>
+<img src="{{ site.url }}/assets/article_images/2026/scam/3.png"/>
 
 The moment I saw the name of the company, Moniepoint, something clicked, and I am guessing you now understand why I called them "organizers" at the top of this article. This was a scam. 
 
 Weeks prior, Time Magazine had just recognized Moniepoint's CTO and Co-founder, Felix Ike, as one of the 2026 Executives of The Year. So, there was no way they would be in the market for a new CTO. Did Felix resign? Well, let's find out. I pressed the "organizers" for more information.
 
-<img src="{{ site.url }}/assets/article_images/2026/scam/5.png"/>
+<img src="{{ site.url }}/assets/article_images/2026/scam/4.png"/>
 Then I got this response
 
-<img src="{{ site.url }}/assets/article_images/2026/scam/6.png"/>
+<img src="{{ site.url }}/assets/article_images/2026/scam/5.png"/>
 And somewhere in the long email, they asked for my resume. Even though I know this is a scam, I was willing to see it through. I sent my resume to them and I immediately reached out to Tosin Eniolorunda, the co-founder and CEO of Moniepoint. 
 
-<img src="{{ site.url }}/assets/article_images/2026/scam/7.png"/>
+<img src="{{ site.url }}/assets/article_images/2026/scam/6.png"/>
 
 Tosin confirmed my suspicion. I sent him an image of the supposed recruiter; [Jim Sommers](https://www.linkedin.com/in/jimsommers/). 
 
-<img src="{{ site.url }}/assets/article_images/2026/scam/8.png"/>
+<img src="{{ site.url }}/assets/article_images/2026/scam/7.png"/>
 
 Tosin promised to follow up internally. 
 
 I continued to engaged the "organizers," I wanted to see where all of this will lead. Then they dropped the bombshell; the resume I had sent earlier was good, but not well put together. It didn't position me as a **strong executive**, so, they pitched a resume revamp service. 
 
-<img src="{{ site.url }}/assets/article_images/2026/scam/1.png"/>
+<img src="{{ site.url }}/assets/article_images/2026/scam/8.png"/>
 
 For the fun of it, I reached out to the resume folks via WhatsApp. They offered to redo my resume for a token of $100. The service providers offered me the account number of their Nigerian based accountant. I was going to pay N150,000 for the service. 
 
